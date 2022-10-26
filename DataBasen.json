@@ -1,6 +1,34 @@
 {
   "list": [
     {
+      "id": "7300156584557",
+      "name": "Kycklingkebab",
+      "company": "Coop",
+      "ingredients": "Kycklingkött° av benfilé 93%, kryddmix (bl.a. chili, spiskummin, gurkmeja, vitlök, paprika, oregano), salt, rapsolja, majsstärkelse. °Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191123267",
+      "name": "Passerade tomater",
+      "company": "Coop",
+      "ingredients": "Passerade tomater utan skal och kärnor (Portugal och/eller Spanien), surhetsreglerande medel (E 330).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311070006209",
+      "name": "Gifflar Kanel",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl, vatten, socker, rapsolja, farinsocker, vegetabiliskt fullhärdat fett (kokos, raps), aprikoskärnor, MANDEL, skumMJÖLK, ÄGG, invertsocker, jäst, malt av KORN, salt, modifierad stärkelse, bakpulver (E450, E500), vegetabiliskt emulgeringsmedel (E471), konserveringsmedel (E200, E282), förtjockningsmedel (E440), surhetsreglerande medel (E330), kanel (0,7%). Produkten innehåller 100% svenskt mjöl.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191111455",
+      "name": "Kidneybönor Röda",
+      "company": "Coop",
+      "ingredients": "Röda kidneybönor (Kina), vatten, socker, salt, modifierad majsstärkelse, antioxidationsmedel (E 300).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7622300336738",
       "name": "Kakor Oreo",
       "company": "OREO",
