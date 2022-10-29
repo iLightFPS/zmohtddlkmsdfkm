@@ -1,6 +1,27 @@
 {
-  "date": "2022-10-27",
+  "date": "2022-10-29",
   "list": [
+    {
+      "id": "7310960027317",
+      "name": "Köttfärspaj",
+      "company": "Familjen Dafgård",
+      "ingredients": "Nötkött*(27 %), VETEMJÖL, SMÖR, tomat,VÄSTERBOTTENSOST® (6 %) (pastöriserad MJÖLK, salt, mjölksyra, löpe, konsistensmedel E509, konserveringsmedel E202, E251), CREME FRAICHE, morot, lök, DURUMVETEMJÖL, tomatpuré, soltorkade tomater (solrosolja, salt, vitlök, lagerblad), rapsolja, kycklingfond (vatten, kyckling, salt), modifierad VETESTÄRKELSE, basilika, vitlök, japansk SOJASÅS (vatten, SOJABÖNOR, VETE, salt), paprika, kryddor, socker, salt, timjan.*Ursprung: EU.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6416453071285",
+      "name": "Chokladpraliner Geisha Original",
+      "company": "Fazer",
+      "ingredients": "socker, MJÖLK/MÆLK/MELK, kakaosmör, HASSELNÖTTER/HASSELNØDDER (10%), kakaomassa, helMJÖLKSpulver/sødMÆLKSpulver/tørrMELK, kärnMJÖLKSpulver/kærneMÆLKSpulver, vegetabiliskt fett (palm, shea), VETEmjöl/HVEDEmel, majsstärkelse/stivelse, emulgeringsmedel (SOJAlecitin), salt, aromer. KAN INNEHÅLLA ANDRA NÖTTER, MANDLAR OCH ANDRA SPANNMÅL SOM INNEHÅLLER GLUTEN/KAN INDEHOLDE ANDRE NØDDER, MANDLER OG ANDRE KORNPRODUKTER/KORNSLAG SOM INDEHOLDER GLUTEN. Mjölkchokladen innehåller minst 30 %",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7391196007762",
+      "name": "Rostbiff Grillad",
+      "company": "Jakobsdals",
+      "ingredients": "Nötkött, salt, kryddor, druvsocker (majs),stabiliseringsmedel E451, glukossirap, arom, antioxidationsmedel E301, E325, kryddextrakt, kryddor (paprika).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7300156584557",
       "name": "Kycklingkebab",
