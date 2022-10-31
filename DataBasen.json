@@ -1,6 +1,125 @@
 {
-  "date": "2022-10-29",
+  "date": "2022-10-31",
   "list": [
+    {
+      "id": "7318690136217",
+      "name": "Kryddmix Taco Mild 28g 3-p ICA",
+      "company": "ICA",
+      "ingredients": "Kryddor (spiskummin, chilipeppar, vitlök, paprika, oregano, koriander, cayennepeppar), salt, lök, druvsocker, potatisstärkelse, socker, potatisfiber, citronjuicepulver, arom, jästextrakt, paprikaextrakt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5740301151623",
+      "name": "Torskfilér i bitar 375g Royal Greenland",
+      "company": "Royal Greenland",
+      "ingredients": "Torskfilé (FISK) (Gadus morhua), renskurna bitar av filé, 2-6 bitar. Fångade i Barents hav, Norska havet och farvattnen kring Svalbard och Björnön, Nordsjön med trålar, krokar och linor. Enstaka ben kan förekomma.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350002402252",
+      "name": "Parmesan Parmigiano reggiano lagrad 200g Zeta",
+      "company": "Zeta",
+      "ingredients": "Opastöriserad KOMJÖLK, salt, löpe",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2332804000008",
+      "name": "Kycklingfilé ca 925g Kronfågel",
+      "company": "Kronfågel",
+      "ingredients": "Kycklingbröstfilé. Klass A.Ursprung: Född, uppväxt, slaktad i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690029885",
+      "name": "Soltorkade tomater 200g ICA",
+      "company": "ICA",
+      "ingredients": "Soltorkade tomater* 60%, solrosolja, salt, vinäger, vitlök, surhetsreglerande medel (E270). *Odlade i Tunisien/Turkiet.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690130420",
+      "name": "Matlagningsgrädde 13% 5dl ICA",
+      "company": "ICA",
+      "ingredients": "Högpastöriserad GRÄDDE.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350000550535",
+      "name": "Fruktdryck Mango 1l Proviva",
+      "company": "Proviva",
+      "ingredients": "Vatten, juice från koncentrat (druva, passionsfrukt), puré (mango 7,5 %, banan), socker 4 %, HAVREmjöl 0,5 %, syra (mjölksyra), vitamin C, kultur: Lactobacillus plantarum 299v. Totalt fruktinnehåll 35 %. Innehåller Spannmål som innehåller gluten",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7318690104261",
+      "name": "Cottage cheese Naturell 4% 500g ICA",
+      "company": "ICA",
+      "ingredients": "MJÖLK*, GRÄDDE*, salt, konserveringsmedel (E202), syrningskultur, mjölkkoagulerande enzym (mikrobiellt). *Ursprung Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690128847",
+      "name": "Blåbär odlade 500g ICA Basic",
+      "company": "ICA Basic",
+      "ingredients": "Blåbär*. *Odlade i Spanien/Polen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2092302900001",
+      "name": "Satsumas ca 100g",
+      "company": "Satsumas",
+      "ingredients": "",
+      "gluten": "Glutenfri [ ? Läs Innehåll ]"
+    },
+    {
+      "id": "7318693555800",
+      "name": "Gröna kärnfria druvor 500g Thompson Seedless Klass 1 ICA",
+      "company": "ICA",
+      "ingredients": "Gröna kärnfria druvor",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690075523",
+      "name": "Röda babyplommontomater 250g Klass 1 ICA",
+      "company": "ICA",
+      "ingredients": "Babyplommontomat",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310860005767",
+      "name": "Normalsaltat 600g Bregott",
+      "company": "Bregott",
+      "ingredients": "SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, vatten, salt, vitamin A och D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2319291700000",
+      "name": "Nötfärs finmald 12% ca 900g ICA",
+      "company": "ICA",
+      "ingredients": "Förhållande mellan kollagen och köttprotein lägre än 15%. Fetthalt lägre än 12%.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311070337297",
+      "name": "Skärgårdskaka Hönö 750g Pågen",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl1, vatten1, socker1, siktat RÅGmjöl1, rapsolja, skållat RÅGmjöl, jäst1, VETEgluten, fullkornsmjöl av VETE1, salt, bakpulver (hjorthornssalt), malt av KORN och vegetabiliskt emulgeringsmedel mono- och diglycerider av fettsyror (solros, raps). 1 Svensk råvara, övriga råvaror är från EU/Icke EU.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310731101734",
+      "name": "Bryggkaffe Skånerost 450g Zoegas",
+      "company": "Zoegas",
+      "ingredients": "Malet filterkaffe för konsumentbryggare.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311379532058",
+      "name": "Korvbröd 16-p 432g Korvbrödsbagarn",
+      "company": "Korvbrödsbagarn",
+      "ingredients": "VETEMJÖL*, vatten*, invertsocker*, rapsolja*, jäst*, VETEGLUTEN, salt, fermenterat VETEMJÖL, maltmjöl av KORN, vegetabiliskt emulgeringsmedel (E471), mjölbehandlingsmedel (E300). Kan innehålla spår av SESAMFRÖ.* råvaran har svenskt ursprung.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7310960027317",
       "name": "Köttfärspaj",
