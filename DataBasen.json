@@ -1,6 +1,139 @@
 {
-  "date": "2022-10-31",
+  "date": "2022-11-11",
   "list": [
+    {
+      "id": "7318690039785",
+      "name": "Skinka Rökt 200g ICA",
+      "company": "ICA",
+      "ingredients": "Skinka av gris* (helmuskel) 88%, vatten, salt, potatisstärkelse, druvsocker, potatisfiber, socker, stabiliseringsmedel (E451), antioxidationsmedel (E301), konserveringsmedel (E250). *Fött, uppfött och slaktat i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690186120",
+      "name": "Fast potatis 1,2kg ICA",
+      "company": "ICA",
+      "ingredients": "Potatis",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330671127243",
+      "name": "Röd spetsig paprika 200g Klass 1 ICA Selection",
+      "company": "ICA Selection",
+      "ingredients": "Paprika",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "0000073500346",
+      "name": "Jäst för söta degar 50g Kronjäst",
+      "company": "Kronjäst",
+      "ingredients": "Jäst",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690041023",
+      "name": "Vetemjöl 2kg ICA",
+      "company": "ICA",
+      "ingredients": "Vetemjöl, vetemalt, mjölbehandlingsmedel (askorbinsyra)",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7318693446023",
+      "name": "Fast potatis 2kg Klass 1 ICA",
+      "company": "ICA",
+      "ingredients": "Fast potatis",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690186151",
+      "name": "Potatis Fast 4kg ICA",
+      "company": "ICA",
+      "ingredients": "Potatis Fast",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690112280",
+      "name": "Apelsiner 1kg Navel Klass 1 ICA",
+      "company": "ICA",
+      "ingredients": "Apelsiner",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690186137",
+      "name": "Mjölig potatis 1,2kg ICA",
+      "company": "ICA",
+      "ingredients": "Mjölig potatis",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690186168",
+      "name": "Potatis Mjölig 4kg ICA",
+      "company": "ICA",
+      "ingredients": "Potatis Mjölig",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690118497",
+      "name": "Clementiner i korg 1kg Klass 1 ICA",
+      "company": "ICA",
+      "ingredients": "Clementiner",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690002864",
+      "name": "Dill i ask 20g Klass 1 ICA",
+      "company": "ICA",
+      "ingredients": "Dill",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690162582",
+      "name": "Grönkålsblad Påse 400g ICA",
+      "company": "ICA",
+      "ingredients": "Grönkålsblad",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318693441394",
+      "name": "Fast potatis Ekologisk 2kg KRAV Klass 1 ICA I love eco",
+      "company": "ICA I love eco",
+      "ingredients": "Fast potatis Ekologisk",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310130006050",
+      "name": "Vetemjöl Special 2kg Kungsörnen",
+      "company": "Kungsörnen",
+      "ingredients": "VETEmjöl, maltmjöl av KORN, mjölbehandlingsmedel (askorbinsyra).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7318690179283",
+      "name": "Kycklingfärs 800g ICA Gott Liv",
+      "company": "ICA Gott Liv",
+      "ingredients": "Kycklingfärs av 100% kycklingkött* Fetthalt lägre än 7%.Förhållandet mellan kollagen och köttprotein lägre än 12%. *Född, uppfödd och slaktad i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690057147",
+      "name": "Brysselkål Fryst 550g ICA",
+      "company": "ICA",
+      "ingredients": "Förvällda, styckfrysta brysselkål. Odlad i: Belgien/Nederländerna.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2319114000003",
+      "name": "Kyckling Hel ca 1,1kg ICA Gott Liv",
+      "company": "ICA Gott Liv",
+      "ingredients": "Hel kyckling utan inkråm. Född, uppfödd,slaktad i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310751846769",
+      "name": "Vetemjöl 2kg KRAV ICA I love eco",
+      "company": "ICA I love eco",
+      "ingredients": "VETEmjöl*, KORNmalt**, mjölbehandlingsmedel (askorbinsyra). *= KRAV-ekologisk ingrediens, **EU-ekologisk ingrediens",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7318690136217",
       "name": "Kryddmix Taco Mild 28g 3-p ICA",
