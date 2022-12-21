@@ -1,6 +1,63 @@
 {
-  "date": "2022-11-11",
+  "date": "2022-12-21",
   "list": [
+    {
+      "id": "7318690165941",
+      "name": "Pålägg Griljerad Julskinka Glutenfri 120g ICA",
+      "company": "ICA",
+      "ingredients": "Skinka av gris* 95% (helmuskel), salt, socker, antioxidationsmedel (E331, E301), stabiliseringsmedel (E450), konserveringsmedel (E250), SENAP (glukossirap, druvsocker, Griljering (skorpmjöl (rismjöl, vegetabiliskt fiber), SENAP (glukossirap, druvsocker, SENAPSPULVER, salt), potatisstärkelse, gelatin (av gris), majsgrits, gurkmeja). *Född, uppfött och slaktat i Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300200760005",
+      "name": "Julskinka skivad 400g Scan",
+      "company": "Scan",
+      "ingredients": "Svensk skinka helmuskel (93%), salt, druvsocker, socker, SENAP, potatisstärkelse, gurkmeja, antioxidationsmedel (E301), stabiliseringsmedel (E451), konserveringsmedel (E250).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300207702008",
+      "name": "Julprinskorv Skinnfri 600g Scan",
+      "company": "Scan",
+      "ingredients": "Svenskt gris- och nötkött (61%)*, vatten, fett från gris- och nötkött*, potatismjöl, salt, kryddor, kryddextrakt (bl.a. cayennepeppar, muskot), blodprotein från nöt och gris, antioxidationsmedel E326:E300, konserveringsmedel E261:E250, stabiliseringsmedel E450, rökarom. *Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7317066206271",
+      "name": "Pepparkakor Hjärtan 625g Nyåkers",
+      "company": "Nyåkers",
+      "ingredients": "VETEMJÖL, socker, vegetabilisk olja, (shea, kokos, raps), sirap, bakpulver (E500), nejlika, kanel, ingefära, salt, naturlig arom.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7318690182931",
+      "name": "Lax Kallrökt 150g Miljömärkt ICA",
+      "company": "ICA",
+      "ingredients": "LAX* (Salmo salar), salt. *Odlad i Norge.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311070337020",
+      "name": "Vörtbröd 500g Pågen",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl1, vatten, siktat RÅGmjöl1, vört av KORN (5%), VETEgluten1, sirap1, fullkornsVETEmjöl1, socker1, skållat VETEmjöl1, äpple1, kryddor ((ingefära, kryddnejlika, pomerans, kanel) 0,4%), rapsolja1, surhetsreglerande medel (citronsyra), jäst och salt.Kan innehålla spår av vallmofrö.Råginnehåll: 11%.1 Svenskodlad råvara.SVENSKT MJÖL100% mjöl från svenskodlat spannmål varav 97% är malt i egen kvarn.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7318690182900",
+      "name": "Lax Gravad 150g Miljömärkt ICA",
+      "company": "ICA",
+      "ingredients": "LAX* (Salmo salar), salt, socker, dill, vitpeppar. *Odlad i Norge",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+
+    {
+      "id": "7310070005342",
+      "name": "Julmust 33cl Apotekarnes",
+      "company": "Apotekarnes",
+      "ingredients": "Kolsyrat vatten, socker, färgämne (E150c), naturlig humlearom och naturlig maltarom(från KORN), surhetsreglerande medel (citronsyra), kryddextrakt, aromämnen, konserveringsmedel (E211).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7318690039785",
       "name": "Skinka Rökt 200g ICA",
@@ -21437,12 +21494,6 @@
       "name": "Anthon Berg Chokladask Signatures",
       "company": "Anthon Berg",
       "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "6416453071285",
-      "name": "Fazer Geisha",
-      "company": "Fazer",
-      "gluten": "Glutenfri [ Nej ]"
     },
     {
       "id": "7610400092197",
