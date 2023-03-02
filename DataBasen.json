@@ -2,6 +2,883 @@
   "date": "2022-12-21",
   "list": [
     {
+      "id": "17340083481076",
+      "name": "Räkor Stora i Lake",
+      "company": "Falkenberg",
+      "ingredients": "RÄKOR* (Pandalus borealis), vatten, salt, surhetsreglerande medel (citronsyra), konserveringsmedel (E211, E202). *Fångade med trål i nordvästra Atlanten.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17311170061099",
+      "name": "Sardiner i Tomat",
+      "company": "Kung Gustaf",
+      "ingredients": "Lättrökta sardiner beredda av SKARPSILL (70%), vatten, tomatpuré, rapsolja, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340083491849",
+      "name": "Sill Brantevik",
+      "company": "Falkenberg",
+      "ingredients": "Marinerad SILL(Clupea harengus)* i bitar 45% (socker, salt, ättika), socker, vatten, lök, dill, citronpeppar (peppar surhetsreglerande medel (citronsyra), socker, lök, citronjuicepulver), vitpeppar, kryddpeppar, lagerblad, konserveringsmedel (E211), ättika. *Fiskad med ringnot/ trål i Nordostatlanten.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497043282",
+      "name": "Alaska Pollock Filé Srödbakad",
+      "company": "Feldts",
+      "ingredients": "FISKFILÉ av ALASKA POLLOCK (Theragra chalcogramma) 68%, rismjöl, raps- och solrosolja, vatten, kikärtmjöl, majsstärkelse, majsmjöl, stärkelse, salt, druvsocker, bakpulver (dinatriumdifosfat, natriumbikarbonat), stabiliseringsmedel (xantangummi)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311171008263",
+      "name": "Sill Filé Anjoviskryddad",
+      "company": "Abba",
+      "ingredients": "SILLFILÉER, socker, salt, kryddor (bl. a kanel, muskotblomma), ättika, konserveringsmedel (natriumbensoat), arom, naturlig arom",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "73172512222228",
+      "name": "Lutfisk Fryst",
+      "company": "Skärhamns",
+      "ingredients": "Djupfryst lutfisk beredd av långa (lat. Molva molva). Fisken är lutad med soda, kalk och vatten. Ingredienser: Ph-reglerande, Kalk (E526), soda (E500) och vatten.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330714081907",
+      "name": "Hokifilé",
+      "company": "Jo Food Ab",
+      "ingredients": "Skinn- & benfria filéer av HOKI(Macruronus novaezelandiae) Fångstzon: Fiskad i Stilla havet FAO81, med trål.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350001296050",
+      "name": "Bläckfisk Hel",
+      "company": "Miramar",
+      "ingredients": "Hel orensad tioarmad BLÄCKFISK (illex illecebrocus) strl 100-250g",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "37350036610082",
+      "name": "Löjrom Finsk Insjö",
+      "company": "Guldhaven Pela",
+      "ingredients": "LÖJROM från vildfångad SIKLÖJA, salt 4%",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5702008278447",
+      "name": "Hummer Amerikansk/kokt Fryst",
+      "company": "Nordic Seafood",
+      "ingredients": "Nordamerikansk HUMMER (Homarus americanus) fra St.Lawrence bugten / från St. Lawrence bukten.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083467803",
+      "name": "Strömming Inlagd/stekt",
+      "company": "Falkenberg",
+      "ingredients": "Panerad SILL (CLUPEA HARENGUS) 44% (SILL 77%, ströbröd (VETEMJÖL, salt, jäst) VETEMJÖL, vatten, salt), vatten, socker, lök 5,6%, ättika, kryddpeppar, salt, nejlika, konserveringsmedel (E211, E202). Stekta i rapsolja.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7392497023208",
+      "name": "Torsk Sprödbakad",
+      "company": "Feldts",
+      "ingredients": "FISKFILÉ av TORSK (Gadus morhua) 65%, VETEMJÖL, raps- och solrosolja, vatten, rismjöl, kikärtsmjöl, majsstärkelse, salt, druvsocker, lök, vitpeppar, antioxidationsmedel (citronsyra).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "17350020103602",
+      "name": "Vegiar",
+      "company": "Fiskeriet",
+      "ingredients": "Tångcaviar 48% (havstångextrakt (83%), vatten, salt, kryddor (bland annat cayennepeppar och dill), aromer, färgämne (E172)), rapsolja, vatten, potatisflingor, socker, salt, tomatpuré, stabiliseringsmedel (E415), dill, konserveringsmedel (E211, E202), antioxidationsmedel (E300), surhetsreglerande medel (E330), dillarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5740301122203",
+      "name": "Räkor Utan Skal 100-200",
+      "company": "Royalgreenland",
+      "ingredients": "RÄKOR, salt. Vatten (skyddande glasering).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083437714",
+      "name": "Ansjovisfilé",
+      "company": "Garan",
+      "ingredients": "Skinn- och benfri kryddad SKARPSILL (Sprattus sprattus), vatten, socker, salt, ättika, konserveringsmedel (E211), kryddor (bl.a. kanel, oregano, peppar), arom (bl.a. ingefära, muskot, nejlika).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5740301202110",
+      "name": "Räkor Sprödbakade",
+      "company": "Royalgreenland",
+      "ingredients": "Räkor (KRÄFTDJUR) (Pandalus borealis) 60%; Panering: VETEmjöl, durumVETEmjöl, rapsolja, vatten, potatisstärkelse, salt, jäst, dextros (VETE), dextros (majs), jästextrakt, spiskummin, paprikapulver, rökt paprikapulver, chili, aromer, kryddor, svampextrakt. Förstekta i rapsolja.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350001292878",
+      "name": "Tigerräka 8/12 Fryst",
+      "company": "Miramar",
+      "ingredients": "TIGERRÄKA (penaeus monodon), strl 8/12 Ib, 18-26 st räkor per påse, rå, skalad, vatten, emulgeringsmedel (E451, E452)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8719075086414",
+      "name": "Havsskädda Filé Panerade Frysta",
+      "company": "Fiskano",
+      "ingredients": "Stillahavsskäddafilé 55%, VETEmjöl, vatten, jäst, salt",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "17340083432016",
+      "name": "Musslor i Vatten",
+      "company": "Eldorado",
+      "ingredients": "MUSSLOR* (Mytilus edulis), vatten, salt, surhetsreglerande medel (citronsyra). *Fångstområde: Nordostatlanten, FAO 27. Det kan förekomma skalrester.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17311170022755",
+      "name": "Ansjovis Orginal",
+      "company": "Grebbestads",
+      "ingredients": "SKARPSILLSFILÉER, socker, salt, ättika, konserveringsmedel (natriumbensoat), kryddor (bl a muskotblomma och kanel) och aromer.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392104012328",
+      "name": "Skärgårdstorsk 90-100g",
+      "company": "Dagens Rätt",
+      "ingredients": "Fiskfärs av TORSK 62% (Gadus morhua), FAO 27 Nordostatlanten), VETEmjöl, solrosolja, salt, VETEfiber. Små bitar av fiskben kan förekomma. MSC-C-51417",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "17340083496070",
+      "name": "Tonfisk Vatten",
+      "company": "Garant",
+      "ingredients": "TONFISK*, vatten, salt. *Tonfisk av arten Skipjack (Katsuwonus pelamis).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497092334",
+      "name": "Rödingfilé med Skinn",
+      "company": "Feldts",
+      "ingredients": "FJÄLLRÖDINGFILÉ (Salvelinus Alpinus).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497952096",
+      "name": "Spätta Stillahavs Fryst",
+      "company": "Feldts",
+      "ingredients": "Filéer av STILLAHAVSSPÄTTAFILÉ, vatten (glasyr).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350001293196",
+      "name": "Ebi",
+      "company": "Miramar",
+      "ingredients": "VANNAMEIRÄKA 45% (penaeus vannamei), VETEMJÖL, vatten, modifierad stärkelse (kassava), salt, palmolja, socker, jäst, förtjockningsmedel E412,E415, E1450, bakpulver (E450, E500, E341), majsstärkelse, surhetsreglerande medel E170, E516, E300, mjölbehandlingsmedel (amylas), vegetabiliskt fett (perilla), färgämne E160b, etanol, emulgeringsmedel E471, kryddextrakt (peppar, spanskpeppar, kokosnöt, sötpotatis), konserveringsmedel E270, antioxidationsmedel E330,E331",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7392497021204",
+      "name": "Torsk Ryggfilé Ishavs Fryst",
+      "company": "Feldts",
+      "ingredients": "Skinn- & benfria ryggfiléer av TORSK",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497033245",
+      "name": "Sejfilé Sprödbakad",
+      "company": "Feldts",
+      "ingredients": "FISKFILÉ av SEJ (Pollachius virens) 68%, VETEMJÖL, raps- och solrosolja, vatten, rismjöl, kikärtsmjöl, majsstärkelse, salt, druvsocker, lök, vitpeppar, antioxidationsmedel (citronsyra).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7392497021129",
+      "name": "Torskfilé Skinn & Benfri Fryst",
+      "company": "Feldts",
+      "ingredients": "Skinn- & benfri TORSKFILÉ (Gadus morhua)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2359766800002",
+      "name": "Lax Varmrökt Chimichurri",
+      "company": "Falkenberg",
+      "ingredients": "?",
+      "gluten": "Glutenfri [ Läs Innehåll ]"
+    },
+    {
+      "id": "17350036618930",
+      "name": "Löjrom",
+      "company": "Guldhaven Pela",
+      "ingredients": "Löjrom från vildfångad siklöja (Coregonus albula). Fiskad med trål insjö Finland, salt 4%",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340083491825",
+      "name": "Sill Inlagd",
+      "company": "Falkenberg",
+      "ingredients": "Marinerad SILL (Clupea harengus)* i bitar 45% (salt, ättika), vatten, socker, lök 6%, morot 1%, ättika, kryddor (bl.a. kryddpeppar, konserveringsmedel (E211), krydda (red wood). *Fiskad med ringnot/trål i Nordostatlanten.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497082304",
+      "name": "Stenbitsrom Svart",
+      "company": "Feldts",
+      "ingredients": "STENBITSROM (Cyclopterus lumpus) 88%, vatten, salt, stabiliseringsmedel (E412), surhetreglerande medel (E330), konserveringsmedel (E202, E211), färgämne (E150d, E151).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497921290",
+      "name": "Torskrygg med Skinn Benfri Fryst",
+      "company": "Feldts",
+      "ingredients": "Benfria ryggfiléer av TORSK, med skinn Latinskt namn: Gadus morhua",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083481434",
+      "name": "Räkor Handskalade",
+      "company": "Falkenberg",
+      "ingredients": "NORDHAVSRÄKOR (Pandalus borealis)*, lake (vatten, salt, surhetsreglerande medel (citronsyra), socker, konserveringsmedel (E211, E202)). *Fiskad med trål i Nordvästatlanten FAO 21",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "37340083436285",
+      "name": "Kammusslor Frysta",
+      "company": "Garant",
+      "ingredients": "HOKKAIDOKAMUSSLA (patinopecten yessoensis)*. Kammusslorna är försedda med en tunn ishinna, för att skydda mot uttorkning. *Odlade i Japan och fångade med skrapa i Stilla havet (FAO 61).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083492966",
+      "name": "Sill Anjoviskryddad",
+      "company": "Garant",
+      "ingredients": "Kryddad SILL (Clupea harengus)* 67% (salt, socker, kryddor (kryddpeppar, peppar, kanel, kryddnejlika, red wood, oregano)), vatten, socker, salt, vinättika (rödvinsvinäger, ättika, vatten), konserveringsmedel (E211), krydda (red wood), arom, kryddextrakt (kryddnejlika, ingefära, cayennepeppar, kanel). *Fiskad med ringnot/trål i Nordostatlanten.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497971042",
+      "name": "Seafood Flakes i Lake",
+      "company": "Feldts",
+      "ingredients": "vatten, surimi 28% (FISKKÖTT), potatisstärkelse, modifierad tapiokastärkelse, socker, salt, ÄGGVITEPULVER, rapsolja, KRABBAROM, smakförstärkare (E631, E635), färgämnen (E120, E160c), surhetsreglerande medel (E330), konserveringsmedel (E202, E211).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497970519",
+      "name": "Musslor i Lake",
+      "company": "Feldts",
+      "ingredients": "MUSSLOR (Mytilus edilus), vatten, salt, konserveringsmedel (E211,E202), surhetsreglerande medel (citronsyra)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340083491801",
+      "name": "Sill Lök",
+      "company": "Falkenberg",
+      "ingredients": "Marinerad SILL (Clupea harengus)* i bitar 45% (salt, ättika), vatten, socker, lök 6,4%, kryddpeppar, ättika, konserveringsmedel (E211). *Fiskad med ringnot/trål i Nordostatlanten.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350126085072",
+      "name": "Kalles Kaviar Orginal Portionstub",
+      "company": "Kalles",
+      "ingredients": "Rökt sockersaltad TORSKrom (52%), rapsolja, socker, potatisflingor, tomatpuré, salt, konserveringsmedel (kaliumsorbat), antioxidationsmedel (askorbinsyra)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497023369",
+      "name": "Fiskbugare av Torsk med Eko Panering",
+      "company": "Feldts",
+      "ingredients": "FISKFÄRS av TORSK (Gadus morhua) 65%, VETEMJÖL*, vatten, rapsolja*, VETESTÄRKELSE*, stärkelse*, salt, jäst*, vitpeppar*. * Ekologisk ingrediens (100% ekologiska ingredienser av jordbruksursprung). PL-EKO-05.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350001292854",
+      "name": "Räkspett",
+      "company": "Miramar",
+      "ingredients": "VANNAMEIRÄKA 90% (penaeus vannamei) 10 st spett á 80g, strl 41/50 Ib rå, vatten, antioxidationsmedel E330, E332, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340083491818",
+      "name": "Sill Senap",
+      "company": "Falkenberg",
+      "ingredients": "Marinerad SILL (Clupea harengus)* i bitar 45% (socker, salt, ättika), SENAP 17% (vatten, socker, SENAPSFRÖ, ättiksprit, salt, färgämne (E101, betakaroten)), vatten, socker, rapsolja, dill, förtjockningsmedel (E415), konserveringsmedel (E211), färgämne (E101). *Fiskad med ringnot/trål i Nordostatlanten.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497082502",
+      "name": "Strömming Flundra Stekt i Lag",
+      "company": "Feldts",
+      "ingredients": "Dubbla SILLFILEÉR (Clupea harengus) panerade med RÅGMJÖL och STRÖBRÖD, stekta i veg.olja, Lag av vatten, socker, lök, ättika, salt, kryddor, dill.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350001292595",
+      "name": "Vannameiräka Utan Skal 26/30 Fryst",
+      "company": "Miramar",
+      "ingredients": "VANNAMEIRÃKA 90% (penaeus vannamei) strl 26/30 Ib, 57-66 st rÃ¤kor per pÃ¥se, rÃ¥, skalad, vatten, antioxidationsmedel E330, E332, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2359760300003",
+      "name": "Lax Varmrökt Citronpeppar Hel Sida",
+      "company": "Falkenberg",
+      "ingredients": "LAX (Salmo salar) 98%, salt, citronpeppar (svartpeppar, lök, surhetsreglerande medel (citronsyra), arom, socker, citronpulver). Lax odlad i Norge. Har varit fryst.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497082328",
+      "name": "Stenbitsrom Röd",
+      "company": "Feldts",
+      "ingredients": "STENBITSROM (Cyclopterus lumpus) 88%, vatten, salt, carthamus extrakt, stabiliseringsmedel (E412), konserveringsmedel (E202, E211), surhetreglerande medel (E330), färgämne (E120).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497043213",
+      "name": "Alaska Pollock Fish&chips Ap Filé",
+      "company": "Feldts",
+      "ingredients": "ALASKA POLLOCKFILÉ (Theragra chalcogramma) 59%, vatten, raps- och solrosolja, VETEMJÖL, majsmjöl, VETESTÄRKELSE, salt, stärkelse, bakpulver (difosfat, natriumkarbonat), druvsocker, jäst, lök.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "2359760600004",
+      "name": "Lax Varmrökt Naturell Hel Sida",
+      "company": "Falkenberg",
+      "ingredients": "LAX (Salmo salar) 98%, salt. Lax odlad i Norge. Har varit fryst.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497908239",
+      "name": "Torskfilé Ishavs Benfri Fryst",
+      "company": "Feldts",
+      "ingredients": "TORSKFILÉ (Gadus morhua) skinn- och benfri, styckfryst.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083428866",
+      "name": "Makrillfiléer i Tomatsås",
+      "company": "Eldorado",
+      "ingredients": "MAKRILLFILÈ (Scomber scombrus) 64%, vatten, tomatpuré 13%, salt. Enstaka ben kan förekomma.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "25701110108509",
+      "name": "Musslor i Vatten",
+      "company": "Vemu",
+      "ingredients": "BLÅMUSSLOR (mytilus edulis) 59%, vatten, salt, surhetsreglerande medel: Citronsyra",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083493628",
+      "name": "Sardeller",
+      "company": "Garant",
+      "ingredients": "SARDELLER (Engraulis encrasicolus), solrosolja, extra virgin olivolja, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330714083031",
+      "name": "Spätta Sprödbakad Stilla Havet Fryst",
+      "company": "Jo Food Ab",
+      "ingredients": "Stillahavsspättafilé 55 % (Lepidopsetta bilineata), vetemjöl, vatten, solrosolja, paprika, jäst, salt, färgämne E100",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350001294834",
+      "name": "Sushi Ebi Vannamei Fryst",
+      "company": "Miramar",
+      "ingredients": "VANNAMEIRÄKA (penaeus vannamei) strl 3L, kokt",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497031104",
+      "name": "Sejfilé Benfri Fryst",
+      "company": "Feldts",
+      "ingredients": "Benfri SEJFILÉ",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330714033609",
+      "name": "Strömming/sill Filé 30/60",
+      "company": "Jo Food Ab",
+      "ingredients": "Fileer av Strömming/Sill (Clupea harengus)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497908338",
+      "name": "Sejfilé Benfri Iqf Fryst",
+      "company": "Feldts",
+      "ingredients": "SEJFILÉ (Pollachius virens), benfri, styckfryst OBS! Läs alltid innehållsförteckningen!",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083493758",
+      "name": "Tonfisk Olja",
+      "company": "Eldorado",
+      "ingredients": "TONFISK*, solrosolja, salt. *Tonfisk av arten Skipjack (Katsuwonus pelamis)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497023079",
+      "name": "Torskfiskett Fryst",
+      "company": "Feldts",
+      "ingredients": "FISKFÄRS av TORSK (Gadus Morhua) 65%, VETEMJÖL, raps- och solrosolja, vatten, salt, druvsocker, lök, vitpeppar, antioxidationsmedel (citronsyra).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "2359762200004",
+      "name": "Laxfilé Hel Sida",
+      "company": "Falkenberg",
+      "ingredients": "LAX (Salmo salar), odlad i Norge.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311177012004",
+      "name": "Tonfisk i Olja Msc",
+      "company": "Abba",
+      "ingredients": "TONFISKFILÉ i bitar (skipjack), solrosolja, vatten, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330714085509",
+      "name": "Rödspättafilé Panerad Fryst",
+      "company": "Jo Food Ab",
+      "ingredients": "RÖDSPÄTTAFILÉ 60% (Pleuronectus platessa), VETEMJÖL, VETESTÄRKELSE, VETEKLI, jäst, salt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8719075086544",
+      "name": "Havsskädda Filé Sprödbakade Frysta",
+      "company": "Fiskano",
+      "ingredients": "stillahavsskäddafilé 60%, vetemjöl, vatten, jäst, salt, vegetabiliskt olja, stabiliseringsmedel: E451.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5702008297561",
+      "name": "Surimi Chunks",
+      "company": "Nordic Seafood",
+      "ingredients": "Vatten, 30% surimi (90% FISK, *fiskad i nordöstra stilla havet, socker, fuktighetsbevarande medel (E420), stabiliseringsmedel (E450, E451)) VETESTÄRKELSE, modifierad tapiokastärkelse, socker, soyolja, salt, färgämne (E120, E160C, E170), smakförstärkare (E621, E635), KRABBA extrakt & smak (KRÄFTDJUR, FISK, SOY, smakförstärkare (E508, E631, E635)), ÄGGVITA. Tillverkad i Thailand.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "17340083493741",
+      "name": "Tonfisk Vatten",
+      "company": "Eldorado",
+      "ingredients": "TONFISK*, vatten, salt. *Tonfisk av arten Skipjack (Katsuwonus pelamis)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497908581",
+      "name": "Rödspätta Panerad",
+      "company": "Feldts",
+      "ingredients": "60% benfri RÖDSPÄTTAFILÈ (Pleuronectes platessa) utan skinn, VETEMJÖL, vatten, stärkelse, jäst, salt, stabiliseringsmedel E1404. Fiskad i Nordostatlanten, FAO 27.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "17340083478212",
+      "name": "Tonfisk i Olja",
+      "company": "Garant",
+      "ingredients": "TONFISK*, solros-olja, salt. *Tonfisk av arten Skipjack (Katsuwonus pelamis).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2359760800008",
+      "name": "Lax Varmrökt Dubbelfilé Hel Sida",
+      "company": "Falkenberg",
+      "ingredients": "LAX (Salmo salar) 98%, salt. Lax odlad i Norge.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350001296135",
+      "name": "Bläckfiskstick",
+      "company": "Miramar",
+      "ingredients": "Skuren tioarmad BLÄCKFISK 75% (dosidicus gigas), ströbröd (VETEMJÖL, salt, jäst, kryddor (paprika, gurkmeja)), solrosolja, majsstärkelse, vatten, stabiliseringsmedel E450 Kan innehålla spår av KRÄFTDJUR och FISK.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7330714083659",
+      "name": "Torskfilé Stilla Havet Fryst",
+      "company": "Jo Food Ab",
+      "ingredients": "Stillahavstorskfilé (Gadus macrocephalus) MSC",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083480017",
+      "name": "Bläckfisk Ringar",
+      "company": "Garant",
+      "ingredients": "Ringar av BLÄCKFISK (Illex illecebrosus)* 75%, vatten, fuktighetsbevarande medel (E330, E331, E451, E452), salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17611612800157",
+      "name": "Pinklax",
+      "company": "Omega",
+      "ingredients": "Portionsbitar av PINKLAX (Oncorhynchus gorbuscha)*, utan skinn och ben (enstaka ben kan förekomma).  *Fiskad med garn i nordvästra och nordöstra Stilla havet (FAO 61, FAO 67).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340083433177",
+      "name": "Räkor med Skal 70/90 Frysta",
+      "company": "Seabreeze ",
+      "ingredients": "?",
+      "gluten": "Glutenfri [ Läs Innehåll ]"
+    },
+    {
+      "id": "7311177012011",
+      "name": "Tonfisk i Vatten Msc",
+      "company": "Abba",
+      "ingredients": "TONFISKFILÉ i bitar (skipjack), vatten, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083482516",
+      "name": "Skaldjursmix",
+      "company": "Garant",
+      "ingredients": "Chilensk BLÅMUSSLA (Mytilus chilensis)* ,  RÄKOR(Pandalus borealis)** , BLÄCKFISKRINGAR (Illex illecebrosus)*** (BLÄCKFISK, vatten, fuktighetsbevarande medel (E330, E331, E451, E452)), salt.                     Mixen består av 50% ASC chilensk blåmussla, 30% MSC räkor,  20% MSC bläckfisk.                         *Odlad i Chile FAO 87 ** Fångad med trål i Nordostatlanten FAO 21/ 27, Island / Norge ***Fiskad med trål i Nordvästatlanten, FAO 21.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497023109",
+      "name": "Torskfilé Fish&chips Fryst",
+      "company": "Feldts",
+      "ingredients": "Benfri filé av TORSK (59%), vatten, VETEMJÖL, rapsolja, majsmjöl, stärkelse, salt, jäst, lök, stabiöiserings- och surhetsreglerandemedel (bakpulver), arom, dextros. FAO 27, med trålar.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+
+    {
+      "id": "7330714085639",
+      "name": "Spättafilé Panerad Stilla Havet Fryst",
+      "company": "Jo Food Ab",
+      "ingredients": "STILLAHAVSSPÄTTAFILÉ 60% (Lepidopsetta bilineata), panering 40% (VETEMJÖL, VETESTÄRKELSE, majsstärkelse, vatten, dextrose, jäst, salt)",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "17340083478403",
+      "name": "Räkor Skalade 250/350 Medium",
+      "company": "Falkenberg",
+      "ingredients": "Skalade RÄKOR (Pandalus borealis)*, salt. *Fångade med trål. Se tryckt fångstzon i rutan för bäst före datumet. KAN INNEHÅLLA SPÅR AV: FISK, BLÖTDJUR.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310500092041",
+      "name": "Fish´n Chips Gourmet Filé",
+      "company": "Findus",
+      "ingredients": "Renskurna filéer av ALASKA POLLOCK* (Theragra chalcogramma) 53 %, VETEMJÖL [VETEMJÖL, mineraler (kalcium, järn), vitaminer (niacin, tiamin)], solrosolja, vatten, rapsolja, palmolja, VETESTÄRKELSE, salt, bakpulver (E450, E500, E503), majsmjöl, SENAPSPULVER, peppararom, druvsocker, VETEGLUTEN, SKUMMJÖLKSPULVER, arom (med SENAP), färgämne (kurkumin, paprikaextrakt), kryddor (bl a chili), stabiliseringsmedel (E414, E464). *Fiskad i Stillahavet *Från ett MSC-certifierat hållbart fiske. www.msc.org/se",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350001294896",
+      "name": "Sjögrässallad Goma Fryst",
+      "company": "Miramar",
+      "ingredients": "Brunalg/wakame 71% (undaria pinnatifida ), socker, förtjockningsmedel E406, SESAMOLJA, vinäger, svamp (auricularia auricula), SOJASÅS (vatten, SOJABÖNOR, salt), salt, SESAMFRÖN, chilipeppar, färgämne E141",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17350002404727",
+      "name": "Sardeller",
+      "company": "Zeta",
+      "ingredients": "ANSJOVIS (Engraulis Encrasicolus) 54%, solrosolja, havssalt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350001292557",
+      "name": "Vannameiräka Utan Skal 16/20 Fryst",
+      "company": "Miramar",
+      "ingredients": "VANNAMEIRÃKA 90% (penaeus vannamei) strl 16/20 Ib, 35-45 st rÃ¤kor per pÃ¥se, rÃ¥, skalad, vatten, antioxidationsmedel E330, E332, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083494502",
+      "name": "Ansjovis Restaurangfiléer",
+      "company": "Falkenberg",
+      "ingredients": "Kryddade SILLFILÉER (Clupea harengus)* 62% (salt, socker, kryddor (kryddpeppar, peppar, kanel, kryddnejlika, oregano, red wood), vatten, socker, salt, röd vinättika (rödvinsvinäger, ättika, vatten), konserveringsmedel (E211), red wood, kryddextrakt (kryddnejlika, ingefära, cayennepeppar, kanel), arom. *Fiskad med trål/ringnot i Nordostatlanten",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350126084150",
+      "name": "Kalles Kaviar",
+      "company": "Kalles",
+      "ingredients": "Rökt sockersaltad TORSKrom (52%), rapsolja, socker, potatisflingor, tomatpuré, salt, konserveringsmedel (kaliumsorbat), antioxidationsmedel (askorbinsyra)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350001292694",
+      "name": "Vannameiräka 71/90 Kokt Fryst",
+      "company": "Miramar",
+      "ingredients": "VANNAMEIRÄKA 90% (penaeus vannamei) strl 71/90 Ib, 160-200 st räkor per påse, kokt, skalad, vatten, antioxidationsmedel E330, E332, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497982659",
+      "name": "Caviart Svart",
+      "company": "Feldts",
+      "ingredients": "Sjögräsextrakt (av familjen Phaeophyceae) 83%, vatten, salt, kryddor, aromer, citronsyra (E330), stabiliseringsmedel (E415), konserveringsmedel (E 202, E211), färgämnen (E153).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2359760500007",
+      "name": "Lax Gravad Skivad Hel Sida",
+      "company": "Falkenberg",
+      "ingredients": "LAX (Salmo salar) 98%, salt, socker, konserveringsmedel (E262), antioxidationsmedel (E325), vitpeppar, dill. Lax odlad i Norge.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350001292199",
+      "name": "Vongolemussla Förkokt",
+      "company": "Miramar",
+      "ingredients": "VENUSMUSSLA (meretrix lyrata) 40-60 st per kilo, kokta.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+
+    {
+      "id": "7350001292977",
+      "name": "Vannameiräka med Skal 16/20 Fryst",
+      "company": "Miramar",
+      "ingredients": "VANNAMEIRÄKA (penaeus vannamei) strl 16/20 Ib, 35-45 st räkor per påse, rå med skal",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "93280350018980",
+      "name": "Tonfisk Olja",
+      "company": "Dolly",
+      "ingredients": "Tonfisk (Katsuwonus pelamis) (FISK), solrosolja, vatten, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311750035307",
+      "name": "Sejfilé Inbakad Fryst",
+      "company": "Merhav",
+      "ingredients": "SEJFILÉ (Pollachius virens) (55%), vatten, tempura (VETE-, majs- och rismjöl, dextrin, VETEGLUTEN, salt, VASSLEPULVER, förtjockningsmedel E450, bakpulver (natriumkarbonat)), ströbröd (VETEMJÖL, salt, jäst), rapsolja, VETEMJÖL, paneringsmix (VETEMJÖL, potatisstärkelse, salt, peppar, bakpulver (natriumkarbonat)). Fångstområde: FAO27 Nordostatlanten - Norska Havet MSC",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350126084808",
+      "name": "Kaviar Extra Mild",
+      "company": "Svennes",
+      "ingredients": "Rökt sockersaltad FISKrom (TORSK, SEJ) 40%, rapsolja, socker, vatten, potatisflingor, salt, tomatpuré, konserveringsmedel (natriumbensoat), antioxidationsmedel (askorbinsyra)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350001292892",
+      "name": "Tigerräka 16/20 Fryst",
+      "company": "Miramar",
+      "ingredients": "TIGERRÄKA (penaeus monodon), strl 16/20 Ib, 35-45 st räkor per påse, rå, skalad, vatten,emulgeringsmedel (E451, E452)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497970106",
+      "name": "Kräftstjärtar i Lake",
+      "company": "Feldts",
+      "ingredients": "Handskalade KRÄFTSTJÄRTAR (Procambarus clarkii), vatten, salt, surhetsreglerande medel (citronsyra), konserveringsmedel (E211, E202), dillarom. Kräftor vildfångade i Kina.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083486293",
+      "name": "Lax Kallrökt",
+      "company": "Falkenberg",
+      "ingredients": "LAX* (Salmo salar) 97%, salt, konserveringsmedel (E262), antioxidationsmedel (E325). *Odlad i Norge. Har varit fryst.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "93280350018973",
+      "name": "Tonfisk Vatten",
+      "company": "Dolly",
+      "ingredients": "Tonfisk (Katsuwonus pelamis) (FISK), vatten, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083479585",
+      "name": "Tonfisk i Solrosolja",
+      "company": "Garant",
+      "ingredients": "TONFISK*, solrosolja, salt. *Tonfisk av arten Skipjack (Katsuwonus pelamis).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2359760400000",
+      "name": "Lax Kallrökt Skivad Hel Sida",
+      "company": "Falkenberg",
+      "ingredients": "LAX (Salmo salar) 97%, salt, konserveringsmedel (E262), antioxidationsmedel (E325). Lax odlad i Norge. Har varit fryst.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5702008220248",
+      "name": "Maki Surami Sticks",
+      "company": "Nordic Seafood",
+      "ingredients": "vatten, 30% Surimi [FISK: Theragra chalcogramma, Socker, fuktighetsbevarande medel (E420, E450, E451), FAO zone 67], VETESTÄRKELSE, modifierad tapioka stärkelse (E1414), socker, salt, solros olja, KRABBEXTRAKT (SKALDJUR, FISK, SOYA)(E635), KRABBAROM (SKALDJUR)(E508, E631), ÄGGVITA, färg (E120, E160c).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7392497982635",
+      "name": "Caviart Röd",
+      "company": "Feldts",
+      "ingredients": "Sjögräsextrakt (av familjen Phaeophyceae) 83%, vatten, salt, kryddor, aromer, citronsyra (E330), stabiliseringsmedel (E415), konserveringsmedel (E 202, E211), färgämnen (E160c, E160a).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5702008230148",
+      "name": "Surimii",
+      "company": "Nordic Seafood",
+      "ingredients": "42% Surimi [FISH: (Theragra chalcogramma), sugar, humectant (E420, E450, E451)], water, wheat starch (GLUTEN), modified tapioca starch, sugar, salt, sunflower oil, eggwhite (EGG), crab extract (CRUSTACEANS, FISH, SOY), crab flavour (CRUSTACEANS), flavour enhancer (E635), colour (E120, E160c, E170)",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7392497925106",
+      "name": "Ishavsräkor i Lake",
+      "company": "Feldts",
+      "ingredients": "Skalade kokta RÄKOR (Pandalus borealis), vatten, salt, surhetsreglerande medel (citronsyra), konserveringsmedel (E211, E202). Räkor fiskade med trål i Nordvästatlanten (FAO 21).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083496063",
+      "name": "Tonfisk Vatten",
+      "company": "Garant",
+      "ingredients": "TONFISK*, vatten, salt. *Tonfisk av arten Skipjack (Katsuwonus pelamis).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5702008268905",
+      "name": "Musslor Kokta",
+      "company": "Nordic Seafood",
+      "ingredients": "Chilenska BLÅMUSSLOR (Mytilus chilensis).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5702008271202",
+      "name": "Vannameiräkor",
+      "company": "Nordic Seafood",
+      "ingredients": "80% Räkor (KRÄFTDJUR)(Litopenaeus vannamei), vatten,fuktighetsbevarande medel (E331, E332), Salt Odlas i Vietnam",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083478427",
+      "name": "Räkor Skalade 350-500 Small",
+      "company": "Falkenberg",
+      "ingredients": "Skalade RÄKOR (Pandalus borealis)*, salt. *Fångade med trål i Nordostatlanten FAO 27 sub areas I och II (Barents hav, Norska havet, Svalbard och Björnön).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311750035796",
+      "name": "Fiskburgare Förstekt Frysta",
+      "company": "Merhav",
+      "ingredients": "ALASKA POLLOCK (Theragra chalcogramma) (63%), ströbröd (VETEMJÖL, salt, jäst), vatten, rapsolja, VETEMJÖL, salt och surhetsreglerande medel (citronsyra). Fångstområde: FAO67 Stilla Havet MSC-Märkt",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7330714064818",
+      "name": "Musslor Gröna Frysta",
+      "company": "Jo Food Ab",
+      "ingredients": "GRÖNA MUSSLOR (Perna canaliculus), förkokta, 30-45 st/kg.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497920064",
+      "name": "Räkor i Lake Färskinlagda",
+      "company": "Feldts",
+      "ingredients": "Färska, kokta, skalade RÄKOR, (Pandalus borealis), vatten, salt, surhetsreglerande medel (citonsyra), konserveringsmedel (E211, E202).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350001292571",
+      "name": "Vannameiräka Kokt M Stjärt 21/25 Fryst",
+      "company": "Miramar",
+      "ingredients": "VANNAMEIRÃKA 90% (penaeus vannamei) strl 21/25 Ib, 46-55 st rÃ¤kor per pÃ¥se, kokt med stjÃ¤rt, vatten, antioxidationsmedel E330, E332, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083481687",
+      "name": "Lax Portion 4x125g",
+      "company": "Garant",
+      "ingredients": "LAXFILÉ(Salmo salar)* utan skinn (enstaka ben kan förekomma). Odlad i Norge",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083486309",
+      "name": "Lax Gravad Skivad",
+      "company": "Falkenberg",
+      "ingredients": "LAX* (Salmo salar) 96%, salt, socker, konserveringsmedel (E262), antioxidationsmedel (E325), vitpeppar, dill. *Odlad i Norge. Har varit fryst.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330714288405",
+      "name": "Ryggfilé Pangasius Fryst",
+      "company": "Jo Food Ab",
+      "ingredients": "Skinn & benfria loins av PANGASIUSMAL/HAJMAL (89,75%) (Pangasianodon hypophthalmus), styckfrysta 60-80 g/st, vatten (10%), stabiliseringsmedel E451, antioxidationsmedel E330, E331.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350001292731",
+      "name": "Vannameiräka Pankopanerad Fryst",
+      "company": "Miramar",
+      "ingredients": "VANNAMEIRÄKA (Litopenaeus vannamei), panering, (VETEMJÖL, stärkelseacetat E1420, socker, majs, salt, palmolja, rismjöl, perilla, SOJABÖNSPULVER, förtjockningsmedel, jäst, bakpulver, färgämne E160b, E161b), emulgeringsmedel E451, E452.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "2359758300008",
+      "name": "Laxfilé Fryst",
+      "company": "Falkenberg",
+      "ingredients": "Norsk odlad LAX (Salmo salar).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497927308",
+      "name": "Räkor i Lake Handskalade",
+      "company": "Feldts",
+      "ingredients": "RÄKOR (Pandalus borealis), vatten,salt,surhetsreglerande medel:(E330, E331) konserveringsmedel: (E211, E202), socker",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497027060",
+      "name": "Räkor i Lake Sjökokta Handskalade",
+      "company": "Feldts",
+      "ingredients": "RÄKOR (Pandalus Borealis), vatten, salt, surhetsreglerande medel (E330, E331), konserveringsmedel (E211, E202), socker",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5702008161589",
+      "name": "Pangasius Asc",
+      "company": "Nordic Seafood",
+      "ingredients": "90% PANGASIUSMAL, 10% vatten inkl. fuktighetsbevarande medel (E451, E452, E330, E331, E332), salt. Odlad i Vietnam.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083493543",
+      "name": "Tonfisk i Olja",
+      "company": "Gastrino",
+      "ingredients": " TONFISK*, solrosolja, salt. * Tonfisk av arten Skipjack (Katsuwonus pelamis).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083478410",
+      "name": "Räkor Skalade 200-300 Large",
+      "company": "Falkenberg",
+      "ingredients": "Skalade RÄKOR (Pandalus borealis)*, salt. *Fångade med trål i Nordostatlanten FAO 27 sub areas I och II (Barents hav, Norska havet, Svalbard och Björnön). KAN INNEHÅLLA SPÅR AV: FISK, BLÖTDJUR.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083478397",
+      "name": "Räkor Skalade 100/200 Xlarge",
+      "company": "Falkenberg",
+      "ingredients": "Skalade RÄKOR (Pandalus borealis)*, salt. *Fångade med trål. Se tryckt fångstzon i rutan för bäst före datumet. KAN INNEHÅLLA SPÅR AV: FISK, BLÖTDJUR.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497927018",
+      "name": "Räkor i Lake Sjökokta Handskalade Large",
+      "company": "Feldts",
+      "ingredients": "RÄKOR (Pandalus Borealis), vatten, salt, surhetsreglerande medel (E330, E331), konserveringsmedel (E211, E202), socker",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5702008293204",
+      "name": "Musselkött Kokt",
+      "company": "Nordic Seafood",
+      "ingredients": "CHILENSK BLÅMUSSLA (Mytilus chilensis), odlad i Chile",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330714286500",
+      "name": "Alaska Pollock Filé Fryst",
+      "company": "Jo Food Ab",
+      "ingredients": "Skinn- & benfria filéer av Alaska Pollock (Theragra chalcogramma), styckfrysta 110-170g/st",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7318690165941",
       "name": "Pålägg Griljerad Julskinka Glutenfri 120g ICA",
       "company": "ICA",
