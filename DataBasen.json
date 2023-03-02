@@ -1,6 +1,818 @@
 {
-  "date": "2022-12-21",
+  "date": "2023-03-02",
   "list": [
+    {
+      "id": "7310865889478",
+      "name": "Yoghurt Turkisk 10%",
+      "company": "Arla Pro",
+      "ingredients": "Pastöriserad MJÖLK och GRÄDDE, yoghurtkultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083477703",
+      "name": "Ägg 6p Frigående Inomhus Medium",
+      "company": "Garant",
+      "ingredients": "ÄGG",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5410488025238",
+      "name": "Vispgrädde Sötad Spray",
+      "company": "Debic",
+      "ingredients": "GRÄDDE; flytande socker (socker 3%); drivgaser: N20, N2; emulgeringsmedel: E471; stabiliseringsmedel: karragenan.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083489881",
+      "name": "Apelsinjuice med Fruktkött",
+      "company": "Garant",
+      "ingredients": "Apelsinjuice med fruktkött.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5410488842125",
+      "name": "Spraygrädde Vispgrädde",
+      "company": "Chantibic",
+      "ingredients": "VISPGRÄDDE 99% (35% fett), drivgas (N2O, N2), emulgeringsmedel (E 471), stabiliseringsmedel (E 407).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "3228025200428",
+      "name": "Burger Cheddar Skivor",
+      "company": "Président",
+      "ingredients": "REKONSTITUERAD MÆLK/MJÖLK, oste/ostar (ost (MÆLK/MJÖLK, salt, mælkesyre-/mjölksyrakultur)), cheddar (MÆLK/MJÖLK) 8%), smör (MÆLK/MJÖLK), valle/vassle (MÆLK/MJÖLK), MÆLKE-/MJÖLKPROTEINER, smelte-/smältsalt (E450, E452), förtykningsmiddel/förtjockningsmedel (E407), salt, surhetsreglerande medel (E330), konserveringsmiddel/-medel (E202), farvestof/färgämne (E 160b(i)).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "15711953129183",
+      "name": "Gräddis Skivad Ost",
+      "company": "Arla",
+      "ingredients": "Pastöriserad MJÖLK, salt, syrningskultur, ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310860005849",
+      "name": "Extrasaltat 75%",
+      "company": "Bregott",
+      "ingredients": "SMÖR, (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, vatten, salt, vitamin A och D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340062810159",
+      "name": "Yoghurt Grekisk 10%",
+      "company": "Minella",
+      "ingredients": "?",
+      "gluten": "Glutenfri [ Läs Innehåll ]"
+    },
+    {
+      "id": "5701043701033",
+      "name": "Margarin Stek",
+      "company": "Ama",
+      "ingredients": "Palmolja, rapsolja, vatten, salt (1,4 %), emulgeringsmedel (mono- och diglycerider och citronsyraestrar av vegetabiliska fettsyror, lecitin), arom, färgämne (betakaroten).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083435970",
+      "name": "Mellanmjölk Laktosfri 1,5%",
+      "company": "Garant",
+      "ingredients": "Högpastöriserad MJÖLK, laktasenzym, vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310860005801",
+      "name": "Mellan 60%",
+      "company": "Bregott",
+      "ingredients": "Vatten, SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, salt, vitamin A och D",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865018479",
+      "name": "Yoghurt Skogsbär 2%",
+      "company": "Yoggi",
+      "ingredients": "MJÖLK, bär 8% (jordgubbar, hallon, blåbär, björnbär, lingon), socker 7,7%, MJÖLKPROTEIN, majsstärkelse, naturlig arom, yoghurtkultur, vitamin D. Mjölken är högpastöriserad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330857000261",
+      "name": "Jäst Sockerdeg",
+      "company": "Jästbolaget",
+      "ingredients": "Jäst",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5410488140085",
+      "name": "Vispgrädde Osötad Spray",
+      "company": "Debic",
+      "ingredients": "GRÄDDE; drivgaser: N2O, N2; emulgeringsmedel: E471; stabiliseringsmedel: karragenan.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8719200053588",
+      "name": "Fraiche 24%",
+      "company": "Rama",
+      "ingredients": "KÄRNMJÖLK, vegetabiliska oljor (raps, palm#), vatten, stabiliseringsmedel (karragenan, pektin, xantangummi), modifierad stärkelse, surhetsreglerande medel (mjölksyra), emulgeringsmedel (mono- och diglycerider av vegetabiliska fettsyror), aromer (MJÖLK), salt,färgämne (karotener). #Spårbar och hållbart certifierad palmolja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865878615",
+      "name": "Keso Naturell 4%",
+      "company": "Keso",
+      "ingredients": "pastöriserad MJÖLK och GRÄDDE, salt, syrningskultur, ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "15290074003713",
+      "name": "Fruktdryck Guava",
+      "company": "Fontana",
+      "ingredients": "Vatten, guavapure (18%), socker, appelsyra, askorbinsyra, stabiliseringsmedel (xanthangummi (E415),guarkarnmjol (E412)), arom, färgämne: (antocyaner).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5290074006427",
+      "name": "Nektar Exotic",
+      "company": "Fontana",
+      "ingredients": "Äpple (16%), ananas (10%), apelsin (9%), persika (6%), banan (6%), mango (1,5%), guava (1%), kiwi (0,5%) framställd av juicekoncentrat och puré, vatten, socker. Antioxidationsmedel: citronsyra. Konserveringsmedel: Äppelsyra, arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "18002670007463",
+      "name": "Burrata",
+      "company": "Granarolo",
+      "ingredients": "Stracciatella ost 73% (pastöriserad MJÖLK, UHT GRÄDDE 45%, surhetsreglerare: mjölksyra, salt, löpe, konserveringsmedel: kaliumsorbat), pastöriserad MJÖLK, surhetsreglerare: mjölksyra, salt, löpe.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392672110112",
+      "name": "Kaffemjölk 1.5%",
+      "company": "Lindahls",
+      "ingredients": "Högpastöriserad MJÖLK, UHT-behandlad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "27311041005013",
+      "name": "Majonnäs Lätt",
+      "company": "Eldorado",
+      "ingredients": "Rapsolja 39 %, vatten, vinäger, socker, SENAP (vatten, SENAPSFRÖN, vinäger, kryddor), majsstärkelse, ÄGG och ÄGGULA 2,4 %*, modifierad stärkelse, salt, surhetsreglerande medel (mjölksyra), förtjockningsmedel (guarkärnmjöl), antioxidationsmedel (E385), färgämne (betakaroten). *Ägg från frigående höns.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002468175968",
+      "name": "Cheddar Cheese Food Slices",
+      "company": "Hochland",
+      "ingredients": "60% CHEDDAR, OST, SKUMMJÖLK, SKUMMJÖLKSPULVER, smältsalter: natriumcitrater, natriumfosfater; SMÖR, surgörare: citronsyra, salt, skiljemedel: solroslecitin, färgämne: paprika extrakt, karoten.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865000545",
+      "name": "Kaffemjölk Mellan 1.5%",
+      "company": "Arla",
+      "ingredients": "MJÖLK",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083440370",
+      "name": "Crème Fraîche Laktosfri 32%",
+      "company": "Garant",
+      "ingredients": "Högpastöriserad GRÄDDE, laktasenzym, syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865889376",
+      "name": "Smör & rapsolja Normalsaltat Portion",
+      "company": "Bregott",
+      "ingredients": "SMÖR 59% (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja 26%, vatten, salt, vitamin A och D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17350056793037",
+      "name": "Yoghurt Turkisk Naturell",
+      "company": "Larsa Foods",
+      "ingredients": "Högpastöriserad och homogeniserad MJÖLK/homogenisert og pasteurisert MELK/homogenisoitu ja pastöroitu MAITO, GRÄDDE/KREM/KERMA, yoghurtkultur/hapate",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "1200101497207",
+      "name": "Cranberry Classic Tranbärsdryck",
+      "company": "Ocean Spray",
+      "ingredients": "Vatten, tranbärsjuice från koncentrat (27%), socker, glykosfruktossirap, c-vitamin, grönsaks- och fruktkoncentrat (morot, tranbär). Allergiråd: Inga kända råd vid tillfälle.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17316150976240",
+      "name": "Feta",
+      "company": "Taverna",
+      "ingredients": "Pastöriserad FÅR- OCH GETMJÖLK, havssalt, MJÖLKSYRAKULTUR, vegetabiliskt ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865018462",
+      "name": "Jordgubb Smultron Fruktyoghurt 2%",
+      "company": "Yoggi",
+      "ingredients": "MJÖLK, bär 8% (jordgubbar 7,5 %, smultron 0,5 %), socker 7,4 %, MJÖLKPROTEIN, majsstärkelse, naturlig arom, yoghurtkultur, vitamin D. Mjölken är högpastöriserad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "15708356010279",
+      "name": "Gaudina Ost",
+      "company": "Ready Chef",
+      "ingredients": "skumMJÖLK (71%), palmfett (27%), salt, mjölksyrakultur, mikrobiologisk löpe, färgämne: betakaroten (E160a)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "15711953050180",
+      "name": "Pucko Chokladmjölk 1,5%",
+      "company": "Cocio",
+      "ingredients": "MJÖLK (fett 1,5%), socker 5%, fettreducerad kakao 1%, salt, surhetsreglerande medel (natriumkarbonat) och aromer.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865691788",
+      "name": "A-fil Naturell Dofilus 3% Fett",
+      "company": "Arla",
+      "ingredients": "Högpastöriserad mjölk, filkultur, Lactobacillus acidophilus LA-5®, Bifidobacterium lactis BB-12®, Lactobacillus casei F19®, D-vitamin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2340407700003",
+      "name": "Riddar Filéost 28%",
+      "company": "Arla Pro",
+      "ingredients": "Pastöriserad MJÖLK, salt 1,2%, syrningskultur, ystenzym, kalciumklorid.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083476515",
+      "name": "Vispgrädde Lång Hållbarhet 36%",
+      "company": "Garant",
+      "ingredients": "GRÄDDE, stabiliseringsmedel (karragenan).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "15290074003706",
+      "name": "Fruktdryck Mango",
+      "company": "Fontana",
+      "ingredients": "Vatten, mango fruktpuré (19%), socker, citronsyra, stabiliseringsmedel: guarkärnmjöl (E412), xantangummi (E415), arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310867561010",
+      "name": "Äpple Juice",
+      "company": "Bravo",
+      "ingredients": "Äpplejuice. Juice från koncentrat. 2 liter motsvarar juice från ca 3 kg äpple.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "16408432061247",
+      "name": "Smör Osaltat",
+      "company": "Valio",
+      "ingredients": "Pastöriserad GRÄDDE och mjölksyrakultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5425009792179",
+      "name": "Getost Rulle i Kartong",
+      "company": "Friendship",
+      "ingredients": "Pastöriserad getMJÖLK (Ursprung: EU), salt (1,5%), MJÖLKsyra och mögel kultur, vegetabiliskt ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5701043450290",
+      "name": "Margarin Smörgås",
+      "company": "Dragsbaek",
+      "ingredients": "Rapsolja, vatten, palmolja*, kokosolja, salt (1,0%), emulgeringsmedel (E471, E322), konserveringsmedel (E202), surhetsreglerande medel (E330), arom, A-vitamin, D-vitamin (vegetabiliskt). * = Certifierad hållbar palmolja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083435963",
+      "name": "Mjölk Laktosfri",
+      "company": "Garant",
+      "ingredients": "Högpastöriserad MJÖLK, laktasenzym, vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350024480184",
+      "name": "Mozzarellafilé Block",
+      "company": "Belladonna",
+      "ingredients": "MJÖLK, salt, mikrobiell ystenzym, syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865003772",
+      "name": "Crème Fraîche 32%",
+      "company": "Arla Köket",
+      "ingredients": "Pastöriserad GRÄDDE, syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "16408432061261",
+      "name": "Smör Extrasaltat 80%",
+      "company": "Valio",
+      "ingredients": "Pastöriserad GRÄDDE och salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083493369",
+      "name": "Hamburgerost Cheddar Skivad",
+      "company": "Gastrino",
+      "ingredients": "?",
+      "gluten": "Glutenfri [ Läs Innehåll ]"
+    },
+    {
+      "id": "8719200043633",
+      "name": "Lätta Original Bordsmargarin",
+      "company": "Lätta",
+      "ingredients": "vatten, 39% vegetabiliska oljor (palm, raps (17%)), KÄRNMJÖLK (5%), salt (1.5%), modifierad majsstärkelse, emulgeringsmedel (mono- och diglycerider av fettsyror, solroslecitin), konserveringsmedel (kaliumsorbat), syra (mjölksyra), naturlig arom, vitaminer (A,D).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408430140688",
+      "name": "Vispgrädde",
+      "company": "Valio",
+      "ingredients": "GRÄDDE, stabiliseringsmedel (karragenan).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17350060085692",
+      "name": "Vitost White Combi",
+      "company": "Golden Cow",
+      "ingredients": "Pastöriserad koMJÖLK (LAKTOS), palmolja (24%), salt, MJÖLKsyrakultur och löpe.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "57016075835940",
+      "name": "Äggvitor",
+      "company": "Lantägg",
+      "ingredients": "Pastöriserad ÄGGVITA (90%), vatten, antioxidationsmedel (E450, E339, E331), surhetsreglerande medel (E330), konserveringsmedel (E202), stabiliseringsmedel (E412)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4000339034864",
+      "name": "Philadelphia Original 21%",
+      "company": "Philadelphia",
+      "ingredients": "MJÖLK/MÆLK/MELK, GRÄDDE/FLØDE/FLØTE, vassle-/valle-/myseprodukt (MJÖLK), salt, stabiliseringsmedel/stabilisator (fruktkärnmjöl/johannesbrødkernemel), syra (citronsyra), bakteriekultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4013265021051",
+      "name": "Dryck Multivitamin 30%",
+      "company": "Glockengold",
+      "ingredients": "naturligt mineralvatten, äppeljuice koncentrat, socker, apelsinjuice koncentrat, surhetsreglerande medel: citronsyra, druvjuice-, ananasjuice-, bananpuré-, citronjuice-, päronjuice-, aprikospuré koncentrat, vitaminmix (C-vitamin, E-vitamin, niacin, pantotenat, betakaroten, B6-vitamin, tiamin, folsyra, biotin, B12-vitamin), passionsfruktjuice koncentrat, sötningsmedel: acesulfam-K, aspartam*, natriumsackarin, mangopuré-, guavapuré koncentrat, stabiliseringsmedel: guarkärn-mjöl, pektin, naturliga smaker. *innehåller en fenylalaninkälla.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313161406578",
+      "name": "Kycklingröra Curry",
+      "company": "Rydbergs",
+      "ingredients": "Rapsolja, kyckling 28%, paprika, socker, äpple, mango, ÄGGULA, SENAPSFRÖ, curry (kryddor bl.a bockhornsklöver), salt, chili, vitlök, gräslök, svartpeppar, majsmjöl, druvsocker, xylos, kryddor, paprikaextrakt, ättika, vinäger, modifierad stärkelse, stabiliseringsmedel (guarkärnmjöl, xantangummi), surhetsreglerande medel (citronsyra, mjölksyra), konserveringsmedel (natriumbensoat, kaliumsorbat), AROM (innehåller ÄGG)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "15711953019569",
+      "name": "Port Salut 26% Familjefavoriter",
+      "company": "Arla",
+      "ingredients": "Pastöriserad MJÖLK, salt, syrningskultur, ystenzym, färgämne E160b(ii)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17332489004553",
+      "name": "Ägg 30p Frigående Höns M/l",
+      "company": "Stjärnägg",
+      "ingredients": "?",
+      "gluten": "Glutenfri [ Läs Innehåll ]"
+    },
+    {
+      "id": "8719200247598",
+      "name": "Visp 31%",
+      "company": "Rama Professi",
+      "ingredients": "KÄRNMJÖLK 69%, vegetabiliska oljor 30% (fullhärdad palm#, kokos), modifierad majsstärkelse, emulgeringsmedel (sackarosestrar av fettsyror, mono- och diglycerider av fettsyror, SOJALECITHIN), förtjockningsmedel (guargummi, fruktkärnmjöl). #Innehåller 100% certifierad och hållbar palmolja, läs mer på upfield.com",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8719200068445",
+      "name": "Visp 30% Laktosfri",
+      "company": "Rama",
+      "ingredients": "KÄRNMJÖLK, vatten, laktosfri SKUMMJÖLK, fullhärdad palmolja#, kokosolja, modifierad stärkelse, emulgeringsmedel (sackarosestrar av vegetabiliska fettsyror, mono- och diglycerider av vegetabiliska fettsyror, SOJALECITIN), stabiliseringsmedel (guarkärnmjöl, fruktkärnmjöl), laktasenzym, arom. #Spårbar och hållbart certifierad palmolja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "13250552519374",
+      "name": "Kolibrie 33%",
+      "company": "Kolibrie",
+      "ingredients": "Pastöriserad KOMJÖLK, salt (1,8%, kraftigt saltad), mjölksyrakultur, ystenzym, mögelkultur",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310867561027",
+      "name": "Tropisk Juice",
+      "company": "Bravo",
+      "ingredients": "Juice av äpple, apelsin, ananas, passionsfrukt, banan, mango, papaya och kiwifrukt. Juice från koncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310155802108",
+      "name": "Hamburgar- Dressing Original",
+      "company": "Johnny's",
+      "ingredients": "Rapsolja, vatten, socker, gurka (14 %), tomatpuré, ättika, ÄGGULA, SENAPSFRÖ, salt, mod. majs- och potatisstärkelse, paprika, kryddor (bl.a. kanel, koriander, cayennepeppar), lök, surhetsreglerande medel (mjölksyra, citronsyra), konserveringsmedel (E202, E211), stabiliseringsmedel (guarkärnmjöl , E509) och kryddextrakt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310091771622",
+      "name": "Jordgubb Original",
+      "company": "Risifrutti",
+      "ingredients": "MJÖLK/MÆLK, vatten/vand, ris (8,5%), jordgubbar/jordbær (7%), socker (6,7%), GRÄDDE/FLØDE, fläderbärs/hyldebærjuice, förtjockningsmedel/fortykningsmiddel (pektin, karragenan), naturliga aromer (bl.a. vanillin), salt, syra (citronsyra).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2387050600007",
+      "name": "Gorgonzola 26% San Giorgio",
+      "company": "Colombo",
+      "ingredients": "Pastöriserad KOMJÖLK, salt, löpe, mögelkultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8720182249913",
+      "name": "Majonnäs Real 79%",
+      "company": "Hellmann's",
+      "ingredients": "Rapsolja 78%, ÄGG1 6,8%, vatten, ättika, ÄGGULA1 2,1%, socker, salt, citronjuicekoncentrat, arom, antioxidationsmedel (E385), paprikaoleoresin. 1Från frigående höns utomhus",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865071801",
+      "name": "Mellanmjölk Ekologisk 1.5%",
+      "company": "Arla",
+      "ingredients": "MJÖLK*, vitamin D. *KRAV- ekologisk ingrediens. Lågpastöriserad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083497411",
+      "name": "Mozzarella Riven 22%",
+      "company": "Gastrino",
+      "ingredients": "Pastöriserad MJÖLK, potatisstärkelse, salt 1,4%, syrningskultur, ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5701638464817",
+      "name": "Salladsost Tärnad i Lake",
+      "company": "Akadia",
+      "ingredients": "Pastöriserad KOMJÖLK, salt, löpe, ystenzym, lake, vatten.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8719200043947",
+      "name": "Lätta Margarin Portion 10g",
+      "company": "Lätta",
+      "ingredients": "?",
+      "gluten": "Glutenfri [ Läs Innehåll ]"
+    },
+    {
+      "id": "17310865067880",
+      "name": "Mellanmjölk Laktosfri 1,5%",
+      "company": "Arla Ko",
+      "ingredients": "MJÖLK, laktasenzym, vitamin D. Högpastöriserad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "37340083435646",
+      "name": "Gouda 30% Skivad",
+      "company": "Eldorado",
+      "ingredients": "Pastöriserad KOMJÖLK, salt, syrningskultur, ystenzym",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083447867",
+      "name": "Smör Normalsaltat",
+      "company": "Garant",
+      "ingredients": "Pastöriserad GRÄDDE, salt 1,2%, mjölksyrakultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2340114000007",
+      "name": "Pizzaost Gouda 28%",
+      "company": "Arla",
+      "ingredients": "MJÖLK, mjölksyrakultur, salt, ystenzym (mikrobielt), kalciumklorid.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083479332",
+      "name": "Edamer Skivad 24%",
+      "company": "Gastrino",
+      "ingredients": "Pastöriserad MJÖLK, salt 2,3%, syrningskultur, ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2359765800003",
+      "name": "Parmigiano Reggiano Lagrad",
+      "company": "Gastrino",
+      "ingredients": "?",
+      "gluten": "Glutenfri [ Läs Innehåll ]"
+    },
+    {
+      "id": "15290074002228",
+      "name": "Apelsinjuice",
+      "company": "Fontana",
+      "ingredients": "Apelsinjuice framställd av koncentrat från apelsinjuice.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5290093002271",
+      "name": "Halloumi Skivad",
+      "company": "Alambra",
+      "ingredients": "KOMJÖLK, FÅRMJÖLK, GETMJÖLK, salt, mikrobiellt ystenzym, mynta.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865083415",
+      "name": "Gräddfil Bägare 12%",
+      "company": "Arla",
+      "ingredients": "Pastöriserad GRÄDDE, syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8002795010341",
+      "name": "Mascarpone",
+      "company": "Sterilgarda",
+      "ingredients": "pastöriserad GRÄDDE, surhetsreglerande medel (citronsyra).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7622400661389",
+      "name": "Philadelphia Original",
+      "company": "Philadelphia",
+      "ingredients": "MJÖLK/MÆLK, GRÄDDE/FLØDE, vassle-/valle-/myseprodukt (MJÖLK), salt, stabiliseringsmedel/stabilisator (E410), syra (citronsyra), bakteriekultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340083475900",
+      "name": "Ägg 30p Frigående Inne L",
+      "company": "Gastrino",
+      "ingredients": "ÄGG. Klass A.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340083443886",
+      "name": "Mjölk Längre Hållbarhet 3%",
+      "company": "Garant",
+      "ingredients": "Högpastöriserad MJÖLK, vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7715",
+      "name": "Goudaost 30% Block",
+      "company": "Frau Antje",
+      "ingredients": "?",
+      "gluten": "Glutenfri [ Läs Innehåll ]"
+    },
+    {
+      "id": "7330857000247",
+      "name": "Kronjäst Färsk",
+      "company": "Jästbolaget",
+      "ingredients": "Jäst",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865070736",
+      "name": "Mjölk 3%",
+      "company": "Arla Ko",
+      "ingredients": "MJÖLK, vitamin D. Lågpastöriserad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "16408432061230",
+      "name": "Smör Normalsaltat 80%",
+      "company": "Valio",
+      "ingredients": "Pastöriserad GRÄDDE och salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865072761",
+      "name": "Vispgrädde 40%",
+      "company": "Arla Ko",
+      "ingredients": "Pastöriserad GRÄDDE.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340083443893",
+      "name": "Mellanmjölk Längre Hållbarhet 1,5%",
+      "company": "Garant",
+      "ingredients": "Högpastöriserad MJÖLK, vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083479363",
+      "name": "Gouda Skivad 29%",
+      "company": "Gastrino",
+      "ingredients": "Pastöriserad MJÖLK, salt 1,8%, syrningskultur, ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392672104128",
+      "name": "Turkisk Yoghurt Naturell 10%",
+      "company": "Salakis",
+      "ingredients": "Högpastöriserad och homogeniserad MJÖLK*/ høy- pasteurisert og homogenisert MELK*/MÆLK*/pastöroitu ja homogenisoitu MAITO*, högpastöriserad och homogeniserad GRÄDDE*/høypasteurisert og homoge- nisert FLØTE*/FLØDE*/pastöroitu ja homogenisoitu KERMA*, MJÖLKprotein/MELKprotein/MÆLKEprotein*/MAITO- proteiini, yoghurtkultur/hapate. *Ursprung/opprinnelse/alkuperä EU",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "27394376616031",
+      "name": "Ikaffe Havredryck",
+      "company": "Oatly",
+      "ingredients": "Vatten/vann/vand, HAVRE 10%, rapsolja, surhetsreglerande medel/surhedsregulerende middel (dikaliumfosfat), kalciumkarbonat, salt, vitaminer (D2, riboflavin, B12), kaliumjodid.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "17350056791507",
+      "name": "Ayran Turkisk Yoghurtdryck",
+      "company": "Larsa Foods",
+      "ingredients": "Yoghurt/Jugurtti 65% (Högpastöriserad och homogeniserad MJÖLK/homogenisert og pasteurisert MELK/homogenisoitu ja pastöroitu MAITO, grädde/krem/kerma, yoghurtkultur/hapate), vatten/vann/vesi, salt/suolaa.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865005158",
+      "name": "Smör Normalsaltat 82%",
+      "company": "Svenskt Smör",
+      "ingredients": "Pastöriserad GRÄDDE, mjölksyrakultur, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5760466863582",
+      "name": "Grädde Visp 35%",
+      "company": "Red Label",
+      "ingredients": "GRÄDDE, stabiliseringsmedel karragenan.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5704025033191",
+      "name": "Hamburgerost Cheddar Skivad",
+      "company": "Friendship",
+      "ingredients": "Cheddarost (60%), OST (13%), rekonstituerad SKUMMJÖLK, skumMJÖLKSpulver, emulgeringssalt (E331), natriumfosfater (E339), SMÖR, salt, surhetsreglerare (E330), färgämne (E160a, E160c), emulgeringsmedel (E322).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7622200139316",
+      "name": "Original 21%",
+      "company": "Philadelphia",
+      "ingredients": "MJÖLK/MÆLK/MELK, GRÄDDE/FLØDE/FLØTE, vassle-/valle-/myseprodukt (MJÖLK), salt, stabiliseringsmedel/stabilisator (fruktkärnmjöl/johannesbrødkernemel), syra (citronsyra), bakteriekultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "13250552521032",
+      "name": "Kolibrie 32%",
+      "company": "Wernersson",
+      "ingredients": "Pastöriserad KOMJÖLK, salt (1,8%, kraftigt saltad), mjölksyrakultur, ystenzym, mögelkultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310867561003",
+      "name": "Apelsinjuice",
+      "company": "Bravo",
+      "ingredients": "Apelsinjuice. Juice från koncentrat. 2 liter motsvarar juice från ca 4 kg apelsiner.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350056796505",
+      "name": "Naturell Yoghurt",
+      "company": "Larsa Foods",
+      "ingredients": "Högpastöriserad och homogeniserad MJÖLK/homogenisert og pasteurisert MELK/homogenisoitu ja pastöroitu MAITO, grädde/krem/kerma, yoghurtkultur/hapate",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17611612160848",
+      "name": "Mozzarella",
+      "company": "Fresca D´oro",
+      "ingredients": "Pastöriserad MJÖLK, salt, surhetsreglerande medel (citronsyra), mikrobiellt ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083467872",
+      "name": "Mjölk Längre Hållbarhet Fetthalt 3,0%",
+      "company": "Garant",
+      "ingredients": "Högpastöriserad MJÖLK, vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "45420024102000",
+      "name": "Mozzarella 22% Michelangelo",
+      "company": "Wernersson",
+      "ingredients": "pastöriserad KOMJÖLK, salt (0,60%), ystenzym, surhetsreglerande medel: citronsyra.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8719200023468",
+      "name": "Mat & Bak Margarin",
+      "company": "Milda",
+      "ingredients": "Vegetabilisk olja (palm#, raps 25%), vatten, vassle (av MJÖLK), salt (1,5%), emulgeringsmedel (SOJALECITIN), A- och D-vitamin, naturlig arom. #Spårbar och hållbart certifierad palmolja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083479370",
+      "name": "Gouda Tunnskivad 29%",
+      "company": "Gastrino",
+      "ingredients": "Pastöriserad MJÖLK, salt 1,8%, syrningskultur, ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865087932",
+      "name": "Filmjölk 3%",
+      "company": "Arla Ko",
+      "ingredients": "Högpastöriserad MJÖLK, filkultur, vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865070743",
+      "name": "Mellanmjölk 1,5%",
+      "company": "Arla Ko",
+      "ingredients": "MJÖLK, vitamin D. Lågpastöriserad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310860005764",
+      "name": "Normalsaltat 75%",
+      "company": "Bregott",
+      "ingredients": "SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, vatten, salt, vitamin A och D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865867862",
+      "name": "Gräddfil 12%",
+      "company": "Arla Ko",
+      "ingredients": "Pastöriserad GRÄDDE, syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "15290074002235",
+      "name": "Ananasjuice",
+      "company": "Fontana",
+      "ingredients": "Ananasjuice framställd av koncentrat från ananasjuice.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "37316840251996",
+      "name": "Äggula Flytande",
+      "company": "Lantägg",
+      "ingredients": "Pastöriserad Äggula (99%), konserveringsmedel (E202), surhetsreglerande medel (E330)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5701638430669",
+      "name": "Salladsost Tärnad i Lake",
+      "company": "Akadia",
+      "ingredients": "Pastöriserad MJÖLK, salt 3% (kraftigt saltad), mjölksyrakultur, mikrobiellt ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8719200212442",
+      "name": "Original",
+      "company": "Lätta",
+      "ingredients": "Vatten, rapsolja 26%, kokosolja, solrosolja, KÄRNMJÖLK (5%), modifierad stärkelse, salt (1,5%), emulgeringsmedel (mono- och diglycerider av fettsyror, solroslecitin), konserveringsmedel (kaliumsorbat), syra (mjölksyra), naturlig arom, vitamin D, färgämne (karotener).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083445085",
+      "name": "Ägg 15p Frigående M Eko",
+      "company": "Garant Eko",
+      "ingredients": "ÄGG*. *KRAV-certifierad råvara.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "16408432061469",
+      "name": "Smör & Raps Normalsaltat 75% Gårdsgoda",
+      "company": "Valio",
+      "ingredients": "SMÖR (64 %), rapsolja (23 %), vatten, salt och vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083485340",
+      "name": "Halloumi",
+      "company": "Garant",
+      "ingredients": "Pastöriserad ko-, får- och getMJÖLK, ystenzym, salt, mynta.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8004840995061",
+      "name": "Smältost Ched'up 22%",
+      "company": "Wernersson",
+      "ingredients": "OST (25%), VASSLE koncentrat, vatten, SMÖR, MJÖLK protein, VASSLEpulver, smältsalter: (E330, E331, E339, E341, E452), salt, färgämne: paprika extrakt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865889072",
+      "name": "Crème Fraîche 32%",
+      "company": "Arla Pro",
+      "ingredients": "Pastöriserad GRÄDDE, syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "15290074003690",
+      "name": "Fruktdryck Passion",
+      "company": "Fontana",
+      "ingredients": "Vatten, passionsfruktjuice av koncentrat (19%), socker, stabiliseringsmedel (pectin), antioxidationsmedel: askorbinsyra, aromer.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408430219957",
+      "name": "Oddlygood Barista Havredryck",
+      "company": "Valio",
+      "ingredients": "Havrebas (vatten, glutenfritt HAVREMJÖL, rybsolja, kalcium, salt), vatten, surhetsreglerande medel (kaliumfosfater), jod, vitaminer (riboflavin (B2), B12 och D2). Innehåller havre 10 %.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "17340083481076",
       "name": "Räkor Stora i Lake",
