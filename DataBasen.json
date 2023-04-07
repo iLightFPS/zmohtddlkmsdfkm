@@ -1,6 +1,181 @@
 {
-  "date": "2023-03-02",
+  "date": "2023-04-07",
   "list": [
+    {
+      "id": "7311590002026",
+      "name": "Nöt-Crème",
+      "company": "Nöt-Crème",
+      "ingredients": "Socker, vegetabiliska oljor och fetter (raps, fullhärdad kokos), HASSELNÖTTER, JORDNÖTTER, kakao, naturlig vanilj, emulgator (solroslecitin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "27394376615775",
+      "name": "Imat Matlagningsgrädde 13%",
+      "company": "Oatly",
+      "ingredients": "Vatten/vann, rapsolja, HAVRE 10%, emulgeringsmedel (E472e), stabiliseringsmedel (E415), joderat salt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "17310865094626",
+      "name": "Latte Art 2,6%",
+      "company": "Arla",
+      "ingredients": "MJÖLK*, MJÖLKPROTEIN*. Högpastöriserad. *KRAV-ekologisk ingrediens.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865089677",
+      "name": "Standardmjölk 3%",
+      "company": "Arla Ko",
+      "ingredients": "Mjölk, vitamin D. Högpastöriserad",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865089653",
+      "name": "Mellanmjölk 1.5%",
+      "company": "Arla Ko",
+      "ingredients": "Mjölk, vitamin D. Högpastöriserad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865074529",
+      "name": "Lantmjölk Eko 3,8-4,5%",
+      "company": "Arla Ko",
+      "ingredients": "MJÖLK*. *KRAV- ekologisk ingrediens Ej standardiserad. Ej homogeniserad. Lågpastöriserad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17350014090017",
+      "name": "Köksgrädde 30%",
+      "company": "Tage Lindblom",
+      "ingredients": "?",
+      "gluten": "Glutenfri [ Läs Innehåll ]"
+    },
+    {
+      "id": "5410488821274",
+      "name": "Vispgrädde Stand & Overrun 35%",
+      "company": "Debic",
+      "ingredients": "?",
+      "gluten": "Glutenfri [ Läs Innehåll ]"
+    },
+    {
+      "id": "17310865685893",
+      "name": "Vispgrädde 40%",
+      "company": "Arla Ko",
+      "ingredients": "Pastöriserad GRÄDDE.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5410488821540",
+      "name": "Vegetop Visp",
+      "company": "Debic",
+      "ingredients": "söt kärnMJÖLK; vegetabilisk olja (25%) (palmkärnolja, kokosolja, palmolja, rapsolja); fullhärdat palmkärnolja (8%); modifierad stärkelse; emulgeringsmedel: E472b, E435, E433; aromämnen; stabiliseringsmedel: E407; färgämnen: betakaroten",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865018493",
+      "name": "Samoa Fruktyoghurt 2%",
+      "company": "Yoggi",
+      "ingredients": "MJÖLK, frukt 8 % (persika, kiwi, mango, ananas, melon, passionsfruktjuice), socker 7,5%, MJÖLKPROTEIN, majsstärkelse, naturlig arom, yoghurtkultur, vitamin D. Mjölken är högpastöriserad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083435949",
+      "name": "Yoghurt Naturell Laktosfri 1,5%",
+      "company": "Garant",
+      "ingredients": "Högpastöriserad MJÖLK, MJÖLKPROTEIN, laktasenzym, yoghurtkultur, vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17340083435932",
+      "name": "Vaniljyoghurt Laktosfri Fetthalt 1,3%",
+      "company": "Garant",
+      "ingredients": "Högpastöriserad MJÖLK, socker, vatten, MJÖLKPROTEIN, majsstärkelse, arom, förtjockningsmedel (citruspektin), surhetsreglerande medel (citronsyra), mald vaniljstång, vaniljextrakt, laktasenzym, yoghurtkultur, vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865876406",
+      "name": "Mild Yoghurt Lätt Naturell 0,5%",
+      "company": "Arla Ko",
+      "ingredients": "MJÖLK, MJÖLKPROTEIN, mild yoghurtkultur, vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865079951",
+      "name": "Vaniljyoghurt Jordgubb Laktosfri 2%",
+      "company": "Yoggi",
+      "ingredients": "MJÖLK, jordgubbar 8 %, socker 7,5 %, MJÖLKPROTEIN, majsstärkelse, naturlig arom, vaniljextrakt, laktasenzym och yoghurtkultur, vitamin D. Mjölken är högpastöriserad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865866551",
+      "name": "Mild Grekisk Yoghurt Naturell 6%",
+      "company": "Arla Ko",
+      "ingredients": "Högpastöriserad MJÖLK och GRÄDDE, grekisk mild yoghurtkultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865070453",
+      "name": "Madagaskar Vanilj Yoghurt 2%",
+      "company": "Yoggi",
+      "ingredients": "MJÖLK, socker 6,6 %, MJÖLKPROTEIN, majsstärkelse, vaniljextrakt från Madagaskar 0,2 %, mald vaniljstång 0,02 %, syra (citronsyra), yoghurtkultur, vitamin D. Mjölken är högpastöriserad",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865052688",
+      "name": "Vaniljyoghurt Jordgubb 2%",
+      "company": "Yoggi",
+      "ingredients": "MJÖLK, jordgubbar 8 %, socker 7,6 %, MJÖLKPROTEIN, majsstärkelse, naturlig arom, vaniljextrakt, yoghurtkultur, vitamin D. Mjölken är högpastöriserad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865093360",
+      "name": "Miniyoghurt Blåbär 0,1%",
+      "company": "Yoggi",
+      "ingredients": "MJÖLK, blåbär 3,8%, MJÖLKprotein, cikoriarotfiber (inulin), modifierad majsstärkelse, förtjockningsmedel (citruspektin), arom, sötningsmedel (aspartam**), surhetsreglerande medel E331, yoghurtkultur, Vitamin D. Mjölken är högpastöriserad. D-vitaminberikad. *Innehåller sötningsmedel samt naturliga sockerarter från mjölk och frukt. **Innehåller en fenylalaninkälla.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865866605",
+      "name": "Mild Yoghurt Naturell Eko 3,8-4,5%",
+      "company": "Arla Ko Eko",
+      "ingredients": "Högpastöriserad MJÖLK* och mild yoghurtkultur. *KRAV-ekologisk ingrediens.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865094640",
+      "name": "Keso Naturell Laktosfri 4%",
+      "company": "Keso",
+      "ingredients": "pastöriserad MJÖLK och GRÄDDE, salt, konserveringsmedel (kaliumsorbat), syrningskultur, laktasenzym, ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865094114",
+      "name": "Filmjölk Eko Laktosfri 3%",
+      "company": "Arla Ko",
+      "ingredients": "Svensk högpastöriserad MJÖLK*, laktasenzym, D-vitamin och filkultur. *KRAV-ekologisk ingrediens",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865093414",
+      "name": "Miniyoghurt Hallon 0.1%",
+      "company": "Yoggi",
+      "ingredients": "MJÖLK, hallon 4,5 %, MJÖLKprotein cikoriarotfiber (inulin), modifierad majsstärkelse, arom, förtjockningsmedel (citruspektin), sötningsmedel (aspartam**), yoghurtkultur, Vitamin D. Mjölken är högpastöriserad. D-vitaminberikad. *Innehåller sötningsmedel samt naturliga sockerarter från mjölk och frukt. **Innehåller en fenylalaninkälla.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "17310865094152",
+      "name": "Mild Yoghurt Naturell Ekologisk Laktosfri 1,5%",
+      "company": "Arla Ko",
+      "ingredients": "Svensk högpastöriserad mjölk* , mjölkprotein**, laktasenzym, mild yoghurtkultur, vitamin D. *KRAV-ekologisk ingrediens. **Ekologisk ingrediens.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6413300025699",
+      "name": "Kesella Kvarg 9% Laktosfri",
+      "company": "Arla Pro",
+      "ingredients": "Pastöriserad MJÖLK och GRÄDDE, syrningskultur, ystenzym, laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7310865889478",
       "name": "Yoghurt Turkisk 10%",
