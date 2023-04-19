@@ -2,6 +2,20 @@
   "date": "2023-04-07",
   "list": [
     {
+      "id": "7310401049847",
+      "name": "Loka Ananas Passionsfruk",
+      "company": "Loka",
+      "ingredients": "Kolsyrat vatten, naturliga aromämnen, natriumvätekarbonat, kaliumvätekarbonat, magnesiumklorid, natriumsulfat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7622201517885",
+      "name": "Mörk Choklad Premium Karamelliserad Nöt",
+      "company": "Marabou",
+      "ingredients": "Kakaomassa, socker, kakaosmör, fettreducerat kakaopulver, HASSELNÖTTER (2,5 %), MANDEL (2,3 %), SMÖRFETT, emulgeringsmedel (SOJALECITINER), salt (0,1 %), naturlig vaniljarom, SKUMMJÖLKSPULVER. minst 70 % kakao. KAN INNEHÅLLA ANDRA NÖTTER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7311590002026",
       "name": "Nöt-Crème",
       "company": "Nöt-Crème",
