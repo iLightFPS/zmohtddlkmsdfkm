@@ -2,6 +2,34 @@
   "date": "2023-04-07",
   "list": [
     {
+      "id": "7318690013402",
+      "name": "Passerade tomater 3-p 200g ICA",
+      "company": "ICA",
+      "ingredients": "Passerade tomater*, salt, surhetsreglerande medel (E330). *Odlade i Italien.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310532152720",
+      "name": "Jordnötssmör Crunchy 340g Estrella",
+      "company": "Estrella",
+      "ingredients": "Rostade JORDNÖTTER (95%), kakaosmör, vegetabilisk olja (rapsolja, sojaolja), havssalt. Kan innehålla spår av NÖTTER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310240066333",
+      "name": "Klassiskt Potatismos 33 port 1243g Felix",
+      "company": "Felix",
+      "ingredients": "Torkad potatis 89%, MJÖLKPULVER, salt, vegetabiliskt fett (palm, raps), svartpepparextrakt, smörarom, stabiliseringsmedel (E450, E471), antioxidationsmedel (E223 SULFIT, E300 och E304).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340011469780",
+      "name": "Majskakor Ost",
+      "company": "Coop",
+      "ingredients": "Majs 78% (majsgryn (EU), majsmjöl (EU)), rapsolja, ostkryddor (vasslepulver (MJÖLK ), ostpulver (ost ( MJÖLK , salt, animaliskt löpe, mjölksyrakultur), vasslepulver ( MJÖLK )), salt, jästextrakt, arom, syror (E 270, E 327), kryddextrakt, färgämne (E 160c)). Kan innehålla spår av sesamfrön och soja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7310401049847",
       "name": "Loka Ananas Passionsfruk",
       "company": "Loka",
