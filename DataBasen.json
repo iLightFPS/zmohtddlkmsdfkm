@@ -2,6 +2,34 @@
   "date": "2023-04-07",
   "list": [
     {
+      "id": "8850213107001",
+      "name": "Fisksås Fish Sauce",
+      "company": "OYSTER BRAND",
+      "ingredients": "ANSJOVIS extrakt (Engraulis encrasicolus) 66%, salt, socker, färgämne (E150c), antioxidationsmedel (E330), konserveringsmedel (E260).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6947593010587",
+      "name": "Soja Äkta Kinesisk Mushroom",
+      "company": "PEARL RIVER",
+      "ingredients": "Vatten, SOJAbönor (20%), salt (20%), socker (18%), VETEmjöl, svampextrakt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311041081761",
+      "name": "Winegum English 250g",
+      "company": "DAZZLEY",
+      "ingredients": "Glukossirap, socker, VETESTÄRKELSE, gelatin (från gris), modifierad potatisstärkelse, vatten, syror (E260, E270), aromer, vegetabilisk olja (palm, kokos), färgämnen (E100, E120, E141, E153, E160e), ytbehandlingsmedel (E901, E903)",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7041111133006",
+      "name": "Frukt Toppar 140g",
+      "company": "Brynild",
+      "ingredients": "Socker, glukossirap, konsistensmedel (oxiderad potatisstärkelse), invertsocker, gelatin, stabiliseringsmedel (E420), surhetsreglerande medel (E330, E331), aromer, färgämnen (E141, E160a, E160e, E120), emulgeringsmedel (E471), ytbehandlingsmedel (kokosolja, E422, E901).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7392672003575",
       "name": "Drickkvarg Päron & vanilj 330ml Lindahls",
       "company": "Lindahls",
