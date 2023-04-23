@@ -1,6 +1,13 @@
 {
-  "date": "2023-04-07",
+  "date": "2023-04-23",
   "list": [
+    {
+      "id": "7311041064474",
+      "name": "Vanillinsocker Garant 140",
+      "company": "Garant",
+      "ingredients": "Socker, arom (etylvanillin,vanillin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "8850213107001",
       "name": "Fisksås Fish Sauce",
