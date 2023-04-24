@@ -1,6 +1,104 @@
 {
-  "date": "2023-04-23",
+  "date": "2023-04-24",
   "list": [
+    {
+      "id": "7318690185581",
+      "name": "Pasta Pappardelle Vitlök & Persilja Färsk 250g ICA",
+      "company": "ICA",
+      "ingredients": "DURUMVETEMJÖL 51%, VETEMJÖL 22%, ÄGG 20%, vitlök 2,3%, persilja 2,6%. Kan innehålla spår av SOJA.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310401047669",
+      "name": "Peach Bcaa Energidryck Burk 33cl",
+      "company": "NAIA",
+      "ingredients": "Kolsyrat vatten, vegansk BCAA (grenade aminosyror: l-leucin, l-isoleucin och l-valin), syra (äppelsyra), naturlig arom, koffein, sötningsmedel (sukralos och acesulfam K), ginsengextrakt, vitaminer (B6, Biotin, B12 och D). Koncentrat från äpple, safflor, citron, sötpotatis, rädisa och körsbär. HÖG KOFFEINHALT 200 mg/330 ml (60 mg/100 ml) REKOMMENDERAS EJ FÖR BARN, GRAVIDA ELLER AMMANDE KVINNOR",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690185550",
+      "name": "Pasta Fettuccine Spenat Färsk 250g ICA",
+      "company": "ICA",
+      "ingredients": "DURUMVETEMJÖL 50%, VETEMJÖL 21%, ÄGG 20%, vatten, spenat 3,8%, spenatpulver 1,8%. Kan innehålla spår av SOJA.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7318690185567",
+      "name": "Pasta Fettuccine Tomat Färsk 250g ICA",
+      "company": "ICA",
+      "ingredients": "DURUMVETEMJÖL 51%, VETEMJÖL 22%, ÄGG 20%, vatten, tomatpulver 3,5%. Kan innehålla spår av SOJA.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7318690185543",
+      "name": "Pasta Spaghetti Färsk 250g ICA",
+      "company": "ICA",
+      "ingredients": "DURUMVETEMJÖL 51%, VETEMJÖL 22%, ÄGG 20%, vatten. Kan innehålla spår av SOJA.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311800009258",
+      "name": "Hällakaka 5-pack 325g",
+      "company": "Polarbröd",
+      "ingredients": "VETEmjöl¹, vatten, socker¹, sirap¹, rapsolja¹, fermenterat VETEmjöl, jäst¹, VETEGLUTEN, salt, HAVREfiber, vegetabiliskt emulgeringsmedel (mono- och diglycerider av fettsyror, mono- och diglyceriders mono- och diacetylvinsyraestrar), bakpulver (hjorthornssalt), maltmjöl (KORN). 1Ursprungsland: Sverige.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8594012705166",
+      "name": "Fraîche Lätt 8% 2dl",
+      "company": "Yoplait",
+      "ingredients": "Pastöriserad SkumMJÖLK - GRÄDDE - SkumMJÖLKspulver - Modifierad majsstärkelse - Syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690185536",
+      "name": "Fettuccine Naturell 250g ICA",
+      "company": "ICA",
+      "ingredients": "DURUMVETEMJÖL 51%, VETEMJÖL 22%, ÄGG 20%, vatten. Kan innehålla spår av SOJA.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311311004278",
+      "name": "Askorbinsyra påse 37g Santa Maria",
+      "company": "Santa Maria",
+      "ingredients": "Askorbinsyra (E300).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311041034125",
+      "name": "Bikarbonat Påse 170g",
+      "company": "Eldorado",
+      "ingredients": "Natriumbikarbonat (E500).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340083481239",
+      "name": "Bovetemix 350g",
+      "company": "GARANT",
+      "ingredients": "Bovete 30%, rött ris 25%, ris av kikärtor 20%, quinoa 15%, pumpakärnor 10%.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311041034163",
+      "name": "Citronsyra Påse 150g",
+      "company": "Eldorado",
+      "ingredients": "Citronsyra (E330)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310700817505",
+      "name": "Citronsyra Påse 130g",
+      "company": "KOCKENS",
+      "ingredients": "Citronsyra (E330).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310700815419",
+      "name": "Citronsyra Påse 30g",
+      "company": "KOCKENS",
+      "ingredients": "Citronsyra (E330).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311041064474",
       "name": "Vanillinsocker Garant 140",
