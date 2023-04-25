@@ -1,6 +1,27 @@
 {
-  "date": "2023-04-24",
+  "date": "2023-04-25",
   "list": [
+    {
+      "id": "7310620020504",
+      "name": "Grillkorv Hots 400g",
+      "company": "Lithells",
+      "ingredients": "Griskött (34%), vatten, potatismjöl, grisfett, bindväv från gris, salt, antioxidationsmedel (E325, E300), potatisfiber, druvsocker, kryddor och kryddextrakt (peppar, koriander, paprika, rosmarin), lökpulver, konserveringsmedel (E262, E250), rökarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340045510854",
+      "name": "Grillspett Fläsk 380g",
+      "company": "GARANT",
+      "ingredients": "97% fläskkött av picnicbog, 3% krydda (salt, lök, paprika, stärkelsesirap, krydda, svartpeppar, ingefära, vitlök, tomat, kryddextrakt (paprika).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7322550092056",
+      "name": "Grönpepparsås 3-p 7,5dl Blå Band",
+      "company": "BLÅ BAND",
+      "ingredients": "VETEMJÖL, majsstärkelse, palmfett, salt, GRÄDDPULVER, grönpeppar [4,5 %], LAKTOS, färgämne (E 150c), jästextrakt, lök, arom, MJÖLKPROTEIN, maltodextrin, emulgeringsmedel (E 451, SOJALECITIN).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7318690185581",
       "name": "Pasta Pappardelle Vitlök & Persilja Färsk 250g ICA",
