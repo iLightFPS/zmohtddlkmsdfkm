@@ -2,6 +2,27 @@
   "date": "2023-04-25",
   "list": [
     {
+      "id": "7310240027556",
+      "name": "Vitlöksdressing 370ml Felix",
+      "company": "Felix",
+      "ingredients": "KÄRNMJÖLK, rapsolja, vatten, ättika, socker, vitlök, senap (vatten, SENAPSFRÖ, socker, ättika, salt, kryddor), salt, ÄGGULA, stärkelse, naturlig vitlöks- och citronarom, syra (mjölksyra), förtjockningsmedel (xantan), lök, gräslök, kryddextrakt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5900020035714",
+      "name": "Cornflakes Glutenfri 375g Nestle",
+      "company": "Nestle",
+      "ingredients": "Majsgryn (99,9%), socker/sukker, salt, druvsocker/dextrose, mörk invertsockersirap, surhetsreglerande medel/surhetsregulerende middel (trinatriumfosfat). Kan innehålla JORDNÖTTER/JORDNØDDER/PEANØTTER och NÖTTER/NØDDER/NØTTER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310050005171",
+      "name": "Ice Latte Macchiato Ekologisk 230ml Löfbergs",
+      "company": "Löfbergs",
+      "ingredients": "77% MJÖLK*, 17% arabica-kaffe (vatten, kaffe*), socker*, förtjockningsmedel (karragenan, gellangummi), surhetsreglerande medel (trinatriumcitrat). Koffein, 50,6 mg/burk.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7310620020504",
       "name": "Grillkorv Hots 400g",
       "company": "Lithells",
