@@ -2,6 +2,20 @@
   "date": "2023-04-25",
   "list": [
     {
+      "id": "7350035210169",
+      "name": "Snabbnudlar Kryddstark 85g",
+      "company": "Samyang Ramen",
+      "ingredients": "NUDLAR : VETEMJÖL, Palmolja, Förtjockningsmedel(E1420, E412), Salt, Emulgeringsmedel[E422, E322(innehåller SOJA), E475], SOJAolja, Surhetsreglerande medel(E501, E500, E339), Vatten, Tokoferolpulver(innehåller SOJA), Grönt te-extrakt, Surhetsreglerande medel(E330). SOPPA : Salt, Socker, Smakförstärkare(E621, E635), Jästextrakt, Maltodextrin, SOJAsåspulver, Chilipeppar i pulver, Lökpulver, Färg(E150c), Rismjöl, Glukos, Vitlökspulver, Svartpeppar i pulver, Chilipepparfröolja, SOJAolja, Färg(E160c).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7318690500865",
+      "name": "Linskakor Gräddfil & Lök 125g ICA",
+      "company": "ICA",
+      "ingredients": "Linsmjöl* 78%, rapsol- ja, kryddblandning 9% (vasslepulver (MJÖLK), salt, KÄRNMJÖLKSPULVER, ostpul- ver (MJÖLK), lökpulver, tomatpulver, druvsocker, vitlökspulver, arom, syra (E296), jästextrakt, persilja, syra (E262), cayennepeppar, färgämne (E160c)). Kan innehålla spår av sesam- frö och soja. *Odlat i EU/ icke-EU.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7310240027556",
       "name": "Vitlöksdressing 370ml Felix",
       "company": "Felix",
