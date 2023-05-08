@@ -2,6 +2,27 @@
   "date": "2023-04-25",
   "list": [
     {
+      "id": "7318690166344",
+      "name": "Salladskrydda Italiensk 47g ICA",
+      "company": "ICA",
+      "ingredients": "Salt, lök, socker, vitlök, svartpeppar, krydda (oregano, koriander, paprika, timjan, dragon, libbsticka), persilja, tomat, citronjuicepulver.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7333192029003",
+      "name": "Chokladbiskvi 2-p 130g",
+      "company": "Bake My Day",
+      "ingredients": "Socker, rapsolja, MANDEL, sirap, ÄGGVITA, kakao, kokosolja, arom, salt, emulgeringsmedel (E471, E412), LAKTOS, SOJALECITIN, surhetsreglerande medel (E330, E331), konserveringsmedel (E202).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310070005144",
+      "name": "Pepsi Regular 150 cl",
+      "company": "Pepsi",
+      "ingredients": "Kolsyrat vatten, socker, färgämne (E 150d), surhetsreglerande medel (fosforsyra), aromämnen (inkl. koffein), sötningsmedel (acesulfam K, sukralos).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7340083482793",
       "name": "Cornflakes 750g Eldorado",
       "company": "Eldorado",
