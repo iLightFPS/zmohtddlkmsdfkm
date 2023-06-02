@@ -1,6 +1,34 @@
 {
-  "date": "2023-05-29",
+  "date": "2023-06-02",
   "list": [
+    {
+      "id": "7310130006029",
+      "name": "Kärnvetemjöl 2kg",
+      "company": "Kungsörnen",
+      "ingredients": "kärnVETEmjöl, mjölbehandlingsmedel(askorbinsyra).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311311014024",
+      "name": "Grillkrydda 300g",
+      "company": "Santa Maria",
+      "ingredients": "Salt, lök (24%), paprika (16%), svartpeppar, tomat, naturlig arom, vitlök (1,7%), ingefära, chilipeppar (1,3%), spiskummin, SELLERIFRÖ, cayennepeppar, oregano, klumpförebyggande medel (kiseldioxid).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8076802085738",
+      "name": "Pasta Penne Rigate 500g",
+      "company": "Barilla",
+      "ingredients": "DURUMVETE, vatten. Kan innehålla spår av SOJABÖNOR och SENAP.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310390001369",
+      "name": "Köttsoppa 540g",
+      "company": "Knorr",
+      "ingredients": "Vatten, grönsaker 42 % (morot, vitkål, palsternacka, purjolök), kokt nötkött 8,5 %, salt, modifierad stärkelse smakförstärkare (mononatriumglutamat, dinatriumguanylat, dinatriuminosinat), nötköttextrakt, lök, arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7310350132874",
       "name": "Ahlgrens Bilar Original 125g",
