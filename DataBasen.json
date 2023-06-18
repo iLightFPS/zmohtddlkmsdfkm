@@ -1,6 +1,48 @@
 {
-  "date": "2023-06-02",
+  "date": "2023-06-18",
   "list": [
+    {
+      "id": "7350090451651",
+      "name": "Kebabsås Röd 250ml",
+      "company": "Schysst Käk",
+      "ingredients": "Vatten, tomat (34,8%), rapsolja, tomatjuice, socker, olivolja, vinäger, vitlök, salt, spiskummin, lök (0,6%), karamelliserat socker, chili, oregano, persilja (0,4%), paprikaextrakt, konserveringsmedel (E202), förtjockningsmedel (E415, E1414), surhetsreglerande medel (E330)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7391589006501",
+      "name": "Hammars Bryggeri Jordgubb Sockerfri 1L",
+      "company": "Hammars Bryggeri",
+      "ingredients": "Kolsyrat vatten, naturlig jordgubbsarom, färg antocyaner, sötningsmedel aspartam och acesulfam K, konserveringsmedel (citronsyra, natriumbensoat). Innehåller en fenylalaninkälla. Innehåller sötningsmedel.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310070005137",
+      "name": "Pepsi 50cl",
+      "company": "Pepsi",
+      "ingredients": "Kolsyrat vatten, socker, färgämne (E 150d), surhetsreglerande medel (fosforsyra), aromämnen (inkl. koffein), sötningsmedel (acesulfam K, sukralos).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310400020731",
+      "name": "Kolsyrat vatten Citron 50cl",
+      "company": "Loka",
+      "ingredients": "Kolsyrat vatten, natriumvätekarbonat, naturliga aromämnen, kaliumvätekarbonat, magnesiumklorid, natriumsulfat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310401043043",
+      "name": "Jordgubb Granatäpple 33cl",
+      "company": "Loka",
+      "ingredients": "Kolsyrat vatten, natriumvätekarbonat, naturliga aromämnen, kaliumvätekarbonat, magnesiumklorid, natriumsulfat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310780005519",
+      "name": "Ahlgrens Bilar Original 30gr",
+      "company": "Ahlgrens Bilar",
+      "ingredients": "glukossirap, socker, stärkelse, gelatin, invertsockersirap, syra (E270), vegetabiliska oljor (kokos, raps), aromer, ytbehandlingsmedel (karnaubavax), färgämnen (E141, E120).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690164302",
       "name": "Köttbullar 1kg ICA",
