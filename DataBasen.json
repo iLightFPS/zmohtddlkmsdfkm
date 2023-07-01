@@ -1,6 +1,27 @@
 {
-  "date": "2023-06-18",
+  "date": "2023-07-01",
   "list": [
+    {
+      "id": "7392672001724",
+      "name": "Hallonsmak Kvarg 0,2% 150g",
+      "company": "Lindahls",
+      "ingredients": "Pastöriserad MJÖLK/pasteurisert MELK, mjölksyrakultur/melkesyrekultur, ystenzym/mikrobiell løpe, naturlig arom/naturlig smakstilsetning, syra (citronsyra), förtjockningsmedel (modifierad majsstärkelse), färgämne/ farvestoff (svartmorotjuice/gulrotjuice), sötningsmedel/søtstoffer (Acesulfam K, aspartam). Innehåller en källa av fenylalanin./Inneholder en fenylalaninkilde.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408430102068",
+      "name": "Havredryck Barista 1l",
+      "company": "Valio",
+      "ingredients": "Havrebas (vatten, glutenfritt HAVREMJÖL, rybsolja, kalcium, salt), vatten, surhetsreglerande medel (kaliumfosfater), jod, vitaminer (riboflavin (B2), B12 och D2). Innehåller havre 10 %.",
+      "gluten": "Glutenfri [ Ja, Glutenfri Havre ]"
+    },
+    {
+      "id": "7300156576996",
+      "name": "Kalkon Rökt Tunna Skivor 180g",
+      "company": "Coop",
+      "ingredients": "Kalkonbröst˚ 94% (sammanfogade bitar av kött), vatten, salt, socker, stabiliseringsmedel (E 450), antioxidationsmedel (E 301, E 331), konserveringsmedel (E 250). Kokt och rökt. ˚Ursprung: Tyskland.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690131847",
       "name": "Majskrokar Ekologiska 90g ICA I love eco",
