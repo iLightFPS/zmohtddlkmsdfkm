@@ -1,6 +1,41 @@
 {
-  "date": "2023-07-01",
+  "date": "2023-08-01",
   "list": [
+    {
+      "id": "7300203296006",
+      "name": "Pilsnerkorv 455g",
+      "company": "Bullens",
+      "ingredients": "Svenskt gris- och nötkött (33%)*, vatten, nöthjärta*, nötlunga*, potatismjöl, fett från gris*, bindväv från gris*, salt, blodprotein av nöt och gris, potatisfiber, modifierad majsstärkelse, socker, kryddextrakt, arom, koriander, antioxidationsmedel E300, konserveringsmedel E250, fårfjälster, rökarom. * Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350043043131",
+      "name": "Fun Slush 5l",
+      "company": "Popz",
+      "ingredients": "Socker, vatten, syra(E330), arom, konserveringsmedel(E202, E211), färg(E131), färgtistel.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "07340083480775",
+      "name": "Kokosmjölk 18% Ekologisk",
+      "company": "GARANT EKO",
+      "ingredients": "Kokosextrakt* 50%, vatten. *Ekologisk ingrediens.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340083469619",
+      "name": "Garant Passerade Tomater Ekologiska 390g",
+      "company": "GARANT EKO",
+      "ingredients": "Passerade tomater *, salt. *Ekologisk ingrediens.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310240066166",
+      "name": "Potatismos 220g",
+      "company": "Felix",
+      "ingredients": "Torkad potatis 89%, MJÖLKPULVER, salt, vegetabiliskt fett (palm, raps), svartpepparextrakt, smörarom, stabiliseringsmedel (E450, E471) och antioxidationsmedel (E223 SULFIT, E300, E304).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7350046810181",
       "name": "Coco Rochers 250g",
