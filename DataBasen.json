@@ -1,6 +1,41 @@
 {
-  "date": "2023-08-09",
+  "date": "2023-08-19",
   "list": [
+    {
+      "id": "08711327540934",
+      "name": "O'hoj Dessertsås Kolasås - 350 g",
+      "company": "O'hoj",
+      "ingredients": "Glukos-fruktossirap, socker, vatten, SKUMMJÖLKSPULVER, kokosfett, modifierad stärkelse, HELMJÖLKSPULVER, salt, emulgeringsmedel (SOJALECITIN), konserveringsmedel (kaliumsorbat), arom, antioxidationsmedel (tokoferolrika extrakt).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "08711327540903",
+      "name": "O'hoj Dessertsås Chokladsås - 350 g",
+      "company": "O'hoj",
+      "ingredients": "Socker, glukos-fruktossirap, vatten, fettreducerat kakaopulver (9%), kokosfett, SKUMMJÖLKSPULVER, modifierad stärkelse, syra (citronsyra), salt, konserveringsmedel (kaliumsorbat), arom, antioxidationsmedel (tokoferolrika extrakt).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "08711327540965",
+      "name": "O'hoj Hard Topping Milk Choco - 300 gr",
+      "company": "O'hoj",
+      "ingredients": "Vegetabiliska oljor (kokos, solros), socker, SKUMMJÖLKSPULVER, fettreducerat kakaopulver (7,9%), emulgeringsmedel (SOJALECITIN, E472e), arom, salt. Kan innehålla NÖTTER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690141761",
+      "name": "Sötpotatis strips Fryst 500g ICA",
+      "company": "ICA",
+      "ingredients": "Sötpotatis* 82%, rapsolja, modifierad potatisstärkelse, modifierad tapiokastärkelse, rismjöl, druvsocker, salt, socker, färgämne (E160b), förtjockningsmedel (E4150), paprika. *Odlad i USA.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340011495840",
+      "name": "Sötpotatis Pommes 500g",
+      "company": "COOP",
+      "ingredients": "Sötpotatis 89% (EU och/eller icke-EU), solrosolja 7%, modifierad potatisstärkelse, rismjöl, dextrin, salt, kryddor (svartpeppar, paprikapulver), vitlökspulver, lökpulver, bakpulver (E 450, E 500), förtjockningsmedel (E 415), arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7393263064234",
       "name": "Norrlandsfalukorv 65% / 800,00 g",
