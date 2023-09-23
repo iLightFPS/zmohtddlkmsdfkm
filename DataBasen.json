@@ -1,6 +1,41 @@
 {
-  "date": "2023-08-24",
+  "date": "2023-09-23",
   "list": [
+    {
+      "id": "7322550052784",
+      "name": "Oxfond Rödvin 180 ml",
+      "company": "Bong Touch of Taste",
+      "ingredients": "Vatten, rött vin 13%, salt, köttextrakt, arom (innehåller SELLERI), modifierad potatisstärkelse, syra: mjölksyra, konserveringsmedel: kaliumsorbat. Salthalt i utspädd fond är 0,7 %.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7322550052722",
+      "name": "Kycklingfond 180 ml",
+      "company": "Bong Touch of Taste",
+      "ingredients": "Vatten, salt, arom (innehåller SELLERI), kycklingextrakt, socker, modifierad potatisstärkelse, kycklingfett, kycklingkött, syra: citronsyra, konserveringsmedel: kaliumsorbat, dragonextrakt. Salthalt i utspädd fond är 0,7 %.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7322550052661",
+      "name": "Kalvfond 500ml",
+      "company": "Bong Touch of Taste",
+      "ingredients": "Vatten, salt, arom, köttextrakt, tomat, kalvbuljong, modifierad potatisstärkelse, syra: mjölksyra, konserveringsmedel (kaliumsorbat). Salthalt i utspädd fond är 0,7 %.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7322550052838",
+      "name": "Köttfond Eko 180ml",
+      "company": "Bong Touch of Taste",
+      "ingredients": "Vatten, salt, koncentrerad köttbuljong* (vatten, nötkött*), naturliga aromer, rörsocker*, majsstärkelse*, tomatpulver*, syra: mjölksyra. Salthalt i utspädd fond är 0,7% * = Ekologisk ingrediens från EU/icke-EU jordbruk.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7322550052715",
+      "name": "Kalvfond 180 ml",
+      "company": "Bong Touch of Taste",
+      "ingredients": "Vatten, salt, arom, köttextrakt, tomat, kalvbuljong, modifierad potatisstärkelse, syra: mjölksyra, konserveringsmedel: kaliumsorbat. Salthalt i utspädd fond är 0,7 %.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7310130311048",
       "name": "Mannagryn 1kg",
