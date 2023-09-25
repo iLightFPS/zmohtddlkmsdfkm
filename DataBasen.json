@@ -2,6 +2,27 @@
   "date": "2023-09-25",
   "list": [
     {
+      "id": "6420256014134",
+      "name": "Tupla Maxi 50g",
+      "company": "Cloetta",
+      "ingredients": "glukossirap, socker, vegetabiliska fetter (palm, shea), SKUMMJÖLKSPULVER, kakaosmör*, MANDEL, HELMJÖLKSPULVER, kakaomassa*, kakaopulver*, VASSLEPULVER (MJÖLK), HYDROLYSERADE MJÖLKPROTEINER, salt, emulgeringsmedel (solroslecitin), aromer (bl.a. vanillin). *Rainforest Alliance Certified™ Find out more at ra.org Kan innehålla hasselnötter. Mjölkchokladen innehåller förutom kakaosmör även annat vegetabiliskt fett",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8711327549364",
+      "name": "Glass Päron Split 10-pack",
+      "company": "GB Glace",
+      "ingredients": "SKUMMJÖLK, vatten, päronjuice framställd av koncentrat (18%), socker, glukos-fruktossirap, druvjuice framställd av koncentrat (3,5%), kokosfett, vasslepulver (MJÖLK), glukossirap, stabiliseringsmedel (guarkärnmjöl, karragenan, pektin, fruktkärnmjöl), surhetsreglerande medel (citronsyra), emulgeringsmedel (mono- och diglycerider av vegetabiliska fettsyror), arom, färgämnen (klorofyllkopparkomplex, kurkumin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690136293",
+      "name": "Chilisås Sriracha hot 450ml Fairtrade ICA",
+      "company": "ICA",
+      "ingredients": "Röd chilipeppar 44%, socker, ättika, vatten, vitlök 5%, salt, modifierad majsstärkelse, färgämne (E160c), stabiliseringsmedel (E415). Röd chilipeppar, socker och vitlök: handlade i enlighet med Fairtrade-kriterierna, totalt 67%.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7350126083641",
       "name": "Citronfromage 80g",
       "company": "Ekströms",
