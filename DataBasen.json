@@ -1,6 +1,27 @@
 {
-  "date": "2023-09-23",
+  "date": "2023-09-25",
   "list": [
+    {
+      "id": "7350126083641",
+      "name": "Citronfromage 80g",
+      "company": "Ekströms",
+      "ingredients": "Socker, palmolja, glukossirap, gelatin, solrosolja, torkad citronjuice, MJÖLKprotein, emulgeringsmedel (E472a), surhetsreglerande medel (citronsyra), arom, apelsin, färgämne (betakaroten). Färdig fromage innehåller 2,65% citronjuice. Kan innehålla spår av GLUTEN.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "4001724022398",
+      "name": "Glutenfri Pizza Ristorante Mozzarella 370g",
+      "company": "Dr. Oetker",
+      "ingredients": "19% skivbar MOZZARELLAOST, vatten, rismjöl, 10% mosade tomater, stärkelse, 7,8% körsbärstomater, 5,3% tomatpuré, EDAMEROST, potatisflingor, rapsolja, ärtprotein, jäst, socker, basilika, salt, förtjockningsmedel (hydroxipropylmetylcellulosa, xantangummi), extra fin olivolja, emulgeringsmedel (mono- och diglyceriders mjölksyraestrar, mono- och diglyceriders ättiksyraestrar, mono- och diglycerider av fettsyror), spenat, persilja, modifierad stärkelse, glukossirap, vitlök, MJÖLKPROTEINER, kryddor, citronsaft, dextros, oregano, Kan innehålla spår av: (SOJA, SENAP) Passar för vegetarianer. *Laktosinnehåll < 0,01g/100g",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350042721719",
+      "name": "Dressing Green & Garlic 220ml",
+      "company": "Max",
+      "ingredients": "Rapsolja, vatten/vand, ÄGGULA från frigående höns/EGGEPLOMME fra frittgående høns/ÆGGEBLOMME af skrabeæg, ättika/eddik, vitlök, socker, salt, sötningsmedel (sorbitol), SENAPSFRÖ/SENNEPSFRØ, kryddor (bl a cayennepeppar, kanel, koriander, vitlök) örtkryddor (bl a persilja), lök, purjolök, stabiliseringsmedel (xanthangummi), konserveringsmedel (kaliumsorbat, natriumbensoat), syra (citronsyra), färgämne/ farvestoff (betakaroten, klorofyllkopparkomplex).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7310130007453",
       "name": "Gyllenhammars Ekologiska Havregryn - 500g",
