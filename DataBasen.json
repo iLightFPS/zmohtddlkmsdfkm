@@ -1,6 +1,20 @@
 {
-  "date": "2023-09-29",
+  "date": "2023-10-02",
   "list": [
+    {
+      "id": "7391523026206",
+      "name": "Fizzyboll 3.5KG",
+      "company": "Grahns",
+      "ingredients": "Socker, glukossirap, surhetsreglerande medel (äppelsyra, natriumvätekarbonat), arom, färgämne (E133, E120)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7315200292852",
+      "name": "Filidutter Hallon 65g",
+      "company": "Konfekta",
+      "ingredients": "Socker, glukossirap, surhetsreglerande medel (äppelsyra, citronsyra), ammoniumklorid, lakritspulver, arom,färgämne (svart morots koncentrat).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7331631011824",
       "name": "Salamichips Chorizo Paul och Thom 80g",
