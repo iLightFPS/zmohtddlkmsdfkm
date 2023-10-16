@@ -1,6 +1,20 @@
 {
-  "date": "2023-10-10",
+  "date": "2023-10-16",
   "list": [
+    {
+      "id": "0041143099094",
+      "name": "Sun-Maid Chokladrussin 200g",
+      "company": "Sun-Maid",
+      "ingredients": "MJÖLKCHOKLAD (60%) (socker, kakaosmör, fettfritt MJÖLKPULVER, kakaomassa, vasslepulver (från MJÖLK), laktos (från MJÖLK), smörolja, arom av emulsionsmedel (SOJALECITHIN), russin (39% ), ytbehandlingsmedel (gummi arabicum, schellack).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6416453037991",
+      "name": "Fazer Dumle Original 450g",
+      "company": "Fazer",
+      "ingredients": "glukossirap, socker, vegetabiliskt fett (palm), HELMJÖLKSPULVER, kakaosmör, vasslepulver (av MJÖLK), kakaomassa, MJÖLK, SKUMMJÖLKSPULVER, salt, emulgeringsmedel (lecitin, inklusive SOJA), aromer. KAN INNEHÅLLA NÖTTER, MANDEL OCH VETE. Mjölkchokladen innehåller minst 30 % kakao.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "5053827184649",
       "name": "Flingor Rice Krispies 375g",
