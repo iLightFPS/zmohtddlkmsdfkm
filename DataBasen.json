@@ -1,6 +1,27 @@
 {
-  "date": "2023-10-16",
+  "date": "2023-10-18",
   "list": [
+    {
+      "id": "7340083447266",
+      "name": "Riskakor Gräddfil & Lök 125g",
+      "company": "Eldorado",
+      "ingredients": "Råris 80%, rapsolja, kryddblandning 6,6% (vasslepulver (MJÖLK), salt, OSTPULVER, KÄRNMJÖLKSPULVER, tomatpulver, lökpulver, druvsocker, smakförstärkare (E621), vitlökspulver, arom, surhetsreglerande medel (E296, E262), persilja, cayennepeppar, paprikaextrakt). Kan innehålla spår av SOJA och SESAMFRÖ. Ursprung råris: EU/icke-EU.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7322550036142",
+      "name": "VK Kantarell soppa 3st",
+      "company": "Blå Band",
+      "ingredients": "Majsstärkelse, maltodextrin, palmfett, glukossirap, salt, GRÄDDPULVER (innehåller MJÖLK), potatisstärkelse, kantarell 3,1 %, jästextrakt, SKUMMJÖLKSPULVER, MJÖLKPROTEIN, lök, solrosolja, arom (innehåller LAKTOS), emulgeringsmedel: E 451, färgämne: E 150c. Kan innehålla spår av: Senap, lupin, vete, soja, ägg, selleri, fisk, kräftdjur, blötdjur.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7322550036753",
+      "name": "Tomat & Basilika Varma koppen 61g",
+      "company": "Blå Band",
+      "ingredients": "Tomat 36 %, potatisstärkelse, palmfett, socker, maltodextrin, arom, salt, lök, jästextrakt, vitlök, basilika 1,3 %, persilja, solrosolja. Kan innehålla spår av: SENAP, LUPIN, VETE, SOJA, ÄGG, SELLERI, MJÖLK, FISK, KRÄFTDJUR, BLÖTDJUR",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "0041143099094",
       "name": "Sun-Maid Chokladrussin 200g",
