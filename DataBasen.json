@@ -2,6 +2,20 @@
   "date": "2023-10-19",
   "list": [
     {
+      "id": "8711100203063",
+      "name": "Tomatsoppa Med Pasta 87g",
+      "company": "Knorr",
+      "ingredients": "Pasta 34 % (DURUMVETEMJÖL), grönsaker* 26 % (tomat 23 %, lök, ROTSELLERI), stärkelse, salt, socker, palmfett, jästextrakt, kryddor (vitlök, vitpeppar), MJÖLKSOCKER, örter (bl.a. persilja*), MJÖLKPRO-TEIN, maltodextrin, citronjuicepulver, arom. Kan innehålla spår av ägg och senap. Kraftigt saltad. *Från hållbart jordbruk. Unilever främjar hållbart odlad palmolja.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8711200348985",
+      "name": "Tomatsoppa Eko 570 ml",
+      "company": "Knorr",
+      "ingredients": "Tomat[1] 76 %, tomatjuice[1] 15 %, lök[1] 3,8 %, purjolök[1], rörsocker[1], majsstärkelse[1], kryddor[1] och örter[1] (bl.a. SELLERI och vitlök), rapsolja[1], salt, citronjuicekoncentrat[1], jästextrakt, naturlig arom. [1]Ekologisk ingrediens.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7310350102167",
       "name": "Malaco G&B Original Storpack 550g",
       "company": "Malaco",
