@@ -1,6 +1,27 @@
 {
-  "date": "2023-10-18",
+  "date": "2023-10-19",
   "list": [
+    {
+      "id": "7310350102167",
+      "name": "Malaco G&B Original Storpack 550g",
+      "company": "Malaco",
+      "ingredients": "Socker, glukossirap, glukos-fruktist, stärkelse, vetemjöl, modifierad stärkelse, ammoniumklorid (= Salmiak), melass, syra (E270), lakritsextrakt, fukt (sorbitol, raps), aromer, salt, färgämnen (E153, E160C) , E100, E141), koncentrat från (morot, svarta vinbär), ytbehandling (Karnaubavax), stabiliseringsmedel (E471), kokosfett.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5701049119948",
+      "name": "Skumbanan 150g",
+      "company": "Carletti",
+      "ingredients": "Glukossirap, socker, kakaomassa, vatten, kakaosmör, gelatin, stabiliseringsmedel (sorbitolsirap), skummedel (MJÖLKSPROTEIN), emulgeringsmedel (lecitiner), arom, färgämnen (riboflavin, blandade karotener). Kan innehålla spår av jordnötter.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310070005441",
+      "name": "Pepsi 33cl",
+      "company": "Pepsi",
+      "ingredients": "Kolsyrat vatten, socker, färgämne (E 150d), surhetsreglerande medel (fosforsyra), aromämnen (inkl. koffein), sötningsmedel (acesulfam K, sukralos).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7340083447266",
       "name": "Riskakor Gräddfil & Lök 125g",
