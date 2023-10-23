@@ -1,6 +1,20 @@
 {
-  "date": "2023-10-19",
+  "date": "2023-10-23",
   "list": [
+    {
+      "id": "7300156589248",
+      "name": "Oxbringa Rimmad",
+      "company": "Coop/Sverige",
+      "ingredients": "Oxbringa av nöt° 89%,vatten, salt, druvsocker, vitpeppar,lagerblad, konserveringsmedel (E 250),antioxidationsmedel (E 301).°URSPRUNG KÖTTRÅVARA: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "07315360061503",
+      "name": "Delicato Delicatoboll 6p 240g",
+      "company": "Delicato",
+      "ingredients": "Socker, havregryn, vegetabilisk olja (palm, shea, raps), vatten, kokos, kakaopulver, salt, arom (kan t.ex. innehålla spår av mjölkprotein.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "8711100203063",
       "name": "Tomatsoppa Med Pasta 87g",
