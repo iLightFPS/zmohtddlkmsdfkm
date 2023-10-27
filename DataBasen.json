@@ -1,6 +1,20 @@
 {
-  "date": "2023-10-23",
+  "date": "2023-10-27",
   "list": [
+    {
+      "id": "7318690105190",
+      "name": "Pulled pork 550g ICA",
+      "company": "ICA",
+      "ingredients": "Pulled Pork:Griskött*, kryddor (paprika, chilipeppar, spiskummin, oregano, cayennepeppar, libbsticka), rapsolja, farinsocker, salt, lök, vitlök, socker, kryddextrakt (chilipeppar), rökextrakt (hickory)*Fött, uppfött och slaktat i Sverige.BBQ-såsVatten, socker, äppeljuicekoncentrat, tomatpuré, salt, senap (vatten, ättiksprit, SENAPSFRÖ, socker, salt, kryddor), modifierad stärkelse (E1442), krydda, lök, invertsockersirap, vitvinvinäger, färgämne (E150c, E150a), rökarom, ättiksprit, förtjockningsmedel (E415), konserveringsmedel (E202, E211), kryddextrakt (paprika, gurkmeja), arom, surhetsreglerande medel (E296), citronjuicepulver.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690491811",
+      "name": "Potatisgratäng 800g ICA",
+      "company": "ICA",
+      "ingredients": "Potatis* 60%, vatten, MJÖLK** 9,2%, rapsolja, gräddfil 2,4% (pastöriserad GRÄDDE**, syrningskultur), GRÄDDE** 1,6%, Emmentaler ost (MJÖLK, syrningskultur, salt, löpe), salt, ÄGGULA, majsstärkelse, Provolone ost (MJÖLK, syrningskultur, salt, löpe), socker, kryddor, förtjockningsmedel (E412), vitlök, dextros och solrosolja. Ägg från frigående höns. *Ursprung Sverige. **Ursprung EU.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7340083473517",
       "name": "Eldorado Bacon Snacks 175g",
