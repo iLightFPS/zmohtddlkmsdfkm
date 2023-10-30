@@ -1,6 +1,20 @@
 {
-  "date": "2023-10-27",
+  "date": "2023-10-30",
   "list": [
+    {
+      "id": "7622300544010",
+      "name": "Mörk Choklad Premium Seasalt Pecan 100g",
+      "company": "Marabou",
+      "ingredients": "Kakaomassa, socker, kakaosmör, karamelliserade/karameliserede PEKANNÖTTER (PEKANNÖTTER/-NØDDER 5 %, socker, 0,4 % havssalt), fettreducerad/fedtfattig kakao, SMÖRFETT/SMØROLIE, arom, emulgeringsmedel/emulgator (SOJALECITIN, MJÖLK-/MÆLKEPULVER. KAN INNEHÅLLA ANDRA NÖTTER/ANDRE NØDDER. Minst 70 % kakao/kakaotørstof.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7622400624445",
+      "name": "Mörk Choklad Premium Dark Orange 100g",
+      "company": "Marabou",
+      "ingredients": "Kakaomassa, socker, kakaosmör, fettreducerad/fedtfattig kakao, kanderade/kandiserede apelsinskal 4.3% (apelsinskal, socker, druvsocker/dextrose, surhetsreglerande medel/surhedsregulator: citronsyra, konserveringsmedel/konservering: E220), SMÖRFETT/SMØROLIE, aromer, emulgeringsmedel/emulgator (SOJALECITIN), MJÖLK-/MÆLKEPULVER. Minst 70% kakao/kakaotørstof. KAN INNEHÅLLA NÖTTER/NØDDER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690105190",
       "name": "Pulled pork 550g ICA",
