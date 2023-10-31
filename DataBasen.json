@@ -1,6 +1,48 @@
 {
-  "date": "2023-10-30",
+  "date": "2023-10-31",
   "list": [
+    {
+      "id": "7340005406692",
+      "name": "Chips Flamin hot cheddar 275g",
+      "company": "OLW",
+      "ingredients": "Potatis, solrosolja, kryddblandning (salt, MJÖLKSOCKER, socker, majsgryn, majsmjöl, jästextrakt, OSTPULVER, cayennepeppar, paprika, chilipeppar, arom (innehåller MJÖLK), OSTPULVER (varav 60 % CHEDDAR), surhetsreglerande medel (citronsyra, mjölksyra), kryddextrakt (paprika, cayennepeppar, grönt te), arom).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7393750003036",
+      "name": "Romsås 200g",
+      "company": "Korshags",
+      "ingredients": "Majonnäs (rapsolja, ÄGGULA, surhetsreglerande medel (E260, E330, E270), socker, salt, stabiliseringsmedel (E412, E415), kryddor, konserveringsmedel (E202)), CRÈME FRAICHE, STENBITSROM (Cyclopterus lumpus), vatten, rapsolja, färgämne (E160a, E120), konserveringsmedel (E202, E211), stabiliseringsämne (E415), sherry, surhetsreglerande medel (E330)) (4%), rödlök, FILMJÖLK, vin (vitt vin, SULFIT), dill, gräslök, limejuice (konserveringsmedel E224), kryddor, konserveringsmedel (E202, E211).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5053990162093",
+      "name": "Pringles Paprika 200g",
+      "company": "Pringles",
+      "ingredients": "Vakuumtorkad potatis / Tørrede kartofler / Tørkede poteter, solrosolja / solsikkeolie, VETEMJÖL / HVEDEMEL / HVETEMEL, majsmjöl / majsmel, rismjöl / rismel, paprikakrydd / paprikakrydderi / -blandning (socker / sukker, paprikapulver, smakförstärkare / smagsforstærkere {mononatriumglutamat, dinatriumguanylat, dinatriuminosinat}, druvsocker / dextrose, jäst / gær / -pulver, lökpulver, salt, buljong / bouillon / -pulver {salt, hydrolyserat vegetabiliskt protein / hydrolyserte vegetabilske proteiner, solrosolja / solsikkeolie}, aromaer, vitlöks / hvidløgs / hvitløks-pulver, färgämne / farve / farge{paprikaoleoresin / -ekstrakt}, syra {citronsyra / sitronsyre}, sött vasslepulver {MJÖLK} / sød vallepulver {MÆLK} / søtt mysepulver {MELK}), maltodextrin, emulgeringsmedel / emulgator (E471), salt, färgämne / farve / fargestoff (annattoextrakt / annattoekstrakter / -norbixin).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350045595904",
+      "name": "Chips Mozzarella & balsamico 150g",
+      "company": "Gårdschips",
+      "ingredients": "Potatis (67,5 %), rapsolja (26,5 %), kryddblandning (6%): Salt, vasslepulver (från MJÖLK), MJÖLKsocker, OSTpulver, arom, socker, druvsocker, GRÄDDpulver, surhetsreglerande medel (natriumdiacetat, mjölksyra), OSTpulver (varav 88% mozzarella, innehåller MJÖLK), jästextrakt, naturlig arom (innehåller MJÖLK), tomat, krydda.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5053990139545",
+      "name": "Chips Hot & Spicy 200g",
+      "company": "Pringles",
+      "ingredients": "Vakuumtorkad potatis / Tørrede kartofler / Tørkede poteter, vegetabiliska oljor / vegetabilske olier / vegetabilske oljer (solros / solsikke, palm / palme, mais / majs) i varierande proportion / i variabelt mængdeforhold / i varierende proporsjoner, VETEMJÖL / HVEDEMEL / HVETEMEL, majsmjöl / majsmel, rismjöl / rismel, het krydd / krydder-blandning (kryddor / krydderier, socker / sukker, tomatpulver, smakförstärkare / smagsforstærkere {mononatriumglutamat, dinatriumguanylat, dinatriuminosinat}, VETESTÄRKELSE / HVEDESTIVELSE / HVETESTIVELSE, buljong / bouillon / -pulver {salt, hydrolyserat vegetabiliskt protein / hydrolyserte vegetabilske proteiner, solrosolja / solsikkeolie}, druvsocker / dextrose, solrosolja / solsikkeolie, sött vasslepulver {MJÖLK} / sød vallepulver {MÆLK} / søtt mysepulver {MELK}, modifierad majsstärkelse / modificeret / modifisert / -majsstivelse, jäst / gær / -ekstrakt, aromaer, surhetsreglerande medel / surhedsregulerende midler {natriumdiacetat, kalciumlaktat / calciumlactat}, cayennepepparsås / cayennepebersauce / kajennepeppersaus / -pulver {lagrad röd paprika / moden rød peber / modnet rød paprika, vinäger / eddike, vitlök / hvidløg / hvitløk}, salt, syror {citronsyra / sitronsyre, mjölksyra / mælkesyre}, maltodextrin, örter / krydderurter, färgämne / farve / fargestoff {paprikaoleoresin / -ekstrakt}, glukossirap / glukosesirup, MJÖLKPROTEINER / MÆLKEPROTEINER / MELKEPROTEINER), maltodextrin, emulgeringsmedel / emulgator (E471), salt, färgämne / farve / farge (annattoextrakt / annattoekstrakter / - norbixin). Kan innehålla / Kan indeholde / Kan inneholde soja / soya.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5053990138685",
+      "name": "Chips Cheese & Onion 200g",
+      "company": "Pringles",
+      "ingredients": "Vakuumtorkad potatis / Tørrede kartofler / Tørkede poteter, solrosolja / solsikkeolie, VETEMJÖL / HVEDEMEL / HVETEMEL, majsmjöl / majsmel, rismjöl / rismel, ost- & lökkryddblandning / ost- og løgkrydderiblanding (lökpulver, druvsocker / dextrose, maltodextrin, glukossirap / glukosesirup, smakförstärkare / smagforstærkere {mononatriumglutamat, dinatriumguanylat, dinatriuminosinat}, modifierad majsstärkelse / modificeret / modifisert / -majsstivelse , salt, jäst / gær / -ekstrakt, aromaer, laktos {MJÖLK / MÆLK / MELK}, buljong / bouillon / -pulver {salt, hydrolyserat vegetabiliskt protein / hydrolyserte vegetabilske proteiner, solrosolja / solsikkeolie} , ostpulver {MJÖLK / MÆLK / MELK}, syror {mjölksyra / mælkesyre, citronsyra / sitronsyre}), maltodextrin, emulgeringsmedel / emulgator (E471), salt, färgämne / farve / fargestoff (annattoextrakt / annattoekstrakter / - norbixin).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7622300544010",
       "name": "Mörk Choklad Premium Seasalt Pecan 100g",
