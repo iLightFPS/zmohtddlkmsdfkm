@@ -37,10 +37,18 @@
     "Solhavren",
     "fullkornsrågmjöl",
     "Rågmjöl",
-    "Kärnvetemjöl"
+    "Kärnvetemjöl",
+    "Durumvetemjöl"
   ],
   "date": "2023-11-02",
   "list": [
+    {
+      "id": "7318690155218",
+      "name": "Protein Bar Chocolate Ica Basic 35g",
+      "company": "ICA Basic",
+      "ingredients": "Mjölkprotein (EU), glukossirap, fruktossirap, överdrag 14% (socker, vegetabilisk olja och fett (palm, shea), fettreducerad kakao, emulgeringsmedel (solroslecitin, sorbitantristearat), arom), mörk choklad (8%), (kakaomassa, socker, kakaosmör, emulgeringsmedel (solroslecitin), arom), ärt - protein, hydrolyserat kollagen, proteinkrisp (vassleprotein (från mjölk), rismjöl, emulgeringsmedel (soja - lecitin)), rapsolja, arom, emulgeringsmedel (sojalecitin). Kan innehålla spår av sojaprotein och ägg.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7340005406692",
       "name": "Chips Flamin hot cheddar 275g",
