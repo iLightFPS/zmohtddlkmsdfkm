@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2023-11-02",
+  "date": "2023-11-04",
   "list": [
+    {
+      "id": "7322550092247",
+      "name": "Fem Pepparsås 3-pack",
+      "company": "Blå Band",
+      "ingredients": "Majsstärkelse/majsstivelse, peppar/peber 17% (svartpeppar/sortpeber, koriander, rosépeppar 15%, vitpeppar, kryddpeppar, grönpeppar/grønpeber), arom, maltodextrin, tomat, palmfett, salt, rödvinsextrakt, karamelliserad glukossirap/glucosesirup, lök/løg, karamelliserat socker/sukker.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690155218",
       "name": "Protein Bar Chocolate Ica Basic 35g",
