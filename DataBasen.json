@@ -40,8 +40,22 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2023-11-04",
+  "date": "2023-11-09",
   "list": [
+    {
+      "id": "8410076482198",
+      "name": "Glutenfri Tortilla Mini 10-pack",
+      "company": "Old El Paso",
+      "ingredients": "Vatten/Vann, vitt majsmjöl/hvidt majsmel (43 %), stabiliseringsmedel/stabilisatorer (glycerol, xantangummi), salt, emulgeringsmedel/emulgator (mono- och diglycerider av fettsyror).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311310031442",
+      "name": "Kryddmix Enchilada Medium",
+      "company": "Santa Maria",
+      "ingredients": "Chilipeppar (27%) (guajillo chili, röd chilipeppar, chipotle chili), lök, salt, vitlök, spiskummin, örter (4,0%) (oregano, korianderblad), svartpeppar.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7322550092247",
       "name": "Fem Pepparsås 3-pack",
