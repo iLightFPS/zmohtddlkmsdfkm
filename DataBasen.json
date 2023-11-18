@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2023-11-09",
+  "date": "2023-11-18",
   "list": [
+    {
+      "id": "7311441010453",
+      "name": "Kavli Gräddädelost 175g",
+      "company": "Kavli",
+      "ingredients": "HÅRDOST (35 %), GRÄDDGRÖNMÖGELOST (29 %), vatten, smältsalter (E339, E452), konserveringsmedel (E202, E234), persilja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "8410076482198",
       "name": "Glutenfri Tortilla Mini 10-pack",
