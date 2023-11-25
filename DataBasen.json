@@ -40,8 +40,92 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2023-11-18",
+  "date": "2023-11-25",
   "list": [
+    {
+      "id": "7340011404811",
+      "name": "Mozzarella 125g",
+      "company": "Xtra",
+      "ingredients": "Mozzarella (pastöriserad KOMJÖLK (EU), salt, syra (E 330), mikrobiellt ystenzym), saltlake (vatten, salt).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340011476054",
+      "name": "Krossade tomater 400g",
+      "company": "Coop",
+      "ingredients": "Skalade, krossade tomater 65% (Italien), tomatjuice 35% (tomat: Italien), surhetsreglerande medel (E 330).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191139138",
+      "name": "Snabbnudlar Grönsaker 85g",
+      "company": "Coop",
+      "ingredients": "VETEMJÖL (vete: Litauen), certifierad palmolja, salt, modifierad potatisstärkelse, smakförstärkare (E 621, E 635), aromer (innehåller SELLERI), socker, kryddor, VETEGLUTEN, morot, certifierad palmfett, vårlök, bakpulver (E 500, E 501), antioxidationsmedel (E 300), färgämne (E 150c), paprikaextrakt. Kan innehålla spår av skaldjur, soja, mjölk och senap.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300156505774",
+      "name": "Potatisgratäng 800g",
+      "company": "Coop",
+      "ingredients": "Potatis 70%, GRÄDDE 19%, vatten, modifierad stärkelse (potatis), salt, vitlökspulve",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2317250900003",
+      "name": "Julskinka Kokt 1800g",
+      "company": "Xtra",
+      "ingredients": "Skinka av gris 90%, vatten, salt, druvsocker, antioxidationsmedel (E 301), konserveringsmedel (E 250).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300328313008",
+      "name": "Kycklinglårfilé 750g",
+      "company": "Ivars",
+      "ingredients": "Kycklinglårfilé 90%, vatten, salt, stabiliseringsmedel (E450).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7312220075922",
+      "name": "Pepparkakor Favoritmix 275g",
+      "company": "Annas",
+      "ingredients": "VETEMJÖL, socker, vegetabiliska oljor (solros), sirap, bakpulver (natriumbikarbonat), kanel, salt, ingefära 0,3%, kryddnejlika, emulgeringsmedel (lecitiner). Kan innehålla spår av MANDEL.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300156577245",
+      "name": "Nötfärs 12% 500g",
+      "company": "Coop",
+      "ingredients": "Svenskt Nötkött",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310628008887",
+      "name": "Varmkorv 900g",
+      "company": "Lithells",
+      "ingredients": "Griskött* (55%), vatten, potatismjöl, fett från gris*, druvsocker, salt, kryddor och kryddextrakt (svartpeppar, muskotnöt, koriander, cayennepeppar), lökpulver, antioxidationsmedel (E300), konserveringsmedel (E250), rökarom.*Svensk råvara.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156497512",
+      "name": "Fettuccine 300g",
+      "company": "Coop",
+      "ingredients": "Durumvetemjöl 74%, ägg 18% (ägg från frigående höns) , vatten. Förpackas i en skyddande atmosfär. Äggen i produkten kommer från EU.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5000112638035",
+      "name": "Fanta Orange Zero 330ml",
+      "company": "Fanta",
+      "ingredients": "Kolsyrat vatten, apelsinjuice som erhålls från koncentrat (4%), syror (E 330, E 296), sötningsmedel (acesulfam K, aspartam), naturlig apelsinarom med andra naturliga aromer, antioxidationsmedel (E 300), surhetsreglerande medel (E 331), stabiliseringsmedel (E 412), morotsextrakt, färgämne (E 160a). INNEHÅLLER EN KÄLLA TILL FENYLALANIN.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5000112650723",
+      "name": "Fanta Orange 330ml",
+      "company": "Fanta",
+      "ingredients": "Kolsyrat vatten, socker, 6% apelsinjuice från koncentrat, syror (E330, E296), stabiliseringsmedel (E414, E445), naturlig apelsinarom med andra naturliga aromer, surhetsreglerande medel (E331), sötningsmedel (acesulfam K, aspartam, sukralos), antioxidationsmedel (E300), färgämne (E160a). INNEHÅLLER EN KÄLLA TILL FENYLALANIN.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311441010453",
       "name": "Kavli Gräddädelost 175g",
