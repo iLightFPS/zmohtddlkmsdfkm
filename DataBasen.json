@@ -40,8 +40,92 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2023-11-25",
+  "date": "2023-11-27",
   "list": [
+    {
+      "id": "7300156503091",
+      "name": "Ägg 10-pack M/L Frigående utomhus",
+      "company": "Coop",
+      "ingredients": "Svenska medium/large ÄGG från frigående höns utomhus.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156482679",
+      "name": "Ägg 12-pack M/L Eko",
+      "company": "Änglamark",
+      "ingredients": "Svenska KRAV-ekologiska medium / large ÄGG.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156580993",
+      "name": "Saffran 0.5g",
+      "company": "Coop",
+      "ingredients": "Saffran (Iran). Klass 1 saffran från saffranskrokus (Crocus sativus).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156494252",
+      "name": "Pepparkaksdeg Eko 500g",
+      "company": "Änglamark",
+      "ingredients": "VETEMJÖL*, socker*, sirap*, vegetabiliskt fett* (palm°), vatten, bakpulver (E 500, natriumkarbonat), ingefära**, kanel**, nejlika**, salt. *KRAV-ekologisk ingrediens. **EU-ekologisk ingrediens. Kan innehålla spår av mandel och ägg. °Coop stödjer hållbar produktion av palmolja, läs mer på www.coop.se",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300156587138",
+      "name": "Havredryck 1l",
+      "company": "Coop",
+      "ingredients": "Havrebas (vatten, HAVRE° 10%), rapsolja°, kalciumkarbonat, kalciumfosfater, joderat salt, vitaminer (D3*, riboflavin, B12). °Från Sverige. *Vegetabiliskt ursprung",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310941801301",
+      "name": "Bredbar Leverpastej Original",
+      "company": "Pastejköket",
+      "ingredients": "Fett från gris*, grislever* (30%), MJÖLK*, vatten, potatismjöl, socker, salt, lök, maltodextrin, kryddor och kryddextrakt (bl.a. pomerans, ingefära, kryddpeppar, lagerblad, cayenne, kryddnejlika, muskotnöt, muskotblomma, svartpeppar), konserveringsmedel (E250).*Svensk råvara.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191139169",
+      "name": "Snabbnudlar Kyckling 85g",
+      "company": "Coop",
+      "ingredients": "VETEMJÖL (vete: Litauen), certifierad palmolja, salt, smakförstärkare (E 621, E 635), modifierad potatisstärkelse, socker, VETEGLUTEN, kryddor, hydrolyserat majsprotein, aromer, morot, certifierad palmfett, vårlök, lök, bakpulver (E 500, E 501). Kan innehålla spår av skaldjur, soja, mjölk, selleri och senap.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6408432061295",
+      "name": "Laktosfritt Smör 500g",
+      "company": "VALIO",
+      "ingredients": "Pastöriserad laktosfri GRÄDDE och salt. Laktosfri med hjälp av laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156594037",
+      "name": "Nötfärs 500g",
+      "company": "Coop",
+      "ingredients": "Svenskt nötkött",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7314873525014",
+      "name": "Lantbröd Havssalt 600g",
+      "company": "Fazer",
+      "ingredients": "Mjöl (VETE, siktad RÅG 7 %, durumVETE), vatten, HAVREgryn, malt av VETE, jäst, rapsolja, VETEgluten, surdeg av VETE 2%, havssalt 1 %, linfrö, malt av KORN, mjölbehandlingsmedel (askorbinsyra). Innehåller naturligt förekommande sockerarter.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300156476319",
+      "name": "Morötter 1 kg",
+      "company": "Coop",
+      "ingredients": "Morötter",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "800003936",
+      "name": "Dinner Mint 150g",
+      "company": "Dinner",
+      "ingredients": "Socker, kakaomassa, glukossirap, kakaosmör, SMÖRFETT, emulgeringsmedel: solroslecitin; fuktighetsbevarande medel: invertase; pepparmyntsolja, geleringsmedel: agar; syra: citronsyra; salt. Kan innehålla NÖTTER, JORDNÖTTER, SOJABÖNOR och SPANNMÅL (GLUTEN). ",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7340011404811",
       "name": "Mozzarella 125g",
