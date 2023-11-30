@@ -40,8 +40,43 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2023-11-27",
+  "date": "2023-11-30",
   "list": [
+    {
+      "id": "7311171006658",
+      "name": "Citron- & Dillsås För Lax",
+      "company": "ABBA",
+      "ingredients": "vatten, GRÄDDE, citronjuice, rapsolja, majsstärkelse, grönsaksbuljong (morot, purjolök, lök, vitlök, vitvinsextrakt, salt, solrosolja, kryddextrakt), FISK- och MUSSELextrakt, risstärkelse, salt, socker, dill, MJÖLKprotein, citrusfiber, citronolja, kryddor, kryddextrakt, naturlig dillarom och andra naturliga aromer",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311171006733",
+      "name": "Räk- & Dillsås För Torsk 250g",
+      "company": "ABBA",
+      "ingredients": "vatten, crème fraiche (GRÄDDE, syrningskultur), GRÄDDE, vitt vin, majsstärkelse, rapsolja, RÄK- och FISKbuljong, grönsaksbuljong (morot, purjolök, lök, vitlök, vitvinsextrakt, salt, solrosolja, kryddextrakt), tomatpuré, dill, salt, socker, kryddor, svartpepparolja, naturlig dillarom och andra naturliga aromer",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311171007822",
+      "name": "Middagsklart Citron & Dillsås Xl 375g",
+      "company": "ABBA",
+      "ingredients": "Vatten, GRÄDDE, buljong (vatten, MUSSLOR, morot, purjolök, lök, vitlök, FISK, vitvinsextrakt, salt, solrosolja, kryddextrakt), citronjuice, rapsolja, majs- och risstärkelse, salt, socker, dill, MJÖLKPROTEIN, citronfiber, citronolja, kryddor, kryddextrakt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311171006740",
+      "name": "Vitvinssås För Torsk 250g",
+      "company": "ABBA",
+      "ingredients": "vatten, crème fraiche (GRÄDDE, syrningskultur), GRÄDDE, vitt vin, majsstärkelse, rapsolja, grönsaksbuljong (morot, purjolök, lök, vitlök, vitvinsextrakt, salt, solrosolja, kryddextrakt), FISKextrakt, salt, socker, kryddor, naturlig arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350126082989",
+      "name": "Sås Lime & chili Ugnsbakad fisk 250g",
+      "company": "ABBA",
+      "ingredients": "Vatten, GRÄDDE, rapsolja, majsstärkelse, sweet chilisås (vatten, socker, majsstärkelse, salt, chilipulver, syra (ättiksyra), vitlökspulver), limejuice, grönsaksbuljong (morot, purjolök, lök, vitlök, vitvinsextrakt, salt, solrosolja, kryddextrakt), rökt paprika, risstärkelse, citronjuice, salt, MJÖLKprotein, socker, citrusfiber, limeolja, FISKextrakt, MUSSELextrakt, naturlig arom (innehåller MJÖLK, gummi arabicum)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7300156503091",
       "name": "Ägg 10-pack M/L Frigående utomhus",
