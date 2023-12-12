@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2023-11-30",
+  "date": "2023-12-12",
   "list": [
+    {
+      "id": "7300207273003",
+      "name": "PRINSKORV 1000g",
+      "company": "Scan",
+      "ingredients": "Svenskt gris- och nötkött (61%)*, vatten, fett från gris- och nötkött*, potatismjöl, salt, lök, kryddor, kryddextrakt, antioxidationsmedel E326: E300, konserveringsmedel E261:E250, kollagentarm, rökarom. *Ursprung: Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311171006658",
       "name": "Citron- & Dillsås För Lax",
