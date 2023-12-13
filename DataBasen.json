@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2023-12-12",
+  "date": "2023-12-13",
   "list": [
+    {
+      "id": "7393241000902",
+      "name": "Prinskorv 840g Hemgården",
+      "company": "Hemgården",
+      "ingredients": "Gris och nötkött 64%, vatten, grisfett, potatisstärkelse, salt, druvsocker (majs), krydda, lök, paprika, antioxidationsmedel askorbinsyra, kryddextrakt (svartpeppar, muskotnöt), konserveringsmedel nitrit.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7391589005122",
       "name": "Hammars Bryggeri Julmust 1l",
