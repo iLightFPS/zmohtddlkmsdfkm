@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2023-12-13",
+  "date": "2023-12-21",
   "list": [
+    {
+      "id": "7318690115069",
+      "name": "Pastej Bredbar med gurka 200g ICA",
+      "company": "ICA",
+      "ingredients": "Grislever* (29%), vatten, fett från gris*, gurkmix (6,5%) (gurka, socker, ättika, lök, modifierad stärkelse, salt, konserveringsmedel (E202), stabiliseringsmedel (E509), kryddextrakt (cayennepeppar), kryddor, färgämnen (E141, E101)),potatismjöl, bindväv från gris*, socker, MJÖLK, koksalt, kryddor (lök, ingefära), kryddextrakt (kardemumma, muskotnöt, nejlika, peppar, timjan), lök, antioxidationsmedel (E300), konserveringsmedel (E250). *Fött, uppfött och slaktat i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7393241000902",
       "name": "Prinskorv 840g Hemgården",
