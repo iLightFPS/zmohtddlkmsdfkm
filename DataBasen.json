@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2023-12-21",
+  "date": "2023-12-29",
   "list": [
+    {
+      "id": "7318690022275",
+      "name": "Falukorv Ring 800g ICA",
+      "company": "ICA",
+      "ingredients": "Gris- och nötkött* 59%, vatten, fett från gris*, potatisstärkelse, salt, kryddor ochkryddextrakt (muskot, svartpeppar, koriander, cayennepeppar), lökpulver, druvsocker, antioxidationsmedel (E300), konserveringsmedel (E250), rökarom.*Fött, uppfött och slaktat i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690115069",
       "name": "Pastej Bredbar med gurka 200g ICA",
