@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2023-12-29",
+  "date": "2024-01-29",
   "list": [
+    {
+      "id": "5711953034879",
+      "name": "Kelda Béchamelsås 5dl",
+      "company": "Kelda",
+      "ingredients": "MJÖLK, GRÄDDE, grönsaksbuljong (vatten, salt, lök, palsternacka, socker, morot, tomat, libbsticka, paprika, savoykål, purjolök, lagerblad, timjan, cayennepeppar), modifierad stärkelse, MJÖLKPROTEIN, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690022275",
       "name": "Falukorv Ring 800g ICA",
