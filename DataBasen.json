@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-01-29",
+  "date": "2024-01-31",
   "list": [
+    {
+      "id": "7318690079682",
+      "name": "Jordnötssmör 350g ICA",
+      "company": "ICA",
+      "ingredients": "Jordnötter 76%, solrosolja, druvsocker, full härdad palmolja*, salt. Kan innehålla spår av mandel, paranöt, cashewnöt, hasselnöt, maka-damianöt, pekannötm pistashnöt och valnöt. *Den här produkten innehåller certifierad hållbar palmolja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "5711953034879",
       "name": "Kelda Béchamelsås 5dl",
