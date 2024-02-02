@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-01-31",
+  "date": "2024-02-02",
   "list": [
+    {
+      "id": "7311442161604",
+      "name": "Kavli Amerikansk Dressing Bacon 230g",
+      "company": "Kavli",
+      "ingredients": "Rapsolja, tomatpuré, ÄGGULA, ättika, gurka, socker, bacon (1,7%), salt, kryddor (bl.a. kanel, koriander, vitlök, paprika, lök), SENAPSFRÖ, satbiliseringsmedel (E415, E509), konserveringsmedel (E202), mod. potatis- och majsstärkelse, kryddextrakt (cayennepeppar).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690079682",
       "name": "Jordnötssmör 350g ICA",
