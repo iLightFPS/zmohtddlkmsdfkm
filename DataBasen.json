@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-02-02",
+  "date": "2024-02-03",
   "list": [
+    {
+      "id": "7340146501355",
+      "name": "Sura Colanappar 80g",
+      "company": "7340146501355",
+      "ingredients": "Socker, glukossirap, VETEstärkelse, vatten, modifierad majsstärkelse, syror: äppelsyra, ättiksyra, mjölksyra; modifierad potatisstärkelse, natriumvätekarbonat, KORNmaltextrakt, smakämnen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311442161604",
       "name": "Kavli Amerikansk Dressing Bacon 230g",
