@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-02-07",
+  "date": "2024-02-14",
   "list": [
+    {
+      "id": "7622201701956",
+      "name": "Marabou Never Stop Crunchy Corn",
+      "company": "Marabou",
+      "ingredients": "Socker, majs 24% (majs, solrosolja, salt, antioxidationsmedel (rosmarinextrakt)), MJÖLKPULVER, kakaosmör, kakaomassa, emulgeringsmedel (SOJALECITINER), ytbehandlingsmedel (gummi arabicum), arom. Minst 30% kakao. KAN INNEHÅLLA JORDNÖTTER, NÖTTER OCH VETE.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7315200297673",
       "name": "FILIDUTTER PÄRON PÅSE 65G 20ST",
