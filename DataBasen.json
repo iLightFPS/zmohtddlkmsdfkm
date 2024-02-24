@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-02-14",
+  "date": "2024-02-24",
   "list": [
+    {
+      "id": "7300156586735",
+      "name": "Coop Havregryn 750g",
+      "company": "Coop",
+      "ingredients": "Ångpreparerade och valsade HAVREGRYN°. °Ursprung Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7622201701956",
       "name": "Marabou Never Stop Crunchy Corn",
