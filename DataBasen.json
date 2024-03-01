@@ -40,8 +40,22 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-02-24",
+  "date": "2024-03-01",
   "list": [
+    {
+      "id": "7311041081846",
+      "name": "Geléhallon 400g",
+      "company": "DAZZLEY",
+      "ingredients": "Glukossirap, socker, gelatin (från gris), surhetsreglerandemedel (E330), arom, färgämne (E120).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7610400087780",
+      "name": "Les Grandes Mjölk Hasselnöt 150g",
+      "company": "Lindt",
+      "ingredients": "socker, HASSELNÖTTER 34%, kakaosmör, kakaomassa, MJÖLKpulver, LAKTOS, skumMJÖLKspulver, vattenfritt MJÖLKfett, emulgeringsmedel (SOJAlecitin), KORNmaltextrakt, aromer, MANDLAR.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "4081800450796",
       "name": "Sundborn Punsch 87g",
