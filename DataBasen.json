@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-03-01",
+  "date": "2024-03-03",
   "list": [
+    {
+      "id": "7350068295218",
+      "name": "ProPud Chocolate Mousse ",
+      "company": "ProPud",
+      "ingredients": "SKUMMJÖLK, MJÖLKprotein, Grädde, fettreducerat kakaopulver (2,1%), gelatin (nötkreatur), sötningsmedel (acesulfam K, steviolglykosider från stevia), arom, stabilisatorer (natriumfosfater, natriumkarbonater), förtjockningsmedel (guar). gummi, karragenan), laktas.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311041081846",
       "name": "Geléhallon 400g",
