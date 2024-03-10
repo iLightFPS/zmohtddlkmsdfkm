@@ -40,11 +40,18 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-03-03",
+  "date": "2024-03-10",
   "list": [
     {
+      "id": "7311310038397",
+      "name": "Santa Maria Dip Nacho Cheese Style 250g",
+      "company": "Santa Maria",
+      "ingredients": "SKUMMJÖLK, vatten, solrosolja, modifierad stärkelse (tapioka), CHEDDAROST (4%), salt, emulgeringsmedel (E339, E471), surhetsreglerande medel (E270, E331, E330), jästextrakt, färgämnen (E160a, E160e), vitpeppar. Innehåller: Mjölk.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7350068295218",
-      "name": "ProPud Chocolate Mousse ",
+      "name": "ProPud Chocolate Mousse",
       "company": "ProPud",
       "ingredients": "SKUMMJÖLK, MJÖLKprotein, Grädde, fettreducerat kakaopulver (2,1%), gelatin (nötkreatur), sötningsmedel (acesulfam K, steviolglykosider från stevia), arom, stabilisatorer (natriumfosfater, natriumkarbonater), förtjockningsmedel (guar). gummi, karragenan), laktas.",
       "gluten": "Glutenfri [ Ja ]"
