@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-03-10",
+  "date": "2024-03-17",
   "list": [
+    {
+      "id": "7318690022763",
+      "name": "Cognacsmedwurst Svart 300g ICA",
+      "company": "ICA",
+      "ingredients": "Gris*- och nötkött* 69%, fett från gris*, vatten, socker, salt, potatisflingor, kryddor (vitpeppar, ingefära), congac, cognacsarom, kryddextrakt (sandel), konserveringsmedel (E250), antioxidationsmedel (E300). Kallrökt. Korvskinn ej ätbart. *Fött, uppfött och slaktat i Sverige. Till 100 g färdig produkt har 111 g köttråvara använts.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311310038397",
       "name": "Santa Maria Dip Nacho Cheese Style 250g",
