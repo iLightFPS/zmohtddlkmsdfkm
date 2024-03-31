@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-03-17",
+  "date": "2024-03-31",
   "list": [
+    {
+      "id": "7310941801325",
+      "name": "Leverpastej Bredbar Gurka 200g",
+      "company": "Pastejköket",
+      "ingredients": "Fett från gris*, MJÖLK*, grislever (16%)*, vatten, gurkmix (7%) (gurka, socker, ättika, lök, modifierad stärkelse, salt, kryddextrakt (cayenne), kryddor, färgämne (E141, E101)), potatismjöl, socker, salt, lök, maltodextrin, kryddor och kryddextrakt (bl.a. pomerans, ingefära, kryddpeppar, lagerblad, cayenne, kryddnejlika, muskotnöt, muskotblomma, svartpeppar), konserveringsmedel (E250).*Svensk råvara.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690022763",
       "name": "Cognacsmedwurst Svart 300g ICA",
