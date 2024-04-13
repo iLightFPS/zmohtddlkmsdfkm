@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-03-31",
+  "date": "2024-04-13",
   "list": [
+    {
+      "id": "6416453510142",
+      "name": "Bakchoklad Vit 100g",
+      "company": "Fazer",
+      "ingredients": "Socker, kakaosmör(icke-EU), helmjölks-pulver, emulgeringsmedel(solroslecitin), och arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7310941801325",
       "name": "Leverpastej Bredbar Gurka 200g",
