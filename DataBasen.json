@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-04-13",
+  "date": "2024-04-21",
   "list": [
+    {
+      "id": "7340001804812",
+      "name": "Proteinbar Peanut & caramel 55g",
+      "company": "Barebells",
+      "ingredients": "MJÖLKPROTEINER, sötningsmedel (maltitol, xylitol, sukralos), JORDNÖTTER, fyllnadsmedel (polydextros), kollagenhydrolysat, fuktighetsbevarande medel (glycerol), kakaosmör, HELMJÖLKSPULVER, kakaomassa, sojaolja, salt (0,14%), aromer, emulgeringsmedel (SOJALECITIN). Kan innehålla spår av SPANNMÅL SOM INNEHÅLLER GLUTEN, ÄGG, NÖTTER och SESAMFRÖ.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "6416453510142",
       "name": "Bakchoklad Vit 100g",
