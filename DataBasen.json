@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-04-21",
+  "date": "2024-05-04",
   "list": [
+    {
+      "id": "7311311016172",
+      "name": "Pommes Friteskrydda Mellanburk 119g",
+      "company": "Santa Maria",
+      "ingredients": "Salt, kryddor (lök, paprika (7,0%), rostad lök (5,0%), tomat), ROTSELLERI.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7340001804812",
       "name": "Proteinbar Peanut & caramel 55g",
