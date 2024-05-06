@@ -40,8 +40,43 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-05-04",
+  "date": "2024-05-06",
   "list": [
+    {
+      "id": "7310401049854",
+      "name": "Kolsyrat vatten Ananas & passionsfrukt 150cl",
+      "company": "Loka",
+      "ingredients": "Kolsyrat vatten, naturliga aromämnen, natriumvätekarbonat, kaliumvätekarbonat, magnesiumklorid, natriumsulfat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310401052625",
+      "name": "Kolsyrat vatten Hallon & rabarber 150cl",
+      "company": "Loka",
+      "ingredients": "Kolsyrat vatten, natriumvätekarbonat, naturliga aromämnen, kaliumvätekarbonat, magnesiumklorid, natriumsulfat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310401000053",
+      "name": "Kolsyrat vatten Citron 150cl",
+      "company": "Loka",
+      "ingredients": "Kolsyrat vatten, natriumvätekarbonat, naturliga aromämnen, kaliumvätekarbonat, magnesiumklorid, natriumsulfat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310401042985",
+      "name": "Kolsyrat vatten Jordgubb & granatäpple 150cl",
+      "company": "Loka",
+      "ingredients": "Kolsyrat vatten, natriumvätekarbonat, naturliga aromämnen, kaliumvätekarbonat, magnesiumklorid, natriumsulfat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310401000091",
+      "name": "Kolsyrat vatten Päron 150cl",
+      "company": "Loka",
+      "ingredients": "Kolsyrat vatten, naturliga aromer av päron och citron samt andra aromämnen (SELLERI), natriumvätekarbonat, kaliumvätekarbonat, magnesiumklorid, natriumsulfat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311311016172",
       "name": "Pommes Friteskrydda Mellanburk 119g",
