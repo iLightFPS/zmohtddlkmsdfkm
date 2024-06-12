@@ -40,8 +40,29 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-05-06",
+  "date": "2024-06-12",
   "list": [
+    {
+      "id": "7311312002075",
+      "name": "Tacosås Mild 230g",
+      "company": "Santa Maria",
+      "ingredients": "Tomat (65%)(krossad tomat, tomatpuré, passerad tomat), vatten, lök, grön paprika, ättika, majsstärkelse, salt, kryddor och örter (chilipeppar, vitlök, spiskummin, grön jalapeño, koriander, oregano) .",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310860005941",
+      "name": "Lätt & Lagom Matfettsblandning 600g",
+      "company": "Lätt & Lagom®",
+      "ingredients": "Vatten, rapsolja (23%), vegetabiliskt fett (sheaolja, kokosolja), KÄRNMJÖLK (6%), modifierad stärkelse, SMÖROLJA, mjölksyrakultur, salt, emulgeringsmedel (mono- och diglycerider av veg. fett), konserveringsmedel (kaliumsorbat), surhetsreglerande medel (mjölksyra, natriumcitrat, citronsyra), arom, vitamin A och D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311312006363",
+      "name": "Santa Maria BBQ Sauce Roasted Garlic 335g",
+      "company": "Santa Maria",
+      "ingredients": "Tomatpuré, socker, vatten, ättika, rostad vitlök (3%), vitlök, salt, majsstärkelse, kryddor (chilipeppar, spiskummin, svartpeppar), pepparrot, äppleextrakt, rökarom, lök.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7310401049854",
       "name": "Kolsyrat vatten Ananas & passionsfrukt 150cl",
@@ -1912,7 +1933,7 @@
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7310091771623",
+      "id": "7310090771623",
       "name": "Jordgubb Original",
       "company": "Risifrutti",
       "ingredients": "MJÖLK/MÆLK, vatten/vand, ris (8,5%), jordgubbar/jordbær (7%), socker (6,7%), GRÄDDE/FLØDE, fläderbärs/hyldebærjuice, förtjockningsmedel/fortykningsmiddel (pektin, karragenan), naturliga aromer (bl.a. vanillin), salt, syra (citronsyra).",
