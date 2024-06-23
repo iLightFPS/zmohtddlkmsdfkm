@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-06-12",
+  "date": "2024-06-23",
   "list": [
+    {
+      "id": "7331764000085",
+      "name": "Parisare 900g",
+      "company": "Bastuträsk Charkuteri",
+      "ingredients": "Gris & Nötkött 46%, Vatten, fettfläsk, potatismjöl, salt, potatisfibrer, druvsocker, jästextrakt, maltodextrin, kryddextrakter(SELLERI). Stabiliseringsmedel(di % trinatriumfosfat), Antoxidationsmedel(askorbinsyra), Konserveringsmedel (nitrit)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311312002075",
       "name": "Tacosås Mild 230g",
