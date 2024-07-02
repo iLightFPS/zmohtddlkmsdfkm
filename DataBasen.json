@@ -40,8 +40,29 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-06-23",
+  "date": "2024-07-02",
   "list": [
+    {
+      "id": "7318690160861",
+      "name": "Majslejon Morot Ekologiska 20g",
+      "company": "ICA I Love Eco",
+      "ingredients": "Majs* 79%, solrosolja*, torkad morot* 7%, vitamin B1 (tiamin). Majsen är odlad i Italien. *KRAV-ekologisk ingrediens.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690172598",
+      "name": "Lins och majs Äpple canel 20g",
+      "company": "ICA I Love Eco",
+      "ingredients": "Majs* 55%, röda linser* 23%, solrosolja*, äpplepulver* 9,5%, kanel*, vitamin B1 (tiamin). Majs odlas i Italien och Linserna i Tjeckien. *KRAV-Ekologiska ingredienser. KRAV-certifiering är verifierad av Intertek Certification AB.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "",
+      "name": "",
+      "company": "",
+      "ingredients": "",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7331764000085",
       "name": "Parisare 900g",
