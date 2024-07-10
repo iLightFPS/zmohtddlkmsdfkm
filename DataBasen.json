@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-07-02",
+  "date": "2024-07-10",
   "list": [
+    {
+      "id": "7315360152713",
+      "name": "Delicatoboll 15-p 600g",
+      "company": "Delicato",
+      "ingredients": "Socker, HAVREGRYN, vegetabilisk olja (palm*, raps, shea), vatten, kokosflingor, kakaopulver, salt, arom (bl.a. mocka), konserveringsmedel (kaliumsorbat), emulgeringsmedel (vegetabiliskt E471, lecitin), färgämne (sockerkulör). Kan innehålla spår av MJÖLKPROTEIN. *Hållbart producerad från certifierade odlare.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7318690160861",
       "name": "Majslejon Morot Ekologiska 20g",
