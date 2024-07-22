@@ -40,8 +40,22 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-07-10",
+  "date": "2024-07-22",
   "list": [
+    {
+      "id": "7312930010381",
+      "name": "Cheesecake Toblerone 85g",
+      "company": "Almondy",
+      "ingredients": "Socker, färskost (mjölk), vetemjöl (vetemjöl, kalciumkarbonat, järn, niacin, tiamin), vegetabilisk olja (solrosolja, palmolja, rapsolja), skummjölk, pastöriserade hela ägg, inverterad sockerlag, helmjölkspulver, kakaomassa, kakaosmör, fettreducerat kakaopulver, majsstärkelse, modifierad majsstärkelse, salt, smörfett, honung, mandel, äggvita, bourbon-vaniljextrakt med frön, jäsmedel (natriumvätekarbonat), emulgeringsmedel (sojalecitin, mono- och diglycerider av fettsyror, polysorbat 80), stabiliseringsmedel (guarkärnmjöl), färgämne (betakaroten), arom.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7312930009255",
+      "name": "Cheesecake Daim 85g",
+      "company": "Almondy",
+      "ingredients": "Socker/sukker, mjukost/kremost/flødeost (MJÖLK/MELK/MÆLK), vegetabilisk olja (solrosolja, palmolja, rapsolja), VETEMJÖL/HVETEMEL/HVEDEMEL (VETEMJÖL/HVETEMEL/HVEDEMEL, kalciumkarbonat, järn, niacin, tiamin), SKUMMJÖLK/skummet MELK/SKUMMETMÆLK, pastöriserade hela ÄGG/EGG/ÆG, inverterad sockersirap/sukkersirup, HELMJÖLKSPULVER/HELMELKSPULVER/HELMÆLKSPULVER, kakaomassa*, kakaosmör*, fettreducerat kakaopulver, majsstärkelse/maisstivelse, modifierad majsstärkelse/modifisert maisstivelse, salt, SMÖRFETT/-OLIE, sött vassle-/myse-/vallepulver (från MJÖLK/MELK/MÆLK), SKUMMJÖLKSPULVER/SKUMMETMELKPULVER/SKUMMETMÆLKSPULVER, modifierat vassle/modifisert myse/modificeret valle (MJÖLK/MELK/MÆLK), sockrad kondenserad SKUMMJÖLK/SKUMMETMELK/SKUMMETMÆLK, MANDEL, Bourbon-vaniljextrakt med frön/frø, jäsmedel/hevemiddel/hævemiddel (natriumvätekarbonat), emulgeringsmedel/emulgator (SOJALECITIN, mono- och diglycerider av fettsyror, polysorbat 80), stabiliseringsmedel (guargummi), färgämne (betakaroten), arom. Kan innehålla spår av andra NÖTTER/NØTTER/NØDDER.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7315360152713",
       "name": "Delicatoboll 15-p 600g",
