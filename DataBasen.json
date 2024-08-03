@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-07-22",
+  "date": "2024-08-03",
   "list": [
+    {
+      "id": "7622201727420",
+      "name": "Mjölkchoklad Schweizernöt 200g",
+      "company": "Marabou",
+      "ingredients": "Socker, kakaosmör, HASSELNÖTTER, kakaomassa, vasslepulver (MJÖLK), SKUMMJÖLKSPULVER, SMÖRFETT, vassleprodukt (MJÖLK), emulgeringsmedel (SOJALECITINER), arom. Minst 30% kakao.KAN INNEHÅLLA ANDRA NÖTTER OCH VETE.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7312930010381",
       "name": "Cheesecake Toblerone 85g",
