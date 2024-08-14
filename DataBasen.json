@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-08-03",
+  "date": "2024-08-14",
   "list": [
+    {
+      "id": "7340083480621",
+      "name": "Havregryn Garant 1,5kg",
+      "company": "Garant",
+      "ingredients": "Havregryn",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7622201727420",
       "name": "Mjölkchoklad Schweizernöt 200g",
