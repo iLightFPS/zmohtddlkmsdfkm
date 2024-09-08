@@ -40,8 +40,36 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-08-03",
+  "date": "2024-09-08",
   "list": [
+    {
+      "id": "7300206303008",
+      "name": "Leverpastej Ugnsbakad Bredbar 200g",
+      "company": "Scan",
+      "ingredients": "Svenskt fett fläsk, svensk grislever (31%), vatten, potatismjöl, socker, salt, lök, kryddor, druvsocker, arom, antioxidationsmedel E300, konserveringsmedel E250.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350028546640",
+      "name": "Majskakor Ranch 125g",
+      "company": "Friggs",
+      "ingredients": "Majs (80%), rapsolja, kryddblandning (VASSLEPULVER (MJÖLK), salt, socker, dextros, lök, tomat, ostpulver (MJÖLK), paprika, jästextrakt, surhetsreglerande medel (mjölksyra, äpplesyra, citronsyra), vitlök, persilja, kryddextrakt (paprika), arom). Kan innehålla spår av soja och sesamfrön.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690507673",
+      "name": "Caesardressing 250ml",
+      "company": "ICA",
+      "ingredients": "Rapsolja* 50%, vatten, citronjuice från koncentrat 5,6%, hårdost 4% (pastöriserad MJÖLK*, salt, syrningskultur, mjölkkoagulerande enzym (animaliskt)), ÄGGULA* 3%, vinättika, socker,Parmigiano Reggiano DOP 1% (KOMJÖLK**, salt, kalvlöpe), salt, senap (vatten, SENAPSFRÖ, socker, ättika, salt, kryddor), vitlökspulver, Worcestershire Sauce (maltvinäger (av KORN), vinäger, melass, socker,salt, anjovis (FISK), tamarindextrakt, lök, vitlök, kryddor, aromer), surhetsreglerande medel (E270), stabiliseringsmedel (E415), vitpeppar, konserveringsmedel(E202), lökpulver. *Ursprung EU. **Ursprung Italien.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340083480621",
+      "name": "Havregryn Garant 1,5kg",
+      "company": "Garant",
+      "ingredients": "Havregryn",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7622201727420",
       "name": "Mjölkchoklad Schweizernöt 200g",
