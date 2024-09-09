@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-09-08",
+  "date": "2024-09-09",
   "list": [
+    {
+      "id": "7310401002002",
+      "name": "LOKA Päron 33cl",
+      "company": "Loka",
+      "ingredients": "Kolsyrat vatten, naturliga aromer av päron och citron samt andra aromämnen (SELLERI), natriumvätekarbonat, kaliumvätekarbonat, magnesiumklorid, natriumsulfat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7300206303008",
       "name": "Leverpastej Ugnsbakad Bredbar 200g",
