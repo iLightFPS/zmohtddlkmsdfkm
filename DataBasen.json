@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-09-09",
+  "date": "2024-09-19",
   "list": [
+    {
+      "id": "7391814006924",
+      "name": "Cashew Brynt Smör & Havssalt 200g",
+      "company": "Exotic Snacks",
+      "ingredients": "CASHEWNÖTTER (95%), solrosolja/solsikkeolje, kryddblandning (2%) (vassle-/myse-/vallepulver (MJÖLK/MELK/MÆLK), havssalt, druvsocker/druesukker, GRÄDD-/FLØTE-/FLØDEPULVER, socker, jästextrakt/gjærekstrakt, lök, salt, krydda, arom, surhetsreglerande medel (mjölksyra), karamelliserat socker, kryddextrakt (gurkmeja)). Kan innehålla spår av jordnötter/peanøt, mandel, hasselnöt, valnöt, pekannöt, paranöt, pistagenöt och macadamianöt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7310401002002",
       "name": "LOKA Päron 33cl",
