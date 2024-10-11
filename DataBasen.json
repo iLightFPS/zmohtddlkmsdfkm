@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-09-19",
+  "date": "2024-01-10",
   "list": [
+    {
+      "id": "7315200583585",
+      "name": "Sås Cheddar Cheese 280ml",
+      "company": "Caj P",
+      "ingredients": "Rapsolja/Rapsiöljy, vatten/vesi, dragonättika/estragoneddik/rakuunaetikka, salt/suola, socker/sokeri, ÄGGULA/EGGEPLOMME/KANANMUNAN KELTUAINEN, OSTPULVER/JUUSTOJAUHE (MJÖLK/MAITO),CHEDDARPULVER/CHEDDARJAUHE (0,5%), naturlig arom/luontainen aromi, arom/aromi, rökarom/savuaromi, surhetsreglerande medel/happamuudensäätöaine (E296), stabiliseringsmedel/stabilointiaine (E415), konserveringsmedel/säilöntäaine (E202), färgämne/fargestoff/väri (E160a, paprikaextrakt/paprikauute).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7391814006924",
       "name": "Cashew Brynt Smör & Havssalt 200g",
