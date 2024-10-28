@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2024-01-10",
+  "date": "2024-10-28",
   "list": [
+    {
+      "id": "7318690174172",
+      "name": "Gnocchi ICA 500g",
+      "company": "ICA",
+      "ingredients": "Mjöl av DURUMVETE*. Kan innehålla spår av ägg, soja och senap. *Odlat i: EU/Icke EU.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7315200583585",
       "name": "Sås Cheddar Cheese 280ml",
