@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-01-17",
+  "date": "2025-01-21",
   "list": [
+    {
+      "id": "7350068295584",
+      "name": "Proteinbar Kolakaka 55g",
+      "company": "ProPud",
+      "ingredients": "MJÖLKprotein, sötningsmedel (maltitol), fuktighetsbevarande medel (glycerol), kollagenpeptider (nötkreatur), kexgranulat (8,4 %) (sötningsmedel (maltitol, isomalt, erytritol), majsmjöl, potatisstärkelse, SMÖR, rismjöl, modifierad stärkelse, tapiokastärkelse, salt, aromämnen, jäsmedel (natriumkarbonater)), vattenfri MJÖLKfett, polydextrosirap (polydextros, vatten), kakaosmör, skummjölkspulver, MANDELprotein, kakaomassa, rismjöl, majsfiber, salt, aromämnen (MJÖLK), emulgeringsmedel (lecitiner (SOJA)), sötningsmedel (aspartam, acesulfam K). Innehåller en källa till fenylalanin. Innehåller naturligt förekommande sockerarter. Kan innehålla spår av VETE, CASHEWNÖTTER, HASSELNÖTTER och ÄGG. Innehåller polyoler. Överdriven konsumtion kan ha laxerande effekt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7310401001661",
       "name": "Julmust Original 33cl Pet 12-p",
