@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-01-21",
+  "date": "2025-01-29",
   "list": [
+    {
+      "id": "2666263071621",
+      "name": "Leverbiff 300g",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Nötlever (25 %), vatten, nöthjärta, fett från gris, potatisstärkelse, potatisflingor, salt, druvsocker (majs), potatisfiber, griskött, citrusfiber, lök, kryddor (peppar, mejram, salvia, rosmarin), jästextrakt, maltodextrin (potatis). Svenska köttråvaror. Kötthalt: 4%. Fetthalt: 19%",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7350068295584",
       "name": "Proteinbar Kolakaka 55g",
