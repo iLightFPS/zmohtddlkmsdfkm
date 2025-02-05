@@ -40,8 +40,22 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-01-29",
+  "date": "2025-02-05",
   "list": [
+    {
+      "id": "7310394005905",
+      "name": "Kött & Grillkrydda 88g",
+      "company": "Knorr",
+      "ingredients": "Salt, smakförstärkare (mononatriumglutamat), stärkelse, jästextrakt, örtkryddor 3,4 % (bl.a.persilja1, dill1) , vitlök1 2,8 %, paprikapulver1, peppar, curry 2,2 % (koriander, spiskummin, gurkmeja, peppar, anisfrö, kanel, fänkålsfrö, ingefära, libbstickarot, cayennepeppar, kryddpeppar, kryddnejlikor), lökpulver1, solrosolja. Kan innehålla spår av gluten, ägg, soja, mjölk, selleri, och senap. 1Hållbart odlade ingredienser.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8712566319329",
+      "name": "Kött & Grillkrydda 88g",
+      "company": "Knorr",
+      "ingredients": "Salt, smakförstärkare (mononatriumglutamat), stärkelse, jästextrakt, örtkryddor 3,4 % (bl.a.persilja¹, dill¹), vitlök¹ 2,8 %, paprikapulver¹, peppar, curry 2,2 % (koriander, spiskummin, gurkmeja, peppar, anisfrö, kanel, fänkålsfrö, ingefära, libbstickarot, cayennepeppar, kryddpeppar, kryddnejlikor)), lökpulver¹, solrosolja. Kan innehålla spår av gluten, ägg, soja, mjölk, selleri, och senap.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "2666263071621",
       "name": "Leverbiff 300g",
