@@ -40,11 +40,25 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-02-05",
+  "date": "2025-02-07",
   "list": [
     {
+      "id": "7310300000949",
+      "name": "Kött & Grillkrydda 88g Glasburk",
+      "company": "Knorr",
+      "ingredients": "Salt, Smakförstärkare(mononatriumglutamat), paprika, vitpeppar, curry, koriander, persilja och andra kryddor och örter, modifierad vetestärkelse, jästextrakt, vitlök, härdat vegetabiliskt fett, lök, klump-förebyggande medel (E 552), surhetsreglerande medel(citronsyra)",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310300000901",
+      "name": "Kyckling Krydda 65g Glasburk",
+      "company": "Knorr",
+      "ingredients": "Salt, chili, smakförstärkare(mononatriumglutamat, dinatriumguanlyat), vetestärkelse, paprika, vitlök, jästextrakt, lök, klumpförebyggande medel (E 551, E552), arom , vegetabiliskt fett, vegetabilisk olja, kryddor(med bla selleri), antioxidationsmedel(E 320)",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
       "id": "7310394005905",
-      "name": "Kött & Grillkrydda 88g",
+      "name": "Kött & Grillkrydda 88g Refill",
       "company": "Knorr",
       "ingredients": "Salt, smakförstärkare (mononatriumglutamat), stärkelse, jästextrakt, örtkryddor 3,4 % (bl.a.persilja1, dill1) , vitlök1 2,8 %, paprikapulver1, peppar, curry 2,2 % (koriander, spiskummin, gurkmeja, peppar, anisfrö, kanel, fänkålsfrö, ingefära, libbstickarot, cayennepeppar, kryddpeppar, kryddnejlikor), lökpulver1, solrosolja. Kan innehålla spår av gluten, ägg, soja, mjölk, selleri, och senap. 1Hållbart odlade ingredienser.",
       "gluten": "Glutenfri [ Nej ]"
