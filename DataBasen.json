@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-02-07",
+  "date": "2025-02-15",
   "list": [
+    {
+      "id": "7300207071005",
+      "name": "Grillkorv med tunt skinn 640g",
+      "company": "Scan",
+      "ingredients": "Svenskt gris- och nötkött (57%)*, vatten, potatismjöl, fett från gris- och nötkött*, salt, bindväv från gris*, lök, kryddor, koriander, bockhornsklöverfrö, kryddextrakt, jästextrakt, druvsocker, socker, köttextrakt, vegetabiliskt koncentrat, balsamvinäger, surhetsreglerande medel E330, antioxidationsmedel E326:E300, konserveringsmedel E261:E250, kollagentarm, rökarom. *Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7310300000949",
       "name": "Kött & Grillkrydda 88g Glasburk",
