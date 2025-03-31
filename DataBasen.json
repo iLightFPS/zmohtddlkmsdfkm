@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-02-15",
+  "date": "2025-03-31",
   "list": [
+    {
+      "id": "7310350131785",
+      "name": "Cloetta Påskeskum 720g",
+      "company": "Cloetta",
+      "ingredients": "glukossirap, socker/sukker, invertsockersirap, gelatin, syra (citronsyra), vegetabiliska oljor (kokos, raps), naturlig arom, ytbehandlings-/overfladebehandlingsmiddel (karnaubavax/voks), färgämne/farvestof (betakaroten).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7300207071005",
       "name": "Grillkorv med tunt skinn 640g",
