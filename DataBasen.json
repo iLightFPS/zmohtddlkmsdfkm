@@ -40,8 +40,22 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-03-31",
+  "date": "2025-04-14",
   "list": [
+    {
+      "id": "7393263062315",
+      "name": "Prinskorv natur 600g",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Griskött, vatten, nötkött, potatisstärkelse, fett från gris, salt, kryddor (cayennepeppar, ingefära, kardemumma, koriander, muskotnöt, paprika), kryddextrakt (peppar), dextros, stabiliseringsmedel E450, E451, antioxidationsmedel E300, konserveringsmedel E250.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7393263062278",
+      "name": "Norrlandsprinskorv 300g",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Griskött, vatten, nötkött, potatisstärkelse, fett från gris, salt,kryddor, lök, maltodextrin, jästextrakt, kryddextrakt (cayennepeppar, ingefära, koriander, muskotnöt, svartpeppar) antioxidationsmedel E331, E300, konserveringsmedel E250. Rökarom.Svenska köttråvaror. Kötthalt: 57%",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7310350131785",
       "name": "Cloetta Påskeskum 720g",
