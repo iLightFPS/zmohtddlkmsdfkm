@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-04-14",
+  "date": "2025-04-23",
   "list": [
+    {
+      "id": "7311143100117",
+      "name": "Glutenfri Mjölmix",
+      "company": "Finax",
+      "ingredients": "Glutenfri VETEstärkelse*, skumMJÖLKspulver, oligofruktos, förtjockningsmedel (guarkärnmjöl), vitamin B3 (niacin), järn, vitamin B1 (tiamin), vitamin B6 (pyridoxin), vitamin B2 (riboflavin). *Ursprung EU",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7393263062315",
       "name": "Prinskorv natur 600g",
