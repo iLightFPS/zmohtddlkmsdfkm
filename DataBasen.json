@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-04-23",
+  "date": "2025-04-26",
   "list": [
+    {
+      "id": "3046920028004",
+      "name": "Mörk Choklad Excellence",
+      "company": "Lindt",
+      "ingredients": "kakaomassa, socker, kakaosmör, vanilj. Kan innehålla MJÖLK, NÖTTER, SOJA, SESAMFRÖN. Den mörka chokladen innehåller minst 70% kakao.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311143100117",
       "name": "Glutenfri Mjölmix",
