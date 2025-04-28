@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-04-26",
+  "date": "2025-04-28",
   "list": [
+    {
+      "id": "7340083444463",
+      "name": "Mörk Sojasås 150ml",
+      "company": "Eldorado",
+      "ingredients": "Vatten, SOJABÖNOR, salt, socker, VETEMJÖL.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "3046920028004",
       "name": "Mörk Choklad Excellence",
