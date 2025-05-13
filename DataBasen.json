@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-04-28",
+  "date": "2025-05-13",
   "list": [
+    {
+      "id": "6416453039919",
+      "name": "Amerikanska pastiller 175g",
+      "company": "Fazer",
+      "ingredients": "socker, kakaosmör, helmjölkspulver, kakaomassa, skummjölkspulver, vegetabiliskt fett (palm, shea), vasslepulver (från mjölk), förtjockningsmedel (E414), emulgeringsmedel (sojalecitin), färger (E160a, E141, E163, E120), ytbehandlingsmedel (E903, E901, E904), aromer. Kan innehålla spår av vete. Mjölkchoklad innehåller förutom kakaosmör även andra vegetabiliska fetter. Mjölkchokladen innehåller minst 28 % kakao.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "5411011560479",
       "name": "UFO Bubblegum 40g",
