@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-05-13",
+  "date": "2025-05-14",
   "list": [
+    {
+      "id": "7394376621697",
+      "name": "Havredryck iKaffe",
+      "company": "Oatly",
+      "ingredients": "Vatten, HAVRE 10%, rapsolja, surhetsreglerande medel (dikaliumfosfat), mineraler (kalciumkarbonat, kaliumjodid), salt, vitaminer (D2, riboflavin och B12).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7340191139176",
       "name": "Snabbnudlar Tom Yum",
