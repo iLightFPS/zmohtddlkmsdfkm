@@ -40,8 +40,22 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-05-14",
+  "date": "2025-05-21",
   "list": [
+    {
+      "id": "7350001576039",
+      "name": "Kak Kungen Chokladboll 180g",
+      "company": "Kak Kungen",
+      "ingredients": "Havregryn, socker, vegetabilisk olja och fett (palm (rspo), raps), kokos, kakaopulver (utz), etanol, emulgeringsmedel (sorbitol, glycerol, solroslecitin, mono- och diglycerider av fettsyror och polyglycerolestrar (vegetabiliska), kaffepulver, salt, konserveringsmedel (natriumpropionat), aromämne, surhetsreglerande medel (citronsyra), färgämne (sockerkaramell).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350001574165",
+      "name": "Kak Kungen punchrulle 160g",
+      "company": "Kak Kungen",
+      "ingredients": "Socker, havregryn, vegetabilisk olja och fett (palm (rspo), raps), mandel, kakaopulver (utz), emulgeringsmedel (glukos, sorbitol, invertsocker, glycerol, solroslecitin, mono- och diglycerider av fettsyror och polyglycerolestrar (vegetabiliska), kaliumalginat), etanol, etylalkohol, arrak, aromämne, salt, konserveringsmedel (natriumpropionat, kaliumsorbat), surhetsreglerande medel (citronsyra), färgämne (betakaroten, patentblått V).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7394376621697",
       "name": "Havredryck iKaffe",
