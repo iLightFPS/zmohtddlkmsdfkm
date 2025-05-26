@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-05-21",
+  "date": "2025-05-26",
   "list": [
+    {
+      "id": "7041111138438",
+      "name": "Brynild Knatter Skogsbär 80g",
+      "company": "Brynild",
+      "ingredients": "sukker/socker, glykosesirup, konsistensmiddel (oksidert/oxiderad potetstivelse/potatisstärkelse/kartoffelstivelse, E420), invertsukker/-socker, gelatin (svin/gris), surhetsregulerende middel (E330, E331), aroma, fargestoff/färgämne/farvestof (E163, E120, E133, E160e), emulgator/emulgeringsmedel (E471), potetstivelse/potatisstärkelse/kartoffelstivelse, overflatebehandlingsmidler/ytbehandlingsmedel (kokosolje, E422, E901). Produktet kan inneholde spor av NØTTER/NÖTTER/NØDDER og PEANØTTER/JORDNÖTTER/JORDNØDDER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7350001576039",
       "name": "Kak Kungen Chokladboll 180g",
