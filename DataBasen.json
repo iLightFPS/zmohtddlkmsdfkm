@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-05-26",
+  "date": "2025-06-09",
   "list": [
+    {
+      "id": "4000415000127",
+      "name": "Fritt segt godis grapefrukt",
+      "company": "Fritt",
+      "ingredients": "glukosirap, socker, vegetabiliska fetter(palm, kokosnöt), gelatin, syra(citronsyra), grapefruktsaftsaftpulver 0,5%, antioxidationsmedel(E300), naturliga aromer, färgämnen(rödbetsrött, paprikaextrakt).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7041111138438",
       "name": "Brynild Knatter Skogsbär 80g",
