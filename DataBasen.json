@@ -40,8 +40,22 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-06-09",
+  "date": "2025-06-13",
   "list": [
+    {
+      "id": "7318690107781",
+      "name": "ICA Arraksboll 240g",
+      "company": "ICA",
+      "ingredients": "HAVREgryn, socker, margarin (vegetabiliskt fett (palmolja, rapsolja, palmkärnolja, kokosfett), vatten, salt, vegetabiliskt emulgeringsmedel E471, aromer, surhetsreglerande medel E330), kakaoglasyr (socker, vegetabilisk olja (palmkärnolja, palmolja, sheaolja), fettreducerat kakaopulver, vegetabiliskt emulgeringsmedel (E492, sojalecitin)), chokladströssel (socker, kakaopulver, potatisstärkelse, glukossirap, palmolja, ytbehandlingsmedel (bivax)), fettreducerat kakaopulver, aromer, konserveringsmedel E202.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5774540844008",
+      "name": "Anthon Berg Hjärtformad Guldask 155g",
+      "company": "Anthon Berg",
+      "ingredients": "Socker, kakaosmör, sötmjölkspulver, glukossirap, kakaomassa, rostade hasselnötter, vegetabiliskt fett i fyllning (palm, sheakärna), kokos, mandlar, kondenserad mjölk, stabiliseringsmedel (sorbitolsirap), aprikoskärnor, rålakrits, aromämne, emulgeringsmedel (lecitin), mjölkfett, mjölksocker, salt, sirap, konserveringsmedel (kaliumsorbat, sorbinsyra), fuktighetsbevarande medel (invertas), förtjockningsmedel (pektin), vaniljextrakt. Minst 33 % kakaotorrsubstans och minst 23 % mjölkbeståndsdelar i mjölkchokladen. Minst 50 % kakaotorrsubstans i den mörka chokladen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "4000415000127",
       "name": "Fritt segt godis grapefrukt",
