@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-06-13",
+  "date": "2025-06-26",
   "list": [
+    {
+      "id": "7310106055815",
+      "name": "Friggs Riskakor Pizza 125g",
+      "company": "Friggs",
+      "ingredients": "Råris (fullkorn) (78 %), rapsolja, kryddblandning (OSTPULVER, vasslepulver (från MJÖLK), salt, socker, tomatpulver, dextros, jästextrakt, vitlökspulver, örter (oregano, basilika, persilja), arom (MJÖLK), kryddextrakt (paprika, svartpeppar), syra (citronsyra), örtextrakt (oregano, timjan)). Kan innehålla spår av soja och sesamfrön.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690107781",
       "name": "ICA Arraksboll 240g",
