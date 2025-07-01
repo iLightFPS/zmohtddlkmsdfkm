@@ -40,8 +40,22 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-06-26",
+  "date": "2025-07-01",
   "list": [
+    {
+      "id": "7318690656401",
+      "name": "Chokladknappar Mörk Choklad 150g",
+      "company": "ICA",
+      "ingredients": "Kakaomassa*, socker, fettreducerat kakaopulver*, emulgeringsmedel (SOJALECITIN), naturlig vaniljarom. Kan innehålla spår av mjölk, mandel och hasselnötter.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5711070707694",
+      "name": "Våffelsticks - Kakao & Vanilj 250g",
+      "company": "Nordthy",
+      "ingredients": "Socker, Vetemjöl, Vegetabilisk olja (palmeolja, solrosolja), Majsstärkelse, Vasslepulver (mjölk), Skummjölkspulver, Dextros, Glukos-fruktossirap, Kakaopulver med låg fetthalt 0,8 %, Emulgator (sojalecithiner), Färgämne (E150a)",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7310106055815",
       "name": "Friggs Riskakor Pizza 125g",
