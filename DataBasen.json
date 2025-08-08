@@ -38,10 +38,18 @@
     "fullkornsrågmjöl",
     "Rågmjöl",
     "Kärnvetemjöl",
-    "Durumvetemjöl"
+    "Durumvetemjöl",
+    "Vetepellets"
   ],
   "date": "2025-08-08",
   "list": [
+    {
+      "id": "7331755010420",
+      "name": "Sundlings Baconsnacks 125g",
+      "company": "Sundlings",
+      "ingredients": "vetepellets/hvetepellets/hvedepiller (vetemjöl/hvetemel/hvedemel, salt, bak-/bake/bagepulver (bikarbonat), färgämne/farge/farvestof (karmin, annattoextrakt/annatto ekstrakt)), solrosolja/solsikkeolje/solsikkeolie, kryddblandning/krydderblandning/krydderiblanding (salt, maltodextrin/maltodekstrin (majs/mais, potatis/potet/kartoffel), paprika, vetemjöl/hvetemel/hvedemel, mjölksocker/melkesukker/mælkesukker, jästextrakt/gjærekstrakt/gærekstrakt, druvsocker/dekstrose/dextrose (majs/mais), lök/løk/løg, arom/aroma, socker/sukker, rökarom/røykaroma/røgaroma, kryddextrakt/krydderekstrakt/krydderiekstrakt (paprika), krydda/krydder/krydderi, mjölk-/melke-/mælkepulver) kan innehålla/inneholde/indeholde spår/spor/spore av/af senap/sennep och/og soja/soya",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7035119999269",
       "name": "Fish & Crisp Gourmetfiléer 480g",
