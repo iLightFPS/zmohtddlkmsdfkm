@@ -40,8 +40,15 @@
     "Kärnvetemjöl",
     "Durumvetemjöl"
   ],
-  "date": "2025-07-01",
+  "date": "2025-08-08",
   "list": [
+    {
+      "id": "7035119999269",
+      "name": "Fish & Crisp Gourmetfiléer 480g",
+      "company": "Findus",
+      "ingredients": "Filéer av Alaska pollock* (FISK) 56 % (Theragra chalcogramma), berikat VETEMJÖL (VETEMJÖL, mineraler [kalcium, järn], vitaminer [niacin, tiamin]), vatten, rapsolja, VETESTÄRKELSE, bakpulver (E450, E500), salt, rismjöl, majsmjöl, druvsocker, SENAP, vitlökspulver, VETEGLUTEN, naturliga aromer (med SENAP), paprika, kryddextrakt, karamelliserat socker. Kan innehålla spår av MJÖLK. *Fiskad i nordöstra eller nordvästra Stillahavet.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7318690656401",
       "name": "Chokladknappar Mörk Choklad 150g",
