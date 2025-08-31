@@ -41,8 +41,22 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2025-08-08",
+  "date": "2025-08-31",
   "list": [
+    {
+      "id": "7318690112082",
+      "name": "ICA Extra Fin Falukorv 800g",
+      "company": "ICA",
+      "ingredients": "Gris*- och nötkött* 71%, vatten, potatismjöl, salt, druvsocker, kryddor (ingefära, vitpeppar, svartpeppar, cayennepeppar), lökpulver, kryddextrakt (svartpeppar, muskot), antioxidationsmedel (E300), konserveringsmedel (E250), rökarom. *Fött, uppfött och slaktat i Sverige. Ej ätbart korvskinn.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7312060700763",
+      "name": "Pinnglass Farbror Arnes Kanelbulle 90ml",
+      "company": "Triumf Glass",
+      "ingredients": "SKUMMJÖLK, socker, GRÄDDE 13 %, glukossirap, kakaosmör, HELMJÖLKSPULVER, vegetabiliska oljor (kokos, raps), vasslepulver (av MJÖLK), VETEMJÖL, emulgeringsmedel (mono- och diglycerider av fettsyror, lecitin), karamelliserad sockersirap, stabiliseringsmedel (fruktkärnmjöl, guarkärnmjöl), MJÖLKFETT, kanel, förtjockningsmedel (pektin), salt, vaniljarom och andra naturliga aromer, mald vaniljstång, surhetsreglerande medel (citronsyra), druvsocker. KAN INNEHÅLLA SPÅR AV NÖTTER.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7331755010420",
       "name": "Sundlings Baconsnacks 125g",
