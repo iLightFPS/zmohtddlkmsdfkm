@@ -41,8 +41,15 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2025-08-31",
+  "date": "2025-11-14",
   "list": [
+     {
+      "id": "8711327663961",
+      "name": "MAGNUM UTOPIA DOUBLE",
+      "company": "Magnum",
+      "ingredients": "Skummad MJÖLK, socker, glukos-fruktossirap, kakaomassa¹, surkörsbärsjuice från koncentrat (4,5 %), kakaosmör¹, glukossirap, surkörsbärspuré (3 %), kokosfett, svartvinbärspuré (2,5 %), helmjölkspulver, mjölkfett (MJÖLK), hallonpuré (1,5 %), fruktos, vasslesolider (MJÖLK), surkörsbär (1 %), grädde (MJÖLK) (1 %), limejuice från koncentrat, modifierad stärkelse, emulgeringsmedel (E471, E476, E442), rödbetsjuicekoncentrat, surhetsreglerande medel (citronsyra, E331), stabiliseringsmedel (pektin, guargummi, taragummi, johannesbrödgummi, karragenan), aromer, spirulinakoncentrat, svart morotskoncentrat, citronjuicekoncentrat, salt, färgämne (antocyaniner). Kan innehålla: SOJA, MANDEL, HASSELNÖT, VALNÖT, CASHEWNÖT, PECANNÖT, PARANÖT, PISTAGENÖT och MAKADAMIANÖT. orest Alliance Certified",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690112082",
       "name": "ICA Extra Fin Falukorv 800g",
