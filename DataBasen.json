@@ -41,9 +41,16 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2025-11-14",
+  "date": "2025-12-02",
   "list": [
-     {
+    {
+      "id": "7310401047430",
+      "name": "Champis Zero burk 33cl",
+      "company": "Spendrups",
+      "ingredients": "Kolsyrat vatten, extrakt av äpple och druva, aromämnen, surhetsreglerande medel citronsyra, sötningsmedel (aspartam*, acesulfam K), konserveringsmedel E211, färgämne E150d. *Innehåller en källa till fenylalanin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "8711327663961",
       "name": "MAGNUM UTOPIA DOUBLE",
       "company": "Magnum",
