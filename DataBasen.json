@@ -41,8 +41,15 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2025-12-02",
+  "date": "2025-12-10",
   "list": [
+    {
+      "id": "7318690508373",
+      "name": "Lättmajonnäs 460g",
+      "company": "ICA Basic",
+      "ingredients": "Vatten, rapsolja 39%, socker, modifierad majsstärkelse, ÄGGULA* 3% (ägg från frigående höns), vinäger, salt, SENAPSPULVER, surhetsreglerande medel (E270), stabiliseringsmedel (E412), färgämme (E160a), antioxidationsmedel (E385). *Ursprung EU",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7310401047430",
       "name": "Champis Zero burk 33cl",
