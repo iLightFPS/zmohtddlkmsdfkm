@@ -41,8 +41,15 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2025-12-10",
+  "date": "2025-12-17",
   "list": [
+    {
+      "id": "7393263059490",
+      "name": "Norrlandsprins 500g",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Griskött, vatten, nötkött, potatisstärkelse, fett från gris, salt, kryddor, lök, maltodextrin, jästextrakt, kryddextrakt (cayennepeppar, ingefära, koriander, muskotnöt, svartpeppar) antioxidationsmedel E331, E300, konserveringsmedel E250. Rökarom. Svenska köttråvaror. Kötthalt: 57%",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690508373",
       "name": "Lättmajonnäs 460g",
