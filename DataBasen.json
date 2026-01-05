@@ -41,8 +41,15 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2025-12-17",
+  "date": "2026-01-05",
   "list": [
+    {
+      "id": "5774540845401",
+      "name": "Guldask chokladpraliner",
+      "company": "Anthon Berg",
+      "ingredients": "Socker, kakaosmör*, kakaomassa*, HELMJÖLKSPULVER, glykossirap, HASSELNÖTTER, MANDLAR, sötad kondenserad MJÖLK (MJÖLK, socker), vegetabiliskt fett (palm, sheakärna), kokos, MJÖLKFETT, GRÄDDPULVER, MJÖLKSOCKER, stabiliseringsmedel (sorbitoler), naturlig apelsinarom (Cointreau®), plommon, emulgeringsmedel (lecitin), vaniljextrakt, fettreducerat kakaopulver*, likörvin (Madeira, Sherry), salt, kaffeextrakt, aromer, sirap, alkohol, fuktighetsbevarande medel (invertas), konserveringsmedel (kaliumsorbat, sorbinsyra), apelsinolja, syra (citronsyra), förtjockningsmedel (pektin). Kan innehålla spår av andra nötter. *Rainforest Alliance-certifierad. www.ra.org",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7393263059490",
       "name": "Norrlandsprins 500g",
