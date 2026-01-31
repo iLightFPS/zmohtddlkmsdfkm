@@ -41,8 +41,15 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-01-05",
+  "date": "2026-01-31",
   "list": [
+    {
+      "id": "7300400383004",
+      "name": "Cheez Doodles Olw 450g",
+      "company": "OLW",
+      "ingredients": "Majsmjöl, solrosolja, ostpulver (ost, färgämne (E160a, 160c)), mjölkpulver, salt, potatisstärkelse, druvsocker.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "5774540845401",
       "name": "Guldask chokladpraliner",
