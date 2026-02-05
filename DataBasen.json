@@ -1294,7 +1294,7 @@
       "name": "Havredryck Barista 1l",
       "company": "Valio",
       "ingredients": "Havrebas (vatten, glutenfritt HAVREMJÖL, rybsolja, kalcium, salt), vatten, surhetsreglerande medel (kaliumfosfater), jod, vitaminer (riboflavin (B2), B12 och D2). Innehåller havre 10 %.",
-      "gluten": "Glutenfri [ Ja, Glutenfri Havre ]"
+      "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7300156576996",
@@ -5070,7 +5070,7 @@
       "name": "Granola Crunchy Cookie 375g Martas",
       "company": "Martas",
       "ingredients": "Glutenfria HAVREgryn, vatten, rårörsocker, rapsolja, potatismjöl, malda linfrön, kokosflingor och havssalt.",
-      "gluten": "Glutenfri [ Ja, Glutenfri Havregryn ]"
+      "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7310100713810",
@@ -8627,7 +8627,7 @@
       "name": "Likemeat No Chicken Burger",
       "company": "Likemeat",
       "ingredients": "Vatten, panering (18%) (cornflakes (majs, salt, socker), majsmjöl, majsstärkelse, potatisstärkelse, förtjockningsmedel: xantangummi), SOJAPROTEINKONCENTRAT (14 %), solrosolja, glutenfritt HAVREFIBERSKAL, salt, naturlig arom, förtjockningsmedel: metylcellulosa, maltodextrin.",
-      "gluten": "Glutenfri [ Ja, Glutenfri HAVREFIBERSKAL ]"
+      "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7310865866608",
@@ -11588,7 +11588,7 @@
       "name": "GARANT Flingor bär gl/f - 275g",
       "company": "GARANT",
       "ingredients": "Majsflingor (majs, salt), riskrisp (ris, socker, salt), puffad glutenfri HAVRE, frystorkade bär (jordgubbe, björnbär, hallon).",
-      "gluten": "Glutenfri [ Ja, Glutenfri Havre ]"
+      "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7311041068724",
