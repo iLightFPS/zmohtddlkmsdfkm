@@ -41,8 +41,22 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-01-31",
+  "date": "2026-02-15",
   "list": [
+    {
+      "id": "7318690185727",
+      "name": "Havregryn Ekologiska Glutenfria 1KG",
+      "company": "ICA",
+      "ingredients": "Glutenfri havre* som skalats, ånpreparerats och pressats till flingor. *Ekologisk ingrediens odlad i Danmark.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310130321122",
+      "name": "Havregryn 750g",
+      "company": "AXA",
+      "ingredients": "Ingredienser: HAVREgryn (ångpreparerade och valsade). 100% fullkorn.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7300400383004",
       "name": "Cheez Doodles Olw 450g",
