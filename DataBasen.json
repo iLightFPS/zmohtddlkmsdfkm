@@ -41,8 +41,36 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-02-15",
+  "date": "2026-03-23",
   "list": [
+    {
+      "id": "7311310031015",
+      "name": "Kryddmix Taco Mild 28g",
+      "company": "Santa Maria",
+      "ingredients": "Kryddor (spiskummin (14%), chilipeppar (11%), vitlök (7,6%)), druvsocker, lök (17%), salt, oregano (4,4%), jästextrakt, potatisstärkelse, potatisfibrer, klumpförebyggande medel (kiseldioxid), kryddextrakt (paprika).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690052340 ",
+      "name": "Mumsbit Mini Mix 12st",
+      "company": "ICA ",
+      "ingredients": "Se Ingredienserna på förpackningen.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310525501610",
+      "name": "Jätten Choklad 250g",
+      "company": "Jätten",
+      "ingredients": "Kräm med chokladsmak 64% (socker, fullhärdat kokosfett, fettreducerat kakaopulver¹, emulgeringsmedel (SOJALECITIN), arom (vanillin)), VETEMJÖL, fullhärdat kokosfett, emulgeringsmedel (SOJALECITIN), salt, bakpulver (natriumbikarbonat), KORNMALT. ¹Rainforest Alliance Certified. För mer info se ra.org.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7318690112051",
+      "name": "Grillkorv 500g",
+      "company": "ICA",
+      "ingredients": "Gris*- och nötkött* 37%, vatten, potatisstärkelse**, bindväv från gris*, fett från gris*, salt, antioxidationsmedel (E325, E300), druvsocker, potatisfiber, kryddor och kryddextrakt (svartpeppar, koriander), lökpulver, konserveringsmedel (E262, E250), rökarom, korven är skinnfri.*Fött, uppfött och slaktat i Sverige. **Ursprung Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690185727",
       "name": "Havregryn Ekologiska Glutenfria 1KG",
