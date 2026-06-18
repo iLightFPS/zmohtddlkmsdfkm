@@ -41,8 +41,15 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-03-23",
+  "date": "2026-06-18",
   "list": [
+    {
+      "id": "7311043024988",
+      "name": "Potatisgratäng 800g",
+      "company": "Redo",
+      "ingredients": "Potatis 66%, skummjölk, vatten, grädde, rapsolja, ost, mjölk, salt, syrningskultur, ystenzym, kalciumklorid, konserveringsmedel(kaliumsorbat), modifierad stärkelse(potatis, majs), lökpulver, salt, vitlökspulver, vitpeppar, konserveringsmedel(kaliumsorbat), svartpeppar.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311310031015",
       "name": "Kryddmix Taco Mild 28g",
