@@ -41,8 +41,15 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-06-18",
+  "date": "2026-07-09",
   "list": [
+    {
+      "id": "7311041059425",
+      "name": "GARANT MANNAGRYN - 500G",
+      "company": "GARANT",
+      "ingredients": "MANNAGRYN (GLUTEN), från VETEkärnans inre del.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7312930000382",
       "name": "Mandeltårta Daim 400g",
