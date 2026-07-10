@@ -41,8 +41,15 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "list": [
+    {
+      "id": "7318690050995",
+      "name": "Tortillachips Chili 200g",
+      "company": "ICA",
+      "ingredients": "Majsmjöl 75%, solrosolja, chilikryddmix 5% (salt, lökpulver, maltodextrin, jästextrakt/ gjærekstrakt, kryddor (chili, ingefära, spiskummin), druvsocker, vitlökspulver, tomatpulver, socker, syra (E330), färgämnen (E160c, E162), aromer).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311041059425",
       "name": "GARANT MANNAGRYN - 500G",
