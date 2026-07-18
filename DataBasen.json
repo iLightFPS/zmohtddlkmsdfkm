@@ -41,7 +41,7 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-07-10",
+  "date": "2026-07-18",
   "list": [
     {
       "id": "7318690050995",
@@ -3319,7 +3319,6 @@
       "ingredients": "Benfri filé av TORSK (59%), vatten, VETEMJÖL, rapsolja, majsmjöl, stärkelse, salt, jäst, lök, stabiöiserings- och surhetsreglerandemedel (bakpulver), arom, dextros. FAO 27, med trålar.",
       "gluten": "Glutenfri [ Nej ]"
     },
-
     {
       "id": "7330714085639",
       "name": "Spättafilé Panerad Stilla Havet Fryst",
@@ -3404,7 +3403,6 @@
       "ingredients": "VENUSMUSSLA (meretrix lyrata) 40-60 st per kilo, kokta.",
       "gluten": "Glutenfri [ Ja ]"
     },
-
     {
       "id": "7350001292977",
       "name": "Vannameiräka med Skal 16/20 Fryst",
@@ -3706,7 +3704,6 @@
       "ingredients": "LAX* (Salmo salar), salt, socker, dill, vitpeppar. *Odlad i Norge",
       "gluten": "Glutenfri [ Ja ]"
     },
-
     {
       "id": "7310070005342",
       "name": "Julmust 33cl Apotekarnes",
@@ -7599,7 +7596,6 @@
       "ingredients": "Högpastöriserad MJÖLK, vatten, socker 2,6%, MJÖLKPROTEIN, stärkelse (majs), naturlig arom, förtjockningsmedel (citruspektin), citronjuicekoncentrat, vaniljextrakt, laktasenzym, mild yoghurtkultur, vitamin D.",
       "gluten": "Glutenfri [ Ja ]"
     },
-
     {
       "id": "7394376615740",
       "name": "Oatly Havregurt Naturell",
@@ -14460,7 +14456,6 @@
       "ingredients": "socker, äggvita,vanillin. Kan innehålla spår av Spannmål som innehåller gluten.",
       "gluten": "Glutenfri [ Nej ]"
     },
-
     {
       "id": "7318690109952",
       "name": "ICA Selection Äpplemust Syrlig 63cl",
@@ -17282,7 +17277,6 @@
       "ingredients": " Nudlar 91%: VETEMJÖL (vete: Litauen), rapsolja, vatten, potatisstärkelse, salt, bakpulver (E 500, E 501). Kryddblandning 9%: Salt, maltodextrin, socker, potatisstärkelse, jästextrakt, arom (innehåller MJÖLK ), svartpeppar, morot, lök, vitlök, hydrolyserat majsprotein, smakförstärkare (E 635), färgämne (E 150c), salladslök, ingefära. Kan innehålla spår av soja, skaldjur, selleri och senap.",
       "gluten": "Glutenfri [ Nej ]"
     },
-
     {
       "id": "7340011483151",
       "name": "Coop Snabbnudlar Tom Yum Smak Asien",
@@ -19572,7 +19566,6 @@
       "company": "Italiana Food Selections",
       "gluten": "Glutenfri [ Ja ]"
     },
-
     {
       "id": "2340415200007",
       "name": "Arla Ko Präst 31%",
@@ -25192,7 +25185,6 @@
       "company": "Sure Taste",
       "gluten": "Glutenfri [ Ja ]"
     },
-
     {
       "id": "6416453015463",
       "name": "Fazer Chokladkaka Salty Toffe Crunch",
@@ -27844,6 +27836,20 @@
       "name": "Ahlgrens bilar Saltlakrits",
       "company": "CLOETTA",
       "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "company": "Guldfågeln",
+      "gluten": "Glutenfri [ Nej ]",
+      "id": "7313940580055",
+      "ingredients": "Kycklingkött (56%), VETEMJÖL, vatten, stärkelse (potatis, VETE), salt, VETEGLUTEN, kryddor och kryddextrakter (lök, vitlök, svartpeppar, paprika, gurkmeja, SELLERI), jäst, kycklingbuljong, arom. Produkten är friterad i rapsolja.",
+      "name": "Chicken Nuggets 350g"
+    },
+    {
+      "company": "Pågen",
+      "gluten": "Glutenfri [ Nej ]",
+      "id": "7311070006421",
+      "ingredients": "VETEmjöl, vatten, socker, vegetabilisk olja (raps), MANDEL (2,5%), blåbär (2%), skumMJÖLK, ÄGG, invertsocker, glukossirap, malt av KORN, VETEgluten, jäst, salt, modifierad stärkelse (potatis, majs), bakpulver (E450, E500), vegetabiliskt emulgeringsmedel (E471), konserveringsmedel (E200, E202, E282), förtjockningsmedel (E418), surhetsreglerande medel (E330), mjölbehandlingsmedel (E300), vaniljaromer, naturlig arom, naturlig vaniljarom.",
+      "name": "Gifflar Blueberry &amp; Vanilla 260g"
     }
   ]
 }
