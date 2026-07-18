@@ -44,6 +44,27 @@
   "date": "2026-07-18",
   "list": [
     {
+      "company": "Johnnys",
+      "gluten": "Glutenfri [ Ja ]",
+      "id": "7392031001068",
+      "ingredients": "Vatten, ättika, SENAPSFRÖ (15%), salt, kryddor (bl.a paprika, vitlök).",
+      "name": "Senap Osötad 190g"
+    },
+    {
+      "company": "Johnnys",
+      "gluten": "Glutenfri [ Ja ]",
+      "id": "7392031001075",
+      "ingredients": "Vatten, SENAPSFRÖ 32%, ättika, vitt vin, salt, surhetsreglerande medel (citronsyra), konserveringsmedel (KALIUMDISULFIT).",
+      "name": "Dijonsenap 190g"
+    },
+    {
+      "id": "7392031001082",
+      "name": "Senap Mango &amp; habanero 200g",
+      "company": "Johnnys",
+      "ingredients": "Socker, vatten, SENAPSFRÖ/SENNEPSFRØ, ättika/eddike, salt, mangopuré (1%), kryddor (bl a habanero, kanel, koriander, chili), mangoarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7318690050995",
       "name": "Tortillachips Chili 200g",
       "company": "ICA",
