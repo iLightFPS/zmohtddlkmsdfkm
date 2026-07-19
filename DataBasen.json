@@ -41,8 +41,15 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "list": [
+    {
+      "id": "7318690656074",
+      "name": "Kolsyrat vatten Granatäpple & Lime 33cl",
+      "company": "ICA",
+      "ingredients": "Kolsyrat naturligt mineralvatten, naturlig arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311441344008",
       "name": "Kräftost 330g",
