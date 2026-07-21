@@ -41,8 +41,15 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-07-19",
+  "date": "2026-07-21",
   "list": [
+    {
+      "id": "5774540643502",
+      "name": "Ferrari Sur Citron lime 120g",
+      "company": "Toms",
+      "ingredients": "Socker, glukossirap, modifierad majsstärkelse, gelatin, syror (mjölksyra, citronsyra, äppelsyra), aromämne, färgämnen (Kopparkomplex av klorofyller och klorofylliner, kurkumin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690656074",
       "name": "Kolsyrat vatten Granatäpple & Lime 33cl",
