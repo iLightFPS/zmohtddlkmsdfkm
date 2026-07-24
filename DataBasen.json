@@ -41,8 +41,29 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-07-21",
+  "date": "2026-07-24",
   "list": [
+    {
+      "id": "7315360061503",
+      "name": "Delicatoboll 6-pack 240g",
+      "company": "DELICATO",
+      "ingredients": "Socker, HAVREGRYN, vegetabilisk olja (palm*, shea, raps), vatten, kokosflingor, kakaopulver, salt, arom (bl.a. mocka), konserveringsmedel (kaliumsorbat), emulgeringsmedel (vegetabiliskt E471, lecitin), färgämne (sockerkulör). Kan innehålla spår av MJÖLKPROTEIN. *Hållbart producerad från certifierade odlare.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7318690135012",
+      "name": "ICA Måltidsdryck Fläder 2dl",
+      "company": "ICA",
+      "ingredients": "Drickfärdig dryck innehåller 10% äppeljuice från koncentrat och 3% fläderblomsextrakt, 5.3% tillsatt socker.",
+      "gluten": "Glutenfri [ Okänd ]"
+    },
+    {
+      "id": "7311171007440",
+      "name": "Kalles kaviar 250g",
+      "company": "Kalles",
+      "ingredients": "Utvald sockersaltad TORSKKROM*(52%), rapsolja*, socker*, potatisflingor*, tomatpure*, salt, konserveringsmedel(kaliumsorbat), antioxidantmedel(askorbinsyra). *KRAV-godkänd ingrediens",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "5774540643502",
       "name": "Ferrari Sur Citron lime 120g",
