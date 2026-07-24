@@ -44,6 +44,76 @@
   "date": "2026-07-24",
   "list": [
     {
+      "id": "2383471000006",
+      "name": "Laxfilé 1.15kg",
+      "company": "Harbour",
+      "ingredients": "LAX (Salmo salar)* 100 %.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156599131",
+      "name": "Korv Salsiccia 240g",
+      "company": "Coop",
+      "ingredients": "Griskött° 73%, vatten, potatismjöl, salt, kryddor (persilja, svartpeppar, rosmarin, mejram, timjan, vitpeppar), lökpulver, druvsocker, citronskal, vitlök, socker, stabiliseringsmedel (E450), askorbinsyra (E300), konserveringsmedel (E250). Stoppad i naturskinn. Kokt och rökt. °Ursprung: Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350042720026",
+      "name": "Remouladsås 230ml",
+      "company": "Eriks Såser",
+      "ingredients": "Rapsolja, vatten/vand, picklade/syltede grönsaker 15% (gurka, lök, morot/gulrot, majrova/nepe), ÄGGULA/EGGEPLOMME/ÆGGEBLOMME*, socker, ättika/eddik, äppeljuicekoncentrat, salt, curry och andra kryddor (bl a bockhornsklöver, fänkål/fennikel, cayennepeppar, koriander, spiskummin), vinäger/eddik, modifierad potatisstärkelse/kartoffelstivelse, SENAPSFRÖ/SENNEPSFRØ, konserveringsmedel (E202, E211), färgämne/farvestoff (E100). *Ägg från frigående höns/skrabeæg.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5410041001204",
+      "name": "Tuc Original 100g",
+      "company": "LU",
+      "ingredients": "VETEMJÖL/HVEDEMEL, palmolja/-olie, glukossirap, maltextrakt från KORN/BYG, bakpulver/hævemidler (ammoniumkarbonater, natriumkarbonater), salt, ÄGG/ÆG/EGG, arom, mjölbehandlingsmedel/melbehandlingsmiddel (NATRIUMDISULFIT). KAN INNEHÅLLA SOJA, MJÖLK. KAN INDEHOLDE SOJA, MÆLK. KAN INNEHOLDE SOYA, MELK.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350042721924",
+      "name": "Parmesansås 230ml",
+      "company": "Eriks Såser",
+      "ingredients": "Rapsolja, vatten/vand, ÄGGULA/EGGEPLOMME/ÆGGEBLOMME*, PARMESANOST (4,2%), salt, honung/honning, vinäger/eddik, citronjuicekoncentrat, kryddor (bl a rosépeppar, cayennepeppar), konserveringsmedel (kaliumsorbat), färgämne/farvestoff (betakaroten). *Ägg från frigående höns/skrabeæg.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408432203411",
+      "name": "Yoghurt Vanilj &amp; Passionsfrukt 2,2% 1000g",
+      "company": "Valio",
+      "ingredients": "Högpastöriserad MJÖLK, socker 5,2 %, passionsfruktsjuice från koncentrat 2,0 %, modifierad stärkelse, aromer, färgämne (karotener), vaniljextrakt, mald vaniljstång, yoghurtkultur, Lactobacillus acidophilus, Bifidobacterium sp. och vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156485212",
+      "name": "Skinka Rökt 120g",
+      "company": "Coop",
+      "ingredients": "Skinka av gris 95% (helmuskel), vatten, salt, stabiliseringsmedel (E 451), potatisstärkelse, druvsocker, potatisfiber, socker, antioxidationsmedel (E 301), konserveringsmedel (E 250). Kokt och rökt. URSPRUNG KÖTTRÅVARA: Fött, uppfött, slaktat och styckat i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2097065200009",
+      "name": "Skinka Samiskt Rökt 100g",
+      "company": "Jokkmokks Korv",
+      "ingredients": "Skinka (helmuskel), salt, surhetsreglerande medel (E331), cikoriarotfiber (inulin), stabiliseringsmedel (E451), antioxidationsmedel (E301), konserveringsmedel (E250). Till 100g färdigvara har använts 102g köttråvara.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330797088794",
+      "name": "Gourmetskinka Rökt 200g",
+      "company": "Pärsons",
+      "ingredients": "Svensk skinka (skinkbitar 90%), koksalt, antioxidationsmedel (E326: E301: E331), druvsocker, socker, stabiliseringsmedel (E452), konserveringsmedel (E250), rökarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156486004",
+      "name": "Skinka Rökt 200g",
+      "company": "Coop",
+      "ingredients": "Skinka av gris° 90% (helmuskel), vatten, salt, stabiliseringsmedel (E 451), potatisstärkelse, druvsocker, potatisfiber, socker, antioxidationsmedel (E 301), konserveringsmedel (E 250). °Ursprung: Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7315360061503",
       "name": "Delicatoboll 6-pack 240g",
       "company": "DELICATO",
