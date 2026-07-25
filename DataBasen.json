@@ -41,8 +41,22 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "list": [
+    {
+      "id": "7300298911006",
+      "name": "Hamburgare Högrev 4-pack 600g",
+      "company": "Scan",
+      "ingredients": "Svenskt nötkött 99% (varav högrev 60%), salt, peppar.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300298919002",
+      "name": "Hamburgare 90g",
+      "company": "Scan",
+      "ingredients": "Svenskt nötkött* (80%), vatten, potatis*, potatismjöl, salt, druvsocker, potatisfiber, svartpeppar, kryddextrakt (svartpeppar). *Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "2383471000006",
       "name": "Laxfilé 1.15kg",
