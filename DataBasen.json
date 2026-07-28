@@ -41,8 +41,15 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-07-26",
+  "date": "2026-07-28",
   "list": [
+    {
+      "id": "5410126806090",
+      "name": "Kex Biscoff Biscuits 140g",
+      "company": "Lotus",
+      "ingredients": "VETEmjöl, socker, vegetabiliska oljor (palm*, raps), sirap, bakpulver (natriumbikarbonat), SOJAmjöl, salt, kanel. *Hållbart producerad från certifierade odlare.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7310130768033",
       "name": "Vetekross 500g",
