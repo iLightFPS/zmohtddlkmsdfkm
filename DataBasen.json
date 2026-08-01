@@ -41,8 +41,50 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-07-28",
+  "date": "2026-08-01",
   "list": [
+    {
+      "id": "7330242240081",
+      "name": "Glutenfri Lingonlimpa 500g",
+      "company": "Fria",
+      "ingredients": "GLUTENFRI VETESTÄRKELSE, sirap, vatten, jäst, GLUTENFRITT MALTEXTRAKT (KORN), förtjockningsmedel (cellulosagummi, guarkärnmjöl, xantangummi), maltodextrin (majs), bovete, socker, rapsolja, lingon 1,3%, psylliumfröskal, majsstärkelse, emulgeringsmedel (lecitin [raps], mono- och diglycerider av fettsyror [veg.]), salt, aromer. KAN INNEHÅLLA SPÅR AV ÄGG.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330242200108",
+      "name": "Glutenfria Thekakor 220g",
+      "company": "Fria",
+      "ingredients": "GLUTENFRI VETESTÄRKELSE, vatten, socker, rapsolja, GLUTENFRITT MALTEXTRAKT (KORN), jäst, majsstärkelse, förtjockningsmedel (cellulosagummi, guarkärnmjöl, xantangummi), maltodextrin (majs), psylliumfröskal, emulgeringsmedel (lecitin [raps], mono- och diglycerider av fettsyror [veg.]), ärtprotein, salt, aromer. KAN INNEHÅLLA SPÅR AV ÄGG.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330242290123",
+      "name": "Glutenfri Kladdkaka 400g",
+      "company": "Fria",
+      "ingredients": "Socker, ÄGG, rapsolja, GLUTENFRI VETESTÄRKELSE, fettreducerat kakaopulver 6 %, psylliumfröskal, rismjöl, bakpulver (natriumpyrofosfat, natriumbikarbonat), majsstärkelse, potatisstärkelse, maltodextrin (majs), förtjockningsmedel (cellulosagummi, guarkärnmjöl, xantangummi), emulgeringsmedel (mono- och diglycerider av fettsyror [veg.]), salt, aromer.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310890203652",
+      "name": "Glutenfri Kladdkaka Vegansk 380g",
+      "company": "FRÖDINGE",
+      "ingredients": "Socker, vatten, glutenfri VETESTÄRKELSE, rapsolja, mörk choklad 6,2% (socker, kakaomassa*, kakaosmör*, emulgeringsmedel (solroslecitin), naturlig vaniljarom), tapiocastärkelse, fettreducerat kakaopulver* 4,4%, glutenfri rostat fullkornsHAVREMJÖL, stabiliseringsmedel (natriumfosfat, difosfater, kalciumalginat), psylliumfibrer, dextros, salt, naturlig arom, bakpulver (natriumkarbonat), emulgeringsmedel (mono- och diglycerider av fettsyror). KAN INNEHÅLLA SPÅR AV MJÖLK. *Rainforest Alliance-certifierad kakao. Läs mer på ra.org",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7312930000634",
+      "name": "Glutenfri Mandeltårta 400g",
+      "company": "ALMONDY",
+      "ingredients": "ÄGGVITA, socker, GRÄDDE, ÄGGULA, vegetabiliskt fett (palm, shea), MANDEL (8,5%), KÄRNMJÖLKSPULVER, solroskärnor, söta aprikoskärnor, sirap, farinsocker, salt. KAN INNEHÅLLA SPÅR AV JORDNÖTTER OCH HASSELNÖTTER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7333192072276",
+      "name": "Glutenfri Prinsessbakelse 140g",
+      "company": "Friends Of Adam",
+      "ingredients": "Laktosfri GRÄDDE, marsipan(Socker, MANDEL (23%), glukossirap, konserveringsmedel E211, E1103, färgämne (E100, E141).), socker, vatten, ÄGG, hallonsylt (Socker, hallon (35 %), vatten, förtjockningsmedel E440, surhetsreglerande medel E330, E331, E333, konserveringsmedel E202, arom), glutenfri VETESTÄRKELSE, laktosfritt MJÖLKPULVER, potatisstärkelse, kokosfett, majsstärkelse, bakpulver (E500), SOJALECITIN, emulgeringsmedel (E471, E475), dekorflorsocker (florsocker, palmolja), salt, färgämnen (E160a, E101), vaniljarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "5410126806090",
       "name": "Kex Biscoff Biscuits 140g",
