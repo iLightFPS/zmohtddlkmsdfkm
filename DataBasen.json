@@ -44,6 +44,139 @@
   "date": "2026-08-02",
   "list": [
     {
+      "id": "7310628005602",
+      "name": "Grillkorv Original 350g",
+      "company": "Sibylla",
+      "ingredients": "Griskött och nötkött (54%), vatten, potatismjöl, fett från gris, bindväv från gris, salt, druvsocker, potatisfiber, stabiliseringsmedel (E450), lökpulver, svartpeppar, vitlökspulver, kryddextrakt (cayennepeppar, koriander, muskotnöt, svartpeppar), antioxidationsmedel (E300), konserveringsmedel (E250), rökarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156503718",
+      "name": "Grillkorv 400g",
+      "company": "Coop",
+      "ingredients": "Gris- och nötkött 76%, vatten, potatismjöl, salt, fett från gris, druvsocker, socker, kryddor (peppar), kryddextrakter (koriander, paprika, peppar), lök, antioxidationsmedel (E 300), konserveringsmedel (E 250), rökarom. Kokt. URSPRUNG KÖTTRÅVARA: Fött, uppfött, slaktat och styckat i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5000112667660",
+      "name": "Fanta Orange 6-pack 6x330ml",
+      "company": "Fanta",
+      "ingredients": "Kolsyrat vatten, socker, apelsinjuice från koncentrat (5%), syror (E 330, E 296), naturlig apelsinarom med andra naturliga aromer, sötningsmedel (acesulfam K, aspartam), stabiliseringsmedel (E 414, E 445), surhetsreglerande medel (E 331), antioxidationsmedel (E 300), färgämne (E 160a). INNEHÅLLER EN KÄLLA TILL FENYLALANIN.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5000112667875",
+      "name": "Fanta Zero Orange 6-pack 6x330ml",
+      "company": "Fanta zero",
+      "ingredients": "Kolsyrat vatten, apelsinjuice som erhålls från koncentrat (4 %), syror (E 330, E 296), sötningsmedel (acesulfam K, aspartam), naturlig apelsinarom med andra naturliga aromer, antioxidationsmedel (E 300), surhetsreglerande medel (E 331), stabiliseringsmedel (E 412), morotsextrakt, färgämne (E 160a). Innehåller en källa till fenylalanin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5000112667677",
+      "name": "Fanta Orange 10-pack 6x330ml",
+      "company": "Fanta",
+      "ingredients": "Kolsyrat vatten, socker, apelsinjuice från koncentrat (5%), syror (E 330, E 296), naturlig apelsinarom med andra naturliga aromer, sötningsmedel (acesulfam K, aspartam), stabiliseringsmedel (E 414, E 445), surhetsreglerande medel (E 331), antioxidationsmedel (E 300), färgämne (E 160a). INNEHÅLLER EN KÄLLA TILL FENYLALANIN.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300328531006",
+      "name": "Kycklinglårfilé strimlad Minutstrimlor 550g",
+      "company": "Kronfågel",
+      "ingredients": "Strimlad kycklinglårfilé.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2307116100005",
+      "name": "Kycklingbröstfilé 900g",
+      "company": "Guldfågeln",
+      "ingredients": "Kycklingbröstfilé (100%)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313940027000",
+      "name": "Kycklingbröstfilé Grillad 200g",
+      "company": "Guldfågeln",
+      "ingredients": "Kycklingbröstfilé, potatisstärkelse, salt, kryddor och kryddextrakter (cayenne, ingefära, koriander, lagerblad, muskotnöt, paprika, peppar, rosmarin, spiskummin, vitlök), rapsolja, glukossirap, lök, vinäger, kycklingbuljong, stabiliseringsmedel (E451, E450), jästextrakt, antioxidationsmedel (E301). Till 100 g produkt har använts 100 g kycklingbröstfilé.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313940027062",
+      "name": "Kycklingbröstfilé Grillad Citron &amp; vitlök 200g",
+      "company": "Guldfågeln",
+      "ingredients": "Kycklingbröstfilé, salt, lök, socker, vitlök, naturliga aromer, citronjuicepulver, persilja, chili, potatisstärkelse, rapsolja, konserveringsmedel (natriumacetat), aromer, glukossirap, stabiliseringsmedel (E451, E450), antioxidationsmedel (E330, E301). Till 100 g produkt har använts 100 g kycklingbröstfilé",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313940012679",
+      "name": "Kycklingbröstfilé Strimlad 600g",
+      "company": "Guldfågeln",
+      "ingredients": "Kycklingbröstfilé (100 %)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313940012648",
+      "name": "Kycklingbröstfilé Strimlad Paneng Röd Curry 600g",
+      "company": "Guldfågeln",
+      "ingredients": "Kycklingbröstfilé (81%), vatten, rapsolja, socker, kryddor och kryddextrakter (cayennepeppar, ingefära, kafir lime, korianderblad, paprika, vitlök), vinäger, salt, citronpulver. Kycklingbrösten är filéade med maskin. Var observant på att det kan förekomma delar av bröstbenet.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2307394100001",
+      "name": "Kyckling Hel 1.5kg",
+      "company": "Guldfågeln",
+      "ingredients": "Hel kyckling (100%).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2307111100000",
+      "name": "Kycklingfilé Tunnskivad 700g",
+      "company": "Guldfågeln",
+      "ingredients": "Kycklingbröstfilé (100%)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156573186",
+      "name": "Mellanmjölk Längre Hållbarhet 1500ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad MJÖLK (Sverige), vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156593528",
+      "name": "Mellanmjölk Längre Hållbarhet 1000ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad MJÖLK (Sverige) vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311870011458",
+      "name": "Mellanmjölk 1.5% 2000ml",
+      "company": "Arla Ko®",
+      "ingredients": "MJÖLK, vitamin D. Högpastöriserad",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350003111023",
+      "name": "Roslagsmjölk Mellanmjölk Eko 1l",
+      "company": "Roslagsmjölk",
+      "ingredients": "Lågpastöriserad MJÖLK* från Roslagen, vitamin D. Homogeniserad. *Krav-ekologisk ingrediens",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408430102358",
+      "name": "Havredryck Barista Vanilj 1000ml",
+      "company": "Oddlygood®",
+      "ingredients": "vatten, glutenfritt HAVREMJÖL 10 %, rapsolja, socker, surhetsreglerande medel (kaliumfosfater), kalcium, salt, arom, jod, vitaminer (riboflavin (B2), B12, D2).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7394376620171",
+      "name": "Havredryck Ikaffe 1000ml",
+      "company": "Oatly",
+      "ingredients": "Vatten, HAVRE 10%, rapsolja, surhetsreglerande medel (dikaliumfosfat), mineraler (kalciumkarbonat, kaliumjodid), salt, vitaminer (D2, riboflavin, B12).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
       "id": "7300400482578",
       "name": "Knäckebröd Falu Råg Rut Chia & Havssalt 235g",
       "company": "Wasa",
