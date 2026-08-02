@@ -44,18 +44,25 @@
   "date": "2026-08-02",
   "list": [
     {
-      "id": "7340191133938",
-      "name": "Glutenfri Pasta Fusilli 340g",
-      "company": "Coop",
-      "ingredients": "Majsmjöl 50 %, fullkornsrismjöl 38 %, rismjöl 12 %, emulgeringsmedel (E 471 vegetabiliskt).Majsens ursprung anges vid Bäst före-datumet. Om flera länder anges har en blandning från dessa länder använts. IT=Italien, ES=Spanien.",
+      "id": "7300400482578",
+      "name": "Knäckebröd Falu Råg Rut Chia &amp; Havssalt 235g",
+      "company": "Wasa",
+      "ingredients": "FullkornsRÅGmjöl 101 g*, chiafrön (Salvia hispanica) 3,6 g*, jäst, havssalt 1,0 g*, mältat KORN, salt. *g för 100 g produkt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311310029524",
+      "name": "Marinad Vitlök 75g",
+      "company": "Santa Maria",
+      "ingredients": "Vatten, salt, äppeljuice, vitlök (5%), svartpeppar, paprika, socker, lök, aromer, syra (äppelsyra, citronsyra), tomat, chilipeppar, förtjockningsmedel (E412, E415), maltodextrin, färgämne (E150d, paprikaextrakt), rosmarin, vitlöksextrakt, persilja, konserveringsmedel (E202, E211), lagerblad, jästextrakt.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7311520010053",
-      "name": "Soja Mushroom 500ml",
-      "company": "Mrs Cheng´s",
-      "ingredients": "Vatten/Vand, SOJABÖNOR/SOJABØNNER/SOYABØNNER 23%, salt, socker/sukker, VETE/HVEDE/HVETE 11% (GLUTEN), svampextrakt/soppekstrakt.",
-      "gluten": "Glutenfri [ Nej ]"
+      "id": "7311870010970",
+      "name": "Bregott Smör &amp; raps Normalsaltat 500g",
+      "company": "Bregott®",
+      "ingredients": "SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, vatten, salt, vitamin A och D.",
+      "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7330242240081",
