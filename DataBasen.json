@@ -44,6 +44,230 @@
   "date": "2026-08-02",
   "list": [
     {
+      "id": "7340191150775",
+      "name": "Fetaost grekisk 150g",
+      "company": "Coop",
+      "ingredients": "Pastöriserad mjölk 97% (FÅRMJÖLK min. 70%, GETMJÖLK högst 30% (mjölk: Grekland)), salt, mjölksyrakultur, mikrobiellt ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191149182",
+      "name": "Salladsost 200g",
+      "company": "Coop",
+      "ingredients": "Pastöriserad KOMJÖLK (Tyskland), surhetsreglerande medel (E 575), salt, mikrobiellt ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340011454014",
+      "name": "Salladsost Tärnad 530g",
+      "company": "Xtra",
+      "ingredients": "Ost (pastöriserad komjölk , salt, mjölksyrakultur, mikrobiellt ystenzym), saltlake (vatten, salt). Mjölkens ursprung: Danmark.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340011445630",
+      "name": "Salladsost Tärnad I Olja 300g",
+      "company": "Xtra",
+      "ingredients": "Ost 51 % (pastöriserad KOMJÖLK (Tyskland), salt, mikrobiellt ystenzym, mjölksyrakultur), rapsolja 48 % (raps: EU), kryddblandning 1 % (vitlök, örter, röd paprika).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310960044130",
+      "name": "Karins Lasagne 390g",
+      "company": "Dafgårds",
+      "ingredients": "Vatten, DURUMVETE- och VETEMJÖL, MJÖLK, nötkött*(13%), tomat, lök, GRÄDDE, OST, morot, modifierad majs- och VETESTÄRKELSE, tomatpuré, salt, socker, SMÖR, ÄGG, vitvinsvinäger, kryddor (bl a paprikapulver). *Ursprung: EU.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310960044147",
+      "name": "Farfars Delikatessköttbullar 400g",
+      "company": "Dafgårds",
+      "ingredients": "Potatis, gris*- och nötkött* (24%), vatten, morot, MJÖLK, broccoli, GRÄDDE, stekt lök (stekt i rapsolja), rapsolja, kycklingfond (vatten, kyckling, salt), SMÖR, ÄGG, modifierad VETESTÄRKELSE, salt, ströbröd (VETEMJÖL, salt), tomatpuré, svartvinbärspuré (svarta vinbär, socker), SOJASÅS (vatten, SOJABÖNOR, VETE, salt), socker, kryddor (bl.a kryddpeppar), farinsocker, vitvinsvinäger. *Ursprung: EU.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191161726",
+      "name": "Laxfilé 4-pack 500g",
+      "company": "Coop",
+      "ingredients": "LAX (Salmo salar). Lax odlad i Norge.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191152670",
+      "name": "Broccoli 500g",
+      "company": "Coop",
+      "ingredients": "Broccoli (Spanien).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340011360957",
+      "name": "Vitlöksbaguetter 2-pack 350g",
+      "company": "Coop",
+      "ingredients": "VETEMJÖL 59 % (vete: EU), vatten, SMÖR, lök, salt, jäst, vitlök, RÅGMJÖL, VETEMALTMJÖL, persilja, emulgeringsmedel (E 472e vegetabiliskt, E 322), stärkelse, VETEGLUTEN, klumpförebyggande medel (E 341), naturlig vitlöksarom, syra (E 330), mjölbehandlingsmedel (E 300).Kan innehålla spår av korn, havre, soja, senap och sesamfrön.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191171824",
+      "name": "Ärtor 600g",
+      "company": "Coop",
+      "ingredients": "Ärtor (Sverige).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191152052",
+      "name": "Majskolvar 2-pack 400g",
+      "company": "Coop",
+      "ingredients": "Majskolvar (Ungern).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8711327549265",
+      "name": "Glass Piggelin 10-pack 550ml",
+      "company": "GB Glace",
+      "ingredients": "Vatten, socker, glukos-fruktossirap, druvjuicekoncentrat, surhetsreglerande medel (citronsyra), stabiliseringsmedel (pektin, karragenan), tistelkoncentrat, citronjuicekoncentrat, spirulinakoncentrat, äppelkoncentrat, arom. Kan innehålla MJÖLK.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191151376",
+      "name": "Haricots Verts 500g",
+      "company": "Coop",
+      "ingredients": "Gröna bönor (EU).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191150614",
+      "name": "Mango 500g",
+      "company": "Xtra",
+      "ingredients": "Mango. Mangons ursprung: Se kod vid Bäst före-datumet. VN=Vietnam, TH=Thailand, PE=Peru.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310500180885",
+      "name": "Fiskpinnar 750g",
+      "company": "Findus",
+      "ingredients": "Fiskkött av ALASKA POLLOCK* 61 % (Gadus chalcogrammus), VETEMJÖL, rapsolja, vatten, VETESTÄRKELSE, salt, kryddor (paprika, gurkmeja, vitpeppar), jäst, naturlig citronarom. Kan innehålla spår av MJÖLK. *Fiskad i nordöstra eller nordvästra Stilla havet. Trots stor noggrannhet med att ta bort alla fiskben kan det finnas ben kvar.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191151338",
+      "name": "Avokado tärnad 200g",
+      "company": "Coop",
+      "ingredients": "Avokado 99,8 % (Peru), salt, antioxidationsmedel (E 300), surhetsreglerande medel (E 330).Förpackad i en skyddande atmosfär.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8711327611924",
+      "name": "Glasspinnar Mini Almond 6-pack 330ml",
+      "company": "Magnum",
+      "ingredients": "SKUMMJÖLK, socker, kakaosmör¹, vatten, SKUMMJÖLKSPULVER, kokosfett, MANDLAR, glukossirap, MJÖLKFETT, glukos-fruktossirap, kakaomassa¹, vasslepulver (MJÖLK), emulgeringsmedel (E471, lecitiner), stabiliseringsmedel (guarkärnmjöl, fruktkärnmjöl, taragummi, karragenan), vaniljstångsbitar, naturlig vaniljarom¹ (MJÖLK), naturlig vaniljarom, färgämne (karotener). Kan innehålla andra nötter. ¹Rainforest Alliance-certifierad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310240073201",
+      "name": "Pommes Strips 900g",
+      "company": "Felix",
+      "ingredients": "Potatis*, rapsolja och druvsocker. *Svenskt ursprung.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310960044307",
+      "name": "Kalops 400g",
+      "company": "Dafgårds",
+      "ingredients": "Potatis, vatten, morot, nötkött* (12,5%), köttfond (vatten, kyckling, nötkött, salt), MJÖLK, rapsolja, lök, modifierad stärkelse, SMÖR, salt, tomatpuré, färgämne (sockerkulör), socker, kryddor, stabiliseringsmedel E451, druvsocker, vitvinsvinäger, persilja. *Ursprung: EU.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191178281",
+      "name": "Isglass Cola Hallon &amp; Päron 15-pack 15",
+      "company": "Coop",
+      "ingredients": "(COLA):Vatten, socker, citronjuice från koncentrat 5 % (citron: Italien), glukossirap, färgämne (E 150c), stabiliseringsmedel (E 412, E 410) naturlig arom.Kan innehålla spår av vete, ägg, jordnötter, soja, mjölk, mandel, hassel- och pistagenötter.INGREDIENSER (HALLON):Vatten, socker, hallonjuice från koncentrat 5 % (hallon: Italien), glukossirap, rödbetsjuicekoncentrat, surhetsreglerande medel (E 330), stabiliseringsmedel (E 412, E 410), naturlig arom.Kan innehålla spår av vete, ägg, jordnötter, soja, mjölk, mandel, hassel- och pistagenötter",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191152694",
+      "name": "Broccoli Mix 750g",
+      "company": "Coop",
+      "ingredients": "Broccoli 61 % (Spanien), blomkål 24 % (Spanien), morötter 15 % (Spanien).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310240073850",
+      "name": "Potatisbullar 1500g",
+      "company": "Felix",
+      "ingredients": "Potatis*, rapsolja, potatispulver (ursprung EU), salt, druvsocker, svartpepparextrakt. *Svenskt ursprung.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191151314",
+      "name": "Grönsaksblandning 450g",
+      "company": "Coop",
+      "ingredients": "Ärtor 60 % (EU), majs 30 %, röd paprika 10 %.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310960044239",
+      "name": "Pannbiff 400g",
+      "company": "Dafgårds",
+      "ingredients": "Potatis, nöt*- och griskött* (20 %), vatten, stekt lök (stekt i rapsolja), broccoli, morot, lök, köttfond (vatten, kyckling, nötkött, salt), rapsolja, salt, potatismjöl, potatisflingor, modifierad stärkelse, ÄGG, tomatpuré, kryddor (bl. a paprikapulver), socker, SMÖR, färgämne (sockerkulör), vitvinsvinäger, persilja. *Ursprung: EU.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8711327609082",
+      "name": "Glasspinnar Mini Classic, almond &amp; white chocolate 6-pack 330ml",
+      "company": "Magnum",
+      "ingredients": "Läs ingredienser",
+      "gluten": "Glutenfri [ Okänd ]"
+    },
+    {
+      "id": "7310240073225",
+      "name": "Pommes Criss Cut 850g",
+      "company": "Felix",
+      "ingredients": "Potatis*, rapsolja och druvsocker. *Svenskt ursprung.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191134188",
+      "name": "Vitlök hackad 50g",
+      "company": "Coop",
+      "ingredients": "Vitlök 95 % (Spanien), vegetabilisk olja (solros, raps).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191152731",
+      "name": "Champinjoner skivade 400g",
+      "company": "Coop",
+      "ingredients": "Champinjoner (Nederländerna).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191151369",
+      "name": "Summer Vegetables 600g",
+      "company": "Coop",
+      "ingredients": "Morötter 40 % (EU (Belgien och/eller Nederländerna)), gröna bönor 20 %, blomkål 20 %, ärtor 20 %.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310960044154",
+      "name": "Fläskschnitzel 420g",
+      "company": "Dafgårds",
+      "ingredients": "Potatis, griskött* (14 %), ärtor, vatten, champinjoner, panering (VETEMJÖL, salt, jäst, paprikapulver, gurkmeja, majsmjöl, modifierad VETESTÄRKELSE, bakpulver E500), GRÄDDE, rapsolja, stekt lök (stekt i rapsolja), köttfond (vatten, kyckling, nötkött, salt), japansk SOJASÅS (vatten, SOJABÖNOR, VETE, salt), salt, potatisstärkelse, VETEFIBER, socker, kryddor, citronjuice, färgämne (sockerkulör). *Ursprung: EU.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340011320227",
+      "name": "Alaska Pollock 4-pack 400g",
+      "company": "Xtra",
+      "ingredients": "Läs ingredienser",
+      "gluten": "Glutenfri [ Okänd ]"
+    },
+    {
+      "id": "7340191153332",
+      "name": "Hallon 400g",
+      "company": "Xtra",
+      "ingredients": "Hallon (Serbien).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7310628005602",
       "name": "Grillkorv Original 350g",
       "company": "Sibylla",
