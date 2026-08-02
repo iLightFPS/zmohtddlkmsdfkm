@@ -41,8 +41,22 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "list": [
+    {
+      "id": "7340191133938",
+      "name": "Glutenfri Pasta Fusilli 340g",
+      "company": "Coop",
+      "ingredients": "Majsmjöl 50 %, fullkornsrismjöl 38 %, rismjöl 12 %, emulgeringsmedel (E 471 vegetabiliskt).Majsens ursprung anges vid Bäst före-datumet. Om flera länder anges har en blandning från dessa länder använts. IT=Italien, ES=Spanien.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311520010053",
+      "name": "Soja Mushroom 500ml",
+      "company": "Mrs Cheng´s",
+      "ingredients": "Vatten/Vand, SOJABÖNOR/SOJABØNNER/SOYABØNNER 23%, salt, socker/sukker, VETE/HVEDE/HVETE 11% (GLUTEN), svampextrakt/soppekstrakt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7330242240081",
       "name": "Glutenfri Lingonlimpa 500g",
