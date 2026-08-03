@@ -41,8 +41,120 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "list": [
+    {
+      "id": "7315200593928",
+      "name": "Marinad Vitlök 65ml",
+      "company": "Caj P",
+      "ingredients": "Vatten/vann, salt, tomatpuré, äppel-/eplejuicekoncentrat, lök, vitlök (2,8%), paprika, svartpeppar, socker/sukker, SOJA/SOYA (vatten/vann, hydrolyserat protein av SOJABÖNOR/SOYABØNNER, salt), jästextrakt/gjærekstrakt, förtjockningsmedel/fortykningsmiddel (E1414, E415), rosmarin, surhetsreglerande medel/surhetsregulerende middel (E330), färgämne/farvestof (E150c), vitlöksarom/hvitløksaroma, konserveringsmedel (E211).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311310029579",
+      "name": "Marinad Chicken 75g",
+      "company": "Santa Maria",
+      "ingredients": "Vatten, salt, äppeljuice, paprika, socker, lök, örter, chilipeppar, spiskummin, syra (citronsyra), vitlök, jästextrakt, druvsocker, koriander, gurkmeja, svartpeppar, förtjockningsmedel (E412, E415), aromer, bockhornsklöver, konserveringsmedel (E202, E211).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311310029500",
+      "name": "Marinad Allround 75g",
+      "company": "Santa Maria",
+      "ingredients": "Vatten, äppeljuice, salt, aromer, socker, lök, ingefära, syra (citronsyra, äppelsyra), chilipeppar, paprika, svartpeppar, färgämne (paprikaextrakt, E150d), koriander, vitlök, maltodextrin, förtjockningsmedel (E412, E415), spiskummin, konserveringsmedel (E202, E211), jästextrakt, oregano.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7315200593911",
+      "name": "Marinad Allround 65ml",
+      "company": "Caj P",
+      "ingredients": "Vatten/vann, salt, socker/sukker, äppel-/eplejuicekoncentrat, lök, paprika, kryddor/krydder (svartpeppar, ingefära/ingefær, chilipeppar, vitlök, koriander), surhetsreglerande medel/surhetsregulerende middel (E296, E330), jästextrakt/gjærekstrakt, förtjockningsmedel/fortykningsmiddel (E1414, E415), färgämne/farvestof (E150c), konserveringsmedel (E211).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7315200591016",
+      "name": "Marinad &amp; Grillolja Allround 750ml",
+      "company": "Caj P",
+      "ingredients": "Vatten, rapsolja, salt, kryddor (chilipeppar, svartpeppar, paprika, koriander, kardemumma), kinesisk SOJA (vatten, SOJABÖNOR/SOYABØNNER, salt, socker, VETEMJÖL/HVETEMEL, svamp-/soppekstrakt), rödvinsvinäger/eddik, lök, förtjockningsmedel (E415), konserveringsmedel (E211), vitlök, kryddextrakt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7315200591030",
+      "name": "Marinad &amp; Grillolja Garlic &amp; Herbs 750ml",
+      "company": "Caj P",
+      "ingredients": "Vatten, rapsolja, salt, rödvinsvinäger/eddik, honung, vitlök 1,3%, naturliga aromer, svartpeppar, dextros/glukose, fruktos, örter 0,2% (oregano, persilja, timjan, basilika, dragon/estragon), förtjockningsmedel (E415), konserveringsmedel (E211), färgämne/fargestoff (E160a).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191177512",
+      "name": "Durumpasta Penne Rigate 500g",
+      "company": "Coop",
+      "ingredients": "DURUMVETE. Kan innehålla spår av soja, senap och lupin.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311800971005",
+      "name": "Jubileumskakor 450g",
+      "company": "Polarbröd",
+      "ingredients": "VETEmjöl¹, vatten, socker¹/sirap¹, rapsolja¹, VETEGLUTEN, fermenterat VETEmjöl, jäst¹, salt, HAVREfiber, vegetabiliskt emulgeringsmedel (mono- och diglycerider av fettsyror, mono- och diglyceriders mono- och diacetylvinsyraestrar), bakpulver (hjorthornssalt), maltmjöl (KORN). 1Ursprungsland: Sverige.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191165649",
+      "name": "Pasta Gnocchi 500g",
+      "company": "Coop",
+      "ingredients": "DURUMVETE . Kan innehålla spår av ägg, soja och senap.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191165588",
+      "name": "Pasta Amorosi 500g",
+      "company": "Coop",
+      "ingredients": "DURUMVETE . Kan innehålla spår av ägg, soja och senap.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191165595",
+      "name": "Pasta Farfalle 500g",
+      "company": "Coop",
+      "ingredients": "DURUMVETE . Kan innehålla spår av ägg, soja och senap.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191177482",
+      "name": "Fusilli 500g",
+      "company": "Coop",
+      "ingredients": "DURUMVETE. Kan innehålla spår av soja, senap och lupin.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191165625",
+      "name": "Pasta Fusilli Tricolore 500g",
+      "company": "Coop",
+      "ingredients": "DURUMVETE , torkad tomat 1,3%, torkad spenat 0,7%. Kan innehålla spår av ägg, soja och senap.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8076802085851",
+      "name": "Pasta Gnocchi 500g",
+      "company": "Barilla",
+      "ingredients": "DURUMVETE. Kan innehålla spår av SOJABÖNOR och SENAP.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7392055078824",
+      "name": "Blandfärs 500g",
+      "company": "John&apos;s",
+      "ingredients": "Malet nötkött 50 %, griskött 50 %. Fetthalt max 20 %. Nötkött: Ursprung Irland. Griskött: Ursprung EU. Malet i Sverige (667).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310500191652",
+      "name": "Chicken Crispy 2-pack 170g",
+      "company": "FINDUS",
+      "ingredients": "Kycklingbröst (ursprung: EU) 50 %, berikat VETEMJÖL (VETEMJÖL, mineraler [kalcium, järn], vitaminer [niacin, tiamin]), rapsolja, vatten, VETEMJÖL, majsmjöl, stärkelse (VETE, majs), salt, palmolja*, bakpulver (E450, E500, E503), naturliga aromer (bl.a. peppar), kryddor (bl.a. paprika), naturligt färgämne (kurkumin), druvsocker, solrosolja, jäst.*Hållbar palmolja. Kan innehålla ÄGG.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7311800000026",
       "name": "Polarkaka 350g",
