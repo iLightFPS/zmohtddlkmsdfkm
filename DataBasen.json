@@ -44,6 +44,202 @@
   "date": "2026-08-03",
   "list": [
     {
+      "id": "7300156600479",
+      "name": "Ägg 20-pack M Frigående inomhus 20",
+      "company": "Coop",
+      "ingredients": "Ägg.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156581006",
+      "name": "Standardmjölk Längre Hållbarhet 1500ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad MJÖLK (Sverige), vitamin D",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156587060",
+      "name": "Ägg 6-pack M/L Frigående inomhus 6",
+      "company": "Coop",
+      "ingredients": "ÄGG",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156493941",
+      "name": "Crème Fraiche 32% 500ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad GRÄDDE (Sverige), syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156587046",
+      "name": "Ägg 10-pack L Frigående inomhus 10",
+      "company": "Coop",
+      "ingredients": "Ägg",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156493934",
+      "name": "Crème Fraiche 32% 200ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad GRÄDDE (Sverige), syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156596451",
+      "name": "Standardmjölk ESL 1000ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad MJÖLK (Sverige), vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156493958",
+      "name": "Gräddfil 12% 300ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad GRÄDDE (Sverige), syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156486325",
+      "name": "Standardmjölk 1000ml",
+      "company": "Coop",
+      "ingredients": "Lågpastöriserad MJÖLK (Sverige), vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156486462",
+      "name": "Crème Fraiche Lätt 13% 200ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad GRÄDDE (Sverige), modifierad majsstärkelse, stabiliseringsmedel (E 410, E 1442), syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156600462",
+      "name": "Ägg 15-pack M Frigående inomhus 15",
+      "company": "Coop",
+      "ingredients": "Ägg.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156595188",
+      "name": "Lättmjölk 1500ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad MJÖLK (Sverige), vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156601766",
+      "name": "Laktosfri Mellanmjölk 1500ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad MJÖLK (Sverige), salt, laktasenzym, vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156600431",
+      "name": "Ägg 6-pack L Frigående utomhus 6",
+      "company": "Coop",
+      "ingredients": "Ägg.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156486486",
+      "name": "Crème Fraiche Lätt 13% 500ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad GRÄDDE (Sverige), modifierad majsstärkelse, stabiliserings-medel (E 410, E 1442), syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156600455",
+      "name": "Ägg 15-pack M/L Frigående utomhus 15",
+      "company": "Coop",
+      "ingredients": "Ägg.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865083418",
+      "name": "Gräddfil 12% 300ml",
+      "company": "Arla Ko®",
+      "ingredients": "Pastöriserad GRÄDDE, syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7332489005904",
+      "name": "Ägg 20-pack M/L Frigående utomhus 20",
+      "company": "Stjärnägg",
+      "ingredients": "Ägg",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350000552348",
+      "name": "Fruktdryck Mango 1000ml",
+      "company": "ProViva",
+      "ingredients": "Juice från koncentrat (druva, acerola), vatten, mangopuré 11%, bananpuré, passionsfruktjuice, HAVREmjöl 0,8%, syra (mjölksyra) kultur: Lactobacillus plantarum 299V. Total fruktinnehåll 55%.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156503060",
+      "name": "Laktosfri Créme Fraiche Lätt 13% 200ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad GRÄDDE (Sverige), modifierad stärkelse (E 1442 majs), stabiliseringsmedel (E 410, E 440), laktasenzym, syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156600578",
+      "name": "Ägg 12-pack M/L Frigående inomhus 12",
+      "company": "Coop",
+      "ingredients": "Ägg.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156578181",
+      "name": "Vispgrädde 40% 500ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad GRÄDDE (Sverige).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865003805",
+      "name": "Crème Fraiche 32% 200ml",
+      "company": "Arla Köket®",
+      "ingredients": "Pastöriserad GRÄDDE, syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350000550573",
+      "name": "Fruktdryck Blåbär 1000ml",
+      "company": "ProViva",
+      "ingredients": "Vatten, blåbär 9 % (bär, puré), socker, modifierad potatisstärkelse, HAVREmjöl 0,8 %, syra (citronsyra), vitamin C, kultur: Lactobacillus plantarum 299v.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340073300618",
+      "name": "Fruktdryck Tropisk 1000ml",
+      "company": "ProViva",
+      "ingredients": "Vatten, juice från koncentrat (apelsin 13%, druva, ananas 3%, passionsfrukt 2%), socker, puré (mango 3%, banan), HAVREmjöl 0,8 %, syra (mjölksyra), naturlig arom, vitamin C, kultur: Lactobacillus plantarum 299v. Totalt fruktinnehåll 35 %.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350000550597",
+      "name": "Fruktdryck Nypon 1000ml",
+      "company": "ProViva",
+      "ingredients": "Vatten, nypon från pulver 15 %, socker, HAVREmjöl 0,8 %, modifierad potatisstärkelse, syra (citronsyra), vitamin C, kultur: Lactobacillus plantarum 299v.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340073300250",
+      "name": "Fruktdryck Hallon &amp; björnbär 1000ml",
+      "company": "ProViva",
+      "ingredients": "Vatten, juice från koncentrat (druva, hallon 3 %, aronia), puré (hallon 6 %, banan, björnbär 3 %), HAVREmjöl 0,8 %, förtjockningsmedel (pektin), naturlig arom, syra (äppelsyra, citronsyra), vitamin C, sötningsmedel (steviolglykosider), kultur: Lactobacillus plantarum 299v.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350000552324",
+      "name": "Fruktdryck Blåbär 1000ml",
+      "company": "ProViva",
+      "ingredients": "Juice från koncentrat (druva, acerola, blåbär 3%), vatten, blåbärspuré 4%, blåbär 3%, potatisstärkelse, HAVREmjöl, 0,8%, syra (mjölksyra) kultur: Lactobacillus plantarum 299V. Total fruktinnehåll 62%.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
       "id": "7340191165335",
       "name": "Digestive 400g",
       "company": "Coop",
