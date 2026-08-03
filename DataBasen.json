@@ -44,6 +44,300 @@
   "date": "2026-08-03",
   "list": [
     {
+      "id": "7310865061935",
+      "name": "Vispgrädde 36% 500ml",
+      "company": "Arla Köket®",
+      "ingredients": "Pastöriserad GRÄDDE, stabiliseringsmedel (karragenan).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156581068",
+      "name": "Matlagningsgrädde 13% 500ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad GRÄDDE (EU(Sverige och/eller Tyskland)).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156599360",
+      "name": "Vispgrädde 36% 250ml",
+      "company": "COOP",
+      "ingredients": "Högpastöriserad GRÄDDE (Sverige), stabiliseringsmedel (E 407).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156507228",
+      "name": "Vispgrädde 40% Eko 500ml",
+      "company": "Änglamark",
+      "ingredients": "Högpastöriserad GRÄDDE*(Sverige). *KRAV-ekologisk ingrediens.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408432000966",
+      "name": "Laktosfri Matgrädde 10% 300ml",
+      "company": "VALIO",
+      "ingredients": "GRÄDDE, vatten, modifierad stärkelse och laktasenzym. Högpastöriserad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156575371",
+      "name": "Laktosfri Matlagningsgrädde 13% 300ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad GRÄDDE (Sverige), laktasenzym, stabiliseringsmedel (E 407).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156500946",
+      "name": "Laktosfri Vispgrädde 36% 500ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad GRÄDDE (Sverige), laktasenzym, stabiliseringsmedel (E 407).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156507211",
+      "name": "Vispgrädde 40% Eko 300ml",
+      "company": "Änglamark",
+      "ingredients": "Högpastöriserad GRÄDDE* (Sverige). *KRAV-ekologisk ingrediens.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340011310754",
+      "name": "Vispgrädde Spray 250g",
+      "company": "Coop",
+      "ingredients": "Vispgrädde 99%, emulgeringsmedel (E 471), stabiliseringsmedel (E 339, E 407), drivgas (E 942, E 941). UHT behandlad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865066435",
+      "name": "Matlagningsgrädde 13% 500ml",
+      "company": "Arla Köket®",
+      "ingredients": "Pastöriserad GRÄDDE, stabiliseringsmedel (karragenan).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408432095733",
+      "name": "Laktosfri Vispgrädde 35% 500ml",
+      "company": "VALIO",
+      "ingredients": "GRÄDDE, stabiliseringsmedel karragenan och laktasenzym. Högpastöriserad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8719200303553",
+      "name": "Visp 31% 250ml",
+      "company": "Flora by Milda",
+      "ingredients": "KÄRNMJÖLK (68%), vegetabiliska oljor (fullhärdat palm#, kokos, palm#), modifierad stärkelse, emulgeringsmedel (sackarosestrar av fettsyror, mono- och diglycerider av fettsyror, SOJALECITHIN), stabiliseringsmedel (guarkärnmjöl, fruktkärnmjöl). # Bidrar till produktionen av certifierad hållbar palmolja (4-1117-19-100-00).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156581051",
+      "name": "Matlagningsgrädde 13% 250ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad GRÄDDE (EU (Sverige och/eller Tyskland)).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865684752",
+      "name": "Vispgrädde Färsk 40% 300ml",
+      "company": "Arla Ko®",
+      "ingredients": "Pastöriserad GRÄDDE.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156500953",
+      "name": "Laktosfri Matlagningsgrädde 13% 500ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad GRÄDDE (Sverige) , laktasenzym, stabiliseringsmedel (E 407).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350003113027",
+      "name": "Roslagsgrädde 40% 500ml",
+      "company": "Roslagsmjölk",
+      "ingredients": "Högpastöriserad grädde* från Roslagen. *Krav-ekologisk ingrediens",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156575364",
+      "name": "Laktosfri Vispgrädde 36% 300ml",
+      "company": "Coop",
+      "ingredients": "Högpastöriserad GRÄDDE (Sverige), laktasenzym, stabiliseringsmedel (E 407).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8719200306820",
+      "name": "Visp 31% 500ml",
+      "company": "Flora by Milda",
+      "ingredients": "KÄRNMJÖLK 61 %, vegetabiliska oljor (kokos, raps), vatten, LAKTOS, emulgeringsmedel (SOJALECITIN, sackarosestrar av fettsyror), stabiliseringsmedel (xantangummi, fruktkärnmjöl, karragenan), färgämne (karoten).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8719200303522",
+      "name": "Låglaktos Visp 24% 250ml",
+      "company": "Flora by Milda",
+      "ingredients": "Låglaktos KÄRNMJÖLK (65 %), vegetabiliska oljor (kokos, raps), vatten, emulgeringsmedel (SOJALECITIN, sackarosestrar av fettsyror), stabiliseringsmedel (guarkärnmjöl, xantangummi, karragenan), laktasenzym, färgämne (karotener).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865890481",
+      "name": "Vispgrädde 36% 750ml",
+      "company": "Arla Köket®",
+      "ingredients": "Pastöriserad GRÄDDE, stabiliseringsmedel (karragenan).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408432095740",
+      "name": "Laktosfri Matgrädde 10% 500ml",
+      "company": "VALIO",
+      "ingredients": "GRÄDDE, vatten, modifierad stärkelse och laktasenzym. Högpastöriserad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865890498",
+      "name": "Matlagningsgrädde 13% 750ml",
+      "company": "Arla Köket®",
+      "ingredients": "Pastöriserad GRÄDDE, stabiliseringsmedel (karragenan).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5760466878470",
+      "name": "Mellangrädde 27% 250ml",
+      "company": "Kelda®",
+      "ingredients": "GRÄDDE, KÄRNMJÖLK, SYRAD SKUMMJÖLK, stabiliseringsmedel (karragenan).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865066756",
+      "name": "Kaffegrädde 10% 250ml",
+      "company": "Kelda®",
+      "ingredients": "GRÄDDE.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865066732",
+      "name": "Matlagningsgrädde 15% 250ml",
+      "company": "Kelda®",
+      "ingredients": "GRÄDDE, stabiliseringsmedel (karragenan).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8719200248144",
+      "name": "Mat Flora 500ml",
+      "company": "Flora by Milda",
+      "ingredients": "Vatten, låglaktos SKUMMJÖLK, KÄRNMJÖLK, vegetabiliska oljor (palm#, raps), modifierad stärkelse, stabiliseringsmedel (xantangummi, metylcellulosa), emulgeringsmedel (polysorbat 60), aromer (innehåller MJÖLK), färgämne (karotener). # Bidrar till produktionen av certifierad hållbar palmolja (4-1117-19-100-00).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408432002953",
+      "name": "Laktosfri Matgrädde Tre ostar 250ml",
+      "company": "VALIO",
+      "ingredients": "GRÄDDE, vatten, OSTAR 6 %, OSTAROMER, modifierad stärkelse, salt, förtjockningsmedel (guarkärnmjöl) och laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865890740",
+      "name": "Laktosfri Vispgrädde 36% 500ml",
+      "company": "Arla®",
+      "ingredients": "Pastöriserad GRÄDDE, laktasenzym, stabiliseringsmedel (karragenan).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408432000959",
+      "name": "Laktosfri Vispgrädde 35% 300ml",
+      "company": "VALIO",
+      "ingredients": "GRÄDDE, stabiliseringsmedel (karragenan) och laktasenzym. Högpastöriserad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8719200122932",
+      "name": "Laktosfri Vaniljvisp 12% 250ml",
+      "company": "Flora by Milda",
+      "ingredients": "SKUMMJÖLK (73%), vegetabiliska oljor (fullhärdad palm#, kokos), socker, SKUMMJÖLKSPULVER, emulgeringsmedel (mono- och diglyceridersmjölksyraestrar ochMono- och diglyceriders mono- och diacetylvinsyraestrar av vegetabiliskt fett), vaniljarom(MJÖLK), stabiliseringsmedel (fruktkärnmjöl, karragenan), laktasenzym, färgämne (karotener) # Innehåller 100% certifierad och hållbar palmolja. Läs mer på flora.com",
+      "gluten": "Glutenfri [ Okänd ]"
+    },
+    {
+      "id": "7394376615627",
+      "name": "Imat Matlagningsgrädde 13% Eko 250ml",
+      "company": "Oatly",
+      "ingredients": "Vatten/vann, rapsolja*, HAVRE* 9%, emulgeringsmedel (lecitiner) **, stabiliseringsmedel (xantangummi, gellangummi), surhetsreglerande medel (kalciumkarbonat), havssalt. *KRAV-certifierad råvara. **EU-ekologisk råvara. Fri från mjölk och soja.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310865890733",
+      "name": "Laktosfri Vispgrädde 36% 300ml",
+      "company": "Arla®",
+      "ingredients": "Pastöriserad GRÄDDE, laktasenzym, stabiliseringsmedel (karragenan).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8719200284173",
+      "name": "Plant cream 15% 250ml",
+      "company": "Flora",
+      "ingredients": "Beredning av linsprotein (vatten, 2,5% linsprotein), vegetabiliskt fett och olja 15% (rapsolja, kokosfett), socker, modifierad potatisstärkelse, emulgeringsmedel (polysorbat 60), stabiliseringsmedel (metylcellulosa, xantangummi), surhetsreglerande medel (Trinatriumcitrater), naturliga smakämnen, salt, färgämne (betakaroten).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5411188121374",
+      "name": "Laktosfri Glutenfri Matlagningsgrädde Soya 14% 250ml",
+      "company": "Alpro",
+      "ingredients": "SOJA/SOYAbas (84,4%) (vatten/vann/vand, skalade/afskallede SOJAbönor/SOYAbønner (5,5%)), solrosolja/solsikkeolie, socker/sukker, emulgeringsmedel/emulgator (sackarosestrar av fettsyror), stabiliseringsmedel/stabilisatorer (xantangummi, karragenan, guarkärnmjöl/guargummi), havssalt, arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8719200284913",
+      "name": "Plant cre+m 31% 500ml",
+      "company": "Flora",
+      "ingredients": "Beredning av linsprotein (vatten, 1,1 % linsprotein), kokosfett, rapsolja, socker, modifierad majsstärkelse, emulgeringsmedel (solroslecitin, sockerestrar av fettsyror, mono- och diglycerider av fettsyror), stabilisatorer (guargummi, johannesbrödmjöl), naturliga smakämnen, salt, färgämne (betakaroten).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8719200284609",
+      "name": "Plant cream 31% 250ml",
+      "company": "Flora",
+      "ingredients": "Beredning av linsprotein (vatten, 1,1 % linsprotein), kokosfett, rapsolja, socker, modifierad majsstärkelse, emulgeringsmedel (solroslecitin, sockerestrar av fettsyror, mono- och diglycerider av fettsyror), stabilisatorer (guargummi, johannesbrödmjöl), naturliga smakämnen, salt, färgämne (betakaroten).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408432002946",
+      "name": "Laktosfri Matgrädde Paprika &amp; chili 250ml",
+      "company": "VALIO",
+      "ingredients": "GRÄDDE, vatten, smältost (OST, vatten, SMÖR, salt), modifierad stärkelse, paprika, chili ancho, cayennepeppar, spiskummin, salt, socker, aromer, limesaftpulver, förtjockningsmedel (guarkärnmjöl) och laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6430081491475",
+      "name": "Cooking Havre Lök 250ml",
+      "company": "Oddlygood®",
+      "ingredients": "vatten, vegetabiliska oljor (raps, rybs), glutenfritt HAVREMJÖL 9 %, aromer, salt, torkad lök och purjolök, emulgeringsmedel (E472e), surhetsreglerande medel (citronsyra, natriumcitrater), förtjockningsmedel (xantangummi).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6430081491482",
+      "name": "Cooking Havre Original 250ml",
+      "company": "ODDLYGOOD",
+      "ingredients": "vatten, vegetabiliska oljor (raps, rybs), glutenfritt HAVREMJÖL 9 %, emulgeringsmedel (E472e), surhetsreglerande medel (natriumcitrater, citronsyra), förtjockningsmedel (xantangummi).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6408430141142",
+      "name": "Glutenfri Vispgrädde Easy Whipping 26% 250ml",
+      "company": "Oddlygood®",
+      "ingredients": "Vatten, fullhärdade vegetabiliska oljor (kokos och raps), maltodextrin, socker, emulgeringsmedel (E472e, E435), stabiliseringsmedel (E464, xantangummi), surhetsreglerande medel (kaliumhydroxid), salt, arom, färgämne (karotener). Kan innehålla spår av havre.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865890726",
+      "name": "Laktosfri Matlagningsgrädde 13% 500ml",
+      "company": "Arla®",
+      "ingredients": "Pastöriserad GRÄDDE, laktasenzym, stabiliseringsmedel (karragenan).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5411188121435",
+      "name": "Vispgrädde Soya 24% 250ml",
+      "company": "Alpro",
+      "ingredients": "SOJA/SOYAbas (65,4%) (vatten/vann/vand, skalade/afskallede SOJAbönor/SOYAbønner (2,7%)), vegetabiliska oljor (fullhärdad/fullherdet/helt hærdet kokosolja, fullhärdad/fullherdet/helt hærdet rapsolja), maltodextrin, solrosolja/solsikkeolie, socker/sukker, emulgeringsmedel/emulgator (sackarosestrar av fettsyror, mono- och diglyceriders mjölksyraestrar), citrusfiber/sitrusfiber/citrusfibre, havssalt, arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7300156600479",
       "name": "Ägg 20-pack M Frigående inomhus 20",
       "company": "Coop",
