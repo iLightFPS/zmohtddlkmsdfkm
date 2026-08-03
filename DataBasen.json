@@ -44,6 +44,300 @@
   "date": "2026-08-03",
   "list": [
     {
+      "id": "7340191165335",
+      "name": "Digestive 400g",
+      "company": "Coop",
+      "ingredients": "VETEMJÖL 53 % (vete: EU och icke-EU (Storbritannien)), solrosolja, FULLKORNSVETEMJÖL , socker, invertsockersirap, bakpulver (E 500, E 330, E 503), salt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311379536292",
+      "name": "Hamburgerbröd Frisco 4-pack 324g",
+      "company": "Korvbrödsbagarn",
+      "ingredients": "VETEMJÖL*, vatten*, invertsocker*, VETEGLUTEN, rapsolja*, jäst*, mannagryn (VETE), potatisflingor, salt, VETESKÅLLNING*, potatisstärkelse*, vegetabiliskt emulgeringsmedel (E471, E481), krydda, naturlig arom, maltmjöl av KORN, torkad surdeg (VETE), mjölbehandlingsmedel (E300), stabiliseringsmedel (E466). Kan innehålla spår av SESAMFRÖ. * råvaran har svenskt ursprung.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7312200010110",
+      "name": "Skogaholmslimpa 775g",
+      "company": "Skogaholm",
+      "ingredients": "VETEmjöl, siktat RÅGmjöl 20 %, vatten, sirap, jäst, rapsolja, skållat fullkornsRÅGmjöl, surdegspulver av VETE, salt, VETEgluten, malt av KORN, mjölbehandlingsmedel (askorbinsyra). Brödet innehåller 38 % vete.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311071330525",
+      "name": "Lingongrova 500g",
+      "company": "Pågen",
+      "ingredients": "Vatten, VETEmjöl, siktat RÅGmjöl, fullkornsRÅGmjöl*, sirap, klippt fullkornsRÅG*, surdeg på fullkornsRÅG* och VETE, fullkornsVETEmjöl*, malt av KORN, lingon (1,5%), röda vinbär, rapsolja, skållat VETEmjöl, VETEkli, VETEgluten, socker, jäst, salt, mjölbehandlingsmedel (askorbinsyra). *Fullkornsingrediens.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311070008708",
+      "name": "Grötbröd 780g",
+      "company": "Pågen",
+      "ingredients": "Vatten, VETEmjöl, HAVREgryn*, surdeg på VETE, sirap, VETEgluten, fullkornsVETEmjöl*, fullkornsRÅGmjöl*, solrosfrö (2%), skållat fullkornsHAVREmjöl*, VETEkli, rapsolja, malt av RÅG* och KORN, jäst, salt, mjölbehandlingsmedel (askorbinsyra). *Fullkornsingrediens.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7315062265759",
+      "name": "Vaniljmunk 63g",
+      "company": "Bonjour",
+      "ingredients": "Vatten, VETEMJÖL, socker, vegetabiliskt fett (palm, raps, kokos), jäst, KÄRNMJÖLKSPULVER, sirap, ÄGGPULVER, modifierad stärkelse (E1442), SKUMMJÖLKSPULVER, VETEGLUTEN, salt, ÄGGULEPULVER, konserveringsmedel (E202), potatisfiber, emulgeringsmedel (E471), surhetsreglerande medel (E330), aromer, färgämnen (E160a, E101), mjölbehandlingsmedel (E300), enzymer (VETE), A- &amp; D-vitamin. Kan innehålla spår av mandel och hasselnötter.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311070338188",
+      "name": "Pågenlimpan 900g",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl, vatten, siktat och skållat RÅGmjöl, sirap, surdeg på fullkornsRÅG och VETE, VETEgluten, skållat VETEmjöl, rapsolja, malt av KORN, jäst, salt, mjölbehandlingsmedel (askorbinsyra).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310521080300",
+      "name": "Smörgåsrån 170g",
+      "company": "Smörgåsrån",
+      "ingredients": "VETEMJÖL, fullhärdat kokosfett, emulgeringsmedel (SOJALECITIN), salt, bakpulver (natriumbikarbonat), surhetsreglerande medel (citronsyra), KORNMALT. Innehåller naturligt förekommande socker från spannmål.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300400114813",
+      "name": "Knäckebröd Falu Råg Rut 470g",
+      "company": "Wasa",
+      "ingredients": "FullkornsRÅGmjöl 105 g*, jäst, salt, mältat KORN. *i g per 100 g produkt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300400118408",
+      "name": "Knäckebröd Husman 520g",
+      "company": "Wasa",
+      "ingredients": "fullkornsRÅGmjöl 105 g*, jäst, salt. *i g för 100 g produkt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311070008159",
+      "name": "Levain 650g",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl, vatten, surdeg på RÅG och durumVETE (10%), fullkornsdurumVETEmjöl, VETEgluten, malt av KORN, jäst, salt, mjölbehandlingsmedel (askorbinsyra). SVENSKT MJÖL Mer än 90% mjöl från svenskodlat spannmål malt i egen kvarn.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7315061594010",
+      "name": "Wienerbröd med vaniljkräm 80g",
+      "company": "Bonjour",
+      "ingredients": "Vatten, VETEMJÖL, vegetabilisk olja (palmolja SG, rapsolja, kokosolja), socker, ÄGG, modifierad stärkelse (E1414), jäst ,vasslepulver (MJÖLK), VETEGLUTEN, vegetabiliskt emulgeringsmedel (E471, E472e), salt, maltmjöl av VETE, stabiliseringsmedel (E401, E450(i), E516), färgämne (E170, E160a), naturlig arom , MJÖLKPROTEIN, surhetsreglerande medel (E330, E263), mjölbehandlingsmedel (E300), enzym (xylanas, amylas ), vitamin A. Sockerglasyr (socker, vatten , glukossirap) Kan innehålla spår av mandel och pekannötter.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340011359531",
+      "name": "Mazariner 4-pack 220g",
+      "company": "Coop",
+      "ingredients": "Socker, margarin (vegetabiliskt fett och olja (palm°, raps, kokos), vatten, salt, naturlig arom, emulgeringsmedel (E 471 vegetabiliskt), surhetsreglerande medel (E 330), vitamin A), VETEMJÖL, ÄGG (från frigående höns), glukossirap, MANDEL 3%, aprikoskärnor, fuktighetsbevarande medel (E 422), konserveringsmedel (E 262, E 202), majsstärkelse, bakpulver (E 450, E 500), förtjockningsmedel (E 410, E 412), emulgeringsmedel (E 471 vegetabiliskt). Kan innehålla spår av mjölk, valnöt, pekannöt och hasselnöt. °Coop stödjer hållbar produktion av palmolja, läs mer på www.coop.se",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311070008463",
+      "name": "Jättefranska 1100g",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl, vatten, sirap, rapsolja, surdeg på VETE, siktat RÅGmjöl, malt av KORN/BYGG, jäst/gær, salt, mjölbehandlingsmedel (askorbinsyra). SVENSKT MJÖL Mer än 90% mjöl från svenskodlat spannmål malt i egen kvarn.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5413056040190",
+      "name": "Smörcroissant 60g",
+      "company": "Bonjour",
+      "ingredients": "deg: VETEMJÖL, SMÖR 23%, vatten, socker, jäst, salt, VETEGLUTEN, mjölbehandlingsmedel (E300), enzym, ÄGG. Dekoration: ÄGG. Kan innehålla spår av : hasselnötter, mandel.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311070336160",
+      "name": "Roast n toast 800g",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl, vatten, surdeg på VETE, rapsolja, vallmofrö (1%), VETEgluten, socker, malt av KORN, jäst, salt, mjölbehandlingsmedel (askorbinsyra).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6416577028103",
+      "name": "Källarfranska 80g",
+      "company": "Bonjour",
+      "ingredients": "VETEMJÖL, vatten, jäst, vegetabiliskt fett och olja (palm, raps), salt, socker, emulgeringsmedel (E471, E472e), enzymer, aromer, mjölbehandlingsmedel (E300). Kan innehålla spår av mjölk, ägg, mandel.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311070330243",
+      "name": "Lingongrova Special 500g",
+      "company": "Pågen",
+      "ingredients": "Vatten, VETEmjöl, fullkornsRÅGmjöl*, siktat RÅGmjöl, surdeg på fullkornsRÅG* och VETE, klippt fullkornsRÅG*, VETEgluten, solrosfrö, skållat VETEmjöl, lingon (2%), röda vinbär, rapsolja, malt av KORN och RÅG*, HAVREfiber, VETEkli, socker, jäst, salt, mjölbehandlingsmedel (askorbinsyra). *Fullkornsingrediens.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311800000064",
+      "name": "PolarVete 800g",
+      "company": "Polarbröd",
+      "ingredients": "VETEmjöl¹, vatten, rapsolja¹, socker¹, fermenterat VETEmjöl, VETEGLUTEN, jäst¹, salt, VETEskållning¹, vegetabiliskt emulgeringsmedel (E471, E472e), bakpulver (E503), maltmjöl (KORN). ¹Ursprungsland: Sverige.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6416577028073",
+      "name": "Ost-och Chiaruta 90g",
+      "company": "Bonjour",
+      "ingredients": "VETEMJÖL, vatten, OST 6,7%, DURUMVETEMJÖL, chiafrön (Salvia hispanica) 3,6%, jäst, surdeg av VETE [vatten, VETEMJÖL], VETEGLUTEN, salt, rapsolja, surdeg av RÅG (vatten, RÅGMJÖL, salt), malt av KORN, emulgeringsmedel (veg E472e), potatisstärkelse, socker, mjölbehandlingsmedel (E300), enzymer. Kan innehålla spår av ägg, mandel.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311070330328",
+      "name": "Guldkorn 500g",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl, vatten, siktat RÅGmjöl, sirap, fullkornsVETEmjöl*, klippt fullkornsRÅG*, surdeg på fullkornsRÅG* och VETE, VETEgluten, skållat VETEmjöl, rapsolja, VETEgroddar, malt av KORN, jäst, salt, mjölbehandlingsmedel (askorbinsyra). *Fullkornsingrediens. Fullkornshalten i brödet är 11% vilket motsvarar 16% av torrvikten.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300400245005",
+      "name": "Knäckebröd Frukost 480g",
+      "company": "Wasa",
+      "ingredients": "VETEmjöl 89%, solrosfröolja, vallmofrö 4,9%, jäst, socker, salt. Kan innehålla spår av LUPIN, MJÖLK, SENAP, SESAMFRÖN och SOJABÖNOR.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311071336244",
+      "name": "Rosta 450g",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl, vatten, VETEgluten, skållat VETEmjöl, rapsolja (1%), sirap, malt av KORN, jäst, salt, mjölbehandlingsmedel (askorbinsyra). Brödet innehåller 72% vete. Kan innehålla spår av vallmofrö. SVENSKT MJÖL Mer än 90% mjöl från svenskodlat spannmål malt i egen kvarn.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7315060448345",
+      "name": "Baguette Vete 400g",
+      "company": "Bonjour",
+      "ingredients": "VETEMJÖL, vatten, salt, jäst/gjaer, VETEGLUTEN, maltmjöl av KORN/BYGG, mjölbehandlingsmedel (E300).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191158221",
+      "name": "Majskakor Popcorn 125g",
+      "company": "Coop",
+      "ingredients": "M ajsgryn 71% (Majs: EU), rapsolja, majsmjöl 6,5% (Majs: EU), maltodextrin, salt, socker, jästextrakt, kryddextrakt, arom. Kan innehålla spår av soja, mjölk och sesam.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7312200016945",
+      "name": "Bröd Varsågod Skivad 715g",
+      "company": "Skogaholm",
+      "ingredients": "VETEmjöl, vatten, sirap, fullkornsRÅGmjöl 10 %, fullkornsVETEmjöl 6 %, klippta RÅGkärnor, jäst, malt av KORN, rapsolja, VETEgluten, salt, grovt VETEmjöl, fermenterat VETEmjöl, surdegspulver av VETE, mjölbehandlingsmedel (askorbinsyra).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311070008432",
+      "name": "Råg Levain Osötat 650g",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl, vatten, surdeg på fullkornsRÅG* och fullkornsdurumVETE* (11%), groddade RÅGkärnor*, VETEgluten, fullkornsRÅGmjöl*, RÅGmjöl, VETEkli, sirap (endast som jästnäring), malt av KORN, jäst, salt, mjölbehandlingsmedel (askorbinsyra). *Brödet innehåller 9% råg och 11% fullkorn.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311379536278",
+      "name": "Hamburgerbröd 8-pack 448g",
+      "company": "Korvbrödsbagarn",
+      "ingredients": "VETEMJÖL*, vatten*, invertsocker*, rapsolja*, SESAMFRÖ (1,5 %), jäst*, salt, vegetabiliskt emulgeringsmedel (E471), maltmjöl av VETE, mjölbehandlingsmedel (E300). * råvaran har svenskt ursprung.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8008698005286",
+      "name": "Glutenfria Rån Nötkräm &amp; choklad 105g",
+      "company": "Schär",
+      "ingredients": "MÆLK-/MJÖLKCHOKLAD 40% (socker/sukker, kakaofett/-smør*, SKUMMETMÆLK-/SKUMMJÖLKSPULVER, kakaomassa*,MÆLK-/MJÖLKFETT (vattenfri), myse/vasslepulver/vallepulver (MÆLK/MJÖLK), emulgeringsmedel/emulgator: SOJALECITIN; naturligt smakämne/arom), socker/sukker, palmolia/-olie, majsmjöl, potets-/potatisstärkelse/kartoffelstivelse, HASSELNÖTTER/HASSELNØDDER 5%, myse/vasslepulver/vallepulver (MÆLK/MJÖLK), kakaopulver*, emulgeringsmedel/emulgator: SOJALECITIN; salt, förtjockningsmedel/fortykningsmiddel: guarkärnmjöl/guargummi; bakpulver/heve/hævemiddel: natriumvätekarbonat. *Rainforest Alliance Certified cocoa.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191159440",
+      "name": "Corn Cakes Cheese 125g",
+      "company": "Coop",
+      "ingredients": "Majsgryn 71% (Majs: EU), rapsolja, majsmjöl 6,5% (Majs: EU), vasslepulver (MJÖLK ), salt, MJÖLK , jästextrakt, arom, syra (E 270, E 327), kryddextrakt, animaliskt ostlöpe, mjölksyrakultur, färgämne (E 160c). Kan innehålla spår av sesamfrön och soja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311070008494",
+      "name": "Surdegsbröd Lantgoda 650g",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl, vatten, fullkornsVETEmjöl*, surdeg på VETE (10%), HAVREgryn*, krossade fullkornskärnor av dinkelVETE* och VETE*, VETEgluten, fermenterat VETEmjöl, skållat fullkornsHAVREmjöl*, fullkornsRÅGmjöl*, HAVREfiber, kallpressad rapsolja (1%), VETEgroddar, gula linfrö, malt av KORN och VETE, socker (endast som jästnäring), jäst, salt, mjölbehandlingsmedel (askorbinsyra). *Brödet innehåller 23% fullkorn.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311070003567",
+      "name": "Hönö Jollekaka 400g",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl, vatten, socker, siktat RÅGmjöl, rapsolja, RÅGskållning, malt av KORN, jäst, bakpulver (hjorthornssalt), salt, vegetabiliskt emulgeringsmedel mono- och diglycerider av fettsyror (solros, raps), VETEgluten, mjölbehandlingsmedel (askorbinsyra).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300400117944",
+      "name": "Knäckebröd Delikatess 540g",
+      "company": "Wasa",
+      "ingredients": "FULLKORNSRÅGMJÖL, salt. KAN INNEHÅLLA SPÅR AV SESAMFRÖN OCH MJÖLK.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7315062265766",
+      "name": "Äppelmunk 63g",
+      "company": "Bonjour",
+      "ingredients": "VETEMJÖL, vatten, socker, vegetabiliskt fett (palm, raps), jäst, sirap, ÄGGPULVER, SKUMMJÖLKSPULVER, äppelpulver, VETEGLUTEN, salt, ÄGGULEPULVER, förtjockningsmedel (E440), potatisfiber, emulgeringsmedel (E471), surhetsreglerande medel (E330, E333), aromer, konserveringsmedel (E202), mjölbehandlingsmedel (E300), enzymer (VETE), A- &amp; D vitamin. Produkten innehåller 28% äppelfyllning. Kan innehålla spår av mandel och hasselnötter.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311070004106",
+      "name": "Grekiskt lantbröd 560g",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl, vatten, surdeg på VETE, siktat RÅGmjöl, kallpressad rapsolja, havssalt (1,3%), skållat fullkornsHAVREmjöl, VETEgluten, malt av KORN, jäst, mjölbehandlingsmedel (askorbinsyra).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311310035945",
+      "name": "Papadums 10-pack 110g",
+      "company": "Santa Maria",
+      "ingredients": "Linsmjöl, rismjöl, salt, chilipeppar (3%), bakpulver (E170), vegetabilisk olja (kokosnöt).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300400483193",
+      "name": "Knäckebröd 100 Frön &amp; havssalt 490g",
+      "company": "Wasa",
+      "ingredients": "FULLKORNSRÅGMJÖL (95% g*), linfrön (5,9 g*), vallmofrön (4,2 g*), jäst, havssalt (0,5 g*), salt. *i g för 100 g produkt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311070006230",
+      "name": "Bullar Vanillas 220g",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl, vatten, socker, glukos- och fruktossirap, vegetabilisk olja (raps, kokos, solros), kärn- och skumMJÖLK, ÄGG, malt av KORN, jäst, salt, modifierad stärkelse (potatis), bakpulver (E450, E500), vegetabiliskt emulgeringsmedel (E471), surhetsreglerande medel (E330, E332), färgämne (E160a, E170), stabiliseringsmedel (E422, E460, E466), konserveringsmedel (E200, E202, E282), mjölbehandlingsmedel (askorbinsyra), vaniljaromer, naturlig vaniljarom. Vanillas innehåller 32% vaniljkräm. Kan innehålla spår av MANDEL.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311070003543",
+      "name": "Hönökaka 450g",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl, vatten, socker, rapsolja, RÅGskållning, havssalt, VETEgluten, malt av KORN, jäst, vegetabiliskt emulgeringsmedel mono och diglycerider av fettsyror (solros, raps), mjölbehandlingsmedel (askorbinsyra).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310520009326",
+      "name": "Ballerina Original 205g",
+      "company": "Ballerina",
+      "ingredients": "VETEMJÖL/HVEDEMEL/HVETEMEL, nougatfyllning 35 % (socker, fullhärdat kokosfett, vasslepulver/vallepulver/mysepulver från MJÖLK/MÆLK/MELK, HASSELNÖTTER/HASSELNØDDER/ HASSELNØTTER 10 %, fettreducerat kakaopulver¹, emulgeringsmedel/emulgator (lecitin), arom), socker, solrosolja/solsikkeolie, fettreducerat kakaopulver¹, bakpulver/hævemiddel (natriumbikarbonat E500, hjorthornssalt E503), invertsocker, salt, emulgeringsmedel/emulgator (lecitin), arom (vanillin). ¹Rainforest Alliance Certified. För mer info se ra.org.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311070330090",
+      "name": "Energi 700g",
+      "company": "Pågen",
+      "ingredients": "Vatten, VETEmjöl, klippt fullkornsRÅG*, fullkornsVETEmjöl*, siktat RÅGmjöl, fullkornsRÅGmjöl*, VETEgluten, surdeg på fullkornsRÅG* och VETE, malt av KORN, rapsolja, solrosfrö, HAVREfiber, VETEkli, jäst, salt, mjölbehandlingsmedel (askorbinsyra). Kan innehålla spår av vallmofrö. *Fullkornsingrediens.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191159433",
+      "name": "Majskakor Sour Cream &amp; Onion 125g",
+      "company": "Coop",
+      "ingredients": "Majsgryn 71% (Majs: EU), rapsolja, majsmjöl 6,5% (Majs: EU), vasslepulver (MJÖLK), salt, KÄRNMJÖLKSPULVER, MJÖLK, lökpulver, dextros, tomatpulver, vitlökspulver, arom, syra (E 296), jästextrakt, persilja, surhetsreglerande medel (E 262), cayennepeppar, animaliskt ostlöpe, mjölksyrakultur, färgämne (E 160c).Kan innehålla spår av sesamfrön och soja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7315200593928",
       "name": "Marinad Vitlök 65ml",
       "company": "Caj P",
