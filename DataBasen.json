@@ -41,8 +41,15 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "list": [
+    {
+      "id": "7313940183478",
+      "name": "Kycklingspett Grillade 480g",
+      "company": "Guldfågeln",
+      "ingredients": "Kycklinglårfilé, salt, kryddor (cayenne, koriander, ingefära, paprika, peppar, spiskummin, vitlök), lök, kycklingbuljong. Till 100 g produkt har använts 105 g kycklinglårfilé.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311631524128",
       "name": "Fint Salt Med Jod Falksalt 600g",
