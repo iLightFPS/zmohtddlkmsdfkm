@@ -41,8 +41,50 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-08-04",
+  "date": "2026-08-08",
   "list": [
+    {
+      "id": "7310070008756",
+      "name": "Festis Apelsin 500ml",
+      "company": "Festis",
+      "ingredients": "Vatten, socker, apelsinjuice (5%) från koncentrat, syra (citronsyra), konserveringsmedel (kaliumsorbat), antioxidationsmedel (askorbinsyra), koncentrat från morot och gul pumpa, naturlig arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690142027",
+      "name": "Köttbuljong",
+      "company": "ICA",
+      "ingredients": "Salt, potatisstärkelse, palmfett*, socker, jästextrakt, animalisk fett (från nöt) 4,5%, nötköttsextrakt 2%, karamelliserat socker, arom, morot, lök, persilja, muskotblomma. *Den här produkten innehåller certifierad hållbar palmolja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5900783010904",
+      "name": "Chilisås Classic 330g",
+      "company": "Heinz",
+      "ingredients": "Tomatpuré 60%, ättika, socker, salt, kryddor, chilipeppar 0,04%, aromer (innehåller SELLERI).",
+      "gluten": "Glutenfri [ Okänd ]"
+    },
+    {
+      "id": "5900783010911",
+      "name": "Chilisås classic 590g",
+      "company": "Heinz",
+      "ingredients": "Tomatpuré 60%, ättika, socker, salt, kryddor, chilipeppar 0,04%, aromer (innehåller SELLERI)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5900783010928",
+      "name": "Chilisås hot 330g",
+      "company": "Heinz",
+      "ingredients": "Tomatpuré 66%, socker, vinvinäger, salt, cayennepeppar 0,2%, kryddor, arom (innehåller SELLERI), naturlig chiliarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191132368",
+      "name": "Chilisås 480g",
+      "company": "Coop",
+      "ingredients": "Tomatpuré 78 % (tomater: EU), socker, ättika, salt, modifierad stärkelse, kryddor, chili 0,06 %.Till 100 g chilisås har det använts 198 g färska tomater.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7313940183478",
       "name": "Kycklingspett Grillade 480g",
