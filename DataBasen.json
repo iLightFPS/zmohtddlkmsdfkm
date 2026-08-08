@@ -44,6 +44,41 @@
   "date": "2026-08-08",
   "list": [
     {
+      "id": "7310350505319",
+      "name": "Malaco Gott & Blandat Original 600g",
+      "company": "Malaco",
+      "ingredients": "socker, glukossirap, stärkelse, glukos-fruktossirap, VETEMJÖL, modifierad stärkelse, ammoniumklorid (=salmiak), melass, syra (citronsyra), lakritsextrakt, fuktighetsbevarande medel (sorbitoler, glycerol), aromer (bl.a. vanillin), vegetabiliska oljor (kokos, raps), salt, koncentrat från (morot, svarta vinbär), färgämnen (E153, E160c, E100, E141), stabiliseringsmedel (E471), ytbehandlingsmedel (karnaubavax). Blandningsförhållandet kan variera.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310350136698",
+      "name": "Gott &amp; blandat Juicy Giants 170g",
+      "company": "Malaco",
+      "ingredients": "socker, glukossirap, stärkelse, glukos-fruktossirap, syror (citronsyra, vinsyra), naturliga aromer, koncentrat från (morot, svarta vinbär), färgämnen (paprikaextrakt, kurkumin, klorofyllinkopparkomplex).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310350136926",
+      "name": "Zoo 95g",
+      "company": "Malaco",
+      "ingredients": "socker/sukker, glukossirap, gelatin, stärkelse/stivelse, syra (E270), vegetabiliska oljor (kokos, raps), arom, ytbehandlings-/overfladebehandlingsmiddel (karnaubavax/voks), färgämnen/farvestoffer (E120, E160a).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310350136971",
+      "name": "Fruxo 95g",
+      "company": "Malaco",
+      "ingredients": "socker/sukker, glukossirap, gelatin, stärkelse/stivelse, syra (E270), vegetabiliska oljor (kokos, raps), aromer (bl.a. vanillin), ytbehandlings-/overfladebehandlingsmiddel (karnaubavax/voks), färgämnen/farvestoffer (E120, E141, E160a).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310350136919",
+      "name": "Fizzypop 85g",
+      "company": "Malaco",
+      "ingredients": "glukossirap, socker/sukker, gelatin, syror (citronsyra, äppel-/æble-/eplesyre), surhetsreglerande medel (natriumkarbonater), fullhärdad/helt hærdet/fullherdet solros-/solsikke olja, naturlig arom, koncentrat från (spirulina, morot/gulerod, svarta vinbär/solbær).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7310070008756",
       "name": "Festis Apelsin 500ml",
       "company": "Festis",
