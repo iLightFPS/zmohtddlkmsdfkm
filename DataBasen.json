@@ -41,8 +41,22 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "list": [
+    {
+      "id": "7310350136902",
+      "name": "Djungelvrål 90g",
+      "company": "Malaco",
+      "ingredients": "glukossirap, socker/sukker, stärkelse/stivelse, modifierad stärkelse/stivelse, ammoniumklorid (=salmiak), lakritsextrakt, färgämne/farvestof (E153), arom (bl.a. vanillin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310350136988",
+      "name": "PimPim 95g",
+      "company": "Malaco",
+      "ingredients": "glukossirap, socker/sukker, stärkelse/stivelse, gelatin, syra (E270), aromer, vegetabiliska oljor (kokos, raps), ytbehandlings-/overfladebehandlingsmiddel (karnaubavax/voks), färgämnen/farvestoffer (E120, E160a)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7310350505319",
       "name": "Malaco Gott & Blandat Original 600g",
