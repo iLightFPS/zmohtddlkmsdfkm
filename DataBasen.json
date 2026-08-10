@@ -44,74 +44,60 @@
   "date": "2026-08-10",
   "list": [
     {
-      "id": "6410500091752",
-      "name": "Knäckebröd Finn Crisp Original 400g",
-      "company": "Finn Crisp",
-      "ingredients": "fullkornsRÅGmjöl, surdeg 25 % (fullkornsRÅGmjöl, vatten), salt, jäst. Innehåller 95 % fullkornsrågmjöl. Kan innehålla spår av sesamfrön.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "6410500090014",
-      "name": "Knäckebröd Finn Crisp Original 200g",
-      "company": "Finn Crisp",
-      "ingredients": "FullkornsRÅGmjöl, surdeg 25 % (fullkornsRÅGmjöl, vatten), salt och jäst. Innehåller 95 % fullkornsråg. Kan innehålla spår av sesamfrön.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7313160020447",
-      "name": "Potatissallad Klassisk 750g",
-      "company": "RYDBERGS",
-      "ingredients": "Potatis 66%, rapsolja, vatten, ÄGGULA, lök, SENAPSFRÖ, salt, socker, svartpeppar, gräslök, dill, paprika, cayennepeppar, chilipeppar, kryddor, ättika, stabiliseringsmedel (guarkärnmjöl, xantangummi), surhetsreglerande medel (citronsyra), konserveringsmedel (natriumbensoat, kaliumsorbat).",
+      "id": "7300156596611",
+      "name": "Gyros Kebab 350g",
+      "company": "Coop",
+      "ingredients": "Fläskkött° 93%, rapsolja, kryddbland-ning (lök, paprikapulver, glukossirap (majs), svartpeppar, ingefära, tomatpulver, chili, spiskummin, oregano, vitlök, paprika- extrakt, cayennepeppar, koriander, kummin, gurkmeja, paprika), salt. °Ursprung köttråvara: Fött, uppfött, slaktat och styckat i Sverige.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7313160020430",
-      "name": "Potatissallad Originalet 800g",
-      "company": "RYDBERGS",
-      "ingredients": "Potatis 66%, rapsolja, vatten, lök, ÄGGULA, salt, SENAPSFRÖ, ättika, svartpeppar, kryddor, socker, stabiliseringsmedel (guarkärnmjöl, xantangummi), surhetsreglerande medel (citronsyra), konserveringsmedel (natriumbensoat, kaliumsorbat).",
+      "id": "7350027794394",
+      "name": "Pancetta Lufttorkat &amp; tärnat 160g",
+      "company": "Zeta",
+      "ingredients": "Fläskkött*, naturliga aromer, salt, sackaros, dextros, antioxidationsmedel E301, konserveringsmedel E250 och E252. Till 100 g färdig produkt har 105 g kött använts. *Fött, uppfött och slaktat i Italien.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7313161310561",
-      "name": "Potatissallad 400g",
-      "company": "RYDBERGS",
-      "ingredients": "Potatis 66%, rapsolja, vatten, lök, ÄGGULA, salt, SENAPSFRÖ, ättika, svartpeppar, kryddor, socker, stabiliseringsmedel (guarkärnmjöl, xantangummi), surhetsreglerande medel (citronsyra), konserveringsmedel (natriumbensoat, kaliumsorbat).",
+      "id": "2317076900003",
+      "name": "Grytbitar Fläsk 1kg",
+      "company": "Coop",
+      "ingredients": "Svenskt griskött",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7313160020478",
-      "name": "Potatissallad Crème Fraiche 750g",
-      "company": "RYDBERGS",
-      "ingredients": "Potatis 67%, rapsolja, CRÈME FRAICHE, 10%, vatten, lök, ÄGGULA, LAKTOS, OSTPULVER, SENAPSFRÖ, salt, gräslök, svartpeppar, socker, kryddor, kryddextrakt, ättika, stabiliseringsmedel (guarkärnmjöl, xantangummi), surhetsreglerande medel (citronsyra) konserveringsmedel (natriumbensoat, kaliumsorbat), naturliga aromer.",
+      "id": "7350166370688",
+      "name": "Fläsk Tärnat Petali di Pancetta 100g",
+      "company": "Mino",
+      "ingredients": "Fläsksida*, salt, kryddor, naturliga aromer, druvsocker, antioxidationsmedel (E301), konserveringsmedel (E250). *Fött, uppfött och slaktat i EU. Till 100g färdig produkt har. 114g kött använts",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7350090451071",
-      "name": "Gyroskebab 275g",
-      "company": "Schysst käk",
-      "ingredients": "Fläskkött* (79 %), vatten, potatisstärkelse, kryddor, salt, lök, vitlök, druvsocker, örtkrydda, tomat, potatisfiber, kryddextrakt, konserveringsmedel (E262, E301), stabiliseringsmedel (E450, E451), surhetsreglerande medel (E270, E327). *Ursprung: Sverige",
+      "id": "5711953196430",
+      "name": "Mustig tomatsoppa 500ml",
+      "company": "Kelda®",
+      "ingredients": "Grönsaksbuljong (vatten, salt, lök, palsternacka, socker, morot, tomat, libbsticka, paprika, savoykål, purjolök, lagerblad, timjan, cayennepeppar), tomat 23%, tomatpuré 15%, MJÖLK, GRÄDDE, grillad röd paprika, grillad zucchini, aubergine, modifierad stärkelse, socker, salt, vitlök, svartpeppar, timjanextrakt, vitlökspulver, chilipeppar, surhetsreglerande medel (citronsyra), basilikaolja.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7350090451996",
-      "name": "Klassisk kebab 275g",
-      "company": "Schysst käk",
-      "ingredients": "Nötkött (82 %)*, fett från nöt, vatten, koksalt, lökpulver, stabiliseringsmedel (E450, E451), kryddor, naturliga aromer, animaliskt protein av nöt, potatisfiber, druvsocker, socker, vitlök.*Ursprung:EU",
+      "id": "5711953194832",
+      "name": "Skogssvampsoppa 500ml",
+      "company": "Kelda®",
+      "ingredients": "Vatten, MJÖLK, grönsaksbuljong (vatten, salt, lök, palsternacka, socker, morot, tomat, libbsticka, paprika, savoykål, purjolök, lagerblad, timjan, cayennepeppar), GRÄDDE, modifierad stärkelse, svampkoncentrat 2,1% (champinjonkoncentrat, rapsolja), salt, champinjonpulver 0,2%, smörsoppspulver 0,1%, vitlökspulver, vitpeppar.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7350090452504",
-      "name": "Kycklingkebab 275g",
-      "company": "Schysst käk",
-      "ingredients": "Kyckling* (90 %), vatten, salt, kryddor, potatisfiber, potatisstärkelse, lök, socker, jästextrakter, vitlök, druvsocker, örtkryddor, tomat, maltodextrin, kryddextrakter, konserveringsmedel (E262, E301), stabiliseringsmedel (E450, E451) , surhetsreglerandemedel (E270, E327, E330). *Ursprung: EU",
+      "id": "5711953156076",
+      "name": "Skärgårdssoppa 500ml",
+      "company": "Kelda®",
+      "ingredients": "FISK- OCH SKALDJURSBULJONG (vatten, salt, naturliga aromer (FISK), socker, vitvinsextrakt, lök, RÄKPULVER*, FISKPULVER*, HUMMEREXTRAKT*, fänkål, paprika, paprikaextrakt, lökextrakt), MJÖLK, GRÄDDE, modifierad stärkelse. *MSC-certifierad.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7350090452450",
-      "name": "Kebab Vego 350g",
-      "company": "Schysst käk",
-      "ingredients": "Vatten, VETEGLUTEN*, rapsolja, HAVREGRYN, salt, kryddor, lök, konserveringsmedel (E202), örtkryddor, druvsocker, tomat, vitlök, sockerkulör (E150c). *Ursprung: Sverige",
-      "gluten": "Glutenfri [ Nej ]"
+      "id": "7310865003843",
+      "name": "Crème Fraiche Lätt 13% 200ml",
+      "company": "Arla Köket®",
+      "ingredients": "Pastöriserad GRÄDDE, modifierad majsstärkelse, stabiliseringsmedel (fruktkärnmjöl, pektin), syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7310130416170",
