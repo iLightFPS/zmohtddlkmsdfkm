@@ -41,8 +41,50 @@
     "Durumvetemjöl",
     "Vetepellets"
   ],
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "list": [
+    {
+      "id": "7310130416170",
+      "name": "Idealmakaroner 1000g",
+      "company": "Kungsörnen",
+      "ingredients": "Mjöl av VETE, mjöl av durumVETE.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310130418105",
+      "name": "Makaroner Fullkorn 800g",
+      "company": "Kungsörnen",
+      "ingredients": "fullkornsmjöl av durumVETE 55%, mjöl av durumVETE.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310130003530",
+      "name": "Snabbmakaroner 750g",
+      "company": "Kungsörnen",
+      "ingredients": "Mjöl av VETE, mjöl av durumVETE.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310130003554",
+      "name": "Snabbmakaroner 1300g",
+      "company": "Kungsörnen",
+      "ingredients": "Mjöl av VETE, mjöl av durumVETE.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310130003981",
+      "name": "Idealmakaroner 1300g",
+      "company": "Kungsörnen",
+      "ingredients": "Mjöl av VETE, mjöl av durumVETE.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310130003561",
+      "name": "Idealmakaroner Gammaldags 1300g",
+      "company": "Kungsörnen",
+      "ingredients": "VETEmjöl",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7310350136902",
       "name": "Djungelvrål 90g",
