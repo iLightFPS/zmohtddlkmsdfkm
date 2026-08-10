@@ -44,6 +44,76 @@
   "date": "2026-08-10",
   "list": [
     {
+      "id": "6410500091752",
+      "name": "Knäckebröd Finn Crisp Original 400g",
+      "company": "Finn Crisp",
+      "ingredients": "fullkornsRÅGmjöl, surdeg 25 % (fullkornsRÅGmjöl, vatten), salt, jäst. Innehåller 95 % fullkornsrågmjöl. Kan innehålla spår av sesamfrön.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6410500090014",
+      "name": "Knäckebröd Finn Crisp Original 200g",
+      "company": "Finn Crisp",
+      "ingredients": "FullkornsRÅGmjöl, surdeg 25 % (fullkornsRÅGmjöl, vatten), salt och jäst. Innehåller 95 % fullkornsråg. Kan innehålla spår av sesamfrön.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7313160020447",
+      "name": "Potatissallad Klassisk 750g",
+      "company": "RYDBERGS",
+      "ingredients": "Potatis 66%, rapsolja, vatten, ÄGGULA, lök, SENAPSFRÖ, salt, socker, svartpeppar, gräslök, dill, paprika, cayennepeppar, chilipeppar, kryddor, ättika, stabiliseringsmedel (guarkärnmjöl, xantangummi), surhetsreglerande medel (citronsyra), konserveringsmedel (natriumbensoat, kaliumsorbat).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313160020430",
+      "name": "Potatissallad Originalet 800g",
+      "company": "RYDBERGS",
+      "ingredients": "Potatis 66%, rapsolja, vatten, lök, ÄGGULA, salt, SENAPSFRÖ, ättika, svartpeppar, kryddor, socker, stabiliseringsmedel (guarkärnmjöl, xantangummi), surhetsreglerande medel (citronsyra), konserveringsmedel (natriumbensoat, kaliumsorbat).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313161310561",
+      "name": "Potatissallad 400g",
+      "company": "RYDBERGS",
+      "ingredients": "Potatis 66%, rapsolja, vatten, lök, ÄGGULA, salt, SENAPSFRÖ, ättika, svartpeppar, kryddor, socker, stabiliseringsmedel (guarkärnmjöl, xantangummi), surhetsreglerande medel (citronsyra), konserveringsmedel (natriumbensoat, kaliumsorbat).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313160020478",
+      "name": "Potatissallad Crème Fraiche 750g",
+      "company": "RYDBERGS",
+      "ingredients": "Potatis 67%, rapsolja, CRÈME FRAICHE, 10%, vatten, lök, ÄGGULA, LAKTOS, OSTPULVER, SENAPSFRÖ, salt, gräslök, svartpeppar, socker, kryddor, kryddextrakt, ättika, stabiliseringsmedel (guarkärnmjöl, xantangummi), surhetsreglerande medel (citronsyra) konserveringsmedel (natriumbensoat, kaliumsorbat), naturliga aromer.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350090451071",
+      "name": "Gyroskebab 275g",
+      "company": "Schysst käk",
+      "ingredients": "Fläskkött* (79 %), vatten, potatisstärkelse, kryddor, salt, lök, vitlök, druvsocker, örtkrydda, tomat, potatisfiber, kryddextrakt, konserveringsmedel (E262, E301), stabiliseringsmedel (E450, E451), surhetsreglerande medel (E270, E327). *Ursprung: Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350090451996",
+      "name": "Klassisk kebab 275g",
+      "company": "Schysst käk",
+      "ingredients": "Nötkött (82 %)*, fett från nöt, vatten, koksalt, lökpulver, stabiliseringsmedel (E450, E451), kryddor, naturliga aromer, animaliskt protein av nöt, potatisfiber, druvsocker, socker, vitlök.*Ursprung:EU",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350090452504",
+      "name": "Kycklingkebab 275g",
+      "company": "Schysst käk",
+      "ingredients": "Kyckling* (90 %), vatten, salt, kryddor, potatisfiber, potatisstärkelse, lök, socker, jästextrakter, vitlök, druvsocker, örtkryddor, tomat, maltodextrin, kryddextrakter, konserveringsmedel (E262, E301), stabiliseringsmedel (E450, E451) , surhetsreglerandemedel (E270, E327, E330). *Ursprung: EU",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350090452450",
+      "name": "Kebab Vego 350g",
+      "company": "Schysst käk",
+      "ingredients": "Vatten, VETEGLUTEN*, rapsolja, HAVREGRYN, salt, kryddor, lök, konserveringsmedel (E202), örtkryddor, druvsocker, tomat, vitlök, sockerkulör (E150c). *Ursprung: Sverige",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
       "id": "7310130416170",
       "name": "Idealmakaroner 1000g",
       "company": "Kungsörnen",
