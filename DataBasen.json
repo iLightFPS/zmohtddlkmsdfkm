@@ -134,8 +134,729 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-08-12",
+  "date": "2026-08-14",
   "list": [
+    {
+      "id": "7318690509417",
+      "name": "Müsli Naturell Glutenfri 400g",
+      "company": "ICA",
+      "ingredients": "Havregryn* 43% , boveteflingor*, 17% (majs, bovete, salt), cornflakes* 17% (majs), solroskärnor** 13%, pumpakärnor*** 9 %. *odlad i EU, **odlad i Bulgarien, ***odlad i Kina. Kan innehålla spår av mandel, hasselnöt, valnöt, cashewnöt, pekannöt, pistagenöt, och macademianöt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313160020485",
+      "name": "Potatissallad Paprika &amp; chili 750g",
+      "company": "RYDBERGS",
+      "ingredients": "Potatis 64%, rapsolja, vatten, paprika 4%, ÄGGULA, salt, ättika, socker, SENAPSFRÖ, tomat, lök, gräslök, chipotle, spiskummin, chilipeppar, gurkmeja, cayennepeppar, kryddor, stabiliseringsmedel (guarkärnmjöl, xantangummi), surhetsreglerande medel (citronsyra), karamelliserat socker, konserveringsmedel (natriumbensoat, kaliumsorbat), arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313160005208",
+      "name": "Potatissallad Gourmet Paprika &amp; chili 350g",
+      "company": "RYDBERGS",
+      "ingredients": "Potatis 64%, rapsolja, paprika 6%, ÄGGULA, SENAPSFRÖ, tomat, lök, gräslök, salt, socker, chipotle, rökt paprikapulver, vitlök, chilipeppar, cayennepeppar, spiskummin, kummin, ingefära, koriander, gurkmeja, paprikaextrakt, vinäger, ättika, stabiliseringsmedel (guarkärnmjöl, xantangummi), surhetsreglerande medel (citronsyra), konserveringsmedel (natriumbensoat, kaliumsorbat), arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313161310561",
+      "name": "Potatissallad 400g",
+      "company": "RYDBERGS",
+      "ingredients": "Potatis 66%, rapsolja, vatten, lök, ÄGGULA, salt, SENAPSFRÖ, ättika, svartpeppar, kryddor, socker, stabiliseringsmedel (guarkärnmjöl, xantangummi), surhetsreglerande medel (citronsyra), konserveringsmedel (natriumbensoat, kaliumsorbat).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300206787006",
+      "name": "Falukorv Ring 800g",
+      "company": "Scan",
+      "ingredients": "Svenskt gris- och nötkött (58%)*, vatten, fett från gris- och nötkött*, potatismjöl, salt, lök, kryddor, kryddextrakter (cayenne, muskot), antioxidationsmedel E300, konserveringsmedel E250, rökarom. *Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350090451071",
+      "name": "Gyroskebab 275g",
+      "company": "Schysst käk",
+      "ingredients": "Fläskkött* (79 %), vatten, potatisstärkelse, kryddor, salt, lök, vitlök, druvsocker, örtkrydda, tomat, potatisfiber, kryddextrakt, konserveringsmedel (E262, E301), stabiliseringsmedel (E450, E451), surhetsreglerande medel (E270, E327). *Ursprung: Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7315633315050",
+      "name": "Kräftor M Turkiet 15-pack 500g",
+      "company": "Ullmo",
+      "ingredients": "Cirka 15 st kokta och pastöriserade turkisk smalkloKRÄFTA* [Astacus leptodactylus], Dill lag: vatten, salt och krondill. *Fiskade med tinor och fällor i Turkiska bergssjöar.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7315633300070",
+      "name": "Kräftor L Turkiet Kokta Med Öl 700g",
+      "company": "Ullmo",
+      "ingredients": "Cirka 20 st kokta och pastöriserade turkisk smalkloKRÄFTA*[Astacus leptodactylus], Dill lag: vatten, salt, krondill, KORNMALT, humle och jäst. *Fiskade med tinor och fällor i Turkiska bergssjöar.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7315633320078",
+      "name": "Kräftor M Turkiet 20-pack 700g",
+      "company": "Ullmo",
+      "ingredients": "Cirka 20 st kokta och pastöriserade KRÄFTOR* [Astacus leptodactylus], Dill lag: vatten, salt och krondill. *Fiskade med tinor och fällor i Turkiska bergssjöar.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7315633800075",
+      "name": "Kräftor Svenska Färska 700g",
+      "company": "Ullmo",
+      "ingredients": "Kokta och pastöriserade signal KRÄFTOR* Pacifastacus leniusculus] i dill lag: vatten, salt &amp; krondill. *Fiskade med tinor och fällor i Svenska insjöar.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5709153099156",
+      "name": "Pajdeg 275g",
+      "company": "Coop",
+      "ingredients": "VETEMJÖL (vete: Tyskland), vatten, rapsolja, VETESTÄRKELSE , etylalkohol, fullhärdad rapsolja, kokosolja, salt, surhetsreglerande medel (E 330), socker, bakpulver (E 170, E 450, E 500), emulgeringsmedel (E 471 vegetabiliskt), naturlig arom. Förpackad i en skyddande atmosfär.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300156498861",
+      "name": "Spare Ribs BBQ 500g",
+      "company": "Coop",
+      "ingredients": "Spare ribs av gris° 92%, socker, salt, vatten, tomatpuré, honung, paprika, rödvinsvinäger, ingefära, chilipeppar, svartpeppar, cayennepeppar, spiskummin, vitlök, oregano, chipotle, lök, vitpeppar, invertsocker, kakaopulver (fett-reducerat), karamelliserat socker, grönsaksbuljong (salt, morot, lök, tomat, broccoli, vitkål, palsternacka, svamp, persilja), förtjockningsmedel (E 415), konserverings-medel (E 202, E 211), arom, färgämne (E 150a), rökarom. °Ursprung köttråvara: Fött, uppfött, slaktat och styckat i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7622202371455",
+      "name": "Philadelphia Västerbottensost® 150g",
+      "company": "Philadelphia",
+      "ingredients": "MJÖLK/MÆLK/MELK, GRÄDDE/FLØDE/FLØTE, vassle-/valle-/myseprodukt (MJÖLK), vatten/vand, VÄSTERBOTTENSOST® (5 %), salt, modifierad stärkelse/stivelse, stabiliseringsmedel/stabilisator (E 412), potatisstärkelse/kartoffelstivelse, syra (citronsyra), konserveringsmedel/konserveringsmidler (E 202, E 251), bakteriekultur, ostlöpe.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340011485674",
+      "name": "Baguetter Vitlök 2-pack 350g",
+      "company": "Xtra",
+      "ingredients": "VETEMJÖL (vete: EU), vatten, rapsolja, kokosfett, lök, salt, jäst, vitlök, fullhärdad rapsolja, RÅGMJÖL , emulgeringsmedel (E 471 vegetabiliskt, E 322, E 472e vegetabiliskt), surhetsreglerande medel (E 330), persilja, färgämne (E 160a), stärkelse, vitlöksarom, VETEMALTMJÖL , klumpförebyggande medel (E 341), VETEGLUTEN , enzymer, mjölbehandlingsmedel (E 300). Kan innehålla spår av korn, havre, soja, senap, mjölk och sesam.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340011404705",
+      "name": "Baguetter Örtsmör 2-pack 350g",
+      "company": "Coop",
+      "ingredients": "VETEMJÖL 59 % (vete: EU), vatten, SMÖR, lök, salt, jäst, persilja, vitlök, RÅGMJÖL, dill, VETEMALTMJÖL, emulgeringsmedel (E 472e vegetabiliskt, E 322), stärkelse, naturlig vitlöksarom, VETEGLUTEN, rosmarin, klumpförebyggande medel (E 341), syra (E 330), kryddor, mjölbehandlingsmedel (E 300). Kan innehålla spår av korn, havre, soja, senap och sesamfrön.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191119802",
+      "name": "Glass Caramel 900ml",
+      "company": "Coop",
+      "ingredients": "Vatten, GRÄDDE 20% (Italien), glukos, socker, SKUMMJÖLKSPULVER , laktos ( MJÖLK ), MJÖLKPROTEIN , dextros, sötad kondenserad MJÖLK , MANDEL , karamelliserat socker, emulgeringsmedel (E 471 vegetabiliskt), stabiliseringsmedel (E 410, E 412), rörsocker, salt, förtjockningsmedel (E 440), naturlig vaniljarom, extraherad krossad vaniljstång, arom. Kan innehålla spår av vete, ägg, soja, hassel-, val-, cashew-, pekan-, para-, pistage- och macadamianötter.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191101364",
+      "name": "Kladdkaka 400g",
+      "company": "Coop",
+      "ingredients": "Socker (EU), ÄGG (från frigående höns inomhus), glutenfri VETESTÄRKELSE , rapsolja, glukossirap, fettreducerat kakaopulver* 5 %, salt, arom, stärkelse. Kan innehålla spår av jordnötter, mandel och hasselnötter. *Rainforest Alliance-certifierad, ra.org",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7312930003406",
+      "name": "Moussetårta Lemon 400g",
+      "company": "ALMONDY",
+      "ingredients": "Vatten, socker, vegetabiliskt fett (palm, shea, kokos), ÄGGVITA/EGGEHVITE/ÆGGEHVIDE, glukossirap, SKUMMJÖLKS-/SKUMMETMELK-/SKUMMETMÆLKSPULVER, vegetabilisk olja (raps), sötad kondenserad HELMJÖLK/-MELK/-MÆLK, MANDEL (2,5%), solroskärnor/solsikkekjerner/solsikkekerner, söta aprikoskärnor, citron (1%), förtjockningsmedel (modifierad stärkelse, gellangummi), stabiliseringsmedel (sorbitol, cellulosagummi/karboksymethylcellulose), emulgeringsmedel/emulgator (solroslecitin/solsikkelecitin, SOJALECITIN/SOYALECITIN, mono- och diglycerider av mjölksyraestrar, mono- och diglycerider av fettsyror), surhetsreglerande medel (citronsyra, natriumcitrat), SMÖRFETT/-OLIE, MJÖLK-/MELKEPROTEIN, kakaosmör, ytbehandlingsmedel/overflatebehandlingsmiddel (shellack), salt, arom, färgämne (lutein). KAN INNEHÅLLA SPÅR AV JORDNÖTTER/PEANØTTER/JORDNØDDER OCH HASSELNÖTTER/HASSELNØTTER/HASSELNØDDER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191167063",
+      "name": "Vätskeersättning Sport Hallon 18",
+      "company": "Coop",
+      "ingredients": "Syra (E 330), dextros, surhetsreglerande medel (E 500), kaliumklorid, natriumklorid, kalciumkarbonat, magnesiumoxid, klumpförebyggande medel (E 1521), arom (hallon), sötningsmedel (E 954).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191167001",
+      "name": "Vätskeersättning Apelsin 20",
+      "company": "Coop",
+      "ingredients": "Dextros, sackaros, syra (E 330), surhetsreglerande medel (E 500), kaliumklorid, klumpförebyggande medel (E 1521), naturlig arom (apelsin), natriumklorid, sötningsmedel (E 594).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191167025",
+      "name": "Vätskeersättning Rehydrate Svartvinbärssmak 20",
+      "company": "Coop",
+      "ingredients": "Dextros, sackaros, syra (E 330), surhetsreglerande medel (E 500), kaliumklorid, klumpförebyggande medel (E 1521), arom (svartvinbär), natriumklorid, sötningsmedel (E 594).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191153479",
+      "name": "Vetemjöl Special 2000g",
+      "company": "Coop",
+      "ingredients": "VETEMJÖL °, VETEGLUTEN °, mjölbehandlingsmedel (amylas, E 300). °Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300156486523",
+      "name": "Smörgåsmargarin Mjölkfritt 500g",
+      "company": "Coop",
+      "ingredients": "Rapsolja, vatten, vegetabiliska fetter (certifierad palm, kokos), salt, emulgeringsmedel (E 471 vegetabiliskt, E 322), surhetsreglerande medel (E 330, E 500), aromer, A- och D-vitamin, färgämne (E 160a).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156486509",
+      "name": "Margarin Mat &amp; bak 1000g",
+      "company": "Coop",
+      "ingredients": "Certifierad palmolja, rapsolja, vatten, salt, SKUMMJÖLKSPULVER, emulgeringsmedel (E 472c, E 471 (vegetabiliska)), arom, A- och D-vitamin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7332040300417",
+      "name": "Tofu Örter &amp; vitlök Eko 230g",
+      "company": "Yipin",
+      "ingredients": "KRAV-ekologiska SOJABÖNOR odlade inom EU (70%), vatten, SOJASÅS* (SOJABÖNOR*, VETE*, salt), örtblandning* 1,7% (bl.a. basilika*, timjan*, lök*, vitlök*), mineralsalt (nigari). *Ekologisk",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7316641015505",
+      "name": "Ch*cken Pieces 700g",
+      "company": "Oumph!",
+      "ingredients": "Vatten, SOJAproteinkoncentrat 25%, rapsolja, naturlig arom, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6438207011798",
+      "name": "Margarin Bakning Mjölkfritt 500g",
+      "company": "Carlshamn",
+      "ingredients": "Vegetabiliska fetter (SG-palm** och kokos), rapsolja, vatten, salt (1,0 %), emulgeringsmedel (E471 och E472c av vegetabiliskt fett), aromämne, A- och D2-vitamin, färgämne (betakaroten). **Hållbar och certifierad palm.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7316641417040",
+      "name": "Crispy Ch*cken 300g",
+      "company": "Oumph!®",
+      "ingredients": "Vatten, texturerat vegetabiliskt protein 12% (SOJAproteinisolat 7%, VETEprotein 3%, stärkelse (VETE, majs), ärtprotein 0.3%), majs, mjöl (VETE, majs), rapsolja, glutenfritt HAVREfiber, förtjockningsmedel (metylcellulosa), naturlig arom, kryddor, stärkelse (VETE), salt, socker, druvsocker, kornmaltsextrakt, jäst, färgämne (paprikaextrakt).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7332040300219",
+      "name": "Tofu Silkesmjuk Eko 400g",
+      "company": "Yipin",
+      "ingredients": "Vatten, ekologiska SOJABÖNOR odlade inom EU (30%), mineralsalt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310130013607",
+      "name": "Crispy Green Burger 4-pack 360g",
+      "company": "MAX",
+      "ingredients": "Vatten, glutenfri panering (rapsolja, rismjöl, kikärtsmjöl, majsstärkelse, majsmjöl, potatisstärkelse, salt, druvsocker, stabiliseringsmedel (dinatriumdifosfat, natriumvätekarbonat), förtjockningsmedel (xantangummi)), ärtprotein* 14%, vegetabiliska oljor (raps, shea), stabiliseringsmedel (metylcellulosa), salt, druvsocker, naturliga aromer, potatisfiber, lök, citronjuicepulver, arom, grönsaksbuljong (salt, lök, purjolök, morotsextrakt, kryddor), majsstärkelse, vitlök, timjan. *Svenskodlade ärtor. Stekta i rapsolja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7332040300516",
+      "name": "Tofu Marinerad Sojasås &amp; ingefära 230g",
+      "company": "Yipin",
+      "ingredients": "SOJABÖNOR/SOYABØNNER från/fra EU 70%, vatten/vand, SOJA/SOYAsås/saus (SOJA/SOYA, VETE/HVEDE, sirap/sirup), ingefära/ ingefær, kryddor (bl.a. vitlök/hvidløg, lök/løg, salt), mineralsalt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7622201733681",
+      "name": "Philadelphia Plantbaserad 145g",
+      "company": "Philadelphia",
+      "ingredients": "vatten/vand, kokosolja, MANDELPROTEIN (6%), HAVREKLI/HAVREKLID (3%), salt, stabiliseringsmedel/stabilisator (fruktkärnmjöl/johannesbrødkernemel), vegansk bakteriekultur. KAN INNEHÅLLA ANDRA NÖTTER./KAN INDEHOLDE ANDRE NØDDER./KAN INNEHOLDE ANDRE NØTTER.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7316641417057",
+      "name": "Popcorn Ch*cken 300g",
+      "company": "Oumph!®",
+      "ingredients": "Vatten, texturerat vegetabiliskt protein 12% (SOJAproteinisolat 7%, VETEprotein 3%, stärkelse (VETE, majs), ärtprotein 0.3%), majs, mjöl (VETE, majs), rapsolja, glutenfritt HAVREfiber, förtjockningsmedel (metylcellulosa), naturlig arom, kryddor, stärkelse (VETE), salt, socker, druvsocker, kornmaltsextrakt, jäst, färgämne (paprikaextrakt).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7332040301216",
+      "name": "Tofu Chili &amp; Vitlök 230g",
+      "company": "Yipin",
+      "ingredients": "SOJABÖNOR/SOYABØNNER/SOJABØNNER odlade inom EU (70%), chilisås/saus (röd/rød chili 4%, socker/sukker, vatten/vann, ättika/eddik, vitlök/hvitløk 0,5%, salt), SOJASÅS (SOJA/SOYA, VETE/HVETE), salt, chilipeppar (1%), vitlök/hvitløk (1%), mineralsalt (nigari).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310960039839",
+      "name": "Vegoburgare Deli Plant Beef 4-pack 360g",
+      "company": "MAX",
+      "ingredients": "VETE-och SOJAPROTEIN (vatten, textruerat VETE- och SOJAPROTEN), vatten, kokosfett, rapsolja, VETEGLUTEN, SOJAPROTEIN, ärtstärkelse, emulgeringsmedel E461, kryddmix (lökpulver, svamppulver, vitlökspulver, jästextrakt, salt, svartpeppar, SELLERI, koriander, rödbetskoncentrat, naturliga smakämnen), bambufiber, torkat äpple, karamelliserat socker, citronjuice.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7332040302114",
+      "name": "Tofu Alspånsrökt Eko 230g",
+      "company": "Yipin",
+      "ingredients": "SOJABÖNOR* odlade inom EU (65%), vatten, SOJASÅS* (SOJABÖNOR*, VETE*), kryddor* (örtsalt*), mineralsalt, alspånsrök. *EKOLOGISK",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7332040170546",
+      "name": "Tofu Naturell Eko 400g",
+      "company": "Yipin",
+      "ingredients": "Ekologiska SOJABÖNOR odlade inom EU (62%), vatten, mineralsalt (magnesiumklorid)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156597007",
+      "name": "Tofu Soja &amp; örter 180g",
+      "company": "Coop",
+      "ingredients": "Tofu 92% (SOJABÖNOR57% (Europa), vatten, konsistensmedel (E 509, E 511)), marinad 8% (sojasås (vatten, SOJABÖNOR, VETE, salt), vatten, lök, salt med tillsatt jod, rapsolja, vitlök, koriander, ingefära, mejram).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8445291628151",
+      "name": "Vegoburgare 6-pack 450g",
+      "company": "Hälsans Kök",
+      "ingredients": "Vatten, SOJAprotein 18,5%, VETEprotein 5,7%, vegetabiliska oljor (raps, solros, i varierande proportion), stekt lök (lök, solrosolja och/eller rapsolja), majsstärkelse, aromer, surhetsreglerande medel (buffrad vinäger), stabiliseringsmedel (metylcellulosa), lök-/løk-/løgpulver, salt, jästextrakt, ättika, maltextrakt (KORN). Kan innehålla ÄGG.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7332040323317",
+      "name": "Tempeh Naturell Helbit 200g",
+      "company": "Yipin",
+      "ingredients": "SOJABÖNOR/SOYABØNNER 80%, rismjöl/rismel, fermenteringskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6438207011804",
+      "name": "Margarin Flytande Mjölkfritt 500ml",
+      "company": "Carlshamn",
+      "ingredients": "Rapsolja (78 %), vatten, fullhärdad rapsolja (1,5 %), emulgeringsmedel (E471 och E472c av vegetabiliskt fett), salt (0,9 %), aromämne, A- och D2-vitamin, färgämne (betakaroten). Fetthalt 80 %.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7316641413912",
+      "name": "Tenders Crispy Buffalo 280g",
+      "company": "Oumph!",
+      "ingredients": "Vatten, SOJAproteinkoncentrat 12%, buffalosås 15% (vatten, sambal oelek, tomatpuré, paprika, salt, vegetabilisk olja (rapsolja, solrosolja), vinägeressens, modifierad stärkelse, socker, tabascosås (vinäger, chili, salt), konserveringsmedel (ättiksyra, natriumbensoat), kryddor, jästextrakt, paprikaextrakt, arom)), majsmjöl, rapsolja, smet (majsmjöl, stärkelse, salt, jäsningsmedel (disfosfater, natriumkarbonater), stabilisator (xantangummi)), brödsmulor (rismjöl, kikärtsmjöl, majsstärkelse, salt, dextros), stabilisator (methylcellulosa), ärtprotein, salt, naturlig arom, kryddor, ärtstärkelse, socker, potatisfiber, lök, vitlök, purjolök.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156596994",
+      "name": "Tofu Bokspånsrökt 180g",
+      "company": "Coop",
+      "ingredients": "SOJABÖNOR 57% (Europa), vatten, konsistensmedel (E 509, E 511), salt med tillsatt jod. Rökt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310130013355",
+      "name": "Nuggets Crispy green 360g",
+      "company": "MAX",
+      "ingredients": "Vatten, glutenfri panering (rapsolja, rismjöl, kikärtsmjöl, majsstärkelse, majsmjöl, potatisstärkelse, salt, druvsocker, stabiliseringsmedel (dinatriumdifosfat, natriumvätekarbonat), förtjockningsmedel (xantangummi)), ärtprotein* 14%, vegetabiliska oljor (raps, shea), stabiliseringsmedel (metylcellulosa), salt, druvsocker, naturliga aromer, potatisfiber, lök, citronjuicepulver, arom, grönsaksbuljong (salt, lök, purjolök, morotsextrakt, kryddor), majsstärkelse, vitlök, timjan. *Svenskodlade ärtor. Stekta i rapsolja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156596987",
+      "name": "Tofu Naturell 180g",
+      "company": "Coop",
+      "ingredients": "SOJABÖNOR 62% (Europa), vatten, konsistensmedel (E 509, E 511).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5411188140368",
+      "name": "Sojadryck Protein Vanilj 1000ml",
+      "company": "Alpro",
+      "ingredients": "SOJA/SOYAbas (94,3%) (vatten/vann/vand, skalade/afskallede SOJAbönor/SOYAbønner (13,1%)), socker/sukker, surhetsreglerande medel/middel (kaliumfosfater), kalcium (kalciumkarbonat), aromer, havssalt, stabiliseringsmedel/stabilisator (gellangummi), vitaminer B2, B12, D2.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7316641015536",
+      "name": "Strips Be*f Style 700g",
+      "company": "Oumph!®",
+      "ingredients": "Vatten, SOJAproteinkoncentrat 25%, solrosolja, naturlig arom, karamelliserat socker, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350037194672",
+      "name": "Grillkorv Vegan 250g",
+      "company": "Peas of Heaven",
+      "ingredients": "Vatten, vegetabiliskt protein (solros, ärta), vegetabiliskt fett (kokos, shea), rapsolja, stärkelse (potatis, majs), förtjockningsmedel (metylcellulosa, karragenan, konjaksgummi), citrusfibrer, salt, socker, paprika, vitpeppar, lök, ingefära, muskotnöt, arom, vinägerextrakt, färgämne (rädisakoncentrat, lykopen), antioxidationsmedel (askorbinsyra), järn, riboflavin, vitamin B12",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7290115203844",
+      "name": "Schnitzel Plantbaserad 720g",
+      "company": "Hälsans Kök",
+      "ingredients": "Vatten, VETEmjöl, SOJAprotein 14,4%, vegetabiliska oljor (raps, solros i varierande proportion), majsstärkelse, naturliga aromer, surhetsreglerande medel (buffrad vinäger), stabiliseringsmedel (metylcellulosa, guarkärnmjöl), citrusfiber, salt, kryddor (paprika, gurkmeja), lökpulver, jäst, vitlökspulver, paprikaextrakt. Kan innehålla ÄGG.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350090452450",
+      "name": "Kebab Vego 350g",
+      "company": "Schysst käk",
+      "ingredients": "Vatten, VETEGLUTEN*, rapsolja, HAVREGRYN, salt, kryddor, lök, konserveringsmedel (E202), örtkryddor, druvsocker, tomat, vitlök, sockerkulör (E150c). *Ursprung: Sverige",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191173989",
+      "name": "Falafel 800g",
+      "company": "Coop",
+      "ingredients": "Kikärtor 51 %, lök, vatten, potatisflingor, rapsolja, vitlök 2 %, persilja 1,5 %, salt, spiskummin, koriander, bakpulver (E 500), peppar.Kikärtornas ursprung: Se kod vid Bäst före-datumet. CA=Kanada, FR=Frankrike, TR=Turkiet, ES=Spanien, AU=Australien, US=USA.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350113940629",
+      "name": "Falafel 400g",
+      "company": "ZEINAS",
+      "ingredients": "Kikärtor* 66,8%, lök, rapsolja, persilja 3%, salt, SESAMFRÖN, vitlök 1%, koriander, kryddor. *Ursprung kikärtor: Icke-EU.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330797077866",
+      "name": "Vegoskivor Alspånsrökta 100g",
+      "company": "Pärsons",
+      "ingredients": "ÄGGVITA*(78%), rapsolja*, stabiliseringsmedel (E425: E407a: E415: E508), salt, citrusfiber, naturlig arom, druvsocker, lök, konserveringsmedel (E262ii: E202), färgämne (E172). Varmrökt. *Ursprung Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408430102365",
+      "name": "Havredryck Barista Salt karamell 1000ml",
+      "company": "Oddlygood®",
+      "ingredients": "vatten, glutenfritt HAVREMJÖL 10 %, rapsolja, socker, surhetsreglerande medel (kaliumfosfater), kalcium, salt, kolaarom, jod, vitaminer (riboflavin (B2), B12, D2).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350126087243",
+      "name": "Schnitzel 410g",
+      "company": "Felix",
+      "ingredients": "Couscous (72 %) (VETE), ströbröd (innehåller VETE), VETEmjöl, modifierad VETEstärkelse, buljong (salt, lök, socker, maltodextrin, naturlig arom), potatisfiber, kryddor (bl.a. paprika), rapsolja.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310130013379",
+      "name": "Crispy Supreme 360g",
+      "company": "MAX",
+      "ingredients": "Vatten, glutenfri panering (rapsolja, rismjöl, kikärtsmjöl, majsstärkelse, majsmjöl, potatisstärkelse, salt, druvsocker, stabiliseringsmedel (dinatriumdifosfat, natriumvätekarbonat), förtjockningsmedel (xantangummi)), ärtprotein* 13%, vegetabiliska oljor (raps, shea), stabiliseringsmedel (metylcellulosa), salt, jalapeño, naturliga aromer, lök, druvsocker, potatisfiber, vitlök, svartpeppar, majsstärkelse, arom, citronjuicepulver, timjan, grönsaksbuljong (salt, lök, purjolök, morotsextrakt, kryddor). *Svenskodlade ärtor. Stekta i rapsolja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7394376620683",
+      "name": "Havredryck 1000ml",
+      "company": "Oatly",
+      "ingredients": "Vatten, HAVRE 10%, rapsolja, surhetsreglerande medel (dikaliumfosfat), mineraler (kalciumkarbonat, kaliumjodid), cikoriarotfiber, salt, vitaminer (D2, riboflavin (B2), B12).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350037197154",
+      "name": "Vegokorv Cheeze 210g",
+      "company": "Peas of Heaven",
+      "ingredients": "Vatten, rapsolja, Violife block (10%) (vatten, kokosolja, stärkelse, modifierad stärkelse, havssalt, aromer, olivextrakt, färgämnen (B-karoten), vitamin B12), ärtprotein, stabiliseringsmedel (bearbetad Euchemaalg, metylcellulosa, konjakgummi), stärkelse, salt, citrusfiber, kryddor, arom, paprikapulver, chili, vitlök. Vegetabiliskt skinn: stabiliseringsmedel (natriumalginat, konjakgummi, guarkärnmjöl)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156586841",
+      "name": "Vegofärs Formbar 750g",
+      "company": "Coop",
+      "ingredients": "Vatten, SOJAPROTEIN 23% (Europa), rapsolja, förtjockningsmedel (E461), lökpulver, salt, tomatpulver, karamelliserat socker, svartpeppar.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5411188135142",
+      "name": "Sojadryck Protein 1000ml",
+      "company": "Alpro",
+      "ingredients": "SOJA/SOYAbas (96,9%) (vatten/vann/vand, skalade/afskallede SOJAbö- nor/SOYAbønner (13,1%)), socker/sukker, surhetsreglerande medel/midler (kaliumfosfater), kalcium (kalciumkarbonat), arom, havssalt, stabiliseringsmedel/stabilisator (gellangummi), vitaminer B2, B12, D2.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8445291678842",
+      "name": "Vegoschnitzel 5-pack 450g",
+      "company": "Hälsans Kök",
+      "ingredients": "Vatten, VETEmjöl, SOJAprotein 14,4%, vegetabiliska oljor (raps, solros i varierande proportion), majsstärkelse, naturliga aromer, surhetsreglerande medel (buffrad vinäger), stabiliseringsmedel (metylcelulosa, guarkärnmjöl), citrusfiber, salt, kryddor (paprika, gurkmeja), lökpulver, jäst, vitlökspulver, paprikaextrakt. Kan innehålla ÄGG.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350037197918",
+      "name": "Tofu Naturell Eko 540g",
+      "company": "Peas of Heaven",
+      "ingredients": "SOJABÖNOR*, vatten. *Ekologisk ingrediens",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350139110013",
+      "name": "Filéer Panerade 4-pack 250g",
+      "company": "Nothing F!SHY",
+      "ingredients": "Vatten, panering (VETEMJÖL, majsmjöl, majsstärkelse, potatisstärkelse, salt, jäst, paprika, stabiliseringsmedel:dinatriumdifosfat, natriumvätekarbonat, fortjockningsmedel:Xantangummi), rapsolja, VETEMJÖL, VETESTÄRKELSE, VETEPROTEIN, förtjockningsmedel:natriumalginat, konsistensmedel:kalciumsulfat, citrusfiber, salt, modifierad VETESTÄRKELSE, naturliga smakämnen, jästextrakt, förtjockningsmedel:metylcellulosa, algolja (schizochytrium sp., antioxidant/ tokoferolrika extrakt, ascorbylpalmitat), maltodextrin.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5411188115472",
+      "name": "Sojadryck 1000ml",
+      "company": "Alpro",
+      "ingredients": "vatten/vann/vand, skalade/afskallede SOJAbönor/SOYAbønner (8%), socker/sukker, surhetsreglerande medel/midler (kaliumfosfater), kalcium, havssalt, arom/aroma, stabiliseringsmedel/stabilisator (gellangummi), jod, vitaminer B2, B12, D2.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350037197468",
+      "name": "Marcus Grillkorv 350g",
+      "company": "Peas of Heaven",
+      "ingredients": "Vatten, rapsolja, ärtprotein, stärkelse, salt, förtjock- ningsmedel (metylcellulosa,be- arbetad eucheumaalg, konjakgummi), svamppulver, kryddor, ingefära, paprika, lök, citrusfibrer, arom. Stoppad i vegansk tarm: stabiliseringsmedel (natriumalginat, konjakgummi, guargummi)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7394376620690",
+      "name": "Havredryck 1000ml",
+      "company": "Oatly",
+      "ingredients": "Vatten, HAVRE 10%, rapsolja, surhetsreglerande medel (dikaliumfosfat), mineraler (kalciumkarbonat, kaliumjodid), salt, vitaminer (D2, riboflavin (B2), B12).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300156600301",
+      "name": "Tofu naturell Eko 400g",
+      "company": "Änglamark",
+      "ingredients": "SOJABÖNOR* 57% (Europa), vatten, kalciumklorid, magnesiumklorid. *KRAV-ekologisk ingrediens. KRAV-märkningen verifieras av KIWA.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191132405",
+      "name": "Vegofärs 1000g",
+      "company": "Coop",
+      "ingredients": "Ingridienser: Vatten, sojaprotein 29 % (Serbien), rapsolja, lökpulver, salt, äppeljuice-koncentrat, karamelliserat socker.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7332040323218",
+      "name": "Tempeh Teriyaki 200g",
+      "company": "YiPin",
+      "ingredients": "SOJABÖNOR/SOYABØNNER 80%, soljrosolja/solsikkeolje, rismjöl/rismel, kryddor (bl.a. SOJA/SOYA, sirap, ättika, ingefära, salt), fermenteringskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156596963",
+      "name": "Tofu Naturell 180g",
+      "company": "Xtra",
+      "ingredients": "SOJABÖNOR 57% (Europa), vatten, konsistensmedel (E 509, E 511).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5411188128311",
+      "name": "Kokosdryck Osötad 1000ml",
+      "company": "Alpro",
+      "ingredients": "vatten/vann/vand, kokosmjölk/melk/mælk (14,1%) (vatten/vann/vand, kokosgrädde/kokoscreme (5,3%), kokosnötvatten (2,6%)), kalcium (trikalciumfosfat), naturlig kokosarom, stabiliseringsmedel/stabilisatorer (guarkärnmjöl/guargummi, xantangummi, gellangummi), havssalt, vitamin B12. KAN INNEHÅLLA/INNEHOLDE/INDEHOLDE SPÅR/SPOR AV/AF NÖTTER/NØTTER/NØDDER (INGA/INGEN JORDNÖTTER/PEANØTTER/JORDNØDDER).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350037196393",
+      "name": "Grillkorv vegan 400g",
+      "company": "Peas of Heaven",
+      "ingredients": "Vatten, vegetabiliskt protein (solros, ärta), vegetabiliskt fett (kokos, shea), rapsolja, stärkelse, förtjockningsmedel (metylcellulosa, karragenan, konjaksgummi), citrusfibrer, salt, socker, paprika, vitpeppar, lök, arom, vinägerextrakt, färgämne (rädisakoncentrat, lykopen), antioxidationsmedel (askorbinsyra), riboflavin, vitamin B12.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5019503048292",
+      "name": "Skivor Rökt Smak 100g",
+      "company": "QUORN",
+      "ingredients": "Mycoprotein (79 %), vatten, geleringsmedel: agar och johannesbrödkärnmjöl; naturliga aromer, potatisprotein, aromer, salt, ärtfiber, konserveringsmedel: kaliumsorbat; färg: järnoxid, rökt salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8445291679139",
+      "name": "Vegonuggets 440g",
+      "company": "Hälsans Kök",
+      "ingredients": "Vatten, SOJAprotein 15,5%, ströbröd 14,1% (VETEmjöl, vatten, rapsolja, jäst, salt, paprikaextrakt), vegetabiliska oljor (solros, raps, i varierande proportion), VETEmjöl, majsstärkelse, naturliga aromer, surhetsreglerande medel (buffrad vinäger), stabiliseringsmedel (metylcellulosa, guarkärnmjöl), citrusfiber, salt, lökpulver, vitlökspulver. Kan innehålla ÄGG.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5202390020407",
+      "name": "Block Greek White Vegan 230g",
+      "company": "Violife",
+      "ingredients": "Vatten, kokosolja (29%), stärkelse, havssalt, surhetsreglerande medel: glukonsyransdeltalakton, aromer, olivextrakt, vitamin B12.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5411188118732",
+      "name": "Kokos &amp; Mandeldryck 1000ml",
+      "company": "Alpro",
+      "ingredients": "vatten, kokosmjölk (3,3%) (kokosgrädde, vatten), socker, MANDEL (1,4%), trikalciumfosfat, havssalt, stabiliseringsmedel (gellangummi, fruktkärnmjöl), emulgeringsmedel (lecitiner (solros)), arom, surhetsreglerande medel (kaliumfosfater), vitaminer (B2, B12, E, D2). KAN INNEHÅLLA SPÅR AV NÖTTER (INGA JORDNÖTTER).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7290115203868",
+      "name": "Nuggets Plantbaserade 700g",
+      "company": "Hälsans Kök",
+      "ingredients": "Vatten, SOJAprotein 15,5%, ströbröd 14,1% (VETEmjöl, vatten, rapsolja, jäst, salt, paprikaextrakt), vegetabiliska oljor (solros, raps, i varierande proportion), VETEmjöl, majsstärkelse, naturliga aromer, surhetsreglerande medel (buffrad vinäger), satbiliseringsmedel (metylcellulosa, guarkärnmjöl), citrusfiber, salt, lökpulver, vitlökspulver. Kan innehålla ÄGG.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8445290003027",
+      "name": "Filébitar Vegan 700g",
+      "company": "Hälsans Kök",
+      "ingredients": "Vatten, SOJAprotein 25,5%, ättika, solrosolja, salt, jästextrakt, aromer, förtjockningsmedel (fruktkärnmjöl), socker, vitamin B12. Kan innehålla VETE.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5060930820241",
+      "name": "Tempeh Naturell Eko 200g",
+      "company": "Better Nature",
+      "ingredients": "Ekologiska SOJABÖNOR, vatten, tempeh startkultur (kalciumsulfat, inoculum).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350126083016",
+      "name": "Kaviar Vegan 150g",
+      "company": "Kalles Kaviar",
+      "ingredients": "Tångcaviar 35% (tångextrakt, vatten, salt, kryddextrakt (bl.a. cayennepeppar), aromer (bl.a. dill), syra (citronsyra), stabiliseringsmedel (xantangummi), konserveringsmedel (natriumbensoat), färgämne (järnoxid)), rapsolja, vatten, socker, potatisflingor, salt, tomatpuré, rökt solrosolja, kikärtsprotein, ärtprotein, solrosprotein, naturliga aromer, stabiliseringsmedel (xantangummi, fruktkärnmjöl), konserveringsmedel (kaliumsorbat), antioxidationsmedel (askorbinsyra)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310240120189",
+      "name": "Vegoschnitzel 300g",
+      "company": "Anamma",
+      "ingredients": "Vatten, SOJAprotein (14 %), rapsolja, glutenfritt ströbröd (rismjöl, kikärtsmjöl, stärkelse, salt, druvsocker), lök, stärkelse, rismjöl, salt, kryddor, citronjuicepulver, naturlig arom, stabiliseringsmedel (metylcellulosa), modifierad stärkelse.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4010352801107",
+      "name": "Bacon Vegan 120g",
+      "company": "Windau",
+      "ingredients": "Vatten, texturat veteprotein (veteprotein, vetemjöl), rapsolija, tarulig arom, salt, maltodextrin (fran majs), färgämne E172, rökarom, socker, grönsakspulver (palsternacka, lök, tomat), karamelliserat socker, kryddor (paprika, vitlök).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "3830074230365",
+      "name": "Filé Thick-Cut 2-pack 226g",
+      "company": "Juicy Marbles",
+      "ingredients": "Vatten, SOJAPROTEINKONCENTRAT (27%), solrosolja, naturliga aromer, rödbetsjuicekoncentrat, förtjockningsmedel (karragenan, metylcellulosa), vitamin B12.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300201979000",
+      "name": "Middagskorv Vegetarisk 300g",
+      "company": "Scan",
+      "ingredients": "ÄGGVITA 81%*, rapsolja*, vatten, förtjockningsmedel (E407: E410: E415), salt, potatismjöl*, kryddor (koriander, ingefära), druvsocker, konserveringsmedel (E202: E262), lök, kryddextrakt (muskot, vitlök, peppar), färgämne (koncentrat av rädisa, E160a), jästextrakt, arom, antioxidationsmedel (E300). Kokt Produkt. *Ursprung Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7316150470505",
+      "name": "Ravioli Vegetarisk 800g",
+      "company": "Fontana",
+      "ingredients": "Vatten, ravioli 26%, (durumVETE semolina, vatten, ströbröd (innehåller GLUTEN), spenat, broccoli, morötter, rapsolja, lök, kassava stärkelse, salt, örter, pepparextrakt], krossade tomater 14%, morötter, lök, paprika, oliver, aubergine, salt, örter, rapsolja, socker, modifierad stärkelse, naturlig vitlöksarom, pepparextrakt. Kan innehålla spår av MJÖLK, SELLER och ÄGG.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300156500533",
+      "name": "Havredryck Eko 1000ml",
+      "company": "Änglamark",
+      "ingredients": "Vatten, HAVRE** 12 % (EU), solrosolja**, havssalt. **KRAV-ekologisk ingrediens. KRAV-märkningen verifieras av Kiwa.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6408430347353",
+      "name": "Riven Italian style 100g",
+      "company": "Oddlygood®",
+      "ingredients": "vatten, modifierad stärkelse, kokosfett, stärkelse, salt, jästprotein, näringsjäst, naturliga aromer, kalcium, vitaminer (riboflavin (B2), B12, D2), rönnbärsextrakt, surhetsreglerande medel (mjölksyra) och jod. KAN INNEHÅLLA SPÅR AV MJÖLK.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7394376621017",
+      "name": "Havredryck No Sugars 1000ml",
+      "company": "Oatly",
+      "ingredients": "Vatten, HAVRE 10%, rapsolja, surhetsreglerande medel (dikaliumfosfat), mineraler (kalciumkarbonat, kaliumjodid), salt, vitaminer (D2, riboflavin (B2), B12).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "1230000068055",
+      "name": "Beyond Burger 2-pack 226g",
+      "company": "Beyond Meat",
+      "ingredients": "vatten, ärtprotein* (16%), kokosolja, solrosolja, arom, risprotein, bondbönprotein, potatisstärkelse, salt, vegetabiliska koncentrat (rödbeta, morot, peppar), äpplefiber, stabiliseringsmedel (metylcellulosa, kalciumklorid), geleringsmedel (natriumalginat).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7316641415077",
+      "name": "Pulled BBQ Chunks Vegan 280g",
+      "company": "Oumph!®",
+      "ingredients": "Vatten, barbecuesås 29% (vatten, tomatpuré, socker, salt, äppeljuicekoncentrat, krydda, paprika, lök, karamelliserat socker, tomat, surhetsreglerande medel (citronsyra), rökarom, vinäger, jästextrakt, arom), SOJAproteinkoncentrat 21%, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5292874001299",
+      "name": "Greek Style Vegan 200g",
+      "company": "Greenvie",
+      "ingredients": "vatten, icke hydrogenerad kokosolja (25%), tapioka stärkelse, modifierad stärkelse från majs, potatis protein, havssalt, mjölkfri mjölksyra, veganska naturliga aromer, Olivextrat, vitamin B12.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4010352755004",
+      "name": "Pålägg Tomat &amp; basilika 80g",
+      "company": "Windau",
+      "ingredients": "Vatten, rapsolja 11 %, SOJA-protein 7 %, ärtprotein 4 %, modifierad stärkelse, förtjockningsmedel: karragenan E407, konjak E425, guargummi E412, johannesbrödgummi E410, dextros, kryddextrakt, tomatfärg, naturliga aromer, basilka, färgämnen: paprikaextrakt E160c, rödbetsrött E162; socker.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5019503049220",
+      "name": "Strips 300g",
+      "company": "Quorn",
+      "ingredients": "Mycoprotein (91%), rehydrerad ÄGGVITA från frigående höns, naturliga aromämnen, glutenfritt KORNMALTEXTRAKT.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7316641415022",
+      "name": "Thyme &amp; Garlic Chunk Vegan 280g",
+      "company": "Oumph!",
+      "ingredients": "Vatten, SOJAproteinkoncentrat 27%, rapsolja, salt, maltodextrin, druvsocker, vitlök 0,8%, lök, timjan 0,4%, jästextrakt, svartpeppar, krydda, surhetsreglerande medel (citronsyra)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7381030000202",
+      "name": "Chörizo Hot 250g",
+      "company": "Astrid &amp; Aporna",
+      "ingredients": "Vatten, VETEprotein (GLUTEN), rapsolja, SOJAprotein*, stabiliseringsmedel (metylcellulosa, bearbetad eucheumaalg, kaliumklorid), socker, naturliga aromer, salt, kryddor, konserveringsmedel (natriumdiacetat, kaliumsorbat), vitlök, paprika, lök, örtkrydda, färgämne (järnoxid). *Från Kina.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191177741",
+      "name": "Mandeldryck 1000ml",
+      "company": "Coop",
+      "ingredients": "Vatten, MANDLAR 2 %, kalciumkarbonat, förtjockningsmedel (E 418, E 412), emulgeringsmedel (E 322), havssalt, riboflavin, vitamin D, vitamin B12. Kan innehålla spår av hassel-, cashew- och pistagenötter.Mandelns ursprung: Se koden vid datummärkningen. US=USA, AU=Australien, ES=Spanien.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350125520123",
+      "name": "Burgare Mungböna 4-pack 360g",
+      "company": "Max Burgers",
+      "ingredients": "Mungböna 68% rundkornigt råris lök rapsolja rödbeta salt vitlök koriander bockhornsklöver spiskummin cayennepeppar lagerblad",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350139110006",
+      "name": "Nuggets 250g",
+      "company": "Nothing F!SHY",
+      "ingredients": "Vatten, panering (VETEMJÖL, majsmjöl, majsstärkelse, potatisstärkelse, salt, jäst, paprika, stabiliseringsmedel:dinatriumdifosfat, natriumvätekarbonat, fortjockningsmedel:Xantangummi), rapsolja, VETEMJÖL, VETESTÄRKELSE, VETEPROTEIN, förtjockningsmedel:natriumalginat, konsistensmedel:kalciumsulfat, citrusfiber, salt, modifierad VETESTÄRKELSE, naturliga smakämnen, jästextrakt, förtjockningsmedel:metylcellulosa, algolja (schizochytrium sp., antioxidant/ tokoferolrika extrakt, ascorbylpalmitat), maltodextrin.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340012511792",
+      "name": "Lasagne Al Forno Vegan 400g",
+      "company": "Da Carla Vego",
+      "ingredients": "vegansk ragùsås 40% (vatten, SOJAprotein, rapsolja, lök, salt, kryddor, naturliga smakämnen, karamelliserat socker), vatten, halvkoncentrerad tomat, morötter, lök, SELLERI, rödvin, dubbeltomat koncentrat, extrajungfru olivolja, grönsaksbuljong (salt, potatisstärkelse, jästextrakt, maltodextrin (potatis, majs), torkade grönsaker (lök, morot, SELLERI, persilja), solrosolja, kryddor, naturliga aromer), basilika, vegansk worchestershire sås [vatten, äppelcidervinäger, melass, SOJAsås (vatten, SOJAbönor, VETE, salt, alkohol), rörsocker, tamarindpasta, havssalt, majsstärkelse, xantangummi, torkad lök, torkad vitlök, kryddnejlika, torkad chilipeppar ], socker, oregano, lagerblad]; vegansk bechamel 32% (SOJAmjölk (vatten, SOJAbönor, salt), rismjölk (vatten, ris, risolja, salt), VETEmjöl, extra jungfru olivolja, salt, muskot, svartpeppar), förkokt pasta 26% (DURUMVETE, vatten), vegetabiliska fetter, salt, naturliga smakämnen, konserveringsmedel: kaliumsorbat).Allergener: SOJA, VETE, SELLERI. Tillverkat i en anläggning där skaldjur, fisk, nötter, senap, blötdjur, ägg, mjölk och selleri används.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8006040133625",
+      "name": "Glass Sandwich 8-pack 320gr",
+      "company": "Valsoia",
+      "ingredients": "AV IS (55%): SOJAEXTRAKT (68%) (vatten, SOJAbönor (8,2%), havssalt), socker, glukossirap, vegetabiliskt fett (kokos), fettreducerad kakao (2,5%), kalciumfosfater, emulgeringsmedel: mono- och diglycerider av fettsyror, sackarosestrar av fettsyror, stabiliseringsmedel: guarkärnmjöl, natriumalginat, fruktkärnmjöl, aromer, vitamin D2. INGREDIENSER AV KEX (45%): VETEmjöl, socker, vegetabiliska fetter (kokos, solros), glukossirap, fettreducerad kakao (2%), karamelliserat socker, KORNmalt, emulgeringsmedel: lecitiner (SOJABÖNOR), bakpulver: ammoniumkarbonater, natriumkarbonater , salt, aromer. Kann innehålla spår av SENAP.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350125520734",
+      "name": "Green nuggets Eko 360g",
+      "company": "Oh Mungood",
+      "ingredients": "Mungböna/ Mungbønne* 67%, rundkornigt råris /rundkornet brun ris*, lök*, rödbeta*, salt, vitlök / hvitløk*, mald koriander*, bockhornsklöver*, spiskummin*, cayennepeppar*, lagerblad* * Ekologisk råvara / Økologisk råvare EU / icke EU",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7381030000219",
+      "name": "Chörizo Mild 250g",
+      "company": "Astrid &amp; Aporna",
+      "ingredients": "Vatten, VETEprotein (GLUTEN), rapsolja, SOJAprotein*, stabiliseringsmedel (metylcellulosa, bearbetad eucheumaalg, kaliumklorid), socker, naturliga aromer, salt, kryddor, konserveringsmedel (natriumdiacetat, kaliumsorbat ), vitlök, paprika, lök, örtkrydda, färgämne (järnoxid). *Från Kina.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7381030000233",
+      "name": "Salsicc*a 200g",
+      "company": "Astrid &amp; Aporna",
+      "ingredients": "Vatten, rapsolja, vegetabiliskt protein (solros, SOJA, VETE), stabiliseringsmedel (bearbetad eucheumaalg, metylcellulosa, konjakgummi, kaliumklorid), potatisstärkelse, citrusfiber, salt, naturliga aromer, lecitin, konserveringsmedel (natriumdiacetat, kaliumsorbat), socker, färgämne (järnoxid (röd)), kryddor (kryddpeppar, koriander, vitlök, ingefära, muskot), kryddextrakt (chilipeppar, svartpeppar), örtkryddor, surhetsreglerande medel natriumacetat, arom, antioxidationsmedel askorbinsyra, ätbart veganskt korvskinn (stabiliseringsmedel (natriumalginat, konjakgummi, guargummi)).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "76145513",
       "name": "Toblerone 50g",
