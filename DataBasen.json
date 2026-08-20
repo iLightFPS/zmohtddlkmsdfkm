@@ -137,31 +137,38 @@
   "date": "2026-08-20",
   "list": [
     {
-      "id": "6408432061264",
-      "name": "Smör Extrasaltat 500g",
-      "company": "Valio",
-      "ingredients": "Pastöriserad GRÄDDE och salt.",
+      "id": "7313940574603",
+      "name": "Chicken Drumsticks Barbecue 500g",
+      "company": "Guldfågeln",
+      "ingredients": "Kycklingben, druvsocker, kryddor och kryddextrakter (cayenne, chili, basilika, gurkmeja, oregano, paprika, persilja, peppar, libbsticka, rosmarin, spiskummin, vitlök), rapsolja, salt, lök, tomat, kycklingbuljong, glukossirap, citronpulver, naturlig arom, surhetsreglerande medel citronsyra Till 100 g produkt har använts 120 g kycklingben",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7310760012896",
-      "name": "Bryggkaffe Mellanrost 500g",
-      "company": "Arvid Nordquist",
-      "ingredients": "Kaffe (100% Arabicabönor)",
+      "id": "7313940522802",
+      "name": "Kycklingbröstfilé mörad 1000g",
+      "company": "Guldfågeln",
+      "ingredients": "Kycklingbröstfilé (87%), vatten, salt, socker.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7300206718000",
-      "name": "Bacon 3-pack 420g",
-      "company": "Scan",
-      "ingredients": "Svenskt sidfläsk av gris (96%), koksalt, antioxidationsmedel E301, konserveringsmedel E250, rökarom.",
+      "id": "7313940522901",
+      "name": "Majskyckling Bröstfiléer mörade 1000g",
+      "company": "Guldfågeln",
+      "ingredients": "Majskycklingbröstfilé (87%), vatten, salt, socker",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "2330042600004",
-      "name": "Fläskytterfilé Chimichurri 1.25kg",
-      "company": "Dalsjöfors",
-      "ingredients": "Benfri kotlett av gris* (89%), vatten, salt, kryddor (chili, paprika, koriander, oregano, persilja), antioxidationsmedel (natriumcitrat, natriumaskorbat), konserveringsmedel (natriumacetat), druvsocker, lök, vitlök, morot, citronskal, vitvinsvinägerpulver, paprikaextrakt, socker, aromer.*Ursprung Sverige",
+      "id": "7311312002143",
+      "name": "Tacosås Hot 230g",
+      "company": "Santa Maria",
+      "ingredients": "Tomat (65%)(krossade tomater, tomatpuré), vatten, lök, salt, kryddor och örter (chilipeppar, vitlök, grön jalapeño, spiskummin, koriander, oregano), ättika, grön paprika, majsstärkelse.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311312008060",
+      "name": "Tortillachips Sourcream &amp; chives 185g",
+      "company": "Santa Maria",
+      "ingredients": "Majsmjöl (73%), solrosolja, sourcream och gräslökskrydda (salt, druvsocker, MJÖLKPULVER, lök, socker, syra (mjölksyra), kryddor och örter (svartpeppar, persilja, gräslök (0,03%)), purjolök, arom (innehåller MJÖLK), jästextrakt), Kan innehålla spår av soja.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
