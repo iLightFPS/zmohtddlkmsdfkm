@@ -134,8 +134,36 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-08-14",
+  "date": "2026-08-20",
   "list": [
+    {
+      "id": "6408432061264",
+      "name": "Smör Extrasaltat 500g",
+      "company": "Valio",
+      "ingredients": "Pastöriserad GRÄDDE och salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310760012896",
+      "name": "Bryggkaffe Mellanrost 500g",
+      "company": "Arvid Nordquist",
+      "ingredients": "Kaffe (100% Arabicabönor)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300206718000",
+      "name": "Bacon 3-pack 420g",
+      "company": "Scan",
+      "ingredients": "Svenskt sidfläsk av gris (96%), koksalt, antioxidationsmedel E301, konserveringsmedel E250, rökarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2330042600004",
+      "name": "Fläskytterfilé Chimichurri 1.25kg",
+      "company": "Dalsjöfors",
+      "ingredients": "Benfri kotlett av gris* (89%), vatten, salt, kryddor (chili, paprika, koriander, oregano, persilja), antioxidationsmedel (natriumcitrat, natriumaskorbat), konserveringsmedel (natriumacetat), druvsocker, lök, vitlök, morot, citronskal, vitvinsvinägerpulver, paprikaextrakt, socker, aromer.*Ursprung Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690509417",
       "name": "Müsli Naturell Glutenfri 400g",
