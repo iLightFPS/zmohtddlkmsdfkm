@@ -134,8 +134,22 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "list": [
+    {
+      "id": "7340083448850",
+      "name": "Eldorado BBQ Skruvar & ringar 100g",
+      "company": "Eldorado",
+      "ingredients": "Potatisstärkelse, potatisgranulat, solrosolja, modifierad potatisstärkelse, salt, lök, paprika, naturlig arom, surhetsreglerande medel (citronsyra, kaliumklorid), paprikaextrakt, rökt paprika.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310532161111",
+      "name": "Estrella Popcorn Cheddar 1200g",
+      "company": "Estrella",
+      "ingredients": "Majskärnor, solros-/rapsolja, kryddblandning (OSTpulver 30% (varav Cheddar 1,5%), KÄRNMJÖLKspulver, salt, VASSLEepulver (från MJÖLK), naturlig arom, socker, syra (askorbinsyra), färgämne (kurkumin)).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7313940574603",
       "name": "Chicken Drumsticks Barbecue 500g",
