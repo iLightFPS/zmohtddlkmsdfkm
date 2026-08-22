@@ -137,6 +137,62 @@
   "date": "2026-08-22",
   "list": [
     {
+      "id": "7350039457607",
+      "name": "Candypeople S-Märke Surt skum 70g",
+      "company": "Candypeople",
+      "ingredients": "socker, invertsocker, glukos, gelatin(nöt), äppelsyra(E296), aromer, natriumcitrat(E331), färgämnen: E100, E120, E141.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7312060502268",
+      "name": "Gammaldags gräddglass Chokladkross 1750ml",
+      "company": "Triumf Glass",
+      "ingredients": "SKUMMJÖLK, GRÄDDE 22%, socker, vasslepulver (av MJÖLK), glukos-fruktossirap, vegetabiliska oljor (kokos, raps), fettreducerat kakaopulver 0,5%, vegetabiliskt emulgeringsmedel (mono- och diglycerider av fettsyror, raps- och solroslecitin), stabiliseringsmedel (fruktkärnmjöl, guarkärnmjöl), vaniljarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4001686536742",
+      "name": "Kastanjer 120 g",
+      "company": "MAOAM",
+      "ingredients": "Socker; glukossirap; palmfett; fuktighetsbevarande medel: sorbitolsirap; syra: citronsyra; gelatin; karamelliserat socker; surhetsreglerande medel: natriumvätekarbonat; frukt- och plantkoncentrat: safflor, citron, spirulina, rättika, svarta vinbär, morot, äpple; rålakrits; arom; mörk sirap, klumpförebyggande medel: talk; ytbehandlingsmedel: bivax vitt och gult; invertsockersirap.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690505242",
+      "name": "ICA Orientaliskt vetebröd 360g",
+      "company": "ICA",
+      "ingredients": "VETEMJÖL* 77%, vatten, socker*, salt*, jäst, KORNMALT. *Ursprung Sverige, mjöl är odlat och malt i Sverige.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8008698048535",
+      "name": "Schär Fusilli 500g",
+      "company": "Schär",
+      "ingredients": "majsstärkelse, SOJAmjöl, potatismjöl, risstärkelse, emulgeringsmedel: mono- och diglycerider av fettsyror. Produktens ingredienslista kan uppdateras över tid. Konsultera alltid ingredienslistan som finns på den köpta produktens förpackning.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350116921465",
+      "name": "Rispapper 340g",
+      "company": "TWIN DRAGON",
+      "ingredients": "Tapiokamjöl, vatten, rismjöl (Vietnam) 10.4%, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690041450",
+      "name": "ICA Blåbärssoppa 1l",
+      "company": "ICA",
+      "ingredients": "Vatten, socker 9%, blåbär, modifierad potatisstärkelse, surhetsreglerande medel (E330), arom, vitamin C. Innehåller 8 % blåbär.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690181729",
+      "name": "Nötmix Honung & Salt 200g",
+      "company": "ICA",
+      "ingredients": "CASHEWNÖTTER* 32%, socker, JORDNÖTTER* 30%, honung 2,6%, vegetabilisk olja (solrosolja och sheaolja), geleringsmedel (E414), salt. Kan innehålla spår av pistagenötter, valnötter, pekannötter, makadamianötter, paranötter, mandel, hasselnötter. *Ursprung: Icke EU.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7340131603682",
       "name": "Energidryck Nocco Grand Sour 330ml",
       "company": "NOCCO",
