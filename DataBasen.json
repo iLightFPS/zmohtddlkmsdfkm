@@ -134,8 +134,22 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "list": [
+    {
+      "id": "7311312008114",
+      "name": "Tortillachips BBQ 185g",
+      "company": "Santa Maria",
+      "ingredients": "Majsmjöl (73%), solrosolja, barbequekrydda (salt, kryddor (lök, tomat, vitlök, chilipeppar), socker, maltodextrin, druvsocker, syra (natriumdiacetat, citronsyra), rökaromer, naturliga aromer, kryddextrakt (paprika)).Kan innehålla spår av soja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311312007834",
+      "name": "Tortilla Strips Sweet Chili 185g",
+      "company": "Santa Maria",
+      "ingredients": "Majsmjöl, solrosolja, sweet chilikrydda (fruktos, salt, naturlig arom, maltodextrin, kryddor (lök, tomat, vitlök), socker, surhetsreglerande medel (äppelsyra, citronsyra, natriumacetater), rödbeta, färgämne (paprikaextrakt), chiliextrakt). Kan innehålla spår av soja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7340083448850",
       "name": "Eldorado BBQ Skruvar & ringar 100g",
