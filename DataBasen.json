@@ -137,18 +137,25 @@
   "date": "2026-08-22",
   "list": [
     {
-      "id": "7311312008114",
-      "name": "Tortillachips BBQ 185g",
-      "company": "Santa Maria",
-      "ingredients": "Majsmjöl (73%), solrosolja, barbequekrydda (salt, kryddor (lök, tomat, vitlök, chilipeppar), socker, maltodextrin, druvsocker, syra (natriumdiacetat, citronsyra), rökaromer, naturliga aromer, kryddextrakt (paprika)).Kan innehålla spår av soja.",
+      "id": "5711953023620",
+      "name": "Chokladmjölk Pucko Original 600ml",
+      "company": "Cocio",
+      "ingredients": "MJÖLK (fett 1,5%), socker 5%, fettreducerad kakao 1%, salt, surhetsreglerande medel (natriumkarbonat) och aromer.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7311312007834",
-      "name": "Tortilla Strips Sweet Chili 185g",
-      "company": "Santa Maria",
-      "ingredients": "Majsmjöl, solrosolja, sweet chilikrydda (fruktos, salt, naturlig arom, maltodextrin, kryddor (lök, tomat, vitlök), socker, surhetsreglerande medel (äppelsyra, citronsyra, natriumacetater), rödbeta, färgämne (paprikaextrakt), chiliextrakt). Kan innehålla spår av soja.",
+      "id": "5411188130055",
+      "name": "Sojadryck Protein Choklad 1000ml",
+      "company": "Alpro",
+      "ingredients": "SOJA/SOYAbas (92,9%) (vatten/vann/vand, skalade/afskallede SOJAbönor/SOYAbønner (12%)), socker/sukker, fettreducerat kakaopulver* (1,6%), kalcium (kalciumkarbonat), arom, havssalt, surhetsreglerande medel/midler (kaliumfosfater), stabiliseringsmedel/stabilisator (gellangummi), vitaminer B2, D2. *Rainforest Alliance Certified.www.ra.org",
       "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156587145",
+      "name": "Havredryck Choklad 1000ml",
+      "company": "Coop",
+      "ingredients": "Havrebas (vatten, HAVRE ° 10%), socker° 3,3%, kakaopulver* 1%, rapsolja°, kalciumkarbonat, kalciumfosfat, joderat salt, arom, vitaminer (D3**, riboflavin, B12). °Från Sverige. Kakaopulvret är inte från Sverige. *Rainforest Alliance-certiferad, ra.org. **vegetabiliskt ursprung. Förpackad i en skyddande atmosfär.",
+      "gluten": "Glutenfri [ Nej ]"
     },
     {
       "id": "7340083448850",
