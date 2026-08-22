@@ -137,6 +137,930 @@
   "date": "2026-08-22",
   "list": [
     {
+      "id": "7340131603682",
+      "name": "Energidryck Nocco Grand Sour 330ml",
+      "company": "NOCCO",
+      "ingredients": "Kolsyrat vatten, koffein, grönt te-extrakt, vitaminer (niacin, vitamin B6, folsyra, biotin, vitamin B12), surhetsreglerande medel (citronsyra), aromer, sötningsmedel (sukralos), konserveringsmedel (kaliumsorbat, natriumbensoat), färgämne (beta-karoten). HÖG KOFFEINHALT (55MG/100ML) Rekommenderas ej för barn, gravida och ammande eller personer känsliga för koffein.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "9002490215699",
+      "name": "Energidryck 8-pack 2000ml",
+      "company": "Red Bull",
+      "ingredients": "vatten, socker, glukos, syra (citronsyra), kolsyra, taurin (0,4%), surhetsreglerande medel (natriumkarbonater, magnesiumkarbonat), koffein (0,03%), vitaminer (niacin, pantotensyra, B6, B12), aromämnen, färgämnen (sockerkulör, riboflavin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5056784901502",
+      "name": "Energidryck Monster Ultra Strawberry Dreams 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "KOLSYRAT VATTEN, SMAKFÖRSTÄRKARE (ERYTRITOL), SYRA (CITRONSYRA), TAURIN (0,4%), SURHETSREGLERANDE MEDEL (NATRIUMCITRATER), NATURLIG JORDGUBBSAROM MED ANDRA NATURLIGA SMAKÄMNEN, PANAX GINSENG ROTEXTRAKT (0,08%), KONSERVERINGSMEDEL (KALIUMSORBAT, NATRIUMBENSOAT), KOFFEIN (0,03%), SÖTNINGSMEDEL (SUKRALOS, ACESULFAM K), L-KARNITIN L-TARTRAT (0,015%), VITAMINER (NIACIN, PANTOTENSYRA, VITAMIN B6, VITAMIN B12), STABILISERINGSMEDEL (GLYCEROLESTRAR AV TRÄHARTSER), FÄRGÄMNEN (KAROTENER, ANTOCYANINER), GUARANAFRÖEXTRAKT (0,002%), INOSITOL. HÖG KOFFEINHALT. REKOMMENDERAS EJ FÖR BARN OCH GRAVIDA ELLER AMMANDE KVINNOR, ELLER PERSONER SOM ÄR KÄNSLIGA FÖR KOFFEIN (30 mg/100 ml).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350042719099",
+      "name": "Vitamindryck Elevate Ananas &amp; smultron 500ml",
+      "company": "Vitamin Well",
+      "ingredients": "Vatten, fruktsocker, surhetsreglerande medel (citronsyra, natriumcitrat, kalciumkarbonat), vitaminer (D3, E, niacin, folsyra, B12, biotin, pantotensyra), mineraler (magnesium, zink, selen), aromer, färgande livsmedel (koncentrat av äpple, safflor, citron).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5056784912591",
+      "name": "Energidryck Monster Juiced Viking Berry 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "kolsyrat vatten, sukros, fruktjuice från koncentrat (5%), (äpple, sur körsbär, svarta vinbär, björnbär), glukossirap, syror (citronsyra, äppelsyra), taurin (0,4%), surhetsreglerande medel (natriumcitrat), panax ginseng rotextrakt (0,08%), aromer, konserveringsmedel (kaliumsorbat), koffein (0,03%), svart morotsjuicekoncentrat, vegetabiliska oljor (kokosnöt, rapsfrön), vitaminer (niacin, B6, riboflavin, B12), sötningsmedel (sukralos), modifierad stärkelse, L-karnitin L-tartrat (0,004%), natriumklorid, guaranafröextrakt (0,002%), inositol.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5060947546783",
+      "name": "Energidryck Monster Ultra peachy keen 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "KOLSYRAT VATTEN, SYRA (CITRONSYRA), TAURIN (0,4%), SURHETSREGLERANDE MEDEL (NATRIUMCITRATER), MALTODEXTRIN, PANAX GINSENG ROTEXTRAKT (0,08%), MODIFIERAD STÄRKELSE, AROMER, KONSERVERINGSMEDEL (KALIUMSORBAT, NATRIUMBENSOAT), SÖTNINGSMEDEL (SUKRALOS, ACESULFAM K), KOFFEIN (0,03%), VEGETABILISKA OLJOR (KOKOSNÖT, RAPSFRÖN), L-KARNITIN L-TARTRAT (0,015%), VITAMINER (NIACIN, PANTOTENSYRA, B6, B12), NATRIUMKLORID, GUARANAFRÖEXTRAKT (0,002%), INOSITOL, FÄRGÄMNE (KAROTENER). HÖG KOFFEINHALT. REKOMMENDERAS EJ FÖR BARN OCH GRAVIDA ELLER AMMANDE KVINNOR, ELLER PERSONER SOM ÄR KÄNSLIGA FÖR KOFFEIN (30 mg/100 ml).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5060947541245",
+      "name": "Energidryck Monster Zero Ultra Rosá 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "KOLSYRAT VATTEN, SYRA (CITRONSYRA), SMAKFÖRSTÄRKARE (ERYTRITOL), TAURIN (0.4%), SURHETSREGLERANDE MEDEL (NATRIUMCITRATER), AROMER, PANAX GINSENG ROTEXTRAKT (0.08%), KONSERVERINGSMEDEL (SORBINSYRA, BENSOESYRA), SÖTNINGSMEDEL (SUKRALOS, ACESULFAM K), KOFFEIN (0.03%), L-KARNITIN L-TARTRAT (0.015%), VITAMINER (NIACIN (B3), PANTOTENSYRA (B5), B6, B12), LILA SÖTPOTATISKONCENTRAT, INOSITOL. HÖG KOFFEINHALT. REKOMMENDERAS EJ FÖR BARN OCH GRAVIDA ELLER AMMANDE KVINNOR, ELLER PERSONER SOM ÄR KÄNSLIGA FÖR KOFFEIN (30MG/100ML).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5060947549883",
+      "name": "Energidryck Monster Zero 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "KOLSYRAT VATTEN, SYRA (CITRONSYRA), SMAKFÖRSTÄRKARE (ERYTRITOL), AROMER, TAURIN (0,4%), SURHETSREGLERANDE MEDEL (NATRIUMCITRATER), PANAX GINSENG ROTEXTRAKT (0,08%), L-KARNITIN L-TARTRAT (0,04%), KONSERVERINGSMEDEL (SORBINSYRA, BENSOESYRA), SÖTNINGSMEDEL (SUKRALOS, ACESULFAM K), KOFFEIN (0,03%), FÄRGÄMNE (ANTOCYANER), VITAMINER (NIACIN, B6, RIBOFLAVIN, B12), GUARANAFRÖEXTRAKT (0,002%), INOSITOL. HÖG KOFFEINHALT. REKOMMENDERAS EJ FÖR BARN OCH GRAVIDA ELLER AMMANDE KVINNOR, ELLER PERSONER SOM ÄR KÄNSLIGA FÖR KOFFEIN (32 MG/100 ML).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350042716678",
+      "name": "Vitamindryck Awake Hallon 500ml",
+      "company": "Vitamin Well",
+      "ingredients": "Vatten, fruktsocker, surhetsreglerande medel (citronsyra, kalciumkarbonat), svartvinbärsextrakt, koffein, vitaminer (D3, E, niacin, folsyra, B12, biotin, pantotensyra), mineraler (magnesium, zink, selen), aromer, färgande livsmedel (koncentrat av morot och blåbär).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340131603781",
+      "name": "Energidryck Nocco Berruba 330ml",
+      "company": "NOCCO",
+      "ingredients": "Kolsyrat vatten, grenade aminosyror BCAA (L-leucin, L-valin, L-isoleucin), koffein, vitaminer (niacin, vitamin B6, folsyra, biotin, vitamin B12), surhetsreglerande medel (citronsyra), aromer, sötningsmedel (sukralos), färgande morotskoncentrat, färgämne (betakaroten), konserveringsmedel (kaliumsorbat, natriumbensoat). HÖG KOFFEINHALT (55 mg/100 ml). Rekommenderas ej för barn, gravida och ammande eller personer känsliga för koffein.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350058336884",
+      "name": "Energidryck Celsius Mango Lemonad 355ml",
+      "company": "Celsius",
+      "ingredients": "Kolsyrat vatten, surhetsreglerande medel (citronsyra), taurin, naturliga aromer, koffein, vitaminer (askorbinsyra, pantotensyra, niacin, pyridoxinhydroklorid, riboflavin, biotin, cyanokobalamin), glukuronolakton, guarana, ingefära-extrakt, grönt te-extrakt, sötningsmedel (sukralos, acesulfam K).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340131602890",
+      "name": "Energidryck Nocco Ramonade 330ml",
+      "company": "NOCCO",
+      "ingredients": "Kolsyrat vatten, koffein, grönt te-extrakt, vitaminer (niacin, vitamin B6, folsyra, biotin, vitamin B12), surhetsreglerande medel (citronsyra), aromer, sötningsmedel (sukralos). HÖG KOFFEINHALT (55 MG/100 ML) Rekommenderas ej för barn, gravida och ammande eller personer känsliga för koffein.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5056784910054",
+      "name": "Energidryck Monster Ultra Fantasy Ruby Red 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "kolsyrat vatten, syra (citronsyra), smakförstärkare (erytritol), taurin (0,4%), surhetsreglerande medel (natriumcitrater), aromer, panax ginseng rotextrakt (0,08%), konserveringsmedel (kaliumsorbat, natrium bensoat), koffein (0,03%), sötningsmedel (sukralos), l-karnitin l tartrat (0,015%), vitaminer (niacin, pantotensyra, b6, b12), stabiliseringsmedel (glycerolestrar av trähartser), färgämne (antocyaniner), guaranafröextrakt (0,002%), inositol.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5056784907474",
+      "name": "Energidryck Monster Energy Lando Norris Zero 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "kolsyrat vatten, smakförstärkare (erytritol), syra (citronsyra), taurin (0,4%), surhetsreglerande medel (natriumcitrater), aromer, panax ginseng rotextrakt (0,08%), konserveringsmedel (kaliumsorbat, natriumbensoat), koffein (0,03%), sötningsmedel (sukralos), L-karnitin L-tartrat (0,02%), vitaminer (niacin, B6, riboflavin, B12), stabiliseringsmedel (glycerolestrar av trähartser), guaranafröextrakt (0,002%), inositol.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5060751219064",
+      "name": "Energidryck Monster Ultra Watermelon 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "KOLSYRAT VATTEN, SYRA (CITRONSYRA), SMAKFÖRSTÄRKARE (ERYTRITOL), TAURIN (0.4%), AROMER, SURHETSREGLERANDE MEDEL (NATRIUMCITRATER), PANAX GINSENG ROTEXTRAKT (0.08%), KONSERVERINGSMEDEL (SORBINSYRA, BENSOESYRA), SÖTNINGSMEDEL (SUKRALOS, ACESULFAM K), KOFFEIN (0.03%), L-KARNITIN L-TARTRAT (0.015%), VITAMINER (NIACIN (B3), PANTOTENSYRA (B5), B6, B12), GRÖNSAKSKONCENTRAT (MOROT, SÖTPOTATIS), FÄRGÄMNE (KAROTENER), INOSITOL. HÖG KOFFEINHALT. REKOMMENDERAS EJ FÖR BARN OCH GRAVIDA ELLER AMMANDE KVINNOR, ELLER PERSONER SOM ÄR KÄNSLIGA FÖR KOFFEIN (30mg/100ml).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340222800501",
+      "name": "Vitamindryck Reload 1150ml",
+      "company": "Vitamin Well",
+      "ingredients": "Vatten, fruktsocker, surhetsreglerande medel (citronsyra, kalciumkarbonat), vitaminer (D3, E, niacin, folsyra, B12, biotin, pantotensyra), mineraler (magnesium, zink, selen), aromer.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350058336907",
+      "name": "Energidryck Celsius Strawberry Lemonade 355ml",
+      "company": "Celsius",
+      "ingredients": "Kolsyrat vatten, surhetsreglerande medel (citronsyra), taurin, naturliga aromer, färgämne (svart morotsjuice koncentrat), koffein, vitaminer (askorbinsyra, pantotensyra, niacin, pyridoxinhydroklorid, riboflavin, biotin, cyanokobalamin), glukuronolakton, guarana (0,03%), ingefära-extrakt (0,02%), grönt te-extrakt (0,01%), sötningsmedel (sukralos).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5056784902332",
+      "name": "Energidryck Monster Juiced Rio Punch 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "kolsyrat vatten, sukros, fruktjuice från koncentrat (2%) (äpple, vit druva, papaya, mango), glukossirap, taurin (0,4%), syror (citronsyra, äppelsyra), aromer, surhetsreglerande medel (natriumcitrater), panax ginseng rotextrakt (0.08%), frukt och grönsakskoncentrat (morot, sötpotais), koffein (0,03%), konserveringsmedel (kaliumsorbat), sötningsmedel (sukralos), vitaminer (niacin, B6, riboflavin, B12), förtjockningsmedel (glycerolestrar av trähartser), maltodextrin, L-karnitin L-tartrat (0,004%), guaranafröextrakt (0,002%), inositol.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5060751215363",
+      "name": "Energidryck Monster Monarch 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "KOLSYRAT VATTEN, SUKROS, FRUKTJUICE FRÅN KONCENTRAT (5%) (ÄPPLE, PERSIKA, PÄRON, ANANAS, NEKTARIN, MANGO, BANAN), GLUKOSSIRAP, SYRA (CITRONSYRA), TAURIN (0.4%), SURHETSREGLERANDE MEDEL (NATRIUMCITRATER), AROMER, MALTODEXTRIN, KONSERVERINGSMEDEL (KALIUMSORBAT), KOFFEIN (0.03%), VEGETABILISKA OLJOR (KOKOSNÖT, RAPSFRÖN), MODIFIERAD STÄRKELSE, VITAMINER [NIACIN (B3), B6, RIBOFLAVIN (B2), B12], SÖTNINGSMEDEL (SUKRALOS), L-KARNITIN L-TARTRAT (0.004%), NATRIUMKLORID, INOSITOL (0.002%), FÄRGÄMNE (KAROTENER).HÖG KOFFEINHALT. REKOMMENDERAS EJ FÖR BARN OCH GRAVIDA ELLER AMMANDE KVINNOR, ELLER PERSONER SOM ÄR KÄNSLIGA FÖR KOFFEIN (32MG/100ML). KONSUMERA ANSVARSFULLT.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350058336891",
+      "name": "Energidryck Celsius Jordgubb &amp; passionsfrukt 355ml",
+      "company": "Celsius",
+      "ingredients": "Kolsyrat vatten, surhetsreglerande medel (citronsyra), taurin, naturliga aromer, koffein, vitaminer (askorbinsyra, pantotensyra, niacin, pyridoxinhydroklorid, riboflavin, biotin, cyanokobalamin), glukuronolakton, guarana, ingefära-extrakt, grönt te-extrakt, sötningsmedel (sukralos, acesulfam K).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5060896625607",
+      "name": "Energidryck Monster Zero Lewis Hamilton 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "kolsyrat vatten, syra (citronsyra), taurin (0,4%), surhetsreglerande medel (natriumcitrater), maltodextrin, aromer, konserveringsmedel (kaliumsorbat, natriumbensoat), sötningsmedel (sukralos, acesulfam K), koffein (0,03%), stabiliseringsmedel (gummi arabicum, glycerolestrar av trähartser), vitaminer (niacin, B6, riboflavin, B12), vegetabiliska oljor (kokosnöt, rapsfrön), L-karnitin L-tartrat (0,004%), natriumklorid, inositol, färgämne (E 160e).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5056784909119",
+      "name": "Energidryck Monster Valentino Rossi Zero 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "kolsyrat vatten, aromer, smakförstärkare (erytritol), syra (citronsyra), taurin (0,4%), surhetsreglerande medel (natriumcitrater), panax ginseng rotextrakt (0,08%), konserveringsmedel (kaliumsorbat, natriumbensoat), koffein (0,03%), sötningsmedel (sukralos), L-karnitin L-tartrat (0,015%), vitaminer (niacin, pantotensyra, B6, B12), stabiliseringsmedel (glycerolestrar av trähartser), guaranafröextrakt (0,002%), inositol, färgämne (riboflavin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5060947542419",
+      "name": "Energidryck Aussie lemonad 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "KOLSYRAT VATTEN, SUKROS, CITRONJUICE FRÅN CITRONJUICE KONCENTRAT (2%), GLUKOSSIRAP, SYROR (CITRONSYRA, ÄPPELSYRA), TAURIN (0,4%), AROMER, SURHETSREGLERANDE MEDEL (NATRIUMCITRATER, KALIUMCITRATER), KOFFEIN (0,03%), KONSERVERINGSMEDEL (KALIUMSORBAT), VITAMINER (NIACIN (B3), B6, RIBOFLAVIN (B2), B12), L-KARNITIN L-TARTRAT (0,004%), SÖTNINGSMEDEL (SUKRALOS), INOSITOL. HÖG KOFFEINHALT. REKOMMENDERAS EJ FÖR BARN OCH GRAVIDA ELLER AMMANDE KVINNOR, ELLER PERSONER SOM ÄR KÄNSLIGA FÖR KOFFEIN (32 MG/100 ML).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340131605952",
+      "name": "Energidryck Nocco Carnival exotic 330ml",
+      "company": "NOCCO",
+      "ingredients": "Kolsyrat vatten, grenade aminosyror BCAA (L-leucin, L-valin, L-isoleucin), koffein, vitaminer (niacin, vitamin B6, folsyra, biotin, vitamin B12), surhetsreglerande medel (citronsyra), aromer, sötningsmedel (sukralos), färgande morotskoncentrat, färgämne (beta-karoten).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350042710904",
+      "name": "Vitamindryck Hydrate Rabarber &amp; jordgubb 500ml",
+      "company": "Vitamin Well",
+      "ingredients": "Vatten, fruktsocker, surhetsreglerande medel (citronsyra, kalciumkarbonat), vitaminer (D3, E, C, niacin, folsyra, B12, biotin, pantotensyra), mineraler (magnesium, zink), aromer, stabiliseringsmedel (pektin), färgämne (lycopen).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5061013944908",
+      "name": "Energidryck Monster Bad apple 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "KOLSYRAT VATTEN, SUKROS, FRUKTJUICE FRÅN KONCENTRAT (6%), (ÄPPLE (4.7%), PÄRON, KIWI, SURKÖRSBÄR), GLUKOSSIRAP, SYROR (CITRONSYRA, ÄPPELSYRA), TAURIN (0,4%), SURHETSREGLERANDE MEDEL (NATRIUMCITRATER), PANAX GINSENG ROTEXTRAKT (0.08%), AROMER, FÖRTJOCKNINGSMEDEL (PEKTINER), FÄRGÄMNE (E150d), KONSERVERINGSMEDEL (KALIUMSORBAT), KOFFEIN (0,03%), VEGETABILISKA OLJOR (KOKOSNÖT, RAPSFRÖN), MODIFIERAD STÄRKELSE, VITAMINER (NIACIN, B6, RIBOFLAVIN, B12), SVART MOROTSJUICEKONCENTRAT, SÖTNINGSMEDEL (SUKRALOS), L-KARNITIN L-TARTRAT (0,004%), NATRIUMKLORID, INOSITOL. HÖG KOFFEINHALT. REKOMMENDERAS EJ FÖR BARN OCH GRAVIDA ELLER AMMANDE KVINNOR, ELLER PERSONER SOM ÄR KÄNSLIGA FÖR KOFFEIN (32 mg/100 ml).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "9002490291778",
+      "name": "Energidryck Red Bull Cherry Sakura 355ml",
+      "company": "Red Bull",
+      "ingredients": "vatten, sackaros, glukos, kolsyra, syra (citronsyra), taurin (0,4%), surhetsreglerande medel (natriumcitrater), koffein (0,03%), vitaminer (niacin, pantotensyra, B6, B12), aromer, färgämnen (antocyaner, riboflaviner).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340131605686",
+      "name": "Energidryck Nocco Arancia 330ml",
+      "company": "NOCCO",
+      "ingredients": "Kolsyrat vatten, grenade aminosyror BCAA (L-leucin, L-valin, L-isoleucin), koffein, vitaminer (niacin, vitamin B6, folsyra, biotin, vitamin B12), surhetsreglerande medel (citronsyra), aromer, sötningsmedel (sukralos), färgämne (betakaroten), färgande morotskoncentrat, konserveringsmedel (kaliumsorbat, natriumbensoat). HÖG KOFFEINHALT (55 mg/100 ml) Rekommenderas ej för barn, gravida och ammande eller personer känsliga för koffein.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340131605099",
+      "name": "Energidryck Nocco Stellar Blend 330ml",
+      "company": "NOCCO",
+      "ingredients": "Kolsyrat vatten, koffein, grönt te-extrakt, vitaminer (niacin, vitamin B6, folsyra, biotin, vitamin B12), surhetsreglerande medel (citronsyra), aromer, sötningsmedel (sukralos), konserveringsmedel (kaliumsorbat, natriumbensoat), färgämne (betakaroten), färgande morotskoncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5060896623511",
+      "name": "Energidryck Monster Khaotic 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "KOLSYRAT VATTEN, FRUKTJUICE FRÅN KONCENTRAT (10%) (ÄPPLE, APELSIN, PERSIKA, MANDARIN, VIT DRUVA, ANANAS), SUKROS, GLUKOSSIRAP, AROMER, TAURIN (0,4%), SYROR (CITRONSYRA, ÄPPELSYRA), SURHETSREGLERANDE MEDEL (NATRIUMCITRATER, KALIUMCITRATER), PANAX GINSENG ROTEXTRAKT (0,08%), KONSERVERINGSMEDEL (KALIUMSORBAT), KOFFEIN (0,03%), SÖTNINGSMEDEL (SUKRALOS, STEVIOLGLYKOSIDER FRÅN STEVIA), VITAMINER (NIACIN, B6, RIBOFLAVIN, B12), FÄRGÄMNEN (KAROTENER, ANTOCYANINER), L-KARNITIN L-TARTRAT (0,004%), INOSITOL. HÖG KOFFEINHALT. REKOMMENDERAS EJ FÖR BARN OCH GRAVIDA ELLER AMMANDE KVINNOR, ELLER PERSONER SOM ÄR KÄNSLIGA FÖR KOFFEIN (32 mg/100 ml).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "9002490215675",
+      "name": "Energidryck Red Bull 4-pack 1000ml",
+      "company": "Red Bull",
+      "ingredients": "vatten, sackaros, glukos, syra (citronsyra), kolsyra, taurin (0,4 %), surhetsreglerande medel (natriumkarbonater, magnesiumkarbonater), koffein (0,03 %), vitaminer (niacin, pantotensyra, B6, B12), aromer, färgämnen (sockerkulör, riboflaviner). Hög koffeinhalt. Rekommenderas ej för barn och gravida eller ammande kvinnor (32 mg/100 ml). Konsumeras i måttliga mängder.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5061013948548",
+      "name": "Energidryck Monster Zero 4-pack 2000ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "KOLSYRAT VATTEN, SYRA (CITRONSYRA), SMAKFÖRSTÄRKARE (ERYTRITOL), AROMER, TAURIN (0,4%), SURHETSREGLERANDE MEDEL (NATRIUMCITRATER), PANAX GINSENG ROTEXTRAKT (0,08%), L-KARNITIN L-TARTRAT (0,04%), KONSERVERINGSMEDEL (SORBINSYRA, BENSOESYRA), SÖTNINGSMEDEL (SUKRALOS, ACESULFAM K), KOFFEIN (0,03%), FÄRGÄMNE (ANTOCYANER), VITAMINER (NIACIN, B6, RIBOFLAVIN, B12), GUARANAFRÖEXTRAKT (0,002%), INOSITOL. HÖG KOFFEINHALT. REKOMMENDERAS EJ FÖR BARN OCH GRAVIDA ELLER AMMANDE KVINNOR, ELLER PERSONER SOM ÄR KÄNSLIGA FÖR KOFFEIN (32 MG/100 ML).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340131605235",
+      "name": "Energidryck Nocco Blue raspberry 330ml",
+      "company": "NOCCO",
+      "ingredients": "Kolsyrat vatten, grenade aminosyror BCAA (L-leucin, L-valin, L-isoleucin), koffein, vitaminer (niacin, vitamin B6, folsyra, biotin, vitamin B12), surhetsreglerande medel (citronsyra), aromer, sötningsmedel (sukralos), färgande morotskoncentrat",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350021426727",
+      "name": "Energidryck Wolverine Original 500ml",
+      "company": "WOLVERINE",
+      "ingredients": "Vatten/Vann, socker, surhetsreglerande medel/surhetsregulerende middel (citronsyra/sitronsyre), koldioxid/karbondioksid, taurin (0,4 %), surhetsreglerande medel/surhetsregulerende middel (natriumcitrat), arom/aroma, koffein (0,032 %), färgämnen/fargestoffer (sockerkulör, ammoniakprocessen/ammoniert karamell och riboflaviner), vitaminer (niacin, pantotensyra, vitamin B6, vitamin B12).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "9002490293277",
+      "name": "Energidryck Red Bull Zero 355ml",
+      "company": "Red Bull",
+      "ingredients": "vatten, syra(citronsyra, mjölksyra, äppelsyra), kolsyra, taurin(0,4%), surhetsreglerande medel (natriumkarbonater, magnesiumkarbonater), koffein (0,03%), sötningsmedel (sukralos, cyklamat, sackarin), vitaminer (niacin, pantotensyra, B6, B12), smakförstärkare(erytritol), aromer, färgämnen (sockerkulör riboflaviner), förtjockningsmedel(xantangummi).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340131605914",
+      "name": "Energidryck Nocco The berries 330ml",
+      "company": "NOCCO",
+      "ingredients": "Kolsyrat vatten, koffein, grönt te-extrakt, vitaminer (niacin, vitamin B6, folsyra, biotin, vitamin B12), surhetsreglerande medel (citronsyra), aromer, sötningsmedel (sukralos), färgande morotskoncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340131606232",
+      "name": "Energidryck Nocco Passionite 330ml",
+      "company": "NOCCO",
+      "ingredients": "Kolsyrat vatten, koffein, grönt te-extrakt, vitaminer (niacin, vitamin B6, folsyra, biotin, vitamin B12), surhetsreglerande medel (citronsyra, natriumcitrat), aromer, sötningsmedel (sukralos), färgämne (karotener), färgande morotskoncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340131603507",
+      "name": "Energidryck Nocco Juicy Melba 330ml",
+      "company": "NOCCO",
+      "ingredients": "Kolsyrat vatten, grenade aminosyror BCAA (L-leucin, L-valin, L-isoleucin), persikojuice från koncentrat (1%), koffein, vitaminer (niacin, vitamin B6, folsyra, biotin, vitamin B12), surhetsreglerande medel (citronsyra), aromer, sötningsmedel (sukralos), färgande morotskoncentrat, färgämne (beta-karoten). HÖG KOFFEINHALT (55 mg/100 ml). Rekommenderas ej för barn, gravida och ammande eller personer känsliga för koffein.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340131603804",
+      "name": "Energidryck Nocco San Citro 330ml",
+      "company": "NOCCO",
+      "ingredients": "Kolsyrat vatten, grenade aminosyror BCAA (L-leucin, L-valin, L-isoleucin), koffein, vitaminer (niacin, vitamin B6, folsyra, biotin, vitamin B12), surhetsreglerande medel (citronsyra), aromer, sötningsmedel (sukralos), färgämne (betakaroten), färgande morotskoncentrat, konserveringsmedel (kaliumsorbat, natriumbensoat). HÖG KOFFEINHALT (55 MG/100 ML) Rekommenderas ej för barn, gravida och ammande eller personer känsliga för koffein.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340131605907",
+      "name": "Energidryck Nocco Electrolyte Lemon &amp; lime 355ml",
+      "company": "NOCCO",
+      "ingredients": "Kolsyrat vatten, kalium, magnesium, vitaminer (niacin, vitamin B6, folsyra, biotin, vitamin B12), surhetsreglerande medel (citronsyra, natriumcitrat), koffein, aromer, sötningsmedel (sukralos), färgämne (beta-karoten).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350058335597",
+      "name": "Energidryck Jordgubb &amp; citron 355ml",
+      "company": "Celsius",
+      "ingredients": "Kolsyrat filtrerat vatten, guarana, grönt te-extrakt, koffein, glukuronolakton, ingefära-extrakt, taurin, mineraler (kalciumkarbonat, kromklorid), vitaminer (riboflavin, niacin, pantotensyra, pyridoxin hydroklorid, biotin, cyanokobalamin, askorbinsyra), surhetsreglerande medel (citronsyra), naturliga aromer, svart morotjuice konsentrat, sötningsmedel (sukralos). Innehåller 200 mg koffein per burk. Hög koffeinhalt (56 mg/100 ml). Rekommenderas inte till barn, gravida och ammande eller personer känsliga för koffein.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "9002490291761",
+      "name": "Energidryck Red Bull 355ml",
+      "company": "Red Bull",
+      "ingredients": "vatten, sackaros, glukos, syra (citronsyra), kolsyra, taurin(0,4 %), surhetsreglerande medel (natriumkarbonater, magnesiumkarbonater), koffein (0,03%), vitaminer (niacin, pantotensyra, B6, B12), aromer, färgämnen (sockerkulör, riboflaviner).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340131605891",
+      "name": "Energidryck Nocco Electrolyte Blood orange 355ml",
+      "company": "NOCCO",
+      "ingredients": "Kolsyrat vatten, kalium, magnesium, vitaminer (niacin, vitamin B6, folsyra, biotin, vitamin B12), surhetsreglerande medel (citronsyra, natriumcitrat), koffein, aromer, färgande morotskoncentrat, sötningsmedel (sukralos), färgämne (beta-karoten).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5056784920015",
+      "name": "Energidryck Monster Juiced Pipeline Punch 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "kolsyrat vatten, fruktjuice från koncentrat (6%) (apelsin, äpple, guava, ananas, passionsfrukt), sukros, glukossirap, taurin (0,4%), syra (citronsyra), maltodextrin, aromer, surhetsreglerande medel (natrium- citrater), konserveringsmedel (kaliumsorbat, natriumben - soat), koffein (0,03%), sötningsmedel (sukralos), vitaminer (niacin, b6, riboflavin, b12), vegetabiliska oljor (kokosnöt, rapsfrön), modifierad stärkelse, l-karnitin l-tartrat (0,004%), natriumklorid, inositol, färgämne (karotener).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5056784919293",
+      "name": "Energidryck Monster Full Throttle Zero 500ml",
+      "company": "MONSTER ENERGY",
+      "ingredients": "kolsyrat vatten, syra (citronsyra), taurin (0,4%), surhetsreglerande medel (natriumcitrater), maltodextrin, aromer, konserveringsmedel (kaliumsorbat, natrium bensoat), sötningsmedel (sukralos, acesulfam K), koffein (0,03%), stabiliseringsmedel (gummi arabicum, glycerolestrar av trähartser), vitaminer (niacin, B6, riboflavin, B12), vegetabiliska oljor (kokosnöt, rapsfrön), L-karnitin L-tartrat (0,004%), natriumklorid, inositol, färgämne (E 160e).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340183500724",
+      "name": "Energidryck Homie Strawberry Lemonade 330ml",
+      "company": "HOMIE",
+      "ingredients": "Kolsyrat filtrerat vatten / Carbonated filtered water, Citron juice/Lemonjuice, cikoriarotfiber / chicory root fibre, surhetsreglerandemedel (äppelsyra) / acidity regulator (malic acid), kalcium (kalciumlaktat, kalciumcitrat) / calcium (calcium lactate, calcium citrate), magnesium (magnesiumcitrat, magnesiumoxid) / magnesium (magnesium citrate, magnesium oxide), grönt kaffebönsextrakt (Coffea arabica) / green coffee bean extract (Coffea arabica), aromer / flavourings, sötningsmedel (sukralos) / sweetener (sucralose), konserveringsmedel (kaliumsorbat) / preservative (potassium sorbate), vitamin C (askorbinsyra) / vitamin C (ascorbic acid), zink (zinkcitrat) / zinc (zinc citrate), bakteriekultur (Bacillus Coagulans) / bacterial culture (Bacillus Coagulans), folsyra / folic acid, vitamin B12 (cyanokobalamin) / vitamin B12 (cyanocobalamin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350058336365",
+      "name": "Energidryck Celsius Galaxy Vibe 355ml",
+      "company": "Celsius",
+      "ingredients": "Kolsyrat vatten, surhetsreglerande medel (citronsyra), taurin, naturliga aromer, koffein, vitaminer (askorbinsyra, pantotensyra, niacin, pyridoxinhydroklorid, riboflavin, biotin, cyanokobalamin), glukuronolakton, guarana, ingefära-extrakt, grönt te-extrakt, sötningsmedel (sukralos, acesulfam K). Hög koffeinhalt (56 mg/100mL). Rekommenderas inte till barn, gravida och ammande eller personer känsliga för koffein.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340222800044",
+      "name": "Vitamindryck Pineapple 500ml",
+      "company": "Vitamin Well",
+      "ingredients": "vatten, smakförstärkare (erytritol), surhetsreglerande medel (citronsyra, natriumcitrat), vitaminer (D3, E, niacin, folsyra, B12, biotin, pantotensyra), mineraler (magnesium, selen), aromer, svartvinbärsextrakt, sötningsmedel (acesulfam K, sukralos), färgande livsmedel (koncentrat av äpple, safflor, citron).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340222801027",
+      "name": "Vitamindryck Peach Zero 500ml",
+      "company": "Vitamin Well",
+      "ingredients": "Vatten, surhetsreglerande medel (citronsyra, natriumcitrat), vitaminer (D3, E, niacin, B6, B12, biotin, pantotensyra), smakförstärkare (erytritol), aromer, sötningsmedel (acesulfam K, sukralos), stabiliseringsmedel (pektin), färgämnen (sockerkulör, lykopen).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340222800037",
+      "name": "Vitamindryck Raspberry 500ml",
+      "company": "Vitamin Well",
+      "ingredients": "Vatten, smakförstärkare (erytritol), surhetsreglerande medel (citronsyra, natriumcitrat), vitaminer (D3, E, niacin, folsyra, B12, biotin, pantotensyra), mineraler (magnesium, selen), aromer, svartvinbärsextrakt, sötningsmedel (acesulfam K, sukralos), färgande livsmedel (koncentrat av morot och blåbär).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "9002490291242",
+      "name": "Energidryck Red Bull Sockerfri 355ml",
+      "company": "Red Bull",
+      "ingredients": "vatten, syra (citronsyra), kolsyra, taurin(0,4 %), surhetsreglerande medel (natriumkarbonater, magnesiumkarbonater), koffein (0,03%), sötningsmedel (sukralos, acesulfam K), vitaminer (niacin, pantotensyra, B6, B12), aromer, förtjockningsmedel (xantangummi), färgämnen(sockerkulör, riboflaviner).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340222801751",
+      "name": "Vitamindryck Wild Berries Zero 500ml",
+      "company": "Vitamin Well",
+      "ingredients": "vatten, surhetsreglerande medel (citronsyra, natriumcitrat), vitaminer (D3, E, niacin, folsyra, B12, biotin, pantotensyra), smakförstärkare (erytritol), mineraler (magnesium, selen), aromer, svartvinbärsextrakt, sötningsmedel (acesulfam K, sukralos), stabiliseringsmedel (pektin), färgämne (lykopen).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340222801669",
+      "name": "Vitamindryck All day Lemonad 500ml",
+      "company": "Vitamin Well",
+      "ingredients": "Vatten, fruktsocker, surhetsreglerande medel (citronsyra, natriumcitrat, kalciumkarbonat), vitaminer (C, niacin, B6, B12, biotin, pantotensyra), grönt te-extrakt**, aromer, färgande livsmedel (koncentrat av äpple, safflor, citron). **Grönt te-extrakt kan ses som partiklar i drycken.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350058335955",
+      "name": "Energidryck Celsius Dragon Fruit 355ml",
+      "company": "Celsius",
+      "ingredients": "Kolsyrat vatten, surhetsreglerande medel (citronsyra), taurin, naturliga aromer, koffein, vitaminer (askorbinsyra, pantotensyra, niacin, pyridoxinhydroklorid, riboflavin, biotin, cyanokobalamin), glukuronolakton, guarana, ingefära-extrakt, grönt te-extrakt, sötningsmedel (sukralos, acesulfam K). INNEHÅLLER 200 MG KOFFEIN PER BURK. Hög koffeinhalt (56 mg/100 ml). Rekommenderas inte till barn, gravida och ammande eller personer känsliga för koffein.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350042719334",
+      "name": "Vitamindryck Prepare Melon 500ml",
+      "company": "Vitamin Well",
+      "ingredients": "Vatten, fruktsocker, surhetsreglerande medel (citronsyra, natriumcitrat, kalciumkarbonat), vitaminer (D3, E, niacin, folsyra, B12, biotin, pantotensyra), mineraler (magnesium, zink, selen), aromer, färgande livsmedel (koncentrat av äpple, safflor, citron).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350058335818",
+      "name": "Energidryck Celsius Astro Vibe 355ml",
+      "company": "Celsius",
+      "ingredients": "Kolsyrat filtrerat vatten, guarana, grönt te-extrakt, koffein, glukuronolakton, ingefära-extrakt, taurin, vitaminer (riboflavin, niacin, pantotensyra, vitamin B6, biotin, vitamin B12, askorbinsyra), surhetsreglerande medel (citronsyra), naturliga aromer, sötningsmedel (sukralos, acesulfam K). INNEHÅLLER 200 MG KOFFEIN PER BURK. Hög koffeinhalt (56 mg/100 ml). Rekommenderas inte till barn, gravida och ammande eller personer känsliga för koffein.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350058336099",
+      "name": "Energidryck Celsius Summer vibe 355ml",
+      "company": "Celsius",
+      "ingredients": "Kolsyrat filtrerat vatten, guarana, grönt te-extrakt, koffein, glukuronolakton, ingefära-extrakt, taurin, vitaminer (riboflavin, niacin, pantotensyra, pyridoxinhydroklorid, biotin, cyanokobalamin, askorbinsyra), surhetsreglerande medel (citronsyra), naturliga aromer, sötningsmedel (sukralos, acesulfam K). INNEHÅLLER 200 MG KOFFEIN PER BURK. Hög koffeinhalt (56 mg/100 ml). Rekommenderas inte till barn, gravida och ammande eller personer känsliga för koffein.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340131602142",
+      "name": "Energidryck Nocco Blood Orange 330ml",
+      "company": "NOCCO",
+      "ingredients": "Kolsyrat vatten, grenade aminosyror BCAA (L-leucin, L-valin, L-isoleucin), koffein, vitaminer (niacin, vitamin B6, folsyra, biotin, vitamin B12), surhetsreglerande medel (citronsyra), aromer, sötningsmedel (sukralos), färgande morotskoncentrat, färgämne (beta-karoten).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350058336938",
+      "name": "Energidryck Celsius Lemon Lime 355ml",
+      "company": "Celsius",
+      "ingredients": "Kolsyrat vatten, surhetsreglerande medel (citronsyra), taurin, naturliga aromer, koffein, vitaminer (askorbinsyra, pantotensyra, niacin, pyridoxinhydroklorid, riboflavin, biotin, cyanokobalamin), glukuronolakton, guarana (0,03%), ingefära-extrakt (0,02%), grönt te-extrakt (0,01%), vegetabiliska oljor (kokos, raps), modifierad stärkelse E 1450, sötningsmedel (sukralos).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340222801768",
+      "name": "Vitamindryck Peach Zero 1150ml",
+      "company": "Vitamin Well",
+      "ingredients": "Vatten, surhetsreglerande medel (citronsyra, natriumcitrat), vitaminer (D3, E, niacin, B6, B12, biotin, pantotensyra), smakförstärkare (erytritol), aromer, sötningsmedel (acesulfam K, sukralos), stabiliseringsmedel (pektin), färgämnen (sockerkulör, lykopen).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350058337157",
+      "name": "Energidryck Celsius Pear Limeade 355ml",
+      "company": "Celsius",
+      "ingredients": "Kolsyrat vatten, surhetsreglerande medel (citronsyra), taurin, naturliga aromer, koffein, vitaminer (askorbinsyra, pantotensyra, niacin, pyridoxinhydroklorid, riboflavin, biotin, cyanokobalamin), glukuronolakton, guarana (0,03%), ingefära-extrakt (0,02%), grönt teextrakt (0,01%), sötningsmedel (sukralos, acesulfam K).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340222801164",
+      "name": "Vitamindryck Zero Lemon 500ml",
+      "company": "Vitamin Well",
+      "ingredients": "vatten, surhetsreglerande medel (citronsyra, natriumcitrat), vitaminer (D3, E, niacin, B6, B12, biotin, pantotensyra), smakförstärkare (erytritol), grönt te-extrakt, aromer, sötningsmedel (acesulfam K, sukralos), färgande livsmedel (koncentrat av äpple, safflor, citron).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340222801034",
+      "name": "Vitamindryck Pear Zero 500ml",
+      "company": "Vitamin Well",
+      "ingredients": "Vatten, surhetsreglerande medel (citronsyra, natriumcitrat), vitaminer (D3, E, C, niacin, B6, B12, biotin, pantotensyra), smakförstärkare (erytritol), aromer, sötningsmedel (acesulfam K, sukralos), färgämne (sockerkulör).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340222800518",
+      "name": "Vitamindryck Hydrate 1150ml",
+      "company": "Vitamin Well",
+      "ingredients": "Vatten, fruktsocker, surhetsreglerande medel (citronsyra, kalciumkarbonat), vitaminer (D3, E, C, niacin, folsyra, B12, biotin, pantotensyra), mineraler (magnesium, zink), aromer, stabiliseringsmedel (pektin), färgämne (lykopen).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340131607376",
+      "name": "Energidryck Nocco Golden Soleil 330ml",
+      "company": "NOCCO",
+      "ingredients": "Kolsyrat vatten, grenade aminosyror BCAA (L-leucin, L-valin, L-isoleucin), koffein, vitaminer (niacin, vitamin B6, folsyra, biotin, vitamin B12), surhetsreglerande medel (citronsyra, äppelsyra), aromer, färgämne (karotener), färgande morotskoncentrat, sötningsmedel (sukralos, acesulfam-K).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340222800495",
+      "name": "Vitamindryck Defence Citrus &amp; fläder 1150ml",
+      "company": "Vitamin Well",
+      "ingredients": "Vatten, fruktsocker, surhetsreglerande medel (citronsyra, natriumcitrat, kalciumkarbonat), fläderbärsextrakt, grönt te-extrakt, vitaminer (D3, E, C, folsyra), mineral (zink), aromer.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350144680228",
+      "name": "Energidryck Joluca Melon Lime 330ml",
+      "company": "Joluca",
+      "ingredients": "Kolsyrat vatten, syra (citronsyra), guaranaextrakt, koffein, sötningsmedel (sukralos), melon- och limearom, konserveringsmedel (E202 och E211), vitaminer (niacin, pantotensyra, B6, folsyra, biotin, vitamin D3, B12), koncentrat (äpple, safflor och citron), zink, jod.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350058337164",
+      "name": "Energidryck Celsius Volt Vibe 355ml",
+      "company": "Celsius",
+      "ingredients": "Kolsyrat vatten, surhetsreglerande medel (citronsyra), taurin, naturliga aromer, koffein, vitaminer (askorbinsyra, pantotensyra, niacin, pyridoxinhydroklorid, riboflavin, biotin, cyanokobalamin), glukuronolakton, guarana (0,03%), ingefära-extrakt (0,02%), grönt teextrakt (0,01%), sötningsmedel (sukralos, acesulfam K).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340222801362",
+      "name": "Vitamindryck Zero Lemon 1150ml",
+      "company": "Vitamin Well",
+      "ingredients": "vatten, surhetsreglerande medel (citronsyra, natriumcitrat), vitaminer (D3, E, niacin, B6, B12, biotin, pantotensyra), smakförstärkare (erytritol), grönt te-extrakt, aromer, sötningsmedel (acesulfam K, sukralos), färgande livsmedel (koncentrat av äpple, safflor, citron).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350058336945",
+      "name": "Energidryck Celsius Orange 355ml",
+      "company": "Celsius",
+      "ingredients": "Kolsyrat vatten, surhetsreglerande medel (citronsyra), taurin, naturliga aromer, koffein, vitaminer (askorbinsyra, pantotensyra, niacin, pyridoxinhydroklorid, riboflavin, biotin, cyanokobalamin), glukuronolakton, guarana (0,03%), ingefära-extrakt (0,02%), grönt te-extrakt (0,01%), färgämne (beta-karoten E160a) vegetabiliska oljor (kokos, raps), modifierad stärkelse E1450, sötningsmedel (sukralos, acesulfam K).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350058336921",
+      "name": "Energidryck Celsius Dragon Fruit 355ml",
+      "company": "Celsius",
+      "ingredients": "Kolsyrat vatten, surhetsreglerande medel(citronsyra), taurin, naturliga aromer, koffein, vitaminer (askorbinsyra, pantotensyra, niacin, pyridoxinhydroklorid, riboflavin, biotin, cyanokobalamin), glukuronolakton, guarana (0,03%), ingefära-extrakt (0,02%), grönt teextrakt (0,01%), sötningsmedel (sukralos, acesulfam K).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350146812658",
+      "name": "Energidryck Latitude 65 Gryning 330ml",
+      "company": "Latitude 65",
+      "ingredients": "Vatten, kolsyra, syra(äppelsyra), aromer, surhetsreglerande medel(citronsyra,natriumsalter av citronsyra), koffein, sötningsmedel(sukralos), färgämnen(E163), niacin, vitamin B6, folsyra, biotin",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350144680075",
+      "name": "Energidryck Joluca Peach Strawberry 330ml",
+      "company": "Joluca",
+      "ingredients": "Kolsyrat vatten, syra (citronsyra), aromer, guaranaextrakt, koffein, sötningsmedel (sukralos), konserveringsmedel (E202 och E211), koncentrat (äpple, safflor och citron), vitaminer (niacin, pantotensyra, B6, folsyra, biotin, vitamin D3, B12), koncentrat (sötpotatis, äpple, rädisa och körsbär), zink, jod. *Niacin bidrar till att minska trötthet och utmattning.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340195404980",
+      "name": "Funktionsdryck Norrsken Äpple &amp; Päron 330ml",
+      "company": "Latitude 65",
+      "ingredients": "Vatten, kolsyra, aromer, surhetsreglerande medel (citronsyra, natriumsalter av citronsyra), koffein, sötningsmedel (sukralos), niacin, vitamin B6, folsyra, biotin HÖG KOFFEINHALT (55 MG PER 100 ML) Rekommenderas inte till barn, gravida eller ammande.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350146812542",
+      "name": "Energidryck Latitude 65 Storm 330ml",
+      "company": "Latitude 65",
+      "ingredients": "Vatten, kolsyra, surhetsreglerande medel (citronsyra, natriumsalter av citronsyra), aromer, koffein, sötningsmedel (sukralos), färgämne (E160a), niacin, vitamin B6, folsyra, biotin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350058336952",
+      "name": "Energidryck Celsius Jungle Vibe 355ml",
+      "company": "Celsius",
+      "ingredients": "Kolsyrat vatten, surhetsreglerande medel (citronsyra), taurin, naturliga aromer, färgämne (svart morotsjuice koncentrat), koffein, vitaminer (askorbinsyra, pantotensyra, niacin, pyridoxinhydroklorid, riboflavin, biotin, cyanokobalamin), glukuronolakton, guarana (0,03%), ingefära-extrakt (0,02%), grönt te-extrakt (0,01%), sötningsmedel (sukralos, acesulfam K).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350139071307",
+      "name": "Funktionsdryck Ananas &amp; kaktus 330ml",
+      "company": "Gowell",
+      "ingredients": "Kolsyrat vatten, vitaminer (A, E, C, D3, B2, B3, B6, B7, B9, B12), mineraler (magnesium, zink), antioxidant (koenzym Q10), syra (äppelsyra), surhetsreglerande medel (citronsyra), natriumcitrat, naturligt färgämne (E160a), aromer, sötningsmedel (sukralos).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350144680044",
+      "name": "Energidryck Pear Elderflower 330ml",
+      "company": "Joluca",
+      "ingredients": "Kolsyrat vatten, syra (citronsyra), aromer, färgämne (sockerkulör och E133), guaranaextrakt, koffein, sötningsmedel (sukralos), konserveringsmedel (E202 och E211), vitaminer (niacin, pantontensyra, B6, folsyra, biotin, vitamin D3, B12), zink, jod. *Niacin bidrar till att minska trötthet och utmattning. Hög koffeinhalt: (55 mg/100 ml). En burk innehåller 180 mg koffein. Rekommenderas inte till barn, gravida eller ammande kvinnor.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350144680303",
+      "name": "Energidryck Joluca Peach Pineapple 330ml",
+      "company": "Joluca",
+      "ingredients": "Kolsyrat vatten, syra (citronsyra), naturlig persika- och ananasarom, guaranaextrakt, koffein, sötningsmedel (sukralos), konserveringsmedel (E202 och E211), koncentrat (äpple, safflor och citron), vitaminer (niacin, pantotensyra, vitamin B6, folsyra, biotin, vitamin D, vitamin B12), koncentrat (sötpotatis, äpple, rädisa och körsbär), zink, jod.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340183500762",
+      "name": "Energidryck Homie Lime &amp; Mint 330ml",
+      "company": "HOMIE",
+      "ingredients": "Kolsyrat filtrerat vatten / Carbonated filtered water, surhetsreglerandemedel (äppelsyra) / acidity regulator (malic acid),cikoriarotfiber / chicory root fibre, kalcium (kalciumlaktat, kalciumcitrat) / calcium (calcium lactate, calcium citrate), magnesium (magnesiumcitrat, magnesiumoxid) / magnesium (magnesium citrate, magnesium oxide), grönt kaffebönsextrakt (Coffea arabica) / green coffee bean extract (Coffea arabica), aromer / flavourings, sötningsmedel (sukralos) / sweetener (sucralose), konserveringsmedel (kaliumsorbat) / preservative (potassium sorbate), vitamin C (askorbinsyra) / vitamin C (ascorbic acid), zink (zinkcitrat) / zinc (zinc citrate), bakteriekultur (Bacillus Coagulans) / bacterial culture (Bacillus Coagulans), folsyra / folic acid, vitamin B12 (cyanokobalamin) / vitamin B12 (cyanocobalamin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340183500205",
+      "name": "Kolsyrad dryck Pear Passion 330ml",
+      "company": "HOMIE",
+      "ingredients": "Kolsyrat filtrerat vatten / Carbonated filtered water, surhetsreglerandemedel (äppelsyra) / acidity regulator (malic acid),cikoriarotfiber / chicory root fibre, kalcium (kalciumlaktat, kalciumcitrat) / calcium (calcium lactate, calcium citrate), magnesium (magnesiumcitrat, magnesiumoxid) / magnesium (magnesium citrate, magnesium oxide), grönt kaffebönsextrakt (Coffea arabica) / green coffee bean extract (Coffea arabica), aromer / flavourings, sötningsmedel (sukralos) / sweetener (sucralose), konserveringsmedel (kaliumsorbat) / preservative (potassium sorbate), vitamin C (askorbinsyra) / vitamin C (ascorbic acid), zink (zinkcitrat) / zinc (zinc citrate), bakteriekultur (Bacillus Coagulans) / bacterial culture (Bacillus Coagulans), folsyra / folic acid, vitamin B12 (cyanokobalamin) / vitamin B12 (cyanocobalamin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340183500526",
+      "name": "Energidryck Homie Pineapple &amp; pear 330ml",
+      "company": "HOMIE",
+      "ingredients": "Kolsyrat filtrerat vatten / Carbonated filtered water, surhetsreglerandemedel (äppelsyra) / acidity regulator (malic acid),cikoriarotfiber / chicory root fibre, kalcium (kalciumlaktat, kalciumcitrat) / calcium (calcium lactate, calcium citrate), magnesium (magnesiumcitrat, magnesiumoxid) / magnesium (magnesium citrate, magnesium oxide), grönt kaffebönsextrakt (Coffea arabica) / green coffee bean extract (Coffea arabica), aromer / flavourings, sötningsmedel (sukralos) / sweetener (sucralose), konserveringsmedel (kaliumsorbat) / preservative (potassium sorbate), vitamin C (askorbinsyra) / vitamin C (ascorbic acid), zink (zinkcitrat) / zinc (zinc citrate), bakteriekultur (Bacillus Coagulans) / bacterial culture (Bacillus Coagulans), folsyra / folic acid, vitamin B12 (cyanokobalamin) / vitamin B12 (cyanocobalamin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350146812535",
+      "name": "Energidryck Latitude 65 Arktis 330ml",
+      "company": "Latitude 65",
+      "ingredients": "Vatten, kolsyra, syra (äppelsyra), aromer, surhetsreglerande medel (citronsyra, natriumsalter av citronsyra), koffein, sötningsmedel (sukralos), färgämne (E163) niacin, vitamin B6, folsyra, biotin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350021426741",
+      "name": "Energidryck Wolverine Sockerfri 250ml",
+      "company": "WOLVERINE",
+      "ingredients": "Vatten/Vann, surhetsreglerande medel/surhetsregulerende middel (citronsyra/sitronsyre), koldioxid/karbondioksid, taurin (0,4 %), surhetsreglerande medel/surhetsregulerende middel (natriumcitrat), arom/aroma, koffein (0,032 %), sötningsmedel/søtstoffer (cyklamater, sackariner, acesulfam K, aspartam), färgämnen/fargestoffer (sockerkulör, ammoniakprocessen/ammoniert karamell och riboflaviner), vitaminer (niacin, pantotensyra, vitamin B6, vitamin B12). Innehåller en källa till fenylalanin/Inneholder en fenylalaninkilde.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350021426376",
+      "name": "Energidryck Wolverine 500ml",
+      "company": "WOLVERINE",
+      "ingredients": "Vatten/Vann, surhetsreglerande medel/surhetsregulerende middel (citronsyra/sitronsyre), koldioxid/karbondioksid, taurin (0,4 %), surhetsreglerande medel/surhetsregulerende middel (natriumcitrat), arom/aroma, koffein (0,032 %), sötningsmedel/søtstoffer (cyklamater, sackariner, acesulfam K, aspartam), färgämnen/fargestoffer (sockerkulör, ammoniakprocessen/ammoniert karamell och riboflaviner), vitaminer (niacin, pantotensyra, vitamin B6, vitamin B12). Innehåller en källa till fenylalanin/Inneholder en fenylalaninkilde.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5061013961332",
+      "name": "Energidryck Reign Storm Peach Nectarine 355ml",
+      "company": "Reign Storm",
+      "ingredients": "KOLSYRAT VATTEN, SMAKFÖRSTÄRKARE (ERYTRITOL), SYRA (CITRONSYRA), SURHETSREGLERANDE MEDEL (NATRIUMCITRATER), NATURLIG PERSIKA- OCH NEKTARINAROM MED ANDRA NATURLIGA AROMER, KOFFEIN (0,05%), PANAX GINSENG ROTEXTRAKT (0,04%), SÖTNINGSMEDEL (SUKRALOS), VITAMINER (C, NIACIN [B3], PANTOTENSYRA, B6, A, BIOTIN [B7], B12), NATRIUMKLORID, FÄRGÄMNE (KAROTENER), ZINK, GRÖNT TE-EXTRAKT (0,0004%), GUARANAFRÖEXTRAKT (0,0002%), KROM. HÖG KOFFEINHALT. REKOMMENDERAS EJ FÖR BARN OCH GRAVIDA ELLER AMMANDE KVINNOR, ELLER PERSONER SOM ÄR KÄNSLIGA FÖR KOFFEIN (56,3 mg/100 ml).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340183500533",
+      "name": "Energidryck Homie Pink Grapefruit 330ml",
+      "company": "HOMIE",
+      "ingredients": "Kolsyrat filtrerat vatten / Carbonated filtered water, surhetsreglerandemedel (äppelsyra) / acidity regulator (malic acid),cikoriarotfiber / chicory root fibre, kalcium (kalciumlaktat, kalciumcitrat) / calcium (calcium lactate, calcium citrate), magnesium (magnesiumcitrat, magnesiumoxid) / magnesium (magnesium citrate, magnesium oxide), grönt kaffebönsextrakt (Coffea arabica) / green coffee bean extract (Coffea arabica), aromer / flavourings, sötningsmedel (sukralos) / sweetener (sucralose), konserveringsmedel (kaliumsorbat) / preservative (potassium sorbate), vitamin C (askorbinsyra) / vitamin C (ascorbic acid), zink (zinkcitrat) / zinc (zinc citrate), bakteriekultur (Bacillus Coagulans) / bacterial culture (Bacillus Coagulans), folsyra / folic acid, vitamin B12 (cyanokobalamin) / vitamin B12 (cyanocobalamin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350144680273",
+      "name": "Energidryck Joluca Rhubarb &amp; Raspberry 330ml",
+      "company": "Joluca",
+      "ingredients": "Kolsyrat vatten, syra (citronsyra), aromer, guaranaextrakt, koffein, sötningsmedel (sukralos), konserveringsmedel (E202 och E211), vitaminer (niacin, pantotensyra, B6, folsyra, biotin, vitamin D3, B12), koncentrat (sötpotatis, äpple, rädisa och körsbär), zink, jod. *Niacin bidrar till att minska trötthet och utmattning.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350146812214",
+      "name": "Energidryck Vildmark 330ml",
+      "company": "Latitude 65",
+      "ingredients": "Vatten, kolsyra, syra (äppelsyra), aromer, surhetsreglerande medel (citronsyra, natriumsalter av citronsyra), koffein, sötningsmedel (sukralos), färgämne (E163), niacin, vitamin B6, folsyra, biotin",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350139071208",
+      "name": "Funktionsdryck Jordgubb &amp; lime 330ml",
+      "company": "Gowell",
+      "ingredients": "Kolsyrat vatten, vitaminer (A, E, C, D3, B2, B3, B6, B7, B9, B12), mineraler (magnesium, zink), antioxidant (koenzym Q10), syra (äppelsyra), surhetsreglerande medel (citronsyra), natriumcitrat, naturligt färgämne (E160a), aromer, sötningsmedel (sukralos).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350146812221",
+      "name": "Energidryck Älven Fruktsoda 330ml",
+      "company": "Latitude 65",
+      "ingredients": "Vatten, kolsyra, syra (äppelsyra) aromer, surhetsreglerande medel (citronsyra, natriumsalter av citronsyra), koffein, sötningsmedel (sukralos), niacin, vitamin B6, folsyra, biotin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350144680297",
+      "name": "Energidryck Joluca Citrus Sunset 330ml",
+      "company": "Joluca",
+      "ingredients": "Kolsyrat vatten, hydrolyserat kollagen (bovint) 3%, syra (citronsyra), naturliga aromer, guaranaextrakt, koffein, sötningsmedel (sukralos), konserveringsmedel (E202 och E211), vitaminer (niacin, pantotensyra, vitamin B6, folsyra, biotin, vitamin D, vitamin B12), koncentrat (sötpotatis, äpple, rädisa och körsbär), jod.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350144680280",
+      "name": "Energidryck Joluca Wildberry Burst 330ml",
+      "company": "Joluca",
+      "ingredients": "Kolsyrat vatten, hydrolyserat kollagen (bovint) 3%, syra (citronsyra), aromer, guaranaextrakt, koffein, sötningsmedel (sukralos), konserveringsmedel (E202 och E211), vitaminer (niacin, pantotensyra, vitamin B6, folsyra, biotin, vitamin D, vitamin B12), koncentrat (sötpotatis, äpple, rädisa och körsbär), jod.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350146811576",
+      "name": "Energidryck Dimma 330ml",
+      "company": "Latitude 65",
+      "ingredients": "Vatten, kolsyra, syra (äppelsyra), aromer, surhetsreglerande medel (citronsyra, natriumsalter av citronsyra), koffein, sötningsmedel (sukralos), färgämne (E163), vitamin B3 (niacin), vitamin B6 (pyridoxin), vitamin B9 (folsyra), Vitamin B7 (biotin). HÖG KOFFEINHALT (55 MG/100 ML) Rekommenderas inte till barn, gravida eller ammande.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8007640882982",
+      "name": "Vitamingel Cola 25ml",
+      "company": "Enervit",
+      "ingredients": ". Glukossirap/ Glukosesirup DP4 (73%) ? Vatten/ Vann ? Fruktossirap/ Fruktosesirup (2%) ? Maltodextrin/ Maltodekstrin (1%) ? Trehalos/ Trehalose ** (1%) ? Isomaltulos/ Isomaltulose ** (1%) - Syra: citronsyra/ Syre: sitronsyre ? Naturliga/Naturlige arom - Konserveringsmedel: kaliumsorbat - Nikotinamid ? Tiaminhydroklorid/ Tiaminklorhydrat - Vitamin B6 (pyridoxinhydroklorid, emulgeringsmedel: mono- och diglycerider av fettsyror/ klorhydrat av pyridoksin, emulgator: mono- og diglycerider fra fettsyrer) . **Trehalos är en källa till glukos - Isomaltulos bryts ner till glukos och fruktos./ **Trehalose er en kilde til glukose ? Isomaltulose er en kilde glukose og fruktose.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340116870009",
+      "name": "Aloe Vera Original 500ml",
+      "company": "NÅBE",
+      "ingredients": "Aloe vera (50%), vatten, socker, surhetsreglerande medel (citronsyra, natriumcitrat, kalciumlaktat), stabiliseringsmedel (gellangummi), arom (vindruva).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350146812641",
+      "name": "Energidryck Latitude 65 Havet 330ml",
+      "company": "Latitude 65",
+      "ingredients": "Kolsyrat vatten, surhetsreglerande medel (äppelsyra, citronsyra, natriumcitrat), färgämne (E150b, E133), aromer, koffein, sötningsmedel (sukralos), niacin, vitamin B6, folsyra, biotin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350146810470",
+      "name": "Energidryck Havet Krusbär/Kiwi 330ml",
+      "company": "Latitude 65",
+      "ingredients": "Kolsyrat vatten, surhetsreglerande medel (äppelsyra, citronsyra, natrumcitrat), färgämne (E150b, E133), aromer, koffein, sötningsmedel (sukralos), niacin, vitamin B6, folsyra, biotin. HÖG KOFFEINHALT (55 MG per 100 ML) Rekommenderas inte till barn, gravida eller ammande.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340183500700",
+      "name": "Energidryck Homie Apple &amp; Elderflower 330ml",
+      "company": "HOMIE",
+      "ingredients": "Kolsyrat filtrerat vatten / Carbonated filtered water, surhetsreglerandemedel (äppelsyra) / acidity regulator (malic acid),cikoriarotfiber / chicory root fibre, kalcium (kalciumlaktat, kalciumcitrat) / calcium (calcium lactate, calcium citrate), magnesium (magnesiumcitrat, magnesiumoxid) / magnesium (magnesium citrate, magnesium oxide), grönt kaffebönsextrakt (Coffea arabica) / green coffee bean extract (Coffea arabica), aromer / flavourings, sötningsmedel (sukralos) / sweetener (sucralose), konserveringsmedel (kaliumsorbat) / preservative (potassium sorbate), vitamin C (askorbinsyra) / vitamin C (ascorbic acid), zink (zinkcitrat) / zinc (zinc citrate), bakteriekultur (Bacillus Coagulans) / bacterial culture (Bacillus Coagulans), folsyra / folic acid, vitamin B12 (cyanokobalamin) / vitamin B12 (cyanocobalamin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350146814003",
+      "name": "Energidryck Gryning Smultron 330ml",
+      "company": "Latitude 65",
+      "ingredients": "Vatten, kolsyra, syra(äppelsyra), aromer, surhetsreglerande medel(citronsyra,natriumsalter av citronsyra), koffein, sötningsmedel(sukralos), färgämnen(E163), niacin, vitamin B6, folsyra, biotin",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350146812528",
+      "name": "Energidryck Latitude 65 Älven 330ml",
+      "company": "Latitude 65",
+      "ingredients": "Vatten, kolsyra, syra (äppelsyra) aromer, surhetsreglerande medel (citronsyra, natriumsalter av citronsyra), koffein, sötningsmedel (sukralos), niacin, vitamin B6, folsyra, biotin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350144680099",
+      "name": "Energidryck Joluca Kiwi Cactus 330ml",
+      "company": "Joluca",
+      "ingredients": "Kolsyrat vatten, syra (citronsyra), aromer, guaranaextrakt, koffein, sötningsmedel (sukralos), färgämne (sockerkulör och E133), konserveringsmedel (E202 och E211), vitaminer (niacin, pantotensyra, B6, folsyra, biotin, vitamin D3, B12), zink, jod.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350144680167",
+      "name": "Energidryck Joluca Passionfruit Guava 330ml",
+      "company": "Joluca",
+      "ingredients": "Kolsyrat vatten, syra (citronsyra), naturlig passionsfrukt- och guavaarom, guaranaextrakt, koffein, sötningsmedel (sukralos), konserveringsmedel (E202 och E211), vitaminer (niacin, pantotensyra, B6, folsyra, biotin, vitamin D3, B12), koncentrat (äpple, safflor och citron), zink, jod.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350144680068",
+      "name": "Energidryck Joluca Rhubarb Raspberry 330ml",
+      "company": "Joluca",
+      "ingredients": "Kolsyrat vatten, syra (citronsyra), aromer, guaranaextrakt, koffein, sötningsmedel (sukralos), konserveringsmedel (E202 och E211), vitaminer (niacin, pantotensyra, B6, folsyra, biotin, vitamin D3, B12), koncentrat (sötpotatis, äpple, rädisa och körsbär), zink, jod.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311180781058",
+      "name": "Vitamindryck Rehydrate Jordgubb 500ml",
+      "company": "HYD",
+      "ingredients": "Naturligt mineralvatten, socker, syra (citronsyra), morotskoncentrat, havssalt, surhetsreglerande medel (kaliumcitrater), övriga tillsatser (magnesiumkarbonater), konserveringsmedel (kaliumsorbat, natriumbensoat), stabiliseringsmedel (akaciagummi, glycerolestrar av trähartser), naturliga aromer, sötningsmedel (sukralos), niacin, vitamin B6.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350146812153",
+      "name": "Energidryck Latitude 65 Oas 330ml",
+      "company": "Latitude 65",
+      "ingredients": "Kolsyrat vatten, surhetsreglerande medel (äppelsyra, citronsyra, natrumcitrat), färgämne (E133, E150), aromer, koffein, sötningsmedel (sukralos), niacin, vitamin B6, folsyra, biotin. HÖG KOFFEINHALT (55 MG PER 100 ML) Rekommenderas inte till barn, gravida eller ammande.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350139071611",
+      "name": "Funktionsdryck Tropisk 330ml",
+      "company": "Gowell",
+      "ingredients": "Kolsyrat vatten, vitaminer (A, E, C, D3, B2, B3, B6, B7, B9, B12), mineraler (magnesium, zink), antioxidant (koenzym Q10), syra (äppelsyra), surhetsreglerande medel (citronsyra), natriumcitrat, naturligt färgämne (E160a), aromer, sötningsmedel (sukralos).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311180782383",
+      "name": "Vitamindryck Rehydrate Päron 500ml",
+      "company": "HYD",
+      "ingredients": "Naturligt mineralvatten, socker, syra (citronsyra), havssalt, antioxidationsmedel (kaliumcitrater), övriga tillsatser (magnesiumkarbonater), konserveringsmedel (kaliumsorbat, natriumbensoat), färgämne från safflor, naturliga aromer, stabiliseringsmedel (akaciagummi, glycerolestrar av trähartser), sötningsmedel (sukralos), niacin, vitamin B6.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350146812634",
+      "name": "Energidryck Hajk Hallon 330ml",
+      "company": "Latitude 65",
+      "ingredients": "Vatten, kolsyra, syra (äppelsyra) aromer, surhetsreglerande medel (citronsyra, natriumsalter av citronsyra), koffein, sötningsmedel (sukralos), färgämne (E163) niacin, vitamin B6, folsyra, biotin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313619002505",
+      "name": "Vitamindryck Refresh Lemon &amp; lime 500ml",
+      "company": "Brämhults",
+      "ingredients": "Vatten, druvjuice*, citronjuice*, limejuice, naturlig arom, vitamin C, safflorextrakt, vitamin E, vitamin B6, folsyra och vitamin B12. * Från koncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5061013965866",
+      "name": "Energidryck Reign Storm Mango 355ml",
+      "company": "Reign Storm",
+      "ingredients": "kolsyrat vatten, smakförstärkare (erytritol), syror (citronsyra, äppelsyra), surhetsreglerande medel (natriumcitrater), naturlig mangoarom med andra naturliga aromer, koffein (0,05%), panax ginseng rotextrakt (0,04%), sötningsmedel (sukralos, steviolglykosider från stevia), färgämnen (karotener, antocyaniner), vitaminer (C, niacin [B3], pantotensyra, B6, A, biotin [B7], B12), zink, stabiliseringsmedel (glycerolestrar av trähartser), grönt te-extrakt (0,0004%), guaranafröextrakt (0,0002%), krom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5061013961301",
+      "name": "Energidryck Reign Storm Kiwi blend 355ml",
+      "company": "Reign Storm",
+      "ingredients": "KOLSYRAT VATTEN, SMAKFÖRSTÄRKARE (ERYTRITOL), SYRA (CITRONSYRA), SURHETSREGLERANDE MEDEL (NATRIUMCITRATER), NATURLIG KIWI- OCH ÄPPELAROM MED ANDRA NATURLIGA AROMER, KOFFEIN (0,05%), PANAX GINSENG ROTEXTRAKT (0,04%), SÖTNINGSMEDEL (SUKRALOS), VITAMINER (C, NIACIN [B3], PANTOTENSYRA, B6, A, BIOTIN [B7], B12), NATRIUMKLORID, VEGETABILISKA OLJOR (KOKOSNÖT, RAPSFRÖN), MODIFIERAD STÄRKELSE, FÄRGÄMNE (KAROTENER), ZINK, GRÖNT TE-EXTRAKT (0,0004%), GUARANAFRÖEXTRAKT (0,0002%), KROM. HÖG KOFFEINHALT. REKOMMENDERAS EJ FÖR BARN OCH GRAVIDA ELLER AMMANDE KVINNOR, ELLER PERSONER SOM ÄR KÄNSLIGA FÖR KOFFEIN (56,3 mg/100 ml).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5061013961394",
+      "name": "Energidryck Reign Storm Valencia Orange 355ml",
+      "company": "Reign Storm",
+      "ingredients": "KOLSYRAT VATTEN, NATURLIG VALENCIA APELSINAROM MED ANDRA NATURLIGA AROMER, SMAKFÖRSTÄRKARE (ERYTRITOL), SYRA (CITRONSYRA), SURHETSREGLERANDE MEDEL (NATRIUMCITRATER), KOFFEIN (0,05%), PANAX GINSENG ROTEXTRAKT (0,04%), SÖTNINGSMEDEL (SUKRALOS, ACESULFAM K), VITAMINER (C, NIACIN [B3], PANTOTENSYRA, B6, A, BIOTIN [B7], B12), ZINK, FÄRGÄMNE (KAROTENER), GRÖNT TE-EXTRAKT (0,0004%), GUARANAFRÖEXTRAKT (0,0002%), KROM. HÖG KOFFEINHALT. REKOMMENDERAS EJ FÖR BARN OCH GRAVIDA ELLER AMMANDE KVINNOR, ELLER PERSONER SOM ÄR KÄNSLIGA FÖR KOFFEIN (56,3 mg/100 ml).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340183501400",
+      "name": "Energidryck Wake Up Synbiotic Lemonade 330ml",
+      "company": "Homie",
+      "ingredients": "Kolsyrat filtrerat vatten, surhetsreglerande medel (äppelsyra), cikoriarotfiber, bakteriekultur (Bafidobacterium lactis HN019), aromer, grönt kaffebönsextrakt (Coffea arabica), reishi svamppulver (Ganoderma lucidum), kalcium (kalciumlaktat, kalciumcitrat), magnesium (magnesiumglycinat, magnesiumcitrat), zink (zinkcitrat), folsyra, vitamin B12 (cyanokobalamin), vitamin C (askorbinsyra), sötningsmedel (sukralos). Hög koffeinhalt: 30,3 mg/100 ml. 1 burk innehåller 100 mg koffein. Rekommenderas ej till barn samt gravida eller ammande kvinnor.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340183500854",
+      "name": "Kolsyrad dryck Wake Up Synbiotic Pink grapefruit 330ml",
+      "company": "Homie",
+      "ingredients": "kolsyrat filtrerat vatten, surhetsreglerande medel (citronsyra, äppelsyra), cikoriarotfiber, bakteriekultur (Bafidobacterium lactis HN019), aromer, grönt kaffebönextrakt (coffea arabica), reishi svamppulver (Ganoderma lucidum), kalcium (kalciumlaktat, kalciumcitrat) magnesium (magnesiumglycinat, magnesiumcitrat) zink (zinkcitrat), folsyra, vitamin B12 (metylkobalamin), vitamin C (askorbinsyra), färgämne (svart morot), sötningsmedel (sukralos). Hög koffeinhalt: 30,3 mg/100 ml. 1 burk innehåller 100 mg koffein. Rekommenderas ej till barn samt gravida eller ammande kvinnor.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350089431312",
+      "name": "Energidryck Clean Exotic summer 330ml",
+      "company": "Clean drink",
+      "ingredients": "Kolsyrat vatten, magnesiumklorid, zinkcitrat, aromämne, vitaminer (vitamin C, vitamin D, vitamin E, niacin, pantotensyra, vitamin B6, folsyra, biotin, vitamin B12), koffein, surhetsreglerande medel (äppelsyra), sötningsmedel (sukralos). Hög koffeinhalt (55mg per 100ml). Rekommenderas ej för barn, gravida eller personer känsliga för koffein.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8007640984747",
+      "name": "Isotonic Citron 420g",
+      "company": "Enervit",
+      "ingredients": ", INGREDIENSER. Sackaros (38%) - Dextros (25%) - Fruktos (14%) - Maltodextrin (10%) - Syra: citronsyra - Natriumglukonat - Aromer - Kaliumglukonat - Natriumklorid - Förtjockningsmedel: natriumkarboximetylcellulosa - Klumpförebyggande medel: kiseldioxid - Magnesiumkarbonat - L-askorbinsyra - Nikotinamid - Kalcium-D-pantotenat - Tiaminhydroklorid - Riboflavin - Kolekalciferol. Kan innehålla spår av MJÖLK, SOJABÖNOR, ÄGG.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7316110001039",
+      "name": "Vitamin Boost Peach Paradise 500ml",
+      "company": "Funlight",
+      "ingredients": "Vatten, surhetsreglerande medel (citronsyra, äppelsyra, natriumcitrat), naturlig arom, antioxidationsmedel (askorbinsyra), vitaminer (niacin, vitamin B6, biotin), mineraler (magnesiumsulfat, zinkglukonat), salt, sötningsmedel (aspartam, acesulfam K), färgämne betakaroten, koncentrat från safflor, stabiliseringsmedel (E414), konserveringsmedel (kaliumsorbat). Innehåller en fenylalaninkälla.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350099240256",
+      "name": "Energidryck Wihoo Graponade 330ml",
+      "company": "Rawnice",
+      "ingredients": "Kolsyrat filtrerat vatten, surhetsreglerande ämne (citronsyra E330, äppelsyra E296), Lion&apos;s mane extract (Hericium Erinaceus-Fruktkropp), naturlig arom (mango), sötningsmedel (sukralos E955. acesulfam k E950), askorbinsyra, färgämne (betakaroten E160a), zinkcitrat, niacin (nikotinamid), folsyra (pteroylmonoglutaminsyra), biotin, cyanokobalamin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350099240126",
+      "name": "Energidryck Wihoo Mangolicious 330ml",
+      "company": "Rawnice",
+      "ingredients": "Kolsyrat filtrerat vatten, surhetsreglerande ämne (citronsyra E330, äppelsyra E296), Lion&apos;s mane extract (Hericium Erinaceus-Fruktkropp), Guarana (Paullinia cupana - semen), aromer, sötningsmedel (sukralos E955. acesulfam k E950), askorbinsyra, färgämne (betakaroten E160a), zinkcitrat, niacin (nikotinamid), folsyra (pteroylmonoglutaminsyra), biotin, cyanokobalamin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350089432333",
+      "name": "Energidryck Clean Ananas 330ml",
+      "company": "Clean sav:D",
+      "ingredients": "Kolsyrat vatten, äppelmust (11%), vitaminer (vitamin C, vitamin D3, vitamin B12, biotin, vitamin K2), naturligt koffein (guarana paullinia extrakt), aromämne, surhetsreglerande medel (äppelsyra), sötningsmedel (sukralos). Hög koffeinhalt (32mg per 100ml). Rekommenderas ej för barn, gravida eller personer känsliga för koffein.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340131605563",
+      "name": "Kolsyrad dryck Nocco Peachango BCAA+ 330ml",
+      "company": "NOCCO",
+      "ingredients": "Kolsyrat vatten, grenade aminosyror BCAA (L-leucin, L-valin, L-isoleucin), vitaminer (niacin, vitamin B6, folsyra, biotin, vitamin B12), surhetsreglerande medel (citronsyra), aromer, sötningsmedel (sukralos), färgämne (betakaroten), färgande morotskoncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313619002499",
+      "name": "Vitamindryck Energy Peach &amp; passion 500ml",
+      "company": "Brämhults",
+      "ingredients": "Vatten, druvjuice*, persikojuice*, passionsfruktjuice*, citronjuice*, naturlig arom, vitamin C, vitamin E, pantotensyra (vitamin B5), färgämne (betakaroten) och vitamin B12. * Från koncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311180781188",
+      "name": "Vitamindryck Rehydrate Citron 500ml",
+      "company": "HYD",
+      "ingredients": "naturligt mineralvatten, socker, syra (citronsyra), havssalt, naturlig citrusarom med andra naturliga aromer, antioxidationsmedel (kaliumcitrater), övriga tillsatser (magnesiumkarbonater), konserveringsmedel (kaliumsorbat, natriumbensoat), stabiliseringsmedel (akaciagummi, glycerolestrar av trähartser), sötningsmedel (sukralos), niacin, vitamin B6.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350139071109",
+      "name": "Vitamindryck Hallon, jordgubb &amp; mynta 330ml",
+      "company": "Gowell",
+      "ingredients": "Kolsyrat vatten, vitaminer (A, E, C, D3, B2, B3, B6, B7, B9, B12), mineraler (magnesium, zink), antioxidant (koenzym Q10), syra (äppelsyra), surhetsreglerande medel (citronsyra), natriumcitrat, naturligt färgämne (E160a), aromer, sötningsmedel (sukralos).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311180782505",
+      "name": "Vitamindryck Rehydrate Mango 500ml",
+      "company": "HYD",
+      "ingredients": "Naturligt mineralvatten, socker, syra (citronsyra), havssalt, surhetsreglerande medel (kaliumcitrater), övriga tillsatser (magnesiumkarbonater), konserveringsmedel (kaliumsorbat, natriumbensoat), antioxidationsmedel (askorbinsyra), naturliga aromer, sötningsmedel (sukralos), niacin, färgämne (betakaroten), vitamin B6.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350021426789",
+      "name": "Sportdryck Isotonic 500ml",
+      "company": "WOLVERINE",
+      "ingredients": "Vatten/Vann/Vand, glukos, maltodextrin, syra/syre (citronsyra/sitronsyre/citronsyre), surhetsreglerande medel/surhetsregulerende middel (natriumcitrater/natriumsitrater, kaliumcitrater/kaliumsitrater), stabiliseringsmedel/stabiliseringsmiddel/stabilisator (gummi arabicum (akaciagummi)/gummi arabicum (akasiegummi)/arabisk gummi (akaciegummi), glycerolestrar av trähartser/glyserolestere av trekolofonium/glycerolestere af fyrreharpiks), aromer, konserveringsmedel/konserveringsmiddel (kaliumsorbat, natriumbensoat/natriumbenzoat), sötningsmedel/søtningsmiddel/sødestof (aspartam, acesulfam K/acesulfamkalium), vitaminer (niacin, vitamin B6, biotin), färgämne/fargestoff/farve (briljantblått FCF/briljantblå FCF/brilliant blue FCF). INNEHÅLLER EN FENYLALANINKÄLLA/INNEHOLDER EN KILDE TIL FENYLALANIN/INDEHOLDER EN PHENYLALANIN-KILDE.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7316110001008",
+      "name": "Vitamindryck sockerfri Boost Lemon Breeze 500ml",
+      "company": "Funlight",
+      "ingredients": "Vatten, surhetsreglerande medel (citronsyra, äppelsyra, natriumcitrat), naturlig arom, antioxidationsmedel (askorbinsyra), vitaminer (niacin, vitamin B6, biotin), mineraler (magnesiumsulfat, zinkglukonat), sötningsmedel (aspartam, acesulfam K), koncentrat från safflor, konserveringsmedel (kaliumsorbat), stabiliseringsmedel (E414). Innehåller en fenylalaninkälla.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350021427090",
+      "name": "Aloe Vera Jordgubb 500ml",
+      "company": "ALOES",
+      "ingredients": "Aloe Vera 51 % (aloe vera-pulp 10 %, aloe vera-gelpulver), vatten/vann/vand, fruktos, jordgubbsjuice från koncentrat 3 %, socker/sukker, surhetsreglerande medel/surhetsregulerende middel/surhedsregulerende middel (citronsyra/sitronsyre/citronsyre, kalciumlaktat/kalsiumlaktat/calciumlactat, natriumcitrater/natriumsitrater), jordgubbsarom, emulgeringsmedel/emulgator (gellangummi/gellan-gummi), antioxidant (askorbinsyra/askorbinsyre/ascorbinsyre), färgämne/fargestoff/farve (karminsyra, karmin/kochenille, karminsyre, karminer/carminsyre (carmin)).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7316110000919",
+      "name": "Vitamindryck sockerfri Boost Sunset Orange 500ml",
+      "company": "Funlight",
+      "ingredients": "Vatten, surhetsreglerande medel (citronsyra, äppelsyra, natriumcitrat), naturlig arom, vitaminer (niacin, vitamin B6, biotin), mineraler (magnesiumsulfat, zinkglukonat), salt, sötningsmedel (aspartam, acesulfam K), koncentrat från svart morot, konserveringsmedel (kaliumsorbat), stabiliseringsmedel (E414). Innehåller en fenylalaninkälla.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7316110000889",
+      "name": "Vitamindryck sockerfri Boost Crispy Apple 500ml",
+      "company": "Funlight",
+      "ingredients": "Vatten, surhetsreglerande medel (citronsyra, äppelsyra, natriumcitrat), naturlig arom, antioxidationsmedel (askorbinsyra), vitaminer (niacin, vitamin B6, biotin), mineraler (magnesiumsulfat, zinkglukonat), salt, sötningsmedel (aspartam, acesulfam K), koff¬ein, koncentrat från safflor, färgämne (E141), konserveringsmedel (kaliumsorbat), stabiliseringsmedel (E414). Innehåller en fenylalaninkälla.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340116879453",
+      "name": "Aloe vera Sweet lemon 500ml",
+      "company": "NÅBE",
+      "ingredients": "Aloe vera (50 %), vatten, socker, surhetsreglerande medel (citronsyra, natriumcitrat), antioxidationsmedel (askorbinsyra), förtjockningsmedel (gellangummi, kalciumlaktat), arom (citron).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "5711953023620",
       "name": "Chokladmjölk Pucko Original 600ml",
       "company": "Cocio",
