@@ -137,123 +137,424 @@
   "date": "2026-08-24",
   "list": [
     {
-      "id": "7310090781929",
-      "name": "Mannafrutti XL Jordgubb 215 g",
-      "company": "Mannafrutti",
-      "ingredients": "MJÖLK/MÆLK, vatten/vand, socker/sukker (9%), jordgubbar/jordbær (6%), MANNAGRYN AV VETE/MANNAGRYN AF HVEDE (4%), GRÄDDE/FLØDE, VETESTÄRKELSE/HVEDESTIVELSE, naturliga aromer/naturlig aroma, förtjockningsmedel/fortykningsmidler (pektin, karragenan/carrageenan), syra/syre (citronsyra/citronsyre), fläderbärsjuice/hyldebærjuice, salt.",
+      "id": "7393263033841",
+      "name": "FALAFEL BOWL 370G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Ärt- & bönsallad (22%) [morot, kikärtor (kikärtor, vatten, salt), EDAMAMEBÖNOR (gröna SOJA- BÖNOR), svarta bönor (svarta bönor, vatten), persilja, rapsolja, pressad citron (citronjuice från koncentrat, konserveringsmedel (E224, KALIUMDISULFIT) salt, svartpeppar], Falafel (20%) [kikärtor, rapsolja, gula ärtor, vatten, lök, persilja, potatisflingor, salt, vitlök, spiskummin, potatisfiber, koriander, bakpulver (E500)], Sriracha majo [Rapsolja, vatten, chili, ÄGGULA, socker, tomatpuré, vinäger, SENAPSFRÖ, vitlök, vitlöksolja, ättika, salt, kryddor, kryddextrakt, modifierad stärkelse av (majs, potatis), surhetsreglerande medel (E330, E260), stabiliseringsmedel (E412, E415), konserveringsmedel (E211, E202), naturlig arom], Picklad rödkål/rödlök [rödkål, röd lök, vatten, strösocker, ättikssprit], Grillad paprika [Röd paprika, solrosolja,salt, socker, örter (vitlök, oregano, lök,persilja), antioxidationsmedel (E300), surhetsreglerande medel (E330)], Körsbärstomat, Vitost tärnad [MJÖLK, salt, SYRNINGSKULTUR, ystenzym, surhetsreglerande medel (E270, E509)], Friseésallad, Rosésallad.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7393263084621",
+      "name": "SKALDJURSLASAGNE 400G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Kokt hummersås (50%) [MJÖLK, GRÄDDE, majsstärkelse, chilisås (tomater, tomatpuré, socker, ättiksprit, salt, lök, kryddor (bl a vitlök, SELLERI), antioxidationsmedel (E331), konserveringsmedel (E202, E211), arom, chiliextrakt)), vitt matlagningsvin (Vatten, Vitt Vin*, Amontillado*, Salt, arom), Smör (GRÄDDE, salt, mjölksyrakultur), Hummerfond (koncentrerad skaldjursfond (vatten, HUMMEREXTRAKT, RÄKOR), salt, tomatpuré, jästextrakt, glukossirap, tapiokastärkelse, grönsaksjuicekoncentrat (purjolök, lök), modifierad stärkelse, arom, rödbetspulver, förtjockningsmedel (E415), maltodextrin, örter, kryddor), salt, socker, cayennepeppar, timjan, curry (bl a gurkmeja, spiskummin, bockhornsklöver)], RÄKOR (14%) [RÄKOR, vatten, salt], Lasagneplattor (DURUMVETE, vatten), Ost (7,0%) [MJÖLK, salt, potatisstärkelse, syrningskultur, vegetabilisk ystenzym], morot, KRÄFTSTJÄRTAR (4,7%) [KRÄFTSTJÄRTAR, vatten, salt, socker, antioxidationsmedel (E331), dillarom, konserveringsmedel (E202, E211)], bladspenat. Kan innehålla spår av: BLÖTDJUR och produkter därav, FISK och produkter därav, SOJA och ÄGG. *Innehåller naturligt SULFITER",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
-      "id": "7350126087816",
-      "name": "Risifrutti Magisk Mango 175 g",
-      "company": "RISIFRUTTI",
-      "ingredients": "MJÖLK/MÆLK, vatten/vand, ris (8,5%), socker (6,3%), äpple/æble (6%), GRÄDDE/FLØDE, naturliga aromer (bl. a. vanillin), mango (0,38%), förtjockningsmedel/fortykningsmiddel (pektin, karragenan), salt, syra (citronsyra), färg (paprikaextrakt/peberekstrak, tistelextrakt/tidselekstrakt).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7316110002647",
-      "name": "Risifrutti Pink Lemonade 175 g",
-      "company": "RISIFRUTTI",
-      "ingredients": "MJÖLK/MÆLK, ris (8,5%), vatten/vand, socker, äpple/æble, GRÄDDE/FLØDE, jordgubbar/jordbær (1%), naturliga aromer (bl. a. vanillin), citronjuicekoncentrat (0,2%), förtjockningsmedel/fortykningsmiddel (pektin, karragenan), syra (askorbinsyra, citronsyra), salt, färg/farve (antocyanin).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310090786627",
-      "name": "Mannafrutti Skogsbär 165 g",
-      "company": "Mannafrutti",
-      "ingredients": "MJÖLK/MÆLK, vatten/vand, socker/sukker (9%), bär/bær (6%) (hallon/hindbær, blåbär/blåbær, boysenbär/boysenbær, björnbär/brombær), MANNAGRYN AV VETE/MANNAGRYN AF HVEDE (4%), GRÄDDE/FLØDE, VETESTÄRKELSE/HVEDESTIVELSE, naturliga aromer/naturlig aroma, förtjockningsmedel/fortykningsmidler (pektin, karragenan/carrageenan), salt, syra/syre (citronsyra/citronsyre).",
+      "id": "7393263033469",
+      "name": "CAESARSALLAD 330G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Romansallad (30.3%), Stekt skivad kyckling (22.7%) [Kycklingbröstfilé, salt, stabiliseringsmedel (E450, E451), druvsocker, surhetsreglerande medel (E262), antioxidationsmedel (E301), arom], Körsbärstomat, Caesardressing (13.6%) [Vatten, rapsolja, vinäger, ÄGGULA, socker, grana padano (MJÖLK, salt, löpe , konserveringsmedel (E1105 (ÄGG))), SILLfilé, salt, SENAPSfrö, ättiksprit, vitlök,svartpeppar, chili, kryddextrakt, aromer, konserveringsmedel (E202, E211, E224 (SULFIT)), förtjockningsmedel (E415), antioxidationsmedel (E330)], Grana Padano (6.1%) [KOMJÖLK, salt, löpe, lysozym (från ÄGG)], Brödkrutonger (4.5%) [VETEMJÖL, palmolja, salt, rapsolja, jäst], Stekt bacon (4.5%) [Svålfri, rimmad, rökt sida av gris (97%), vatten, salt, antioxidationsmedel (E301), druvsocker, konserveringsmedel (E250), rökarom]",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
-      "id": "7316110002678",
-      "name": "Chokladpudding 4-PACK",
-      "company": "EKSTRÖMS",
-      "ingredients": "Vatten, socker, skumMJÖLKspulver, GRÄDDE, fettreducerat kakaopulver 2,2%, modifierad stärkelse, gelatin, geleringsmedel (E407), arom.",
+      "id": "7393263084430",
+      "name": "KÖTTBULLAR & MOS 440G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Potatismos (50%) [potatis, MJÖLK, SMÖR (GRÄDDE, salt, mjölksyrakultur) salt, vitpeppar], Köttbullar (27.3%) [Köttfärs av gris och nöt (74%), vatten, kryddmix (potatisstärkelse, potatisflingor, potatisgrits, druvsocker (majs), potatisfiber, socker, jästextrakt, salt, krydda, kollagen, lök, kryddextrakt, arom), lökpulver, salt, timjan, färgämne (sockerkulör E150c)], Lingongräddsås (22.7%) [GRÄDDE (56,3%), köttfond (köttbuljong (vatten, oxben, morot, lök, purjolök, vitpeppar, lagerblad), MJÖLK, tomatpuré, köttarom (salt, maltodextrin, arom), karamelliserat socker, fruktos), lingon, majsstärkelse, salt, socker, svartpeppar].",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "0000073515913",
-      "name": "Chokladpudding 120 g",
-      "company": "EKSTRÖMS",
-      "ingredients": "Vatten, socker, skumMJÖLKspulver, GRÄDDE, fettreducerat kakaopulver 2,2%, modifierad stärkelse, gelatin, geleringsmedel (E407), arom.",
+      "id": "2310849200003",
+      "name": "JANSSONS FRESTELSE 2500G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Potatis (53,1%) [potatis, konserveringsmedel (E223, NATRIUMDISULFIT)], GRÄDDE (18%), ansjoviskryddad sill (12,3%) [SILLFILÉER (63,2%), vatten, socker, salt, ättika, kryddor, konserveringsmedel (E211)], MJÖLK, lök, ströbröd [rismjöl, kikärtsmjöl, majsstärkelse, salt, druvsocker], kryddblandning [salt, socker, jästextrakt, maltodextrin (majs, potatis), kryddor (lagerblad, kryddpeppar, ingefära, mejram, kryddnejlika), FISKpulver], majsstärkelse, vitpeppar.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "8712566415588",
-      "name": "Panna Cotta 2x260gr",
-      "company": "CARTE D´OR",
-      "ingredients": "Socker, gelatin (från nötkreatur), majsstärkelse, arom, förtjockningsmedel (xantangummi). Kan innehålla gluten, mjölk, ägg, mandlar, hasselnötter och soja.",
+      "id": "7340007500169",
+      "name": "Räksallad 370g",
+      "company": "Vidinge",
+      "ingredients": "24 % kokt pasta (vatten, DURUMVETEMJÖL, ÄGG, rapsolja, konserveringsmedel (E260), salt), 16 % dressing (solrosolja, vatten, socker, sojasås (vatten, SOJABÖNOR, VETE, salt), naturliga aromer (av ingefära), limekoncentrat, vinäger, chilipasta (chilipeppar, salt, vinäger, vatten, citrusfiber), koriander, lök, lökextrakt, chilipeppar, stabiliseringsmedel (E415)), babyspenat, 14 % nordhavsräka (handskalade RÄKOR (Pandalus borealis, fångad i nordvästra/nordost Atlanten), vatten, salt, konserveringsmedel (E211, E202), surhetsreglerande medel (E330, E331), socker) , salladskål, 10 % rödkål, morot, 1 % SESAMFRÖ.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
-      "id": "7350089940647",
-      "name": "SMULTRONKRÄM 1.5kg",
-      "company": "RSCUED",
-      "ingredients": "Smultron 34% (EU), socker, vatten, jordgubbspuré, citrusfiber, surhetsreglerande medel (E300, E330).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350089941378",
-      "name": "ÄPPELKRÄM 1.5kg",
-      "company": "RSCUED",
-      "ingredients": "Äppelmust 57,74 %, Socker 32,72 %, Vatten 7,70%, Pektin 0,6%, Kanel mald 0,5%, Askorbinsyra 0,44%, Citronsyra 0,31%",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "5410488821878",
-      "name": "Crème Anglaise 1L",
-      "company": "Debic",
-      "ingredients": "MJÖLK; socker;GRÄDDE 42% fett (3%); modifierad stärkelse; ÄGGULA; naturligt Bourbon vaniljextrakt; naturliga aromämnen; stabiliseringsmedel: E331, karragenan; emulgeringsmedel: E471; salt; färgämnen: betakaroten; vaniljfrön",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310890100333",
-      "name": "Ostkaka 300g",
-      "company": "FRÖDINGE",
-      "ingredients": "MJÖLK*, GRÄDDE*, ÄGG*, VETEMJÖL*, socker*, MJÖLKSOCKER, SKUMMJÖLKSPULVER*, SÖTMANDEL, VETESTÄRKELSE, BITTERMANDEL, kalciumklorid, vegetabiliskt ystenzym, konserveringsmedel (sorbinsyra). KAN INNEHÅLLA SPÅR AV NÖTTER. *Svenskt ursprung. (Swedish)",
+      "id": "7340007501289",
+      "name": "WRAP KOREAN STYLE 270g",
+      "company": "Vidinge",
+      "ingredients": "31 % liba bröd (VETEMJÖL, vatten, socker, jäst, salt, KORNMALT), 19 % dressing (vatten, socker, vinäger, rapsolja, chili (5,4 %), ingefära, vitlök, salt, konserveringsmedel (E 202, E 211, E 224 (SULFIT), E 260), förtjockningsmedel (E 415, modifierad stärkelse), antioxidationsmedel (E 300)), 13 % stekt kycklingbröstfilé (kycklingbröstfilé, salt, stabiliseringsmedel (E 450, E 451), druvsocker, surhetsreglerande medel (E 262, E 327), antioxidationsmedel (E 301), arom), 13 % spetskål, 11 % picklad morot (morot, vatten, socker, ättika, ingefära, salt), 8 % salladskål, 5 % morot.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
-      "id": "5410488060703",
-      "name": "Mousseline 1,75Kg",
-      "company": "Debic",
-      "ingredients": "helMJÖLK; socker; GRÄDDE 42% fett (8%); hydrerad kokosolja; gelatin (nöt); glukossirap; modifierad stärkelse; MJÖLKprotein; vaniljextrakt; emulgeringsmedel: E472b, E471; konsistensgivare: E339, karragenan, natriumalginat, E464; färgämnen: betakaroten.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "5410488140023",
-      "name": "Glassbas Scoop Ice Cream 10L BIB 1x10kg",
-      "company": "Debic",
-      "ingredients": "skummad mjölk; GRÄDDE (25,7%); socker; glukos; maltodextrin; vasslepulver (MJÖLK); vasslegenomträngningspulver (MJÖLK); stabilisatorer: E460, E466, E331, E412, carrageenan; emulgeringsmedel: E471; salt.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310865074362",
-      "name": "Cottage cheese hasselnöt/blåbär/tranbär 145 g",
-      "company": "KESO®",
-      "ingredients": "Cottage cheese: pastöriserad MJÖLK, modifierad potatisstärkelse, salt, VASSLEPERMEAT, konserveringsmedel (kaliumsorbat), syrningskultur, ystenzym. Topping: rostade HASSELNÖTTER 58%, torkade bär 42% (blåbär 13%, tranbär 12%, äppeljuicekoncentrat, socker, solrosolja). Kan innehålla spår av nötter.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310890100760",
-      "name": "Julostkaka 750g",
-      "company": "FRÖDINGE",
-      "ingredients": "MJÖLK*, GRÄDDE*, ÄGG*, VETEMJÖL*, socker, MJÖLKSOCKER, SKUMMJÖLKSPULVER*, SÖTMANDEL,VETESTÄRKELSE, BITTERMANDEL, kalciumklorid, vegetabiliskt ystenzym, konserveringsmedel (sorbinsyra). KAN INNEHÅLLA SPÅR AV NÖTTER. *Råvara med Svenskt ursprung. (Swedish)",
+      "id": "7393914000161",
+      "name": "Pasta carbonara med rökt sidfläsk 380 g",
+      "company": "Gooh",
+      "ingredients": "Kokt tagliatelle (36%) (durumVETEMJÖL, ÄGG), vatten, rökt sidfläsk (14%) (sidfläsk*, vatten, salt, druvsocker, stabiliseringsmedel (E451), antioxidationsmedel (natriumaskorbat), konserveringsmedel (E250)), GRÄDDE, CRÈME FRAICHE, lök, parmesanOST (3%), modifierad potatisstärkelse, vitlök, spenat, salt (jod), svartpeppar. *Ursprung: Sverige.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
-      "id": "7310890100869",
-      "name": "Saffransostkaka 450g",
-      "company": "FRÖDINGE",
-      "ingredients": "MJÖLK*, GRÄDDE*, ÄGG*, VETEMJÖL*, socker*, MJÖLKSOCKER, SKUMMJÖLKSPULVER*, SÖTMANDEL, VETESTÄRKELSE, BITTERMANDEL, kalciumklorid, saffran, vegetabiliskt ystenzym, konserveringsmedel (sorbinsyra). KAN INNEHÅLLA SPÅR AV NÖTTER. * Råvara med Svenskt ursprung (Swedish)",
+      "id": "2310849500004",
+      "name": "VILTFÄRSBIFFAR 2500G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Viltfärsbiffar (54.5%) [Viltfärs (70%) (hjort-, fläsk-, renkött), vatten, potatisflingor (potatisflingor, emulgeringsmedel (E471), stabiliseringsmedel (E450), antioxidant (E330)), ÄGG flytande (ÄGG, vatten, salt, konserveringsmedel (E202), surhetsreglerande medel (E330), emulgeringsmedel (E471, E475)), rapsolja, salt, potatisfiber, druvsocker(majs), lök, chilirub (chilipeppar, salt, lök, vitlök, tomat, svartpeppar, oregano, spiskummin, rökt paprika, antioxidationsmedel (E330)), svartpeppar, timjan, grönpeppar, vitpeppar, collorit (färgämne (E150c), vatten, salt)], Lingongräddsås (45,5%) [GRÄDDE (49%), MJÖLK, champinjoner, köttfond (köttbuljong (vatten, oxben, morot, lök, purjolök, vitpeppar, lagerblad), tomatpuré, köttarom (salt, maltodextrin, arom), karamelliserat socker, fruktos), lingon, majsstärkelse, salt, socker, svartpeppar].",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7393914000116",
+      "name": "Frikadeller i krämig tomatsås 400g",
+      "company": "Gooh",
+      "ingredients": "Frikadeller (29%) (fläsk*- och nötkött* (80%), ströbröd (VETE), potatis, lök, ÄGG, salt, potatismjöl, torkad lök, kryddor, socker, MJÖLKpulver), krossad tomat (28%) (tomat, tomatjuice), kokt tagliatelle (22%) (durumVETEMJÖL, ÄGG), GRÄDDE, lök, morot, tomatpuré, socker, salt (jod), SELLERI, basilika, modifierad potatisstärkelse, olivolja, vitlök, vitpeppar. *Ursprung: Sverige.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
-      "id": "7310890108018",
-      "name": "Lättostkaka 300g",
-      "company": "FRÖDINGE",
-      "ingredients": "MJÖLK*, ÄGG*, vatten, MJÖLKSOCKER, fruktsocker, majsstärkelse, GRÄDDE*, SKUMMJÖLKSPULVER*, SÖTMANDEL, modifierad potatisstärkelse, VASSLEPROTEIN, BITTERMANDEL, kalciumklorid, vegetabiliskt ystenzym, konserveringsmedel (sorbinsyra). KAN INNEHÅLLA SPÅR AV NÖTTER. *Svenskt ursprung. (Swedish)",
+      "id": "7393914000185",
+      "name": "Grillost Stroganoff med vildris 400g",
+      "company": "Gooh",
+      "ingredients": "Kokt ris (29%), grillOST* (19%) (MJÖLK, salt, syrningskultur, mikrobiellt ystenzym), vatten, lök, GRÄDDE, röd paprika (7,4%), vitkål, tomatpuré, CRÈME FRAICHE, kokt vildris (3%), salt (jod), paprikapulver, sambal oelek (chili, salt), vitpeppar. *Ursprung: Sverige.",
       "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340007501296",
+      "name": "WRAP ITALIAN STYLE 270g",
+      "company": "Vidinge",
+      "ingredients": "31 % liba bröd (VETEMJÖL, vatten, socker, jäst, salt, KORNMALT), 19 % dressing (rapsolja, vatten, basilika (7,3 %), ÄGGULA, vitlök (1,4 %), salt, rödvinsvinäger, italiensk hårdost (MJÖLK, salt, löpe, konserveringsmedel (E 1105 (ÄGG))), ättikssprit, SENAPSFRÖ, svartpeppar, socker, chili, konserveringsmedel (E 202), förtjockningsmedel (E 412, E 415), surhetsreglerande medel (E 330)), 16 % spetskål, 11 % stekt kycklingbröstfilé (kycklingbröstfilé, salt, stabiliseringsmedel (E 450, E 451), druvsocker, surhetsreglerande medel (E 262, E 327), antioxidationsmedel (E 301), arom), 10 % rosésallat, 6 % morot, 4 % marinerad semitorkad tomat (tomat, solrosolja, basilika, oregano, vitlök, mejram, rosmarin, salt), 3 % tapenade svarta oliver (svarta oliver, olivolja, solrosolja, salt, vitvinsvinäger, vitlök).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340007501401",
+      "name": "Biff Teriyaki 400g",
+      "company": "Vidinge",
+      "ingredients": "36 % kokt ris (vatten, långkornigt förkokt ris (41 %), rapsolja, konserveringsmedel (E267), salt), 15 % pulled nötkött (högrev (77 %) (SE), vatten, farinsocker, tomatpuré, antioxidationsmedel (E331, E325, E316), rödvinsvinäger, salt, sirap, socker, malt av KORN, modifierad stärkelse, vitvinsvinäger, kryddor (SELLERI), tamarindjuice, stabiliseringsmedel (E451), ingefära, rökarom (hickory), köttfond (nötkött, vatten), färgämne (E150a), vitlök, paprika (rökarom)), 15 % sås (vatten, socker, SOJASÅS (vatten, SOJABÖNOR, salt, VETEMJÖL, konserveringsmedel (E202)), vitvinsvinäger, modifierad potatisstärkelse, ingefära, salt, SESAMFRÖN, stabiliseringsmedel (E415), konserveringsmedel (E211), surhetsreglerande medel (E270), arom), 13 % spetskål, 11 % broccoli, 10 % morot.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340007501425",
+      "name": "Kyckling Sweet Chili 400g",
+      "company": "Vidinge",
+      "ingredients": "34 % kokta nudlar (vatten, nudlar (34 %) (VETEMJÖL, DURUMVETEMJÖL, vatten, salt, surhetsreglerande medel (E 501(i), E 500(ii)), rapsolja, surhetsreglerande medel (E 260), salt), 15 % stekt kyckling (kycklinglårfilé (SE), potatisstärkelse, salt, druvsocker, svartpepparextrakt, kycklingbuljong (salt)), 15 % sås (solrosolja, vatten, socker, SOJASÅS (vatten, SOJABÖNOR, VETE, salt), naturlig ingefärsarom, limekoncentrat, vinäger, chilipasta (chilipeppar, salt, vinäger, vatten, citrusfiber), koriander, lök, lökextrakt, chilipeppar, stabiliseringsmedel (E415)), 13 % salladskål, 11 % broccoli, 8 % morot, 5 % purjolök.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7393263084461",
+      "name": "KÖTTFÄRSLASAGNE 420G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Köttfärslasagne [Bechamelsås (44.1%) (MJÖLK, grädde, majsstärkelse, smör (GRÄDDE, salt 1,2%, mjölksyrakultur), salt, vitpeppar), Köttfärssås (35.2%) (Krossade tomater (tomat, tomatjuice, antioxidationsmedel (E330)), köttfärs av nöt och gris (36,2%), vatten, lök, kalvfond (vatten, tomatpasta, salt, maltodextrin, surhetsreglerande medel (E325), jästextrakt (från KORN), socker, färgämne (E150), arom (SELLERI), lök, kalvkött 0,9%, rapsolja, grönsaksjuicekoncentrat (tomater, morötter, lök, vitlök, champinjoner, purjolök, SELLERI), stabiliseringsmedel (E415)), salt, socker, pressad vitlök ((95,5%), salt, antioxidationsmedel (E330)), basilika, paprika, timjan, svartpeppar, grönpeppar, vitpeppar), Lasagneplattor (DURUMVETE), ost (MJÖLK, salt, potatisstärkelse, syrningskultur, vegetabilisk ystenzym)]. Kan innehålla spår av Soja och Ägg.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7393263084676",
+      "name": "RÖDSPÄTTA POTATIS 400G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Potatismos med gräslök (51,3%) [potatis, MJÖLK, SMÖR(GRÄDDE, salt, mjölksyrakultur) gräslök, salt, vitpeppar] Rödspätta Panerad (37.5%) [RÖDSPÄTTAFILE (60%), panering(VETEMJÖL, vatten, rapsolja, potatisstärkelse, salt, jästextrakt, SENAPSPULVER, vitpeppar, naturliga smakämnen)] Remouladsås [creme fraiche (pastöriserad GRÄDDE, syrningskultur), majonnäs (rapsolja, vatten, ÄGG, socker, SENAPSFRÖ, salt, surhetsreglerande medel (E260, E330), stabiliseringsmedel (E412, E415), konserveringsmedel (E202, E211)), bostongurka (gurka, socker, ättika, lök, paprika, salt, modifierad stärkelse, SENAPSFRÖ, konserveringsmedel (E202), kryddextrakt (cayennepeppar), kryddor, färgämne (E141, E101)), dijonsenap (vatten, SENAPSFRÖ, brännvinsättika, salt, antioxidationsmedel (kaliumdiSULFIT (E224), (E330)), salt, socker, curry (bl a gurkmeja, spiskummin, bockhornsklöver), vitpeppar].",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7393263084713",
+      "name": "VILTKÖTTBULLAR 400G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Stekt kulpotatis (47.5%) [Potatis, konserveringsmedel (E223, NATRIUMDISULFIT), salt, svartpeppar, timjan, grönpeppar, vitpeppar], Viltköttbullar (27.5%) [Viltfärs (70%) (61,2% hjort, 26,5% fläsk, 12,3% renkött), vatten, potatisflingor (potatisflingor, emulgeringsmedel (E471), stabiliseringsmedel (E450), antioxidationsmedel (E330)), ÄGG flytande (ÄGG, vatten, salt, konserveringsmedel (E202), surhetsreglerande medel (E330), emulgeringsmedel (E471, E475)), rapsolja, salt, potatisfiber, druvsocker(majs), lök, chilirub (chilipeppar, salt, lök, vitlök, tomat, svartpeppar, oregano, spiskummin, rökt paprika, antioxidationsmedel (E330)), svartpeppar, timjan, grönpeppar, vitpeppar, collorit (färgämne (E150c), vatten, salt], Lingongräddsås (24,9%) [GRÄDDE (49%), MJÖLK, champinjoner, köttfond (köttbuljong (vatten, oxben, morot, lök, purjolök, vitpeppar, lagerblad), tomatpuré, köttarom (salt, maltodextrin, arom), karamelliserat socker, fruktos), lingon, majsstärkelse, salt, socker, svartpeppar].",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310240035018",
+      "name": "Österrikisk Gulaschsoppa 475 g",
+      "company": "FELIX",
+      "ingredients": "Vatten, potatis (12%), tomatpuré, paprika (6,5%), lök, morot (5,5%), nötkött (4,5%), rapsolja, köttbuljong av nöt, tomat, stärkelse, kryddor (bl.a. paprika, kummin, spiskummin, timjan), vitlök, naturlig arom, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7393263084478",
+      "name": "RAGGMUNK 370G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Raggmunkar (63.2%) [Potatis, ÄGG, kärnMJÖLK, VETEmjöl, rapsolja, RÅGmjöl, potatismjöl, salt med jod, vitpeppar], Stekt sidfläsk (26.3%) [Sidfläsk utan svål (90%), vatten, salt, druvsocker, konserveringsmedel (E250), antioxidationsmedel (E301)], Lingonsylt [lingon, socker, vatten, förtjockningsmedel (pektin), antioxidationsmedel (E330), konserveringsmedel (E202)].",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7393914000147",
+      "name": "Köttbullar med Potatismos, Gräddsås 400g",
+      "company": "Gooh",
+      "ingredients": "Köttbullar (29%) (fläsk*- och nötkött* (80%), ströbröd (VETE), potatis, lök, ÄGG, salt, potatismjöl, torkad lök, kryddor, socker, MJÖLKpulver), potatis (27%), vatten, MJÖLK, GRÄDDE (5,7%), SMÖR, kalvfond (vatten, salt, köttextrakt, tomatpulver, arom, kalvbuljong, modifierad potatisstärkelse), lök, salt (jod), modifierad potatisstärkelse, socker, bacon (sidfläsk*, vatten, salt, druvsocker, stabiliseringsmedel (E451), antioxidationsmedel (natriumaskorbat), konserveringsmedel (E250)), ättika, vitpeppar. *Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350125520307",
+      "name": "Quick & green Grek wrap 335 g",
+      "company": "Oh Mungood",
+      "ingredients": "Grekisk wrap röra 43%, pitabröd 26%, mungbönsbitar 18%, rödkål 13%, kokt quinoa, MJÖLKpulver, kokosnötsolja, MJÖLKprotein, gurka, dill, vitlök, GRÄDDE, MJÖLK, ättiksprit, ÄGGulepulver, SENAPsfrö, vinäger, morot, äppelcidervinäger, VETEmjöl, mungböna, rundkornigt råris, lök, rödbeta, mald koriander, BOCKHORNSKLÖVER, spiskummin, cayennepeppar, lagerblad, stärkelse, maltodextrin, ystenzym, kalciumklorid, syrningskultur, jäst, salt, socker, torkade grönsaker (palsternacka, SELLERI, purjolök, paprika, persilja), kryddor, vatten, konserveringsmedel (kaliumsorbat, natriumbensoat), förtjockningsmedel (guarkärnmjöl, xantangummi).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7393263084485",
+      "name": "SPAGHETTI & KÖTTFÄ 460G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Kokt bandspaghetti (54,3%) [vatten, bandspaghetti (DURUMVETE, vatten), rapsolja], Köttfärssås (45.7%) [köttfärs av gris och nöt (47%), vatten, tomatsås (tomatpuré, tomater, solrosolja, socker, salt, lök, antioxidationsmedel (E330)), lök, tomatpuré (tomatpuré, salt), salt, kalvfond (vatten, tomatpasta, salt, maltodextrin, surhetsreglerande medel (E325), jästextrakt (från KORN), socker, färgämne (E150), arom (SELLERI), lök, kalvkött, rapsolja, grönsaksjuicekoncentrat (tomater, morötter, lök, vitlök, champinjoner, purjolök, SELLERI), stabiliseringsmedel (E415)), pressad vitlök (vitlök, salt, antioxidationsmedel (E330)), majsstärkelse, oregano, timjan]. Kan innehålla spår av SOJABÖNOR och SENAP.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340007500183",
+      "name": "Italiensk kyckling sallad 400g",
+      "company": "Vidinge",
+      "ingredients": "25 % kokt pasta med örter (vatten, DURUMVETE, basilika, olivolja, solrosolja, salt, dragon, vitlök), 17 % stekt kycklingbröstfilé (kycklingbröstfilé, salt, stabiliseringsmedel (E450, E451), druvsocker, surhetsreglerande medel (E262, E327), antioxidationsmedel (E301), arom), körsbärstomater, romansallat, 10 % pestovinägrett (vatten, solrosolja, olivolja, grön pesto (basilika, olivolja, vatten, solrosolja, persilja, salt, pinjenöt, vitlök, vinäger, peppar), vinäger, socker, basilika, ostpulver (MJÖLK), vitlök, spenat, salt, naturlig arom, kryddor, modifierad majsstärkelse, förtjockningsmedel (E415)), ruccola, rosésallat, 5 % regato-ost (MJÖLK, salt, löpe, startkultur), tapenade svarta oliver (svarta oliver, olivolja, solrosolja, salt, vinäger, vitlök). Kan innehålla spår av ÄGG och SOJA.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7393263084799",
+      "name": "JANSSONS FRESTELSE 600G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Potatis (53,5%) [potatis, konserveringsmedel (E223, NATRIUMDISULFIT)], GRÄDDE (18,8%), ansjoviskryddad sill (10,6%) [SILLFILÉER (63,2%), vatten, socker, salt, ättika, kryddor, konserveringsmedel (E211)], MJÖLK, lök, ströbröd [rismjöl, kikärtsmjöl, majsstärkelse, salt, druvsocker], kryddblandning [salt, socker, jästextrakt, maltodextrin (majs, potatis), kryddor (lagerblad, kryddpeppar, ingefära, mejram, kryddnejlika), FISKpulver], vitpeppar.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7393914000123",
+      "name": "Kycklingbröst i basilikasås 400g",
+      "company": "Gooh",
+      "ingredients": "Vatten, kycklingbröst (22%) (kycklingbröst*, vatten, salt), kokt tagliatelle (22%) (durumVETEMJÖL, ÄGG), GRÄDDE, vitt vin (3%), vitvinsvinäger, modifierad potatisstärkelse, salt (jod), basilika, socker, vitlök, olivolja, spenat, chilipeppar, vitpeppar. *Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350125520321",
+      "name": "Quick & green Asian sallad 300 g",
+      "company": "Oh Mungood",
+      "ingredients": "Glasnudlar 38%, mungbönsbitar 19%, rödkål 13%, mungbönor (glasnudlar), chilipeppar, paprika, russin, ättika, mungböna, rundkornigt råris, lök, rödbeta, vitlök, mald koriander, BOCKHORNSKLÖVER , spiskummin, cayennepeppar, lagerblad, GRÄDDE, MJÖLK, yoghurtkultur, rapsolja, ättiksprit, ÄGGulepulver, SENAPsfrö, vinäger, SESAMolja, chili, SOJAbönor, morot, SESAMfrö, maltodextrin, salt, socker, kryddor, vatten, surhetsreglerande medel (citronsyra, ättiksyra), konserveringsmedel (natriumbensoat, kaliumsorbat), förtjockningsmedel (guarkärnmjöl, xantangummi, acetylerat distärkelseadipat), färgämne (paprikaoleoresin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340007500541",
+      "name": "Asiatisk nudelsallad 380g",
+      "company": "Vidinge",
+      "ingredients": "21 % kokta glasnudlar (vatten, glasnudlar (23 %) (ärtstärkelse, grön bönsstärkelse), rapsolja, konserveringsmedel (E 260), salt), spetskål, 16 % dressing (vatten, SOJASÅS (vatten, SOJABÖNOR, salt, ättiksprit), rapsolja, socker, SESAMOLJA, ingefära, citronjuicekoncentrat, chili, vinäger, salt, paprika, vitlök, modifierad majsstärkelse, ris, risextrakt, majs, ättiksprit, limeolja, konserveringsmedel (E 202, E 211), förtjockningsmedel (E 412, E 415), antioxidationsmedel (E 300), färgämne (E 160c)), 13 % kokta räkor (varav 94 % räkor (KRÄFTDJUR) (Litopenaeus vannamei), salt, konserveringsmedel (E 260, E 270, E 223 (SULFIT)), antioxidant (E 330)), picklad morot (morot , vatten, socker, ättika, ingefära, salt), morot, böngroddar, 4 % spenat, 2,6 % CASHEWNÖTTER, salladslök. Kan innehålla spår av andra NÖTTER och JORDNÖTTER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7393263084324",
+      "name": "KYCKLINGPASTA CHILI & MANGODRESSING 400G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Pastapesto-blandning (82.5%) [kokt pasta (49.5%) (vatten, pasta (DURUMVETE, vatten), rapsolja), kyckling (14.9%) (kycklingbröstfílé tärnad, potatisstärkelse, salt, druvsocker, svartpepparextrakt, kycklingbuljong), bladspenat, rapsolja, soltorkad tomat (tomater, solrosolja, salt, örter, antioxidationsmedel (E330, E300)), chilisås (tomater, tomatpuré, socker, ättiksprit, salt, lök, kryddor (vitlök, kryddpeppar, SELLERI, ingefära, cayennepeppar), antioxidationsmedel (E331), konserveringsmedel (E202, E211), kanelarom, chiliextrakt), Västerbottensost® (MJÖLK, salt, mjölksyrakultur, löpe, konserveringsmedel (E202, E251)), socker, vitlök (vitlök, salt, antioxidationsmedel (E330)], Chilimangosås (17.5%) [creme fraiche (GRÄDDE, syrningskultur), chili/mangokrydda (socker, salt, röd paprika, chilipeppar (10,5%), vitlök, ingefära, mangopulver (2%), mangoarom, tomat, syra (mjölksyra), svartpeppar, gurkmeja, klumpförebyggande medel (E551), arom, cayennepeppar, färgämne (paprikaextrakt)]. Kan innehålla spår av ÄGG.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7393263084706",
+      "name": "RENSKAV I GRÄDDSÅS MED POTATISMOS 400G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Potatismos (50,0%) [potatis, MJÖLK, SMÖR (GRÄDDE, salt, mjölksyrakultur) salt, vitpeppar], Renskavssås (41,2%) [GRÄDDE, renskav (27%) (varav renkött 90%, vatten, antioxidationsmedel (E331, E301), stärkelsesirap), MJÖLK, champinjoner, lök, kalvfond (vatten, tomatpasta, salt, maltodextrin, surhetsreglerande medel (E325), jästextrakt (från KORN), socker, färgämne (E150), arom (SELLERI), lök, kalvkött, rapsolja, grönsaksjuicekoncentrat (tomater, morötter, lök, vitlök, champinjoner, purjolök, SELLERI), stabiliseringsmedel (E415)), majsstärkelse, salt, svartpeppar, soja collorit (färgämne (E150c), vatten, salt)], Lingonsylt (8,7%) [lingon, socker, vatten, förtjockningsmedel (pektin), antioxidationsmedel (E330), konserveringsmedel (E202)].",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310240035032",
+      "name": "Indisk Masalasoppa 475 g",
+      "company": "FELIX",
+      "ingredients": "Kokosmjölk, YOGHURT, kikärtor (9 %), gröna linser (8 %), tomat, lök, morot, GRÄDDE, spenat (2 %), ingefära, vitlök, jalapeño, grönsaksbuljong (rismjöl, kryddor (bl.a. libbsticka, fänkål) pumpamjöl, champinjon, shiitake, lök, vitlök), naturlig arom, stärkelse, MJÖLKprotein, salt, farinsocker, kryddor (bl.a. koriander, spiskummin, cayennepeppar, kanel).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310240035001",
+      "name": "ThaiRöd Currysoppa 475 g",
+      "company": "FELIX",
+      "ingredients": "Kokosmjölk, vatten, romanbönor (6,5 %), lök, grillat kycklingbröst (3,5 %), morot, vattenkastanj (3 %), minimajs (3 %), stärkelse, röd currypasta (vitlök, chili, citrongräs, salt, lök, galanga, limeblad, fänkål, koriander), FISKsås (ANSJOVISextrakt, vatten, salt, socker), limejuice, vitlök, ingefära, rapsolja, naturliga aromer (bl.a. kyckling, citrongräs), kryddor (bl.a. kaffir lime), salt, MJÖLKprotein, paprikaextrakt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7316110003187",
+      "name": "Fransk Fisksoppa 470g",
+      "company": "FELIX",
+      "ingredients": "Vatten, GRÄDDE, palsternacka, morot, lök, ROTSELLERI, LAX (Salmo Salar ASC) (4 %), ALASKA POLLOCK (Theragra chalcogramma MSC) (4 %), CRÈME FRAICHE, vitt vin, sherry, tomatpuré, vitlök, rapsolja, stärkelse, naturlig arom (innehåller FISK), salt, socker, persilja, kryddor (bl.a. cayennepeppar), kryddextrakt, skumMJÖLK, MJÖLKprotein.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340007501432",
+      "name": "Vannamei Sesam-Ingefärssås 400g",
+      "company": "Vidinge",
+      "ingredients": "38 % kokta risnudlar (vatten, risnudlar (34 %) (ris, tapioka, vatten), rapsolja, konserveringsmedel (E267), salt), 15 % morot, 15 % sås (vatten, SOJASÅS (vatten, SOJABÖNOR, salt, ättiksprit), socker, risvinäger (vatten, salt, majs, risextrakt, ris), SESAMOLJA (7,3 %), ingefära (5,3 %), modifierad stärkelse, citronjuice från koncentrat, chili, rapsolja, salt, vinäger, vitlök, ättiksprit, paprikapulver, naturlig aromer, konserveringsmedel (E202, E211, E224), förtjockningsmedel (E415), antioxidationsmedel (E300), surhetsreglerande medel (E260, E330), färgämne (E150c, E160c)), 14 % kokta räkor (varav 96 % räkor (KRÄFTDJUR)(Litopenaeus vannamei), salt, surhetsreglerande medel (E260, E270), antioxidationsmedel (E330, E223 (SULFIT)), 10 % pak choi, 5 % purjolök, 4 % broccoli.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7393263084492",
+      "name": "PASTA CARBONARA 460G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Kokt bandspaghetti (54,3%) [vatten, bandspaghetti (DURUMVETE, vatten), rapsolja] Carbonarasås (33,7%) [GRÄDDE, MJÖLK, ost (MJÖLK, salt, löpe, konserveringsmedel (E1105; lysosym från ÄGG), majsstärkelse, smör (GRÄDDE, salt, mjölksyrakultur), svartpeppar, salt, vitpeppar], Stekt bacon (12.0%) [bacon (sidfläsk utan svål, salt, stärkelsesirap, stabiliseringsmedel (E451, E407), druvsocker (majs), jästextrakt, socker, maltodextrin, antioxidationsmedel (E316, E301), vegetabiliskt protein (majs), persilja, konserveringsmedel (E250), arom]. Kan innehålla spår av SOJABÖNOR och SENAP.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7393263084645",
+      "name": "LAX MED VB.OST 400G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Potatisgratäng (68,7%) [potatis (potatis, konserveringsmedel (E223, NATRIUMDISULFIT)), GRÄDDE, MJÖLK, salt, majsstärkelse, persilja, vitlök, svartpeppar, vitpeppar], Stekt regnbågslax (31%) [REGNBÅGSLAX (87,5%), Västerbottensost® (7,5%) (MJÖLK, salt, mjölksyrakultur, löpe, konserveringsmedel (E202 och E251)), vatten, rapsolja, tomatpuré (tomatpuré, salt), salt, citronpeppar (salt, svartpeppar, antioxidationsmedel (E330), lök, paprika, krydda, socker, SELLERI, arom), pressad vitlök (vitlök, salt, antioxidationsmedel (E330)), timjan, lagerblad].",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7393263084652",
+      "name": "VARMRÖKT LAX PASTA 400G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Kokt pasta tortiglioni (50.0%) [Vatten, pasta (DURUMVETE), rapsolja] Rigatonisås (30.0%) [MJÖLK, GRÄDDE, majsstärkelse, ost (MJÖLK, salt, löpe, konserveringsmedel: lysosym från ÄGG), vitt matlagningsvin (vatten, vitt vin*, amontillado*, salt, arom), chilisås (tomater, tomatpuré, socker, ättiksprit, salt, lök, kryddor (bl a vitlök, SELLERI), antioxidationsmedel (E331), konserveringsmedel (E202, E211), arom, chiliextrakt)), salt, socker, hummerfond ((koncentrerad skaldjursfond 62%) (vatten, HUMMEREXTRAKT, RÄKOR), salt, tomatpuré, jästextrakt, glukossirap, tapiokastärkelse, grönsaksjuicekoncentrat (purjolök, lök), modifierad stärkelse, arom, rödbetspulver, förtjockningsmedel (E415), maltodextrin, örter, kryddor), citronpeppar (salt, svartpeppar, antioxidationsmedel (E330), lök, paprika, krydda, socker, SELLERI, arom), svartpeppar, cayennepeppar, timjan] Rökt regnbågsLAX (20,0%) [REGNBÅGSLAX, vatten, salt]. Kan innehålla spår av: Blötdjur och produkter därav. *Innehåller naturligt SULFITER",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350126088523",
+      "name": "Kyckling/morotssoppa 475g",
+      "company": "FELIX",
+      "ingredients": "Morot (27%), apelsinjuice, röda linser, lök, vatten, kokosmjölk, rotSELLERI, kokt kyckling (4%) (kycklingfilé 84%, vatten, salt, glukossirap, kycklingbuljong, stabiliseringsmedel (natriumdifosfat), antioxidationsmedel (natriumaskorbat)), solroskärnor, rapsolja, ingefära, kycklingbuljong, antioxidationsmedel (rosmarinextrakt), salt, vitlök, kryddor (bl.a. persilja, koriander, cayennepeppar), citronjuice.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340007500701",
+      "name": "Japansk sallad m räkor 360g",
+      "company": "Vidinge",
+      "ingredients": "28 % sushiris (vatten, ris, socker, rapsolja, vinäger, salt), 17 % dressing (rapsolja, SOJASÅS (vatten, salt, SOJABÖNOR, VETE), vatten, socker, SESAMOLJA, ÄGGULA, risvinäger (vatten, risextrakt, ris, majs, salt), ingefära, SESAMFRÖ, ättiksprit, salt, arom, konserveringsmedel (E 202), förtjockningsmedel (E 415)), 14 % nordhavsräka (RÄKOR (Pandalus borealis, fångad i nordvästra/nordost Atlanten), vatten, salt, surhetsreglerande medel (E 330, E 331), socker, konserveringsmedel (E 211, E 202)), 11 % spetskål röd, 10 % pak choi, 8 % picklad morot (morot, vatten, socker, ättika, ingefära, salt), 6 % morot, 4 % salladslök, 3 % babyspenat.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340007501302",
+      "name": "WRAP VIETNAMESE STYLE 270g",
+      "company": "Vidinge",
+      "ingredients": "31 % liba bröd (VETEMJÖL, vatten, socker, jäst, salt, KORNMALT), 19 % dressing (rapsolja, vatten, chili (10 %), ÄGGULA, salt, socker, modifierad stärkelse, ättiksprit, vitlök, arom, konserveringsmedel (E 202), förtjockningsmedel (E 415, E 412)), 13 % pulled pork (fläskbog (78 %), vatten, farinsocker, tomatpuré, socker, antioxidationsmedel (E 331, E 325, E 316), salt, vitvinsvinäger, druvsocker, ingefära, färgämne (E 150a), stabiliseringsmedel (E 451), vitlök, kryddor (varav paprika (rökarom), chili, cayennepeppar)), 13 % spetskål, 9 % picklad morot (morot, vatten, socker, ättika, ingefära, salt), 8 % salladskål, 5 % morot, 2 % koriander.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7393914000130",
+      "name": "Korv Stroganoff med vildris 400g",
+      "company": "Gooh",
+      "ingredients": "Falukorv (28%) (gris*- och nötkött*, vatten, potatismjöl, salt, druvsocker, lökpulver, kryddor, kryddextrakt, stabiliseringsmedel (E450), antioxidationsmedel (askorbinsyra), konserveringsmedel (E250), rökarom), kokt ris (20%), GRÄDDE, lök, vatten, vitkål (6,9%), paprika (6,0%), MJÖLK, tomatpuré, kokt vildris (2%), salt (jod), paprikapulver, vitpeppar. *Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340007501456",
+      "name": "WRAP INDIAN STYLE 270g",
+      "company": "Vidinge",
+      "ingredients": "31 % libabröd (VETEMJÖL, vatten, socker, jäst, salt, KORNMALT), 17 % dressing (rapsolja, vatten, mango chutney (20 %) (socker, mango (9,2 %), sockerrörsvinäger, salt, chili, ingefära, vitlökspulver), gräslök, ÄGGULA, curry (0,9 %) (koriander, gurkmeja, bockhornsklöver, chili, spiskummin, fänkål, svartpeppar), salt, ättiksprit, SENAPSFRÖ, vinäger, socker, chili, konserveringsmedel (E 202), förtjockningsmedel (E 412, E 415, E 1442), surhetsreglerande medel (E 330), färgämne (E 160a)), 15 % stekt kycklingbröstfilé (kycklingbröstfilé, salt, stabiliseringsmedel (E 450, E 451), druvsocker, surhetsreglerande medel (E 262, E 327), antioxidationsmedel (E 301), arom), 14 % spetskål, 7 % äpple (äpple, antioxidationsmedel (E 302)), 6 % morot, 2 % persilja.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7393263084539",
+      "name": "FL YTTER & KULPOT 440G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Stekt kulpotatis (45,5%)[Potatis (95,5%), konserveringsmedel (E223, NATRIUMDISULFIT), salt, svartpeppar, timjan, grönpeppar, vitpeppar] Stekt ytterfile (31.8%) [Fläskytterfile( (99%), salt, konserveringsmedel E262), chilirub (chilipeppar (40%), salt, lök, vitlök, tomat, svartpeppar, oregano, spiskummin, rökt paprika, antioxidationsmedel (E330) klumpförebyggande medel (E551)] Trippelpepparsås (22.7%) [GRÄDDE, MJÖLK, köttfond (köttbuljong (vatten, oxben, morot, lök, purjolök, vitpeppar, lagerblad), tomatpuré, köttarom (salt, maltodextrin, arom), karamelliserat socker, fruktos), majsstärkelse, salt, svartpeppar, socker, grönpeppar, vitpeppar].",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340007500114",
+      "name": "Chevresallad 400g",
+      "company": "Vidinge",
+      "ingredients": "20 % kokt pasta (vatten, DURUMVETEMJÖL, rapsolja, konserveringsmedel (E260), salt), dressing (vatten, rapsolja, 19 % honung, vinäger, socker, citronjuicekoncentrat, olivolja, örtvinäger, salt, timjan, förtjockningsmedel (E415), solrosolja, gurkmeja), 14 % äpple (äpple, antioxidationsmedel (E302)), marinerad semitorkad tomat (tomat, solrosolja, basilika, oregano, vitlök, mejram, rosmarin, salt), spenat, 15 % getost med honung (pastöriserad GETMJÖLK, salt, starterkultur, löpe, honung, konserveringsmedel (E202)), 6 % VALNÖT, machésallat. Kan innehålla spår av ÄGG, SOJA, andra NÖTTER och JORDNÖTTER",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340007500121",
+      "name": "Caesarsallad med kyckling 285g",
+      "company": "Vidinge",
+      "ingredients": "42 % romansallat, 23 % stekt kycklingbröstfilé (kycklingbröstfilé, salt, stabiliseringsmedel (E450, E451), druvsocker, surhetsreglerande medel (E262, E327), antioxidationsmedel (E301), arom), 18 % dressing (vatten, raposolja, ostpulver (ost (MJÖLK, salt, starterkultur, löpe, konserveringsmedel (E215), färgämne (E160a/E160b)), smältsalt (E339), SMÖROLJA), äppelcidervinäger, konserveringsmedel (E202), MJÖLKPROTEINER, socker, salt, modifierad stärkelse, nötköttextrakt, jästextrakt, förtjockningsmedel (E 415), vitlök, lök, svartpeppar, senap (vatten, SENAPSFRÖN, vinäger, salt), ansjovis (FISK), citronsaftkoncentrat, surhetsreglerandemedel (E270)), 7 % regato-ost (MJÖLK, salt, löpe, startkultur), 5 % krutonger (VETEMJÖL, olivolja, jäst, salt), 5 % bacon (fläskkött, salt, glykossirap, naturlig rökarom, antioxidationsmedel (E301), konserveringsmedel (E250).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "2310849700008",
+      "name": "POTATISGRATÄNG VB 2500G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Potatis [potatis, konserveringsmedel (E223, NATRIUMDISULFIT)], GRÄDDE (25,6%), MJÖLK, Västerbottensost® (3.4%) [pastöriserad MJÖLK, salt, MJÖLKsyrakultur, löpe, konserveringsmedel (E202 och E251)], salt, majsstärkelse, persilja, vitlök, svartpeppar, vitpeppar. Västerbottensost® är ett av Norrmejerier registrerat varumärke.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690501978",
+      "name": "Kyckling Dumplings 240gr",
+      "company": "ICA Asia",
+      "ingredients": "DUMPLINGS: Vitkål, VETEMJÖL, kycklingfärs*16%, vattenkastanj, vatten, krossad tomat, salt, olivolja, vitlök, basilika, rapsolja, svartpeppar. Sojadipsås: Vatten, vinäger, sojasås (vatten, SOJABÖNOR, VETE, salt), sirap ,rapsolja, salt, SESAMOLJA, chiliextrakt. *Fött, upfött och slaktat i sverige.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350125520314",
+      "name": "Quick & green Oriental bowl 250 g",
+      "company": "Oh Mungood",
+      "ingredients": "Tabbouleh 23% , mungbönsbitar 23%, rödkål 16%, persilja, BULGUR (VETE), lök, mungböna, rundkornigt råris, rödbeta, vitlök, mald koriander, BOCKHORNSKLÖVER, spiskummin, cayennepeppar, lagerblad, rapsolja, kikärtor, SESAMpasta, granatäpplejuice, olivolja, citronjuice, halvtorkade tomater, solrosolja, oregano, SESAMfrö, salt, socker, kryddor, vatten, konserveringsmedel (natriumdiSULFIT, kaliumdiSULFIT), surhetsreglerande medel (citronsyra).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7318690501961",
+      "name": "Vegansk Dumplings 240gr",
+      "company": "ICA Asia",
+      "ingredients": "Vitkål, VETEMJÖL, vatten, vattenkastanj, SOJAFÄRS, HAVREGRYN, SOJABÖNOR, Rapsolja, salt, ingefära, vitlök soltorkade tomater, svartpeppar. Sojadipsås: Vatten, vinäger, sojasås (vatten, SOJABÖNOR, VETE, salt), sirap, rapsolja, salt, SESAMOLJA, chiliextrakt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7393914000154",
+      "name": "Tortelloni med ricotta och spenat 370 g",
+      "company": "Gooh",
+      "ingredients": "Krossad tomat (tomat, tomatjuice), tortelloni (durumVETEMJÖL, ricaottaOST, ÄGG, vatten, spenat, ströbröd (VETE), salt, vitpeppar, muskot), GRÄDDE, lök, olivolja, morot, salt (jod), tomatpuré, SELLERI, socker, basilika, modifierad potatisstärkelse, vitlök, vitpeppar.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7393263084614",
+      "name": "PASTA SPECIAL 400G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Pasta (57,5%) [Kokt bandspaghetti (Vatten, bandspaghetti (durumVETE), rapsolja], Pastasås (25%) [creme fraiche (pastöriserad GRÄDDE, syrningskultur), chilisås (tomater, tomatpuré, socker, ättiksprit, salt, lök, kryddor (bl a vitlök, SELLERI), antioxidationsmedel (E331), konserveringsmedel (E202, E211), arom, chiliextrakt)), sweet chili sås (vatten, socker, sambal oelek (röd chili, salt, ättiksyra), paprika, modifierad majsstärkelse, ättiksyra, salt, vitlök, lök, förtjockningsmedel (E415), konserveringsmedel (E211)), sambal oelek (röd peppar, salt, konserveringsmedel (E211, E260)), salt, pressad vitlök (vitlök, salt, antioxidationsmedel (E330)), chilipulver, kryddor (bl a chili, spiskummin, vitlök), svart och cayennepeppar, oregano], Räk/kräft/lax-blandning (17,5%) [RÄKOR (8,8%) (RÄKOR, vatten, salt, socker, antioxidationsmedel (E331), konserveringsmedel (E202, E211)),Rökt LAX (4,8%) (LAXFILE, salt), KRÄFTSTJÄRTAR (3,8%) (KRÄFTSTJÄRTAR, vatten, salt, surhetsreglerande medel (E330, E262), konserveringsmedel (E211, E202), dillarom].",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "2310849100006",
+      "name": "SKALDJURSLASAGNE 2500G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Kokt hummersås (50,9%) [MJÖLK, GRÄDDE, majsstärkelse, chilisås (tomater, tomatpuré, socker, ättiksprit, salt, lök, kryddor (bl a vitlök, SELLERI), antioxidationsmedel (E331), konserveringsmedel (E202, E211), arom, chiliextrakt), vitt matlagningsvin (Vatten, Vitt Vin*, Amontillado*, Salt, arom), smör (GRÄDDE, salt, mjölksyrakultur), hummerfond (koncentrerad skaldjursfond (vatten, HUMMEREXTRAKT, RÄKOR), salt, tomatpuré, jästextrakt, glukossirap, tapiokastärkelse, grönsaksjuicekoncentrat (purjolök, lök), modifierad stärkelse, arom, rödbetspulver, förtjockningsmedel (E415), maltodextrin, örter, kryddor), salt, socker, cayennepeppar, timjan, curry (bl a gurkmeja, spiskummin, bockhornsklöver)], RÄKOR (18,2%) [RÄKOR, vatten, salt], Lasagneplattor (DURUMVETE, vatten), Ost (9%) [MJÖLK, salt, potatisstärkelse, syrningskultur, vegetabilisk ystenzym], KRÄFTSTJÄRTAR (3,6%) [KRÄFTSTJÄRTAR, vatten, salt, socker, antioxidationsmedel (E331), dillarom, konserveringsmedel (E202, E211)], bladspenat. Kan innehålla spår av: Blötdjur och produkter därav, Fisk och produkter därav samt Senap. *Innehåller naturligt SULFITER",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340007500572",
+      "name": "Nudelsallad med kyckling 350g",
+      "company": "Vidinge",
+      "ingredients": "29 % kokta nudlar (vatten, VETEMJÖL, rapsolja, surhetsreglerande medel (E 260), salt), 17 % dressing (solrosolja, vatten, socker, sojasås (vatten, SOJABÖNOR, VETE, salt), naturliga aromer (av ingefära), limekoncentrat, vinäger, chilipasta (chilipeppar, salt, vinäger, vatten, citrusfiber), koriander, lök, lökextrakt, chilipeppar, stabiliseringsmedel (E 415)), 14 % stekt kycklingbröstfilé (kycklingbröstfilé, salt, stabiliseringsmedel (E 450, E 451), druvsocker, surhetsreglerande medel (E 262, E 327), antioxidationsmedel (E 301), arom), rödkål, morot, spenat, salladskål, purjolök, 3 % CASHEWNÖTTER. Kan innehålla spår av andra NÖTTER och JORDNÖTTER.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7393263084317",
+      "name": "ÖRTAGÅRDSKYCKLING 400G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Pasta (50%) [pasta (DURUMVETE), vatten, tomatpuré, spenatpulver, vatten, rapsolja], Örtagårdskycklingsås (50%) [kyckling (36%) (kycklingbröstfílé tärnad, potatisstärkelse, salt, druvsocker, svartpepparextrakt, kycklingbuljong), creme fraiche (GRÄDDE, syrningskultur), GRÄDDE, MJÖLK, kycklingfond (koncentrerad kycklingfond (vatten, kycklingkött), salt, jästextrakt, arom* (med KORN, ÄGG), socker, kycklingfett, grönsaksjuicekoncentrat (purjolök, morot, lök), modifierad stärkelse, maltodextrin, citronjuicepulver, förtjockningsmedel (E415), kryddor, antioxidationsmedel (rosmarinextrakt)), purjolök, dijonsenap (vatten, SENAPSFRÖN, brännvinsättika, salt, konserveringsmedel (E224), antioxidationsmedel (E330)), majsstärkelse, persilja, salt, timjan, vitpeppar, basilika, oregano, rosmarin].",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340007500725",
+      "name": "Biffsallad m glasnudlar 360g",
+      "company": "Vidinge",
+      "ingredients": "22 % romansallat, 20 % kokta glasnudlar (vatten, glasnudlar (mungbönsstärkelse), rapsolja, konserveringsmedel (E 260), salt), 17 % dressing (rapsolja, vatten, chili, ÄGGULA, salt, socker, modifierad stärkelse, ättiksprit, vitlök, arom, konserveringsmedel (E 202), förtjockningsmedel (E 415, E 412)), 14 % pulled biff (högrev (77 %), vatten, farinsocker, tomatpuré, antioxidationsmedel (E 331, E 325, E 316), rödvinsvinäger, salt, sirap, socker, malt av KORN, modifierad stärkelse, vitvinsvinäger, kryddor (SELLERI), tamarind juice, stabiliseringsmedel (E 451), ingefära, hickory rökarom, köttfond (nötkött, vatten), färgämne (E 150a), vitlök, paprika (rökarom)), 8 % picklad morot (morot, vatten, socker, ättika, ingefära, salt), 7 % spetskål, 6 % morot, 6 % salladslök, 1 % koriander.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7393914000178",
+      "name": "Pasta al pomodoro med mozzarella 400g",
+      "company": "Gooh",
+      "ingredients": "Krossad tomat (41%) (tomat, tomatjuice), kokt pasta (38%) (durumVETEMJÖL), mozzarellaOST (12%) (MJÖLK, salt, mikrobiellt ystenzym, syrningskultur), lök, olivolja, morot, tomatpuré, salt (jod), socker, SELLERI, basilika, vitlök.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7393914000192",
+      "name": "Lasagnette bolognese med mozzarella 400g",
+      "company": "Gooh",
+      "ingredients": "Kokt pasta (36%) (durumVETEMJÖL*), krossat tomat (tomat, tomatjuice), nötfärs* (13%), GRÄDDE, mozzarellaOST (9%), lök, kalvfond (vatten, salt, nötköttextrakt, tomatpulver, arom, kalvbuljong, modifierad potatisstärkelse), tomatpuré, parmesanOST, vitlök, modifierad potatisstärkelse, basilika, salt (jod), svartpeppar, oregano. *Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7393914000208",
+      "name": "Kyckling curry med ris 400g",
+      "company": "Gooh",
+      "ingredients": "Kokt ris (38%), kycklingbröst (22%) (kycklingbröst*, vatten, salt), vatten, GRÄDDE, CRÈME FRAICHE, kycklingfond (vatten, salt, kycklingbuljong, socker, fett från kyckling, modifierad stärkelse, kycklingkött, arom (innehåller SELLERI)), modifierad potatisstärkelse, salt (jod), socker, curry (gurkmeja, koriander, cayennepeppar, spiskummin, fänkål, bockhornsklöver, svartpeppar). *Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340007501326",
+      "name": "Päron & Ädelostsallad 370g",
+      "company": "Vidinge",
+      "ingredients": "16 % päron, 15 % vindruvor, 15 % spenat, 14 % STJÄLKSELLERI, 11 % mögelost (MJÖLK, salt, startkultur, löpe, mögelkultur), 11 % hallonvinägrett (rapsolja, varav 25 % hallonpuré, socker, vatten, rödvinsvinäger, salt, balsamicovinäger (vinäger, koncentrerad druvsaft, färgämne (E150d)), fortjockningsmedel (E415), peppar), 9 % rosésallat, 5 % rostad MANDEL (92 % MANDEL, solrosolja, rökarom (innehåller MJÖLK), stabiliseringsmedel (E 414)), 4 % machésallat. Kan innehålla spår av andra NÖTTER och JORDNÖTTER",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7393263033759",
+      "name": "PASTASALLAD SKINKA 360G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Pasta (36,1%) [(durumVETE), vegetabilisk olja (raps, oliv), salt, vitpeppar), franska örter (bl a rosmarin, persilja, dragon] Kokt skinka(13.9%) [Skinka (86% skinkbitar), vatten, salt, stärkelsesirap (majs), antioxidationsmedel (E331, E301), stabiliseringsmedel (E451), konserveringsmedel (E250)], Rhode island dressing [Rapsolja, vatten, tomatpuré, ÄGGULA, socker, vinäger, ajvar (röd paprika, aubergine,socker, vinäger, salt, solrosolja, vitlök, konserveringsmedel (E202, E211)), salt, lök, chili, kryddextrakt, konserveringsmedel (E202, E211), förtjockningsmedel (E401, E415)], Goudaost (8.3%) [MJÖLK, salt, potatisstärkelse, syrningskultur, vegetabilisk ystenzym], Körsbärstomat, Salladsmix [Frisse, Rose'], Vitkål, Morot, Sockerärtor.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "2310849400007",
+      "name": "RENSKAVSPANNA 2500G",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Renskavssås (57.8%) [GRÄDDE, renskav (9.9%) (renkött (90%), vatten, antioxidationsmedel (E331, E301), stärkelsesirap)), MJÖLK, champinjoner, lök, Kalvfond (vatten, tomatpasta, salt, maltodextrin, antioxidationsmedel (E325), jästextrakt (från KORN), socker, färgämne (E150), arom (SELLERI), lök, kalvkött, rapsolja, grönsaksjuicekoncentrat (tomater, morötter, lök, vitlök, champinjoner, purjolök, SELLERI), stabiliseringsmedel (E415)), majsstärkelse, salt, svartpeppar, collorit (färgämne (E150c), vatten, salt)] Pasta (31.3%) (pasta (durumVETE, VETEfiber), vatten, rapsolja), paprika, Västerbottensost® (3.9%) (MJÖLK, salt, mjölksyrakultur, löpe, konserveringsmedel (E202, E251)), soltorkad tomat (tomater, solrosolja, salt, örter, antioxidationsmedel (E330, E300)).",
+      "gluten": "Glutenfri [ Nej ]"
     },
     {
       "id": "7350039457607",
