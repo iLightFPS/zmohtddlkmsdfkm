@@ -137,556 +137,122 @@
   "date": "2026-08-24",
   "list": [
     {
-      "id": "7321573993395",
-      "name": "Frityrolja 10 L",
-      "company": "Martin & Servera",
-      "ingredients": "Rapsolja, high oleic rapsolja, skumdämpningsmedel (E900)",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7311870010796",
-      "name": "Smör- & rapsolja Laktosfri flytande 5 dl",
-      "company": "Arla Köket®",
-      "ingredients": "Rapsolja (67%), vatten, SMÖROLJA (8%), MJÖLKSYRAKULTUR, sheaolja, kokosolja, salt, emulgeringsmedel (lecitin), vitamin A och D, laktasenzym, naturlig arom.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200306714",
-      "name": "Bak- och matfett 1kg",
-      "company": "Milda",
-      "ingredients": "vegetabiliska oljor (palm*, raps, solros i varierande proportioner), vatten, salt (1,5%), beredning av bondböna, emulgeringsmedel (lecitin, mono- och diglycerider av fettsyror), syra (mjölksyra), naturlig arom, vitamin A och D. *Innehåller RSPO-segregerad palmolja (4-1117-19-100-00).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "6438207000402",
-      "name": "Eleplant 400g",
-      "company": "Eleplant",
-      "ingredients": "Vegetabiliska oljor och fetter (ryps, kokos och kakao i varierande proportion), havredryck (vatten, havre, solrosolja), salt (1,4 %), emulgeringsmedel (solroslecitin), naturliga aromämnen, A- och D2-vitamin, färgämne (betakaroten). Innehåller 3 % havre.",
+      "id": "7310090781929",
+      "name": "Mannafrutti XL Jordgubb 215 g",
+      "company": "Mannafrutti",
+      "ingredients": "MJÖLK/MÆLK, vatten/vand, socker/sukker (9%), jordgubbar/jordbær (6%), MANNAGRYN AV VETE/MANNAGRYN AF HVEDE (4%), GRÄDDE/FLØDE, VETESTÄRKELSE/HVEDESTIVELSE, naturliga aromer/naturlig aroma, förtjockningsmedel/fortykningsmidler (pektin, karragenan/carrageenan), syra/syre (citronsyra/citronsyre), fläderbärsjuice/hyldebærjuice, salt.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
-      "id": "7321573417501",
-      "name": "Stek- och bakmargarin 80 % 2,5 kg",
-      "company": "Martin & Servera",
-      "ingredients": "Palmolja, rapsolja, vatten, kokosolja, salt 1,5%, emulgeringsmedel (E471, E472c), arom, vitamin A, vitamin D.",
+      "id": "7350126087816",
+      "name": "Risifrutti Magisk Mango 175 g",
+      "company": "RISIFRUTTI",
+      "ingredients": "MJÖLK/MÆLK, vatten/vand, ris (8,5%), socker (6,3%), äpple/æble (6%), GRÄDDE/FLØDE, naturliga aromer (bl. a. vanillin), mango (0,38%), förtjockningsmedel/fortykningsmiddel (pektin, karragenan), salt, syra (citronsyra), färg (paprikaextrakt/peberekstrak, tistelextrakt/tidselekstrakt).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "6438207014034",
-      "name": "Flytande margarin 750 ml",
-      "company": "CARLSHAMN",
-      "ingredients": "Rapsolja, vatten, fullhärdad rapsolja, emulgeringsmedel (E471 och E472c av vegetabiliskt fett), salt (0,9 %), aromämne, A- och D2-vitamin, färgämne (betakaroten).",
+      "id": "7316110002647",
+      "name": "Risifrutti Pink Lemonade 175 g",
+      "company": "RISIFRUTTI",
+      "ingredients": "MJÖLK/MÆLK, ris (8,5%), vatten/vand, socker, äpple/æble, GRÄDDE/FLØDE, jordgubbar/jordbær (1%), naturliga aromer (bl. a. vanillin), citronjuicekoncentrat (0,2%), förtjockningsmedel/fortykningsmiddel (pektin, karragenan), syra (askorbinsyra, citronsyra), salt, färg/farve (antocyanin).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "6438207000174",
-      "name": "Flytande margarin 1,75 l",
-      "company": "CARLSHAMN",
-      "ingredients": "Rypsolja (76 %), vatten, fullhärdad rypsolja (2 %), emulgeringsmedel (E471, lecitin), salt (1,0 %), surhetsreglerande medel (citronsyra), aromämne, A- och D2-vitamin, färgämne (betakaroten). Salthalt 1,0 %. Mjökfritt, laktsofritt, sojafritt.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200305588",
-      "name": "Mat & Bak 1 kg",
-      "company": "Rama Professional",
-      "ingredients": "vegetabiliska oljor (palm**, raps, solros i varierande proportioner), vatten, salt (1,5%), beredning av bondböna, emulgeringsmedel (lecitin,mono- och diglycerider av fettsyror), syra (mjölksyra), naturlig arom, vitaminer (A, D). **Innehåller RSPO-segregerad palmolja (4-1117-19-100-00)",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200259447",
-      "name": "Buttery & Creamy Normalsaltat 600g",
-      "company": "Flora",
-      "ingredients": "växtoljor (solros, raps), vatten, kokosolja, havssalt (1,1%), beredning av bondböna, emulgeringsmedel (lecitin), naturlig arom, färgämne (karotener).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "6438207000105",
-      "name": "Bakning hushållsma 1 kg",
-      "company": "CARLSHAMN",
-      "ingredients": "Vegetabiliska fetter (SG-palm**, kokos), rapsolja, vatten, salt (1,0 %), emulgeringsmedel (E471 och E472c av vegetabiliskt fett), aromämne, A- och D2-vitamin, färgämne (betakaroten). **Hållbar och certifierad palm. Fetthalt 80 %. Salthalt 1,0 %.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200259843",
-      "name": "Flytande Margarin 2,5 L",
-      "company": "Rama Professional",
-      "ingredients": "Rapsolja, vatten, fullhärdad rapsolja, salt 0,8 %, emulgeringsmedel (lecitin, mono- och diglycerider av fettsyror), konserveringsmedel (kaliumsorbat), syra (citronsyra), naturlig arom, vitamin A och D, färgämne (karoten).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200257849",
-      "name": "Laktos- & Mjölkfri 600g",
-      "company": "Flora",
-      "ingredients": "NGREDIENSER: växtoljor (raps, solros), vatten, kokosolja, salt (0,8%), emulgeringsmedel (mono- och diglycerider av fettsyror, lecitin), syra (citronsyra), naturlig arom, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200312319",
-      "name": "Extrasaltat 550g",
-      "company": "Flora",
-      "ingredients": "Växtoljor (raps, solros), vatten, kokosolja, salt (1,7%), beredning av bondböna, emulgeringsmedel (solroslecitin), naturlig arom, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200259508",
-      "name": "Buttery & Creamy Havssalt 600",
-      "company": "Flora",
-      "ingredients": "växtoljor (solros, raps), vatten, kokosolja, havssalt (1,7%), beredning av bondböna, emulgeringsmedel (lecitin), naturlig arom, färgämne (karotener).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200257870",
-      "name": "Laktos- & Mjölkfri 400g",
-      "company": "Flora",
-      "ingredients": "växtoljor (raps, solros), vatten, kokosolja, salt (0,8%), emulgeringsmedel (mono- och diglycerider av fettsyror, lecitin), syra (citronsyra), naturlig arom, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200258822",
-      "name": "Original Normalsaltat 400g",
-      "company": "Flora",
-      "ingredients": "växtoljor (raps, solros), vatten, kokosolja, salt (1,3%), emulgeringsmedel (solroslecitin), naturlig arom, vitamin A och D",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200258679",
-      "name": "Bak- och matfett 500g",
-      "company": "Milda",
-      "ingredients": "vegetabiliska oljor (palm*, raps, solros i varierande proportioner), vatten, salt (1,5%), beredning av bondböna, emulgeringsmedel (lecitin, mono- och diglycerider av fettsyror), syra (mjölksyra), naturlig arom, vitamin A och D. *Innehåller RSPO-segregerad palmolja (4-1117-19-100-00).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200311886",
-      "name": "Original 550g",
-      "company": "Flora",
-      "ingredients": "Växtoljor (raps, solros), vatten, kokosolja, salt (1,3%), beredning av bondböna, emulgeringsmedel (solroslecitin), naturlig arom, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200259812",
-      "name": "Stek, Mat & Bak 2,5 kg",
-      "company": "Rama Professional",
-      "ingredients": "vegetabiliska oljor (palm*, raps), vatten, salt 1,5%, emulgeringsmedel (lecitin), syra (citronsyra), naturlig arom, vitamin A och D, färgämne (karoten). *Innehåller RSPO-segregerad palmolja 4-1117-19-100-00",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "6438207000280",
-      "name": "Eleplant 500g bakmargarin 500 g",
-      "company": "Eleplant",
-      "ingredients": "Vegetabiliska oljor och fetter (kokos, raps och shea i varierande proportion), havredryck 17 % (vatten, glutenfri havre, solrosolja), salt (1,2 %), emulgeringsmedel (solroslecitin), naturliga aromämnen, A- och D2-vitamin, färgämne (betakaroten). Innehåller 4 % havre.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "6438207000082",
-      "name": "3 oljor marg. port 240 x 6g",
-      "company": "CARLSHAMN",
-      "ingredients": "Rapsolja (44 %), vatten, vegetabiliska fetter (kokos 11 %, shea 5 %), salt (1 %), aromämnen, A- och D2 vitamin, färgämne (betakaroten). Salthalt 1 %. Fetthalt 60 %.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "6438207000242",
-      "name": "Tre oljor margarin 600 g",
-      "company": "CARLSHAMN",
-      "ingredients": "Rapsolja (44 %), vatten, vegetabiliska fetter (kokos 11 %, shea 5 %), salt (1,1 %), emulgeringsmedel (E471, rapslecitin), naturliga aromämnen, A och D2 vitaminer, färg (betakaroten).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "6438207001034",
-      "name": "HoReCa 2,5kg Margarin 60% 2,5 kg",
-      "company": "CARLSHAMN",
-      "ingredients": "Rapsolja (42 %), vatten, vegetabiliska fetter (SG-palm och kokos i varierande proportion), salt (0,7 %), emulgeringsmedel (E471 av vegetabiliskt fett), aromämnen, A- och D2-vitamin, färgämne (betakaroten).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200261693",
-      "name": "Matfett 75% mjölkfri portion 200x10g",
-      "company": "Flora Professional",
-      "ingredients": "vegetabiliska oljor (raps, solros), vatten, kokosolja, salt (0,9%), emulgeringsmedel (lecitin), naturlig arom, vitaminer (A, B1, D).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "6438207017288",
-      "name": "Kallpressad marg 400 g",
-      "company": "CARLSHAMN",
-      "ingredients": "Kallpressad rapsolja (46 %), vatten, kokosolja (8 %), shea olja (6 %), salt (0,9 %), emulgeringsmedel (E471), naturliga aromämnen, A- och D2-vitamin, färgämne (betakaroten). Mjölkfritt, laktosfritt. Utan konserveringsmedel.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200261723",
-      "name": "Original lättmargarin portion 200x10 g",
-      "company": "Lätta",
-      "ingredients": "vatten, vegetabiliska oljor (raps, solros), kokosolja, modifierad stärkelse, salt (1,5%), emulgeringsmedel (mono- och diglycerider av fettsyror, lecitin), beredning av bondböna, konserveringsmedel (kaliumsorbat), surhetsreglerande medel (mjölksyra), naturlig arom, vitaminer (A, D).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200257481",
-      "name": "Lätt 400 g",
-      "company": "Flora",
-      "ingredients": "vatten, växtoljor (raps, solros, linfrö), kokosolja, modifierad stärkelse, salt (1,0%), kaliumklorid, emulgeringsmedel (mono- och diglycerider av fettsyror, lecitin), konserveringsmedel (kaliumsorbat), surhetsreglerande medel (citronsyra), naturlig arom, vitaminer (A, B1, D).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200257375",
-      "name": "Original 600g",
-      "company": "Lätta",
-      "ingredients": "vatten, vegetabiliska oljor (raps, solros), kokosolja, modifierad stärkelse, salt (1,5%), emulgeringsmedel (mono- och diglycerider av fettsyror, lecitin), beredning av bondböna, konserveringsmedel (kaliumsorbat), surhetsreglerande medel (mjölksyra), naturlig arom, vitaminer (A, D).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200257344",
-      "name": "Original 400g",
-      "company": "Lätta",
-      "ingredients": "vatten, vegetabiliska oljor (raps, solros), kokosolja, modifierad stärkelse, salt (1,5%), emulgeringsmedel (mono- och diglycerider av fettsyror, lecitin), beredning av bondböna, konserveringsmedel (kaliumsorbat), surhetsreglerande medel (mjölksyra), naturlig arom, vitaminer (A, D).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200052529",
-      "name": "Omega 3 margarin 400 g",
-      "company": "Becel",
-      "ingredients": "Vatten, växtoljor (raps, solros, linfrö), kokosolja, modifierad stärkelse, salt (1,0%), kaliumklorid, emulgeringsmedel (mono- och diglycerider av fettsyror, lecitin), konserveringsmedel (kaliumsorbat), surhetsreglerande medel (citronsyra), naturlig arom, vitaminer (A, B1, D).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200261754",
-      "name": "Becel Omega 3 lättmargarin, portion 200x10 g",
-      "company": "Becel",
-      "ingredients": "vatten, växtoljor (raps, solros, linfrö), kokosolja, modifierad stärkelse, salt (0,8%), kaliumklorid, emulgeringsmedel (mono- och diglycerider av fettsyror, lecitin), konserveringsmedel (kaliumsorbat), surhetsreglerande medel (citronsyra), naturliga aromer, vitaminer (A, D).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200052543",
-      "name": "Omega 3 margarin 600 g",
-      "company": "Becel",
-      "ingredients": "Vatten, växtoljor (raps, solros, linfrö), kokosolja, modifierad stärkelse, salt (1,0%), kaliumklorid, emulgeringsmedel (mono- och diglycerider av fettsyror, lecitin), konserveringsmedel (kaliumsorbat), surhetsreglerande medel (citronsyra), naturlig arom, vitaminer (A, B1, D).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200305601",
-      "name": "Lätta Original 2kg",
-      "company": "Lätta",
-      "ingredients": "vatten, vegetabiliska oljor (raps, solros), kokosolja, modifierad stärkelse, salt (1,5%), emulgeringsmedel (mono- och diglycerider av fettsyror, lecitin), beredning av bondböna, konserveringsmedel (kaliumsorbat), surhetsreglerande medel (mjölksyra), naturlig arom, vitaminer (A, D).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310861005674",
-      "name": "Norrgott mellan 600 g",
-      "company": "Norrmejerier",
-      "ingredients": "Pastöriserad norrländsk GRÄDDE, vatten, rapsolja, salt 1,2%, mjölksyrakultur, vitamin A och D. Fetthalt 58%, varav 67% mjölkfett och 33% rapsolja.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310861005292",
-      "name": "Norrgott Mellan 400 gram",
-      "company": "Norrmejerier",
-      "ingredients": "Pastöriserad norrländsk GRÄDDE, vatten, rapsolja, salt 1,2%, syrningskultur, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310861005506",
-      "name": "Norrgott ns 600 g",
-      "company": "Norrmejerier",
-      "ingredients": "Pastöriserad norrländsk GRÄDDE, rapsolja, vatten, salt 1,2%, mjölksyrakultur, vitamin A och D. Fetthalt 75%, varav 68% mjölkfett och 32% rapsolja.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200277076",
-      "name": "Mjölkfri 75% 600 g",
-      "company": "Flora Professional",
-      "ingredients": "Vegetabiliska oljor (raps, solros), vatten, kokosfett, salt (0,9%), emulgeringsmedel (lecitin), naturlig arom, vitaminer (A, B1, D)",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7321573423458",
-      "name": "Bredbart matfett 70 % 2 kg",
-      "company": "Martin & Servera",
-      "ingredients": "Rapsolja, vatten, palmolja, kokosolja, salt 1,1%, emulger.medel (E471, E322), konserveringsmedel (E202), surhetsregler.medel (E330), arom, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310861005223",
-      "name": "Norrgott normalsaltat 400 gram",
-      "company": "Norrmejerier",
-      "ingredients": "Pastöriserad norrländsk GRÄDDE, rapsolja, vatten, salt 1,2%, syrningskultur, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200235335",
-      "name": "Gold 75% 550 g",
-      "company": "Becel",
-      "ingredients": "Vegetabiliska oljor (raps, solros), vatten, kokosfett, salt (0,9%), emulgeringsmedel (lecitin), naturlig arom, vitaminer (A, B1, D).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200290457",
-      "name": "Flora Buttery & Creamy, portion 192x10g",
-      "company": "Flora Professional",
-      "ingredients": "växtoljor (solros, raps i varierande proportioner), kokosfett, vatten, havssalt (1,7%), beredning av bondböna, emulgeringsmedel (lecitin), naturlig arom, färgämne (karotener).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310861005520",
-      "name": "Norrgott EXS 600 g",
-      "company": "Norrmejerier",
-      "ingredients": "Pastöriserad norrländsk GRÄDDE, rapsolja, vatten, salt 1,8%, mjölksyrakultur, vitamin A och D. Fetthalt 75%, varav 68% mjölkfett och 32% rapsolja.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310861005230",
-      "name": "Norrgott Extrasaltat 400 gram",
-      "company": "Norrmejerier",
-      "ingredients": "Pastöriserad norrländsk GRÄDDE, rapsolja, vatten, salt 1,8%, syrningskultur, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200305632",
-      "name": "Mjölkfri 75% 2 kg",
-      "company": "Flora Professional",
-      "ingredients": "Vegetabiliska oljor (raps, solros), vatten, kokosfett, salt (0,9%), emulgeringsmedel (lecitin), naturlig arom, vitaminer (A, B1, D).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200277045",
-      "name": "Mjölkfri 75% 400 g",
-      "company": "Flora Professional",
-      "ingredients": "Vegetabiliska oljor (raps, solros), vatten, kokosfett, salt (0,9%), emulgeringsmedel (lecitin), naturlig arom, vitaminer (A, B1, D)",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "6438207000433",
-      "name": "Eleplant 600g",
-      "company": "Eleplant",
-      "ingredients": "Vegetabiliska oljor och fetter (raps, kokos och shea i varierande proportion), havredryck (vatten, glutenfri havre, solrosolja), salt (1,4 %), emulgeringsmedel (solroslecitin), naturliga aromämnen, A- och D2-vitamin, färgämne (betakaroten). Innehåller 3 % havre",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200269453",
-      "name": "Buttery & Creamy 500g",
-      "company": "Flora",
-      "ingredients": "växtoljor (solros, raps), kokosfett, vatten, havssalt (1,7%), beredning av bondböna, emulgeringsmedel (lecitin), naturlig arom, färgämne (karotener).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7311870010901",
-      "name": "Laktosfri Normalsaltat smör & raps 250g",
-      "company": "Bregott®",
-      "ingredients": "SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, vatten, salt, laktasenzym, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "0000057082189",
-      "name": "Normalsaltat smör/rapsolja portio 8g",
-      "company": "Bregott®",
-      "ingredients": "SMÖR 59% (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja 26%, vatten, salt, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7311870011076",
-      "name": "Normalsaltat smör & raps 750g",
-      "company": "Bregott®",
-      "ingredients": "SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, vatten, salt, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7311870011083",
-      "name": "Mellan smör & raps 750g",
-      "company": "Bregott®",
-      "ingredients": "Vatten, SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, salt, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310860051672",
-      "name": "Normalsaltat smör & rapsolja 2.0 kg",
-      "company": "Bregott®",
-      "ingredients": "SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, vatten, salt, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310867550505",
-      "name": "Skånegott Matfettsblandning 75% 500 gr",
-      "company": "SKÅNEMEJERIER",
-      "ingredients": "GRÄDDE, rapsolja, MJÖLK, salt (1,2 %), mjölksyrakultur, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7311870010871",
-      "name": "Mellan smör & raps 250g",
-      "company": "Bregott®",
-      "ingredients": "Vatten, SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, salt, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7311870010888",
-      "name": "Normalsaltat smör & raps 250g",
-      "company": "Bregott®",
-      "ingredients": "SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, vatten, salt, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7311870010925",
-      "name": "Mindre smör & raps 500g",
-      "company": "Bregott®",
-      "ingredients": "Vatten, SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, modifierad stärkelse, salt, konserveringsmedel (kaliumsorbat), vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7311870010963",
-      "name": "Ekologisk Normalsaltat smör & raps 500g",
-      "company": "Bregott®",
-      "ingredients": "SMÖR* (pastöriserad GRÄDDE*, mjölksyrakultur*), rapsolja*, vatten, salt, vitamin A och D. *KRAV-ekologisk ingrediens.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310865889386",
-      "name": "Ekologisk smör/rapsolja portion 8g",
-      "company": "Bregott®",
-      "ingredients": "SMÖR* 54% (pastöriserad GRÄDDE*, mjölksyrakultur*), rapsolja* 26%, vatten, salt, vitamin A och D.*KRAV-ekologisk ingrediens.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7311870593800",
-      "name": "Växtriket 75% 350g",
-      "company": "Bregott®",
-      "ingredients": "Rapsolja (54%), vatten, shea- & kokosolja (20%), HAVRE, salt, citronjuicekoncentrat, vitamin A och D2.",
+      "id": "7310090786627",
+      "name": "Mannafrutti Skogsbär 165 g",
+      "company": "Mannafrutti",
+      "ingredients": "MJÖLK/MÆLK, vatten/vand, socker/sukker (9%), bär/bær (6%) (hallon/hindbær, blåbär/blåbær, boysenbär/boysenbær, björnbär/brombær), MANNAGRYN AV VETE/MANNAGRYN AF HVEDE (4%), GRÄDDE/FLØDE, VETESTÄRKELSE/HVEDESTIVELSE, naturliga aromer/naturlig aroma, förtjockningsmedel/fortykningsmidler (pektin, karragenan/carrageenan), salt, syra/syre (citronsyra/citronsyre).",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
-      "id": "7311870011151",
-      "name": "Havssalt smör & raps 350 g",
-      "company": "Bregott®",
-      "ingredients": "SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, havssalt 2,0%, vitamin A och D.",
+      "id": "7316110002678",
+      "name": "Chokladpudding 4-PACK",
+      "company": "EKSTRÖMS",
+      "ingredients": "Vatten, socker, skumMJÖLKspulver, GRÄDDE, fettreducerat kakaopulver 2,2%, modifierad stärkelse, gelatin, geleringsmedel (E407), arom.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7311870010949",
-      "name": "Ekologisk Mellan smör & raps 500g",
-      "company": "Bregott®",
-      "ingredients": "Vatten, SMÖR* (pastöriserad GRÄDDE*, mjölksyrakultur*), rapsolja*, salt, vitamin A och D. *KRAV-ekologisk ingrediens.",
+      "id": "0000073515913",
+      "name": "Chokladpudding 120 g",
+      "company": "EKSTRÖMS",
+      "ingredients": "Vatten, socker, skumMJÖLKspulver, GRÄDDE, fettreducerat kakaopulver 2,2%, modifierad stärkelse, gelatin, geleringsmedel (E407), arom.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7311870010918",
-      "name": "Ekologisk Normalsaltat smör & raps 250g",
-      "company": "Bregott®",
-      "ingredients": "SMÖR* (pastöriserad GRÄDDE*, mjölksyrakultur*), rapsolja*, vatten, salt, vitamin A och D. *KRAV-ekologisk ingrediens.",
+      "id": "8712566415588",
+      "name": "Panna Cotta 2x260gr",
+      "company": "CARTE D´OR",
+      "ingredients": "Socker, gelatin (från nötkreatur), majsstärkelse, arom, förtjockningsmedel (xantangummi). Kan innehålla gluten, mjölk, ägg, mandlar, hasselnötter och soja.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350089940647",
+      "name": "SMULTRONKRÄM 1.5kg",
+      "company": "RSCUED",
+      "ingredients": "Smultron 34% (EU), socker, vatten, jordgubbspuré, citrusfiber, surhetsreglerande medel (E300, E330).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7311870010932",
-      "name": "Mellan smör & raps 500g",
-      "company": "Bregott®",
-      "ingredients": "Vatten, SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, salt, vitamin A och D.",
+      "id": "7350089941378",
+      "name": "ÄPPELKRÄM 1.5kg",
+      "company": "RSCUED",
+      "ingredients": "Äppelmust 57,74 %, Socker 32,72 %, Vatten 7,70%, Pektin 0,6%, Kanel mald 0,5%, Askorbinsyra 0,44%, Citronsyra 0,31%",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7310860005927",
-      "name": "Matfettsblandning 40% 400g",
-      "company": "Lätt & Lagom®",
-      "ingredients": "Vatten, rapsolja (23%), vegetabiliskt fett (sheaolja, kokosolja), KÄRNMJÖLK (6%), modifierad stärkelse, SMÖROLJA, mjölksyrakultur, salt, emulgeringsmedel (mono- och diglycerider av veg. fett), konserveringsmedel (kaliumsorbat), surhetsreglerande medel (mjölksyra, natriumcitrat, citronsyra), arom, vitamin A och D.",
+      "id": "5410488821878",
+      "name": "Crème Anglaise 1L",
+      "company": "Debic",
+      "ingredients": "MJÖLK; socker;GRÄDDE 42% fett (3%); modifierad stärkelse; ÄGGULA; naturligt Bourbon vaniljextrakt; naturliga aromämnen; stabiliseringsmedel: E331, karragenan; emulgeringsmedel: E471; salt; färgämnen: betakaroten; vaniljfrön",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7310865889447",
-      "name": "Matfettsblandning 40% portion 8 g",
-      "company": "Lätt & Lagom®",
-      "ingredients": "Vatten, rapsolja (23%), vegetabiliskt fett (sheaolja, kokosolja), KÄRNMJÖLK (6%), modifierad stärkelse, SMÖROLJA, mjölksyrakultur, salt, emulgeringsmedel (mono- och diglycerider av veg. fett), konserveringsmedel (kaliumsorbat), surhetsreglerande medel (mjölksyra, natriumcitrat, citronsyra), arom, vitamin A och D.",
+      "id": "7310890100333",
+      "name": "Ostkaka 300g",
+      "company": "FRÖDINGE",
+      "ingredients": "MJÖLK*, GRÄDDE*, ÄGG*, VETEMJÖL*, socker*, MJÖLKSOCKER, SKUMMJÖLKSPULVER*, SÖTMANDEL, VETESTÄRKELSE, BITTERMANDEL, kalciumklorid, vegetabiliskt ystenzym, konserveringsmedel (sorbinsyra). KAN INNEHÅLLA SPÅR AV NÖTTER. *Svenskt ursprung. (Swedish)",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5410488060703",
+      "name": "Mousseline 1,75Kg",
+      "company": "Debic",
+      "ingredients": "helMJÖLK; socker; GRÄDDE 42% fett (8%); hydrerad kokosolja; gelatin (nöt); glukossirap; modifierad stärkelse; MJÖLKprotein; vaniljextrakt; emulgeringsmedel: E472b, E471; konsistensgivare: E339, karragenan, natriumalginat, E464; färgämnen: betakaroten.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7311870010987",
-      "name": "Extrasaltat smör & raps 500g",
-      "company": "Bregott®",
-      "ingredients": "SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, vatten, salt, vitamin A och D.",
+      "id": "5410488140023",
+      "name": "Glassbas Scoop Ice Cream 10L BIB 1x10kg",
+      "company": "Debic",
+      "ingredients": "skummad mjölk; GRÄDDE (25,7%); socker; glukos; maltodextrin; vasslepulver (MJÖLK); vasslegenomträngningspulver (MJÖLK); stabilisatorer: E460, E466, E331, E412, carrageenan; emulgeringsmedel: E471; salt.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "6408432001710",
-      "name": "Gårdsgoda laktosfri 400 g",
-      "company": "VALIO",
-      "ingredients": "SMÖR (64%), vatten, rapsolja (23%), salt och vitamin D. Laktosfri med hjälp av laktasenzym.",
+      "id": "7310865074362",
+      "name": "Cottage cheese hasselnöt/blåbär/tranbär 145 g",
+      "company": "KESO®",
+      "ingredients": "Cottage cheese: pastöriserad MJÖLK, modifierad potatisstärkelse, salt, VASSLEPERMEAT, konserveringsmedel (kaliumsorbat), syrningskultur, ystenzym. Topping: rostade HASSELNÖTTER 58%, torkade bär 42% (blåbär 13%, tranbär 12%, äppeljuicekoncentrat, socker, solrosolja). Kan innehålla spår av nötter.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7310867550529",
-      "name": "Skånegott Matfettsblandning 2 kg",
-      "company": "SKÅNEMEJERIER",
-      "ingredients": "GRÄDDE, rapsolja, MJÖLK, salt (1,2 %), mjölksyrakultur, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
+      "id": "7310890100760",
+      "name": "Julostkaka 750g",
+      "company": "FRÖDINGE",
+      "ingredients": "MJÖLK*, GRÄDDE*, ÄGG*, VETEMJÖL*, socker, MJÖLKSOCKER, SKUMMJÖLKSPULVER*, SÖTMANDEL,VETESTÄRKELSE, BITTERMANDEL, kalciumklorid, vegetabiliskt ystenzym, konserveringsmedel (sorbinsyra). KAN INNEHÅLLA SPÅR AV NÖTTER. *Råvara med Svenskt ursprung. (Swedish)",
+      "gluten": "Glutenfri [ Nej ]"
     },
     {
-      "id": "8719200004849",
-      "name": "Flytande Original 0,5 L",
-      "company": "Becel",
-      "ingredients": "vegetabilisk olja 76% (rapsolja 71%, solrosolja 4%, linfröolja 1%), vatten, vegetabiliskt fett (fullhärdat rapsolja), kaliumklorid, emulgeringsmedel (solros- och SOJALECITHIN), syra (citronsyra), naturlig arom, vitamin A och D2.",
-      "gluten": "Glutenfri [ Ja ]"
+      "id": "7310890100869",
+      "name": "Saffransostkaka 450g",
+      "company": "FRÖDINGE",
+      "ingredients": "MJÖLK*, GRÄDDE*, ÄGG*, VETEMJÖL*, socker*, MJÖLKSOCKER, SKUMMJÖLKSPULVER*, SÖTMANDEL, VETESTÄRKELSE, BITTERMANDEL, kalciumklorid, saffran, vegetabiliskt ystenzym, konserveringsmedel (sorbinsyra). KAN INNEHÅLLA SPÅR AV NÖTTER. * Råvara med Svenskt ursprung (Swedish)",
+      "gluten": "Glutenfri [ Nej ]"
     },
     {
-      "id": "7311870010956",
-      "name": "Laktosfri Normalsaltat smör & raps 500g",
-      "company": "Bregott®",
-      "ingredients": "SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, vatten, salt, laktasenzym, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200006355",
-      "name": "Culinesse Flytande 500 ml",
-      "company": "MILDA Culinesse",
-      "ingredients": "rapsolja, vatten, vegetabiliskt fett (fullhärdad rapsolja), salt (1%), emulgator (solros- och SOJALECITIN), syra (citronsyra), naturlig arom, färgämne (naturlig karoten), vitamin A, vitamin D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "6408432203428",
-      "name": "Gårdsgoda ns 250 g",
-      "company": "VALIO",
-      "ingredients": "SMÖR (64 %), rapsolja (23 %), vatten, salt och vitamin D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8719200280502",
-      "name": "Plant B+tter 2,5 kg",
-      "company": "Flora Professional",
-      "ingredients": "Växtoljor (solros, raps i varierande proportioner), kokosfett, vatten, bondböna, emulgeringsmedel (lecitin), naturlig arom, färgämne (karotener), konserveringsmedel (kaliumsorbat), glukos",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7311870010895",
-      "name": "Extrasaltat smör & raps 250g",
-      "company": "Bregott®",
-      "ingredients": "SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, vatten, salt, vitamin A och D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350027794684",
-      "name": "BreOliv olivolja sheafett vatt salt 200g",
-      "company": "Zeta",
-      "ingredients": "Extra jungfruolivolja 72,8%, fett från sheafrukt 18,2%, vatten och salt.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "6408432001703",
-      "name": "Gårdsgoda extrasaltat 500 g",
-      "company": "VALIO",
-      "ingredients": "SMÖR (64 %), rapsolja (23 %), vatten, salt och vitamin D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "6408432001697",
-      "name": "Gårdsgoda mellan 57% 500 g",
-      "company": "VALIO",
-      "ingredients": "SMÖR (44 %), vatten, rapsolja (21 %), salt, mjölkmineralsalt (MJÖLK) och vitamin D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "6408432001680",
-      "name": "Gårdsgoda normalsaltat 500 g",
-      "company": "VALIO",
-      "ingredients": "SMÖR (64 %), rapsolja (23 %), vatten, salt och vitamin D.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7311870011694",
-      "name": "Extrasaltat smör & raps 750g",
-      "company": "Bregott®",
-      "ingredients": "SMÖR (pastöriserad GRÄDDE, mjölksyrakultur), rapsolja, vatten, salt, vitamin A och D.",
+      "id": "7310890108018",
+      "name": "Lättostkaka 300g",
+      "company": "FRÖDINGE",
+      "ingredients": "MJÖLK*, ÄGG*, vatten, MJÖLKSOCKER, fruktsocker, majsstärkelse, GRÄDDE*, SKUMMJÖLKSPULVER*, SÖTMANDEL, modifierad potatisstärkelse, VASSLEPROTEIN, BITTERMANDEL, kalciumklorid, vegetabiliskt ystenzym, konserveringsmedel (sorbinsyra). KAN INNEHÅLLA SPÅR AV NÖTTER. *Svenskt ursprung. (Swedish)",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
