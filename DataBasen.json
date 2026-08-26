@@ -134,8 +134,169 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-08-24",
+  "date": "2026-08-26",
   "list": [
+    {
+      "id": "7311312008084",
+      "name": "Tortillachips Saltade 185g",
+      "company": "Santa Maria",
+      "ingredients": "Majsmjöl (78%), solrosolja, salt. Kan innehålla spår av soja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310074014630",
+      "name": "Pepsi Max 20-pack 6600ml",
+      "company": "Pepsi",
+      "ingredients": "Kolsyrat vatten, färgämne (E 150d), sötningsmedel (aspartam, acesulfam K), syror (fosforsyra, citronsyra), surhetsreglerande medel (natriumcitrater), aromer (inkl. koffein). Innehåller en fenylalaninkälla.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8721497011882",
+      "name": "Grönsaksbuljong 120g",
+      "company": "Knorr",
+      "ingredients": "Salt, stärkelse, palmfett, smakförstärkare (mononatriumglutamat, dinatriuminosinat, dinatriumguanylat), fullhärdat palmfett, kaliumklorid, socker, lök, morot 3,2%, arom, kryddor (gurkmeja, vitlök, peppar 0,2%, SELLERIfröpulver, persiljerot), paprika, persilja 0,2%, jästextrakt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5707196031836",
+      "name": "Bacon 125g",
+      "company": "TULIP",
+      "ingredients": "Sidfläsk, salt, antioxidationsmedel (E 301), konserveringsmedel (E 250).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156594525",
+      "name": "Tunnbröd 375g",
+      "company": "Coop",
+      "ingredients": "VETEMJÖL° 58%, vatten, siktat RÅGMJÖL° 7%, socker°, sirap, MJÖLKPULVER°, jäst°, rapsolja, VETEGLUTEN, fermenterat VETEMJÖL, salt, stabiliseringsmedel (E 412), bakpulver (E 503), emulgeringsmedel (E 471 vegetabilisk), KORNMALT, mjölbehandlingsmedel (E 300). °Ursprung Sverige",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310130801709",
+      "name": "Granola Naturell 750g",
+      "company": "START!",
+      "ingredients": "HAVREgryn 56%*, socker, vegetabilisk olja (raps, shea), sirap, VETEflingor*, VETEkli, glukossirap, salt, vaniljarom. *Fullkorn. Produkten innehåller 63% fullkorn. Kan innehålla spår av cashewnöt, hasselnöt och mandel.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310731101802",
+      "name": "Kaffebönor Mörkrost Mollbergs Blandning 450g",
+      "company": "ZOÉGAS",
+      "ingredients": "Ekologiskt och rostat malet kaffe för filterbryggare",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310760012896",
+      "name": "Bryggkaffe Mellanrost 500g",
+      "company": "Arvid Nordquist",
+      "ingredients": "Kaffe (100% Arabicabönor)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350076361455",
+      "name": "Pizza Kebab 500g",
+      "company": "Tony&apos;s Pizza",
+      "ingredients": "Botten 57% (VETEmjöl, vatten, rapsolja, jäst, rörsocker OST 20% (Pastöriserad MJÖLK, klumpförebyggande medel: potatisstärkelse, salt 1,3%, syrningskultur, löpe, ystenzym, kalciumklorid, konserveringsmedel (E202) Tomatsås 11% (vatten, tomatkoncentrat, oregano, basilika, svartpeppar, socker) Kebab 8% (Nötkött 100%, lök, salt, ärtfiber, stabiliseringsmedel (E450, E451), förtjockningsmedel (E407a), potatisstärkelse, glukossirap, kryddextrakt och kryddor) Jalapeño 4% (Grön jalapeño, vatten, ättika, salt, konsistensmedel (E509).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350028549054",
+      "name": "Proteinkakor Sourcream &amp; Onion 125g",
+      "company": "Friggs",
+      "ingredients": "SE: Linsmjöl (72 %), rapsolja, kryddblandning med smak av gräddfil och lök (7,3 %) (vasslepulver (från MJÖLK), salt, kärnMJÖLKspulver, ostpulver (OST, vasslepulver (från MJÖLK)), lökpulver 12 %, tomatpulver, dextros, vitlökspulver, arom, surhetsreglerande medel (äppelsyra, natriumdiacetat), jästextrakt, persilja, cayennepeppar, färgämne (paprikaoleoresin)), gröna ärtor (5,5 %). Kan innehålla spår av soja och sesamfrö.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5741200318735",
+      "name": "Vårrulle Nötkött 6-pack 6",
+      "company": "Daloon",
+      "ingredients": "VETEMJÖL, böngroddar (19 %), vitkål (19 %), vatten, nötkött (9 %)(nötinnanlår 7,2 %, oxbringa 1,8 %), rapsolja, morötter (5 %), purjolök (4 %), dextrin, salt, majsstärkelse, buljong (grönsaksextrakt (morot, purjolök, lök, vitlök), salt, solrosolja, kryddor extrakt), lök, nötkött buljong (nötkött, buljong, salt), socker, ÄGGPULVER, citrusfiber, persilja, vitlök, emulgeringsmedel (SOJALECITHIN), kryddor, bakpulver (natriumhydrogenkarbonat, dinatriumdifosfat), lökpulver, morötsextrakt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340011437109",
+      "name": "Jasminris 1000g",
+      "company": "Coop",
+      "ingredients": "Långkornigt jasminris, polerat. Ursprungsland för ris: Se bäst före, TH=Thailand, VN=Vietnam, KH=Kambodja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350167516405",
+      "name": "Chips Sourcream &amp; onion 150g",
+      "company": "Redhead",
+      "ingredients": "Potatis (65%) solrosolja och rapsolja i varierande proportioner, kryddblandning (VASSLEPULVER (från MJÖLK), salt, socker, lök, KÄRNMJÖLKSPULVER, surhetsreglerande medel) (mjölksyra), vitlök, jästextrakt, arom, krydda.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300400114776",
+      "name": "Knäckebröd Sport 550g",
+      "company": "Wasa",
+      "ingredients": "fullkornsRÅGmjöl 100 g*, RÅGkli 4,8 g*, salt, jäst *i g för 100 g produkt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191154131",
+      "name": "Mango Tärnad 250g",
+      "company": "Coop",
+      "ingredients": "Mango. Mangons ursprung: Se kod vid Bäst före-datumet. TH=Thailand, PE=Peru, VN=Vietnam.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340046089052",
+      "name": "Bearnaise 230ml",
+      "company": "Johan Jureskog Selection",
+      "ingredients": "/Ainesosat: Rapsolja (ursprung: EU och icke-EU)/Rapsiöljy(alkuperä: EU ja muu kuin EU), vatten/vesi, ÄGGULA*/ KANANMUNAN KELTUAINEN*, dragon/rakuuna, vinäger/ettika, schalottenlök/salottisipuli, salt/saula, körvel/kirveli, tomat/tomatti, socker/sokeri, vitpeppar/valkosipulijauhe, chili, lökpulver/sipulijauhe, SELLERIEXTRAKT/SELLERIUUTE, vitlökspulver/valkopippuri, arom/aromi, konserveringsmedel/säilöntäaine (E202), förtjockningsmedel/sakeuttamisaine (E415), färgämne/väriaine (E160a).*Ägg från frigående höns/*Vapaan kanan munia.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5711953068881",
+      "name": "Proteinshake Choklad 0,9% 500g",
+      "company": "Arla®",
+      "ingredients": "MÆLK/MJÖLK (94%),MÆLKEPROTEIN/MJÖLKPROTEIN (2,3%), sukker/socker (1,9%), kakaopulver/kakao (1,2%)3, stabilisatorer/stabiliseringsmedel (gellangummi, carrageenan/karragenan), surhedsregulerende middel/surhetsreglerande medel (natriumcitrat), naturlig aroma/arom, laktaseenzym/laktasenzym. 1Laktoseindhold/Laktos &lt;0,01 g/100 ml. 3 Rainforest Alliance Certified™.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191117808",
+      "name": "Chips Stack &amp; snack Sour cream &amp; onion 170g",
+      "company": "Coop",
+      "ingredients": "Potatisflingor 52% (potatis: EU och/ellericke-EU (Storbritannien)), solrosolja, VETE- och potatisstärkelse 15%, glukossirap, rismjöl, salt, socker, lök 0,6%, rapsolja, emulgeringsmedel (E 471 vegetabiliskt), naturlig arom (MJÖLK), kaliumklorid, KÄRNMJÖLKSPULVER, surhesreglerande medel (E 330).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191151802",
+      "name": "Majssnacks Mjölkchoklad Crispies Chocolate 100g",
+      "company": "Coop",
+      "ingredients": "Socker, kakaosmör* (kakaobönor: Väst- och Centralafrika), HELMJÖLKSPULVER, majsmjöl (majs: Frankrike), kakaomassa* (kakaobönor: Väst- och Centralafrika), fullhärdad raps- och kokosolja, VETESTÄRKELSE, salt, emulgeringsmedel (E 322 SOJA), limepulver, arom.Minst 33% kakaotorrsubstans i mjölkchokladen.*Rainforest Alliance-certifierad, ra.org",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5011476102957",
+      "name": "Cheerios Multigrain 375g",
+      "company": "NESTLÉ",
+      "ingredients": "FullkornsHAVREmjöl/-mel (32,6%), fullkornsVETEmjöl/ -HVEDEmel/-HVETEmel (30,2%), fullkornsKORNmjöl/-BYGmel/-BYGGmel (18,6%), socker/sukker, VETEmjöl/HVEDEmel-/HVETEmel (7,2%)(innehåller/indeholder kalciumkarbonat/calcium-carbonat, niacin, järn/jern, tiamin), invertsockersirap/invertsukkersirup, vegetabilisk olja (solrosolja/solsikkeolie/och/eller palmolja/palmeolie), melass, salt, karamellisert sirap/sirup, antioxidationsmedel/antioksidant (tokoferolrika/tocopherolrig extrakt), färgämnen/farve (annattoextrakt norbixin, karotener).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "2320200500000",
+      "name": "Fläsksida 1.5kg",
+      "company": "Scan",
+      "ingredients": "Sida av svenskt fläskkött.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156601421",
+      "name": "Sojasås Sesam 250ml",
+      "company": "Coop",
+      "ingredients": "Rapsolja, vatten, sojasås 10% (vatten, SOJABÖNOR, salt, ättika), risvinäger (vatten, salt, majs, risextrakt, ris), socker, ÄGGULA(från frigående höns inomhus), SESAMOLJA 2,4%, vitlök, SENAPSFRÖ, chilipeppar, ättiksprit, salt, aromer, förtjockningsmedel (E 415), surhetsreglerande medel (E 330, E 260), konserveringsmedel (E 211, E 202), cayennepeppar.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2385912200006",
+      "name": "Fläskfilé 650g",
+      "company": "Danish Crown",
+      "ingredients": "Läs ingredienser",
+      "gluten": "Glutenfri [ Okänd ]"
+    },
     {
       "id": "7340005403370",
       "name": "Cheez Doodles 160g",
