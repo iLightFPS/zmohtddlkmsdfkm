@@ -2,12 +2,12 @@
   "date": "2026-09-03",
   "enabled": true,
   "title": {
-    "sv": "Ny karta",
-    "en": "New map"
+    "sv": "Ny kartfunktion",
+    "en": "New map feature"
   },
   "message": {
-    "sv": "Vi har uppdaterat kartan i appen.",
-    "en": "We've updated the map in the app."
+    "sv": "Nu kan du lägga till glutenfria platser och restauranger som serverar glutenfria alternativ direkt på kartan.",
+    "en": "You can now add gluten-free places and restaurants that serve gluten-free options directly on the map."
   },
   "image": "https://raw.githubusercontent.com/iLightFPS/zmohtddlkmsdfkm/refs/heads/main/images/map.png",
   "button": {
