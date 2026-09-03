@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-03",
+  "enabled": true,
+  "title": {
+    "sv": "Nyheter i Glutenfritt",
+    "en": "What's new in Glutenfritt"
+  },
+  "message": {
+    "sv": "Nu finns den nya glutenfria kartan i appen!",
+    "en": "The new gluten-free map is now available!"
+  },
+  "button": {
+    "sv": "Stäng",
+    "en": "Close"
+  },
+  "icon": "megaphone-outline"
+}
