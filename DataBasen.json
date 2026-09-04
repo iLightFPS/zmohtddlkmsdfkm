@@ -134,8 +134,43 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-08-26",
+  "date": "2026-09-04",
   "list": [
+    {
+      "id": "5900951311505",
+      "name": "Snickers 50g",
+      "company": "SNICKERS",
+      "ingredients": "socker/sukker, glukossirap/glukosesirup, JORDNÖTTER/PEANØTTER/JORDNØDDER, SKUMMJÖLKSPULVER/MELKEPULVER AV SKUMMETMELK/SKUMMETMÆLKSPULVER, kakaosmör/kakaosmør, kakaomassa/-masse, vassle-/myse-/vallepermeat (MJÖLK/MELK/MÆLK), solrosolja/solsikkeolje/solsikkeolie, MJÖLKFETT/MELKEFETT/MÆLKEFEDT, palmfett/palmefett/palmefedt, salt, emulgeringsmedel/emulgator (SOJA-/SOYA-/SOJALECITIN), ÄGGVITE-/EGGEHVITE-/ÆGGEHVIDEPULVER. (Kan innehålle/inneholde/indeholde: NÖTTER/NØTTER/NØDDER).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5701397301002",
+      "name": "Sourcream 330G - Big Bag",
+      "company": "BIG BAG",
+      "ingredients": "Läs Ingredienser",
+      "gluten": "Glutenfri [ Okänd ]"
+    },
+    {
+      "id": "5900951310379",
+      "name": "Snickers Creamy 2-pack 36.5g",
+      "company": "SNICKERS",
+      "ingredients": "JORDNÖTTER, socker, glukossirap, SKUMMJÖLKSPULVER, kakaosmör, invertsocker, kakaomassa, druvsocker, laktos (MJÖLK), solrosolja, vasslepermeat (MJÖLK), palmfett, palmkärnfett, fuktighetsbevarande medel (sorbitol, glycerol), MJÖLKFETT, härdat SOJAFETT, salt, emulgeringsmedel (SOJALECITIN), antioxidationsmedel (E306). (Kan innehålla: ÄGG, NÖTTER). Kakao minst 25%.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310070009531",
+      "name": "Pepsi Max 330ml",
+      "company": "Pepsi",
+      "ingredients": "Kolsyrat vatten, färgämne (E 150d), sötningsmedel (aspartam, acesulfam K), syror (fosforsyra, citronsyra), surhetsreglerande medel (natriumcitrater), aromer (inkl. koffein). Innehåller en fenylalaninkälla.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690155270",
+      "name": "ICA Kycklingfond 180ml",
+      "company": "ICA",
+      "ingredients": "Vatten, maltodextrin, lök, salt, kycklingextrakt 3,5%, modifierad potatisstärkelse, jästextrakt, arom, socker, kycklingfett, gurkmeja, surhetsreglerande medel (E270), konserveringsmedel (E211, E202), antioxidationsmedel (E392).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311312008084",
       "name": "Tortillachips Saltade 185g",
