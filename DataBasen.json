@@ -137,11 +137,74 @@
   "date": "2026-09-05",
   "list": [
     {
-      "id": "8715700120706",
-      "name": "Minestronesoppa 400g",
-      "company": "Heinz",
-      "ingredients": "Vatten, tomat (23%), morötter (9%), pastanudlar (7% vatten, durumVETEmjöl, ÄGG), lök, ärtor, kålrot, röd paprika, potatis, haricotbönor, majsstärkelse, modifierad majsstärkelse, pujolök, salt, smaksättning (innehåller SELLERI), jästextrakt, örter, svartpeppar.",
+      "id": "7322550032021",
+      "name": "Minestronesoppa 59g",
+      "company": "Blå Band",
+      "ingredients": "Pasta vermicelli 26% (DURUMVETEmjöl/DURUMHVETEmel) (GLUTEN), tomat 15%, potatisstärkelse/potetstivelse, salt, maltodextrin, vitkål, morot/gulrot, palsternacka/pastinakk, sockermajs, röd paprika, vegetabiliskt fett (palm), aromer, purjolök/purre, ROTSELLERI, jästextrakt/gjærekstrakt, lök, persilja, rökarom, rosmarin. Kan innehålla spår av SOJA, FISK, MJÖLK, KRÄFTDJUR, SENAP, ÄGG, LUPIN och BLÖTDJUR.",
       "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310500095103",
+      "name": "Minestronesoppa 500g",
+      "company": "Findus",
+      "ingredients": "Vatten, tomatpuré, lök, morötter, pasta (DURUMVETEMJÖL) 3,6 %, broccoli, SELLERI, majsstärkelse, paprika, purjolök, salt, socker, vitlök, basilika, solrosolja, citronjuicekoncentrat, lökpulver, örtkryddor (rosmarin, oregano, timjan), svartpeppar, muskot.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7322550036098",
+      "name": "Minestronesoppa Varma Koppen 63g",
+      "company": "Blå Band",
+      "ingredients": "Pasta 33 % (VETEMJÖL (GLUTEN), vatten, salt, gurkmejaextrakt), tomat 17 %, potatisstärkelse, maltodextrin, socker, salt, aromer (innehåller MJÖLK), OSTPULVER (VASSLEPULVER (från MJÖLK), OSTPULVER, torkad inaktiv jäst, SMÖRPULVER (SMÖR, maltodextrin, MJÖLKPROTEIN), salt), köttextraktpulver (nötköttsextrakt, maltodextrin, salt), purjolök, jästextrakt, solrosolja, lök 0,9%, potatisflingor, persilja, rökarom. Kan innehålla spår av: SOJA, FISK, KRÄFTDJUR, SELLERI, BLÖTDJUR, SENAP, LUPIN, ÄGG.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5000112690064",
+      "name": "Sprite 1500ml",
+      "company": "Sprite",
+      "ingredients": "Kolsyrat vatten, socker, syror (E330, E334), naturliga citron- och limearomer, surhetsreglerande medel (E331).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5000112692822",
+      "name": "Fanta Crimson Cherry 1500ml",
+      "company": "Fanta",
+      "ingredients": "Kolsyrat vatten, socker, citronjuice från koncentrat (1%), syror (äppelsyra, citronsyra), frukt- och vegetabiliskt koncentrat (morot, svarta vinbär), färgämne (E150d), naturliga aromer, sötningsmedel (natriumcyklamat, acesulfam K, sukralos), konserveringsmedel (kaliumsorbat), surhetsreglerande medel (natriumcitrater).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8000139910159",
+      "name": "Linguine 500g",
+      "company": "Garofalo",
+      "ingredients": "DurumVETE",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311312005458",
+      "name": "Kokosmjölk 250ml",
+      "company": "Santa Maria",
+      "ingredients": "Pressad kokosnöt (18% fett), vatten",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330797077484",
+      "name": "Kalkonsalami 100g",
+      "company": "Pärsons",
+      "ingredients": "Kalkonkött* (93%), vatten, rapsolja, salt, kryddor, (rödbeta), vitlök, socker, förtjockningsmedel (E401: E516: E450), surhetsreglerande medel (E575), druvsocker, kryddextrakt, antioxidationsmedel (E300: E301), konserveringsmedel (E250). Kallrökt. *Ursprung EU.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340023810211",
+      "name": "Skinka Långkokt 150g",
+      "company": "SVEA",
+      "ingredients": "Skinka 76%, stärkelse (potatis), druvsocker, kryddextrakt (lök), salt, kryddor (arom, jästextrakt, kryddextrakt), stabiliseringsmedel E450, konserveringsmedel E250, antioxidationsmedel E301.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340023810204",
+      "name": "Kyckling Lättrökt 150g",
+      "company": "SVEA",
+      "ingredients": "Kyckling 85%, kryddextrakt (lök), salt, kycklingprotein, druvsocker, stärkelse (potatis), förtjockningsmedel E407a/E415, stabiliseringsmedel E450, konserveringsmedel E250, antioxidationsmedel E301, kaliumklorid E508.",
+      "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "5900951311505",
