@@ -137,6 +137,55 @@
   "date": "2026-09-05",
   "list": [
     {
+      "id": "80177173",
+      "name": "NUTELLA 350g",
+      "company": "Ferrero",
+      "ingredients": "Socker, palmolja, HASSELNÖTTER (13%), SKUMMJÖLKSPULVER (8,7%), fettreducerad kakao (7,4%), emulgeringsmedel: lecitiner (SOJA), vanillin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8710398161987",
+      "name": "Tortillachips Nacho Cheese 170g",
+      "company": "Doritos",
+      "ingredients": "Majs (73%), rapsolie/-olja, ostsmag/-smak [vallepulver/mysepulver/vasslepulver (fra/från MÆLK/MELK/MJÖLK), aroma/arom (fra/från MÆLK/MELK/MJÖLK), salt, KÆRNEMÆLKS-/KJERNEMELKS-/KÄRNMJÖLKSPULVER, ostpulver (fra/från MÆLK/MELK/MJÖLK), tomatpulver, løg-/lökpulver, kaliumklorid, sukker/socker, hvidløg-/vitlökspulver, surhedsregulerende midler/surhetsreglerande medel (citronsyra, mælkesyre/mjölksyra), farvestoffer/färgämnen (annatto extrakt bixin, karamelfarver/sockerkulör, paprikaextrakt/paprikaoleoresin), MÆLKE/-/MELKE-/MJÖLKPROTEIN, krydderi/ kryddor, SKUMMETMÆLKS-/SKUMMETMELK-/SKUMMJÖLKSPULVER, smagsforstærker/smakförstärkare (dinatrium-5’-ribonukleotider)], antioxidanter/antioxidationsmittel (rosmarinekstrakt/extrakt av rosmarin, askorbinsyra, tocopherolrig/tokoferolrika extrakt, citronsyra). PRODUKTEN KAN INDEHOLDE/INNEHÅLLA SOJA/SOYA OG/OCH HVEDE/HVETE/VETE (GLUTEN).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191141414",
+      "name": "Tortillachips Ost 450g",
+      "company": "Xtra",
+      "ingredients": "Majsmjöl 75% (majs: EU), solrosolja, salt, ostpulver ( MJÖLK ) 1%, laktos ( MJÖLK ), dextros, maltodextrin, aromer ( MJÖLK ), lök, vitlök, paprikaextrakt, syra (E 330). Kan innehålla spår av soja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350115944137",
+      "name": "Glutenfria Tortillachips Blå 185g",
+      "company": "El Taco Truck",
+      "ingredients": "Blå majs (78%), solrosolja, salt. Produkten kan innehålla spår av MJÖLK.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311312008732",
+      "name": "Tortilla Strips Crunchy &amp; Cheesy 185g",
+      "company": "Santa Maria",
+      "ingredients": "Majsmjöl (75%), solrosolja, ostkrydda (OSTPULVER (1,2%) (MJÖLK), salt, LAKTOS, lök, KÄRNMJÖLK, socker, kryddor, druvsocker, tomat, naturlig arom, syra (citronsyra), arom (innehåller MJÖLK), kryddextrakt, örter). Kan innehålla spår av soja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8710398162045",
+      "name": "Tortillachips Sweet chili &amp; pepper 170g",
+      "company": "Doritos",
+      "ingredients": "Majs (72%), rapsolie/-olja, sød/söt chilipebersmag/-pepparsmak [sukker/socker, aromaer/aromer, smagsforstærkere/smakförstärkare, (mononatriumglutamat, dinatriumguanylat), kaliumklorid, hydrolyserat vegetabiliskt protein, paprikapulver, løg-/lökpulver, hvidløg-/vitlökspulver, salt, syra (citronsyra), cayennepeber/-peppar, farvestof/färgämne (paprikaekstrakt/ paprikaoleoresin)], antioxidant/antioxidationsmedel (askorbinsyra, ekstrakter af/extrakt av rosmarin, tocopherolrig/tokoferolrika extrakt, citronsyra). KAN INDEHOLDE/INNEHÅLLA SOJA/SOYA OG/OCH HVEDE/HEVTE/VETE (GLUTEN).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7312690117016",
+      "name": "Glassbåt Originalet",
+      "company": "SIA Glass",
+      "ingredients": "SKUMMJÖLK*, GRÄDDE* (18%), socker*, kokosolja, VETEMJÖL, glukossirap, jordgubbar*, SKUMMJÖLKSPULVER*, socker, kakao**, vaniljarom, emulgeringsmedel (mono- och diglycerider av veg fettsyror, lecitin, SOJALECITIN), stabiliseringsmedel (fruktkärnmjöl, guarkärnmjöl, pektin), VETESTÄRKELSE, syra (citronsyra), salt. *Ursprung: Sverige. Grädde med 40% fetthalt. **Rainforest Alliance Certified. ra.org",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
       "id": "7311310027605",
       "name": "Grillolja Allround 400ml",
       "company": "Santa Maria",
