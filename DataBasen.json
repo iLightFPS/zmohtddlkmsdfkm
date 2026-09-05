@@ -134,8 +134,15 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "list": [
+    {
+      "id": "8715700120706",
+      "name": "Minestronesoppa 400g",
+      "company": "Heinz",
+      "ingredients": "Vatten, tomat (23%), morötter (9%), pastanudlar (7% vatten, durumVETEmjöl, ÄGG), lök, ärtor, kålrot, röd paprika, potatis, haricotbönor, majsstärkelse, modifierad majsstärkelse, pujolök, salt, smaksättning (innehåller SELLERI), jästextrakt, örter, svartpeppar.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "5900951311505",
       "name": "Snickers 50g",
