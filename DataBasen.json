@@ -137,6 +137,34 @@
   "date": "2026-09-05",
   "list": [
     {
+      "id": "7311310027605",
+      "name": "Grillolja Allround 400ml",
+      "company": "Santa Maria",
+      "ingredients": "Rapsolja, vatten, äppeljuice, salt, lök, svartpeppar, socker, jästextrakt, ättika, färgämne (E150d, paprikaextrakt), chilipeppar, vitlök, andra kryddor, syra (äppelsyra), förtjockningsmedel (E405), konserveringsmedel (E202), örter, arom, surhetsreglerande medel (E262).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311310028091",
+      "name": "Grillolja Honung 270ml",
+      "company": "Santa Maria",
+      "ingredients": "Rapsolja, vatten, äppeljuice, socker, salt, ättika, lök, arom (honung, citron), andra kryddor, chilipeppar, syra (äppelsyra, citronsyra), jästextrakt, vitlök, konserveringsmedel (E202), förtjockningsmedel (E415), surhetsreglerande medel (E262).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392031803853",
+      "name": "Grillolja Allround 265ml",
+      "company": "Johnny&apos;s",
+      "ingredients": "Rapsolja, vatten, kryddor (bl.a. vitlök/hvidløg, chipotle/røgt chili, cayenne, koriander) salt, vinäger/eddike, socker, arom, köttextrakt/ kødekstrakt, tomat, kalvbuljong/kalvebouillon, mod. stärkelse/stivelse, färgämne/ farve (sockerkulör), konserveringsmedel (E202), stabiliseringsmedel (E415).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311310281014",
+      "name": "Grillolja Allround 270ml",
+      "company": "Santa Maria",
+      "ingredients": "Rapsolja, vatten, äppeljuice, salt, lök, svartpeppar, socker, jästextrakt, ättika, färgämne (E150d, paprikaextrakt), chilipeppar, vitlök, andra kryddor, syra (äppelsyra), förtjockningsmedel (E405), konserveringsmedel (E202), örter, arom, surhetsreglerande medel (E262).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7322550032021",
       "name": "Minestronesoppa 59g",
       "company": "Blå Band",
