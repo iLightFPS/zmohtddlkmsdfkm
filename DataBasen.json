@@ -134,8 +134,148 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-09-05",
+  "date": "2026-09-07",
   "list": [
+    {
+      "id": "7310240079586",
+      "name": "Paj Bacon &amp; broccoli 220g",
+      "company": "Felix",
+      "ingredients": "Pajdeg: VETEmjöl, vegetabiliskt fett (rapsolja, fullhärdat rapsfett), vatten, SMÖR, salt, bakpulver (hjorthornssalt). Fyllning: ÄGG, vatten, broccoli, MJÖLK, OST, rökt bacon och griskött (griskött, vatten, salt, druvsocker, stabiliseringsmedel (E450), antioxidationsmedel (E301), konserveringsmedel (E250)), GRÄDDE, stärkelse, salt, svartpepparextrakt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5740301223825",
+      "name": "Salladsräkor i lake 180g",
+      "company": "Royal Greenland",
+      "ingredients": "Räkor (KRÄFTDJUR) (Pandalus borealis) fångade i Nordvästra Atlanten, vatten, havssalt, surhetsreglerande medel (E330, E262), konserveringsmedel (E211, E202), stabilisatorer (E415, E410).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5703828027895",
+      "name": "Kolsyrat vatten Fläder &amp; citron Sockerfri 1250ml",
+      "company": "Aqua d&apos;Or",
+      "ingredients": "Naturligt mineralvatten från Aqua d’Or®-källan, kolsyra, surhetsreglerande medel (citronsyra), naturliga aromer, stabiliseringsmedel (gummi arabicum, glycerolestrar av trähartser), konserveringsmedel (kaliumsorbat), antioxidationsmedel (askorbinsyra), sötningsmedel (acesulfam K, sukralos), naturliga färgämnen (lutein, klorofyll kopparkomplex, arom).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5703828024511",
+      "name": "Kolsyrat vatten Jordgubb &amp; hallon 1250ml",
+      "company": "Aqua d&apos;Or",
+      "ingredients": "Naturligt mineralvatten från Aqua d’Or®-källan, kolsyra, surhetsreglerande medel (citronsyra), naturliga färgämnen (svart morotskoncentrat, sockerkulör, sötpotatiskoncentrat, äppelkoncentrat), naturlig jordgubbs- och hallonarom med andra naturliga aromer, konserveringsmedel (kaliumsorbat), sötningsmedel (acesulfam K, sukralos), stabiliseringsmedel (gummi arabicum, glycerolestrar av trähartser, arom).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310240079562",
+      "name": "Tacopaj Mexikansk 220g",
+      "company": "Felix",
+      "ingredients": "Pajdeg: VETEmjöl, vegetabiliskt fett (rapsolja och fullhärdat rapsfett), SMÖR. vatten, ÄGG, salt och bakpulver (hjorthornssalt). Fyllning: Stekt nötfärs (nötkött, vatten, VETEmjöl, salt), CRÈME FRAICHE, OST, röd paprika, lök, tomat, majs, kryddor (bl.a. vitlök, chili, spiskummin och oregano), vatten, jalapeño, salt, vitlök, socker, naturlig arom och stärkelse.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310240079593",
+      "name": "Paj Kyckling &amp; broccoli 215g",
+      "company": "Felix",
+      "ingredients": "Pajdeg: VETEmjöl, vegetabiliskt fett (rapsolja och fullhärdat rapsfett), SMÖR, vatten, salt och bakpulver (hjorthornssalt). Fyllning: kokt kycklingfilé (kycklingfilé, vatten, salt, glukossirap, kycklingbuljong, stabiliseringsmedel (natriumdifosfat), antioxidationsmedel (natriumaskorbat)), smältOST (OST, vatten, SMÖR, skumMJÖLKspulver, tomatpuré, kryddor (bl.a. dill, vitlök), smältsalt (E339) och surhetsreglerande medel (citronsyra)), broccoli, stekt lök (lök och rapsolja), GRÄDDFIL, OST, stärkelse, ÄGGpulver, kryddor (bl.a. socker, chili, spiskummin och vitlök), salt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300156498878",
+      "name": "Spare Ribs Chili 500g",
+      "company": "Coop",
+      "ingredients": "Spare ribs av gris° 94%, salt, chili, vitlök, socker, paprika, lök, basilika, oregano, timjan, invertsocker, kryddextrakt (paprika), färgämne (E 150a). °Ursprung köttråvara: Fött, uppfött, slaktat och styckat i Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340005403264",
+      "name": "Ostbågar Super Cheez Doodles 200g",
+      "company": "OLW",
+      "ingredients": "Majsmjöl, solrosolja, 15% ostpulver (85% ost, vasslepulver (från mjölk), salt, färgämne (betakaroten, paprikaextrakt)), kärnmjölkspulver, potatisstärkelse, salt, druvsocker.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340005407088",
+      "name": "Chips Vitlök &amp; gräddfil 275g",
+      "company": "OLW",
+      "ingredients": "Potatis, solrosolja, kryddblandning (vasslepulver (från MJÖLK), salt, KÄRNMJÖLKSPULVER, naturlig arom, socker, lök, vitlök, jästextrakt, persilja, naturlig vitlöksarom).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340005407095",
+      "name": "Chips Cheddar &amp; lök 275g",
+      "company": "OLW",
+      "ingredients": "Potatis, solrosolja, kryddblandning (vasslepulver (från MJÖLK), salt, lök, socker, OSTPULVER, vassleprotein (från MJÖLK), OSTPULVER (varav 55 % CHEDDAR), jästextrakt, naturlig arom (innehåller MJÖLK), persilja, vitlök, vitpeppar, cayennepeppar, surhetsreglerande medel (citronsyra, mjölksyra), kryddextrakt (paprika, gurkmeja), arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340005407040",
+      "name": "Ostbollar Chili Cheez 200g",
+      "company": "OLW",
+      "ingredients": "Majsmjöl, solrosolja, 8 % OSTPULVER (85% OST, vasslepulver (från MJÖLK), salt, färgämne (betakaroten, paprikaextrakt)), maltodextrin, vasslepulver (från MJÖLK), KÄRNMJÖLKSPULVER, potatisstärkelse, salt, druvsocker, socker, jästextrakt, GRÄDDPULVER, arom, persilja, vitlök, cayennepeppar, jalapeño, vitpeppar, surhetsreglerande medel (citronsyra, mjölksyra), lök, kryddextrakt (paprika, gurkmeja), arom (innehåller MJÖLK).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340005406913",
+      "name": "Chips Brynt smör &amp; ramslök 275g",
+      "company": "OLW",
+      "ingredients": "Potatis, solrosolja, kryddblandning (vasslepulver (från MJÖLK), salt, druvsocker, socker, vitlök, cayennepeppar, persilja, chilipeppar, paprika, jästextrakt, lök, GRÄDDPULVER, surhetsreglerande medel (mjölksyra), arom, ramslök, karamelliserat socker, kryddextrakt (gurkmeja)).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340005406760",
+      "name": "Ostbågar Plant cheez 200g",
+      "company": "OLW",
+      "ingredients": "Majsmjöl, solrosolja, maltodextrin, salt, druvsocker, jästextrakt, arom, lök, surhetsreglerande medel (mjölksyra, citronsyra), vitlök, vitpeppar, kryddextrakt (paprika, gurkmeja), socker. Kan innehålla spår av MJÖLK.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340005406012",
+      "name": "Chips Smör &amp; havssalt 275g",
+      "company": "OLW",
+      "ingredients": "Potatis, solrosolja, kryddblandning (vasslepulver (från MJÖLK), salt, KÄRNMJÖLKSPULVER, socker, havssalt, GRÄDDPULVER, jästextrakt, OSTPULVER, lök, surhetsreglerande medel (mjölksyra), vitlök, arom).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5703828027567",
+      "name": "Kolsyrat vatten Päron &amp; Äpple 1250ml",
+      "company": "Aqua d&apos;Or",
+      "ingredients": "Naturligt mineralvatten från Aqua d’Or®-källan, kolsyra, naturlig arom från päron och äpple med andra natuliga aromer, surhetsreglerande medel (citronsyra), konserveringsmedel (kaliumsorbat), sötningsmedel (acesulfam K, sukralos), stabiliseringsmedel (gummi arabicum, glycerolestrar av trähartser), naturliga färgämnen (lutein, klorofyll kopparkomplex, arom).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310240079579",
+      "name": "Köttfärspaj 215g",
+      "company": "Felix",
+      "ingredients": "Pajdeg: VETEmjöl, vegetabiliskt fett (rapsolja och fullhärdat rapsfett), SMÖR, vatten, ÄGG, salt och bakpulver (hjorthornssalt). Fyllning: Stekt nötfärs (nötkött, vatten, VETEmjöl och salt), OST, tomatpuré, stekt lök (lök och rapsolja), champinjoner, vatten, tomat, kryddor (bl.a. svartpeppar, vitlök och basilika), salt och naturlig arom.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350126088790",
+      "name": "Ostpaj med Västerbottensost® 210g",
+      "company": "Felix",
+      "ingredients": "Pajdeg: VETEmjöl, vegetabiliskt fett (rapsolja, fullhärdat rapsfett), vatten, SMÖR, salt, bakpulver (hjorthornssalt). Fyllning: VästerbottensOST®, ÄGG, vatten, OST, MJÖLK, stekt lök (lök, rapsolja), GRÄDDE, stärkelse, persilja, salt, svartpepparextrakt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350126088738",
+      "name": "Kebabpaj med vitlökssås 210g",
+      "company": "Felix",
+      "ingredients": "Pajdeg: VETEmjöl, SMÖR, vegetabiliskt fett (rapsolja och fullhärdat rapsfett), vatten, ÄGG, salt och bakpulver (hjorthornssalt). Fyllning: OST, tomatpuré, kebabkött (nötkött (87%), vatten, salt, kryddor (bl.a. vitlök, chili, spiskummin), socker), rödlök, CRÈME FRAICHE, vatten, feferoni, kryddor (bl.a. libbsticka), vitlök, morot, salt, stärkelse, socker, syra (citronsyra) och naturlig arom.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350126088769",
+      "name": "Grekisk fetaostpaj 210g",
+      "company": "Felix",
+      "ingredients": "Pajdeg: VETEmjöl, vatten, vegetabiliskt fett (rapsolja, fullhärdat rapsfett), SMÖR, salt, bakpulver (hjorthornssalt). Fyllning: ÄGG, YOGHURT, GRÄDDE, grillad rödlök, fetaOST, spenat, OST, röd paprika, mozzarellaOST, MJÖLK, stärkelse, vatten, lökpulver, salt, vitlökspulver, svartpeppar, oregano.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310240079555",
+      "name": "Paj Ost &amp; skinka 220g",
+      "company": "Felix",
+      "ingredients": "Pajdeg: VETEmjöl, vegetabiliskt fett (rapsolja, fullhärdat rapsfett), vatten, SMÖR, salt, bakpulver (hjorthornssalt). Fyllning: OST, rökt skinka (griskött, vatten, salt, druvsocker, stabiliseringsmedel (E450), antioxidationsmedel (E301), konserveringsmedel (E250)), ÄGG, vatten, MJÖLK, GRÄDDE, stärkelse, svartpepparextrakt, salt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "80177173",
       "name": "NUTELLA 350g",
