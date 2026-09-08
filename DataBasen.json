@@ -134,8 +134,1037 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "list": [
+    {
+      "id": "5411188137764",
+      "name": "Proteinpudding Choklad 2,9% 200g",
+      "company": "Alpro",
+      "ingredients": "SOJABAS (82,9%) (vatten/vann/vand, skalade/afskallede SOJABÖNOR/SOYABØNNER (10%)), SOJAPROTEIN, socker/sukker, modifierad stärkelse/ modificeret/modifisert stivelse, choklad/sjokolade/chokolade (1,5%), fettreducerat/fedtreduceret kakaopulver* (1,5%), aromer/aromaer, kalcium (kalciumkarbonat), havssalt/havsalt, vitaminer B2, D2. *Rainforest Alliance-certifierad/sertifisert/certificeret. www.ra.org. KAN INNEHÅLLA/INNEHOLDE SPÅR AV NÖTTER/NØTTER/NØDDER (INGA JORDNÖTTER/PEANØTTER/JORDNØDDER).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971341904",
+      "name": "Proteindryck Choklad 330ml",
+      "company": "High Protein Drink",
+      "ingredients": "MJÖLKPROTEINER/ MELKEPROTEINER/ MÆLKPROTEIN 72%, pastöriserad SKUMMJÖLK/ pasteurisert SKUMMETMELK/ pasteuriseret SKUMMETMÆLK, kakaopulver 1,0%, laktasenzym/ laktaseenzym, stabiliseringsmedel /stabilisator (E 407), naturliga aromer/ naturlig arom/ naturlig aroma, sötningsmedel/ søtstoffer/ sødestoffer (E 950, E 955).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340001803433",
+      "name": "Bakmix Pannkakor Original 3,9% 500g",
+      "company": "Tyngre",
+      "ingredients": "VETEMJÖL, VETEGLUTEN, Tyngre VASSLE vaniljdrömmar (VASSLEPROTEINkoncentrat (MJÖLK), emulgeringsmedel (solroslecitin), aromer, salt, sötningsmedel (aspartam*, acesulfam-K), laktas), sötningsmedel (erytritol), bakpulver (natriumpyrofosfat, natriumbikarbonat), HELÄGGSpulver, salt. *Innehåller en fenylalaninkälla.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "4016241051103",
+      "name": "Kesella Kvarg Naturell 7% 250g",
+      "company": "Arla Köket®",
+      "ingredients": "Pastöriserad MJÖLK och GRÄDDE, laktasenzym, syrningskultur, ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971281705",
+      "name": "Mousse Hallon 200g",
+      "company": "Almighurt",
+      "ingredients": "pastöriserad SKUMMJÖLK, GRÄDDE, socker, hallon 3,5%, modifierad stärkelse, MJÖLKPROTEIN, gelatin (nötkött), emulgeringsmedel (E 472b), färgväxtkoncentrat (morotskoncentrat), naturlig arom, förtjockningsmedel (E 412), syrakultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340001806809",
+      "name": "Laktosfri Proteinmilkshake Caffé caramello 1,5% 330ml",
+      "company": "Barebells",
+      "ingredients": "MJÖLK/MÆLK (66%), MJÖLK-/MÆLK-/MELKPROTEINKONCENTRAT (31%), vatten/vand, stabiliseringsmedel/stabilisator (cellulosa, cellulosagummi, karragenan), aromer/aromaer, kakaosmör, färgämne/fargestoff (sockerkulör/karamel), surhetsreglerande medel (natriumfosfat), sötningsmedel/sødestoffer (acesulfam-K, sukralos), laktas.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971286601",
+      "name": "Proteinmousse Vit choklad 1,4% 200g",
+      "company": "High Protein",
+      "ingredients": "pastöriserad SKUMMJÖLK/ pasteurisert SKUMMETMELK/ pasteuriseret SKUMMETMÆLK, MJÖLKPROTEIN/ MELKEPROTEIN/ MÆLKEPROTEIN 7,0%, GRÄDDE/ FLØTE/ FLØDE, gelatin/ gelatine (nötkött/ biff/ okse), modifierad stärkelse/ modifisert stivelse/ modificeret stivelse, arom/ aroma, förtjockningsmedel/ fortykningsmiddel/ fortykningsmidler (E 407, E 412), laktasenzym/ laktaseenzym, sötningsmedel/ søtstoffer/ sødestoffer (E 950, E 955). Innehåller naturligt förekommande socker./Med et naturlig innhold av sukker./Med et naturligt indhold af sukker. Vispad med kväve./Pisket med nitrogen./Pisket op med nitrogen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5711953209932",
+      "name": "Chokladmjölk Pucko Original 250ml",
+      "company": "Cocio",
+      "ingredients": "MJÖLK (fett 1,5%), socker 5%, fettreducerad kakao¹ 1%, salt, surhetsreglerande medel (natriumkarbonat) och aromer. ¹Rainforest Alliance Certified.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971281408",
+      "name": "Mousse Citron 200g",
+      "company": "Almighurt",
+      "ingredients": "pastöriserad SKUMMJÖLK, GRÄDDE, socker, citronsaft från koncentrat 2,7%, modifierad stärkelse, MJÖLKPROTEIN, citronceller 0,3%, gelatin (nötkött), emulgeringsmedel (E 472b), naturlig arom, förtjockningsmedel (E 412), syrakultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350068290107",
+      "name": "ProPud Proteinmilkshake Strawberry n&apos; Cream 1,5% 1000ml",
+      "company": "PROPUD",
+      "ingredients": "MJÖLK/MELK/MÆLK, MJÖLK/MELKE/MÆLKEPROTEIN, stabiliseringsmedel/stabilisator (gellangummi/gellan, cellulosagummi, karragenan), arom, sötningsmedel/søtstoffer (steviolglykosider från stevia, acesulfam K), färgämne/fargestoff (karotener), laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971421507",
+      "name": "Dessert Choklad 4-pack 400g",
+      "company": "Ehrmann Love Dessert",
+      "ingredients": "pastöriserad SKUMMJÖLK/pasteurisert SKUMMETMELK, vassle (MJÖLK)/myse (MELK), glukos-fruktossirap, socker/sukker, GRÄDDE/FLØTE, modifierad stärkelse/modifisert stivelse, choklad/sjokolade 1,2% (socker/sukker, kakaosmör/kakaosmør, kakaopulver), fettreducerad kakao 1,2%, förtjockningsmedel/fortykningsmiddel (E 407), arom/aroma.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4008400553023",
+      "name": "Bar Kinder Maxi king 35g",
+      "company": "Kinder",
+      "ingredients": "MÆLKECHOKOLADE / MJÖLKCHOKLAD / MELKESJOKOLADE 28,5% (kakaosmør, sukker / socker,SØDMÆLKSPULVER/ HELMJÖLKSPULVER / HELMELKPULVER, kakaomasse, emulgator: lecitiner (SOJA); vanillin), pasteuriseret / pastöriserad MÆLK / MJÖLK / MELK (14,5%), sukker / socker, karamel 11% (sødet kondenseret / sötad kondenserad MÆLK/MJÖLK/MELK, sukker / socker, HASSELNØDDER/ HASSELNÖTTER / HASSELNØTTER, palmeolie / palmolja, aroma), HASSELNØDDER / HASSELNÖTTER / HASSELNØTTER (10,5%), palmeolie /palmolja, SKUMMETMÆLKSPULVER/SKUMMJÖLKSPULVER / SKUMMETMELKPULVER (5,5%), HVEDEMEL / VETEMJÖL, koncentreret SMØR / SMÖRKONCENTRAT, rismel / rismjöl, tapiokastivelse / stärkelse, emulgatorer (mono- og diglyserider av fettsyrer, lecitiner (SOJA)), salt, vanillin, fortykningsmiddel / förtjockningsmedel (tarakjernemel / taragummi), hævemiddel / bakpulver (natriumhydrogenkarbonat / natriumvätekarbonat).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310867004947",
+      "name": "Proteindryck Kollagen Mango &amp; passion 250ml",
+      "company": "Lindahls",
+      "ingredients": "Högpastöriserad MJÖLK***, vatten, mangopuré från koncentrat 2,5 %, kollagenpeptider (bovint) 2 %, passionsfruktpuré från koncentrat 1,9 %, modifierad majsstärkelse, syra (citronsyra), förtjockningsmedel (pektin), vitamin C, vitamin D, laktasenzym, yoghurtkultur, sötningsmedel (aspartam, acesulfam K), arom, färgämne (safflor). ***Ursprungsland: Sverige. Innehåller en källa till fenylalanin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408432001000",
+      "name": "Proteinmilkshake Strawberry Ice cream 250ml",
+      "company": "VALIO",
+      "ingredients": "MJÖLK, MJÖLKPROTEIN, stabiliseringsmedel (karragenan), sötningsmedel (acesulfam K, sukralos), aromer, salt, färgämne (karmin), vitamin D, laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7315360015698",
+      "name": "Chokladtårta Fransk 850g",
+      "company": "DELICATO",
+      "ingredients": "Socker, vegetabilisk olja (palm*, raps, kokos, shea), VETEMJÖL, ÄGG, vatten, kakaopulver, GRÄDDE, SKUMMJÖLKSPULVER, kakaomassa, MANDEL, salt, kakaosmör, konserveringsmedel (kaliumsorbat), majsstärkelse, bakpulver (E450, E500), emulgeringsmedel (lecitin, vegetabiliskt E471), arom (bl.a. vanillin), färgämne (karotener, E133). *Hållbart producerad från certifierade odlare.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "4016241051172",
+      "name": "Kvarg Mild Naturell 1000g",
+      "company": "Arla®",
+      "ingredients": "MJÖLK, mjölksyrakultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971247909",
+      "name": "Proteinpudding Dubbel choklad 2,3% 200g",
+      "company": "Ehrmann High Protein",
+      "ingredients": "pastöriserad SKUMMJÖLK/pasteurisert SKUMMETMELK/pasteuriseret SKUMMETMÆLK, MJÖLKPROTEIN/MELKEPROTEIN/MÆLKEPROTEIN 8,0%, GRÄDDE/FLØTE/FLØDE, kakaopulver 1,4%, modifierad stärkelse/modifisert stivelse/modificeret stivelse, fettreducerad/fedtfattigt kakaopulver 0,5%, förtjockningsmedel/fortykningsmiddel/fortykningsmidler (E 407, E 466), gelatin/gelatine (nötkött/biff/okse), färgämne/fargestoff/farve (E 150c), emulgeringsmedel/emulgator (E 472b), laktasenzym, naturlig arom/ aroma, sötningsmedel/søtstoffer/sødestoffer (E 950, E 955), arom/aroma. Innehåller naturligt förekommande socker./Med et naturlig innhold av sukker./Med et naturligt indhold af sukker. Topping vispad med kväve./Topping pisket med nitrogen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7315361111887",
+      "name": "Chokladtårta Salt karamell 750g",
+      "company": "DELICATO",
+      "ingredients": "Socker, vegetabilisk olja (palm*, raps, shea, kokos, solros), vatten, ÄGG, VETEMJÖL, glukossirap, HAVREGRYN, kakaopulver, majsstärkelse, GRÄDDE, SKUMMJÖLKSPULVER, MANDEL, salt, sötningsmedel (sorbitol), bakpulver (E450, E500), sockrad kondenserad MJÖLK, SMÖR, kakaomassa, konserveringsmedel (kaliumsorbat), kakaosmör, emulgeringsmedel (lecitin, vegetabiliskt E471, SOJALECITIN), arom (bl.a. gräddkola), förtjockningsmedel (agar). *Hållbart producerad från certifierade odlare.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310865008268",
+      "name": "Kesella Kvarg Naturell 10% 250g",
+      "company": "Arla Köket®",
+      "ingredients": "Pastöriserad MJÖLK och GRÄDDE, syrningskultur, ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971345605",
+      "name": "Proteinpudding Kreatin Choklad 230g",
+      "company": "Ehrmann High Protein",
+      "ingredients": "pastöriserad SKUMMJÖLK, MJÖLKPROTEINER 6,5%, GRÄDDE, kakaopulver 1,7%, modifierad stärkelse, kreatinmonohydrat 0,75%, förtjockningsmedel (E 407, E 466), fettreducerad kakaopulver 0,2%, laktasenzym, naturlig arom, sötningsmedel (E 955, E 950).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7394376044342",
+      "name": "Vaniljsås Havre 11% 250ml",
+      "company": "Oatly",
+      "ingredients": "Vatten/vann, socker/sukker, HAVRE 9%, rapsolja/rapsolje, fullhärdad/fullt herdet kokos- och rapsolja/rapsolje, emulgeringsmedel (E472b, E472e), vaniljarom/vaniljearoma, stabiliseringsmedel (xanthan gummi), joderat salt, färgämne/fargestoff (betakaroten).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5411188138525",
+      "name": "Coconut Salt karamell 120g",
+      "company": "ALPRO",
+      "ingredients": "lätt/lett kokosmjölk/melk/mælk (85,4%) (vatten/vann/vand, kokosgrädde/krem (17,2%), kokosnötvatten/kokosvand (9,7%)), socker/sukker, modifierad stärkelse/modificeret stivelse, karamelliserat socker/sukker (1%), havssalt (0,2%), naturliga aromer/aromaer, citronjuice från/fra koncentrat, stabiliseringsmedel/stabilisator (pektiner), kulturer (S. thermophilus, L. bulgaricus). KAN INNEHÅLLA/INDEHOLDE SPÅR/SPOR AV/AF SOJA/SOYA OCH/OG NÖTTER/NØTTER/NØDDER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350068296215",
+      "name": "Proteinmilkshake Caramel Glazed Bananas 330ml",
+      "company": "PROPUD",
+      "ingredients": "MJÖLK/MELK/MÆLK, MJÖLKPROTEIN/MELKEPROTEIN/MÆLKEPROTEIN, stabiliseringsmedel/stabilisator (gellangummi/gellan, cellulosagummi, karragenan), aromer, naturlig aromer, sötningsmedel/søtstoffer (steviolglykosider från stevia, acesulfam K), surhetsreglerande medel (natiumfosfater), salt, laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350068291128",
+      "name": "Laktosfri Propud Vanilla Stor 1,5% 500g",
+      "company": "PROPUD",
+      "ingredients": "MJÖLK/MELK/MÆLK, MJÖLK/MELKE/MÆLKEPROTEIN, förtjockningsmedel/fortykningsmiddel (karragenan, cellulosagummi), arom, stabiliseringsmedel/stabilisator (natriumfosfater), sötningsmedel/søtstoffer/sødestoffer (acesulfam K, steviolglykosider från stevia), laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971275902",
+      "name": "Proteinpudding Vit choklad 2,1% 200g",
+      "company": "High Protein",
+      "ingredients": "pastöriserad SKUMMJÖLK/pasteurisert SKUMMETMELK, MJÖLKPROTEIN/MELKEPROTEIN 8,5%, GRÄDDE/FLØTE, modifierad stärkelse/modifisert stivelse, förtjockningsmedel/fortykningsmiddel (E 407, E 466), arom/aroma, laktasenzym, sötningsmedel/søtstoffer (E 950, E 955). Innehåller naturligt förekommande socker. Med et naturlig innhold av sukker.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865096197",
+      "name": "Keso Cottage cheese Protein 1,5% 500g",
+      "company": "KESO®",
+      "ingredients": "Pastöriserad MJÖLK, MJÖLKPROTEIN, salt, modifierad potatisstärkelse, konserveringsmedel (kaliumsorbat), syrningskultur, ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5411188131038",
+      "name": "Coconut Hallon 120g",
+      "company": "ALPRO",
+      "ingredients": "lätt/lett kokosmjölk/melk/mælk (81,3%) (vatten/vann/vand, kokosgrädde/fløte/fløde (16,6%), kokosnötvatten/vann/vand (9,3%)), hallon/bringebær/hindbær (7,3%), socker/sukker, modifierad stärkelse/modificeret stivelse, naturliga aromer, surhetsreglerande medel/middel (citronsyra, natriumcitrater), stabiliseringsmedel/stabilisator (pektiner), svart/sort morot-/gulrot-/gulerodkoncentrat, havssalt, kulturer (S. thermophilus, L. bulgaricus). KAN INNEHÅLLA/INNEHOLDE/INDEHOLDE SPÅR/SPOR AV/AF SOJA/SOYA OCH/OG NÖTTER/NØTTER/NØDDER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7316110002678",
+      "name": "Chokladpudding 4-pack 480g",
+      "company": "Ekströms",
+      "ingredients": "Vatten, socker, skumMJÖLKspulver, GRÄDDE, fettreducerat kakaopulver 2,2%, modifierad stärkelse, gelatin, geleringsmedel (E407), arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971296808",
+      "name": "Skyr Protein Vanilj 450g",
+      "company": "Ehrmann High Protein",
+      "ingredients": "pastöriserad SKUMMJÖLK, vatten, sötningsmedel (E 968, E 955, E 950), modifierad stärkelse, naturlig vanilj arom, arom (innehåller MJÖLK), citronjuice koncentrat, syrakultur (MJÖLK), vaniljstänger.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350068293351",
+      "name": "ProPud Proteinmilkshake Marängsviss 330ml",
+      "company": "PROPUD",
+      "ingredients": "MJÖLK/MELK/MÆLK, MJÖLK/MELKE/MÆLKEPROTEIN, fettreducerat kakaopulver (0,13%), stabiliseringsmedel/stabilisator (gellangummi/gellan, cellulosagummi, karragenan), aromer, sötningsmedel/søtstoffer/sødestoffer (steviolglykosider från stevia, acesulfam K), laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5711953214332",
+      "name": "Shake Jordgubb 240ml",
+      "company": "Arla®",
+      "ingredients": "MJÖLK, fiber (majs), MJÖLKPROTEIN, socker(1,8%), naturlig arom, stabiliseringsmedel (gellangummi, karragenan), laktasenzym, surhetsreglerande medel(natriumcitrat), färg (betakaroten), vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5711953204234",
+      "name": "Proteinshake Choklad 0,9% 1000ml",
+      "company": "Arla®",
+      "ingredients": "MJÖLK, MJÖLKPROTEIN, socker (1,9%), fettreducerat kakaopulver² (1,2%), stabiliseringsmedel (gellangummi, karragenan), surhetsreglerande medel (natriumcitrat), naturlig arom, laktasenzym.²Rainforest Alliance Certified. Find out more at / Läs mer på: ra.org.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5711953183959",
+      "name": "Laktosfri Måltidsshake Protein Vanilj &amp; hasselnöt 500ml",
+      "company": "Arla®",
+      "ingredients": "MJÖLK (90 %), MJÖLKPROTEIN (3,25%), fiber (majs), isomaltulos, solrosolja, stabiliseringsmedel (gellangummi, karragenan), aromer, surhetsreglerande medel (natriumcitrat), vitaminer (A,tiamin, niacin, pantotensyra, B6, biotin, folsyra, B12, C, D, E, K), mineraler (koppar, järn, magnesium, mangan, selen, jod, krom, molybden), laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971283808",
+      "name": "Proteinmousse Choklad 1,5% 200g",
+      "company": "Ehrmann High Protein",
+      "ingredients": "MJÖLKPROTEINER/MELKEPROTEINER, pastöriserad SKUMMJÖLK/pasteurisert SKUMMETMELK, fettreducerad kakao 4,0%, GRÄDDE/FLØTE, gelatin (nötkött/biff), modifierad stärkelse/modifisert stivelse, naturliga aromer/naturlige aromaer, förtjockningsmedel/fortykningsmiddel (E 407, E 412), laktasenzym, sötningsmedel/søtstoffer (E 950, E 955). Vispad med kväve./Pisket med nitrogen. Innehåller naturligt förekommande socker./Med et naturlig innhold av sukker.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310890108018",
+      "name": "Glutenfri Lättostkaka 300g",
+      "company": "FRÖDINGE",
+      "ingredients": "MJÖLK*, ÄGG*, vatten, MJÖLKSOCKER, fruktsocker, majsstärkelse, GRÄDDE*, SKUMMJÖLKSPULVER*, SÖTMANDEL, modifierad potatisstärkelse, VASSLEPROTEIN, BITTERMANDEL, stabiliseringsmedel (kalciumklorid), vegetabiliskt ystenzym, konserveringsmedel (sorbinsyra). KAN INNEHÅLLA SPÅR AV ANDRA NÖTTER. *Svenskt ursprung",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408430011629",
+      "name": "Laktosfri PROfeel Proteinshake Mint 250ml",
+      "company": "VALIO",
+      "ingredients": "MJÖLKPROTEIN, SKUMMJÖLK, socker, fettreducerad kakao** 1,1 %, aromer, stabiliseringsmedel (karragenan), salt, vitamin D, laktasenzym. **Rainforest Alliance-certifierad kakao. Få reda på mer på ra.org.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5711953183980",
+      "name": "Laktosfri Måltidsshake Protein Choklad &amp; karamell 500ml",
+      "company": "Arla®",
+      "ingredients": "MJÖLK (90 %), MJÖLKPROTEIN (3%), fiber (majs), isomaltulos, fettreducerat kakaopulver, solrosolja, stabiliseringsmedel (gellangummi, karragenan), aromer, surhetsreglerande medel (natriumcitrat), vitaminer (A, tiamin, niacin, pantotensyra, B6, biotin, folsyra, B12, C, D, E, K), mineraler (koppar, järn, magnesium, mangan, selen, jod, krom, molybden), laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350068291111",
+      "name": "Laktosfri Propud Chocolate 1,5% 500g",
+      "company": "PROPUD",
+      "ingredients": "MJÖLK/MELK/MÆLK, MJÖLK/MELKE/MÆLKEPROTEIN, fettreducerad kakao (1,8%), förtjockningsmedel/fortykningsmiddel (karragenan, cellulosagummi), arom, stabiliseringsmedel/stabilisator (natriumfosfater), sötningsmedel/søtstoffer/sødestoffer (acesulfam K, steviolglykosider från stevia), laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350068290145",
+      "name": "Proteinmilkshake Choklad 1,5% 1000ml",
+      "company": "PROPUD",
+      "ingredients": "MJÖLK/MELK/MÆLK, MJÖLKPROTEIN/MELKEPROTEIN/MÆLKEPROTEIN, fettreducerat kakaopulver (0,6%), stabiliseringsmedel/stabilisator (gellangummi/gellan, cellulosagummi, karragenan), naturliga aromer, sötningsmedel/søtstoffer (steviolglykosider från stevia, acesulfam K), laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408430401260",
+      "name": "Laktosfri PROfeel Proteinshake Caramel 250ml",
+      "company": "VALIO",
+      "ingredients": "MJÖLKPROTEIN, SKUMMJÖLK, socker, karamellsirap, aromer, salt, stabiliseringsmedel (karragenan), dextros, vitamin D, laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340001800685",
+      "name": "Proteinmilkshake Jordgubb 1,4% 330ml",
+      "company": "Barebells",
+      "ingredients": "MJÖLK/MÆLK (66%), MJÖLK-/MÆLK-/MELKPROTEINKONCENTRAT (31%), vatten/vand, stabiliseringsmedel/stabilisator (cellulosa, cellulosagummi, karragenan), kakaosmör, aromer/aromaer, surhetsreglerande medel (natriumfosfat), laktas, sötningsmedel/sødestoffer (acesulfam-K, sukralos), färgämne/fargestoff (karoten).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8719200004849",
+      "name": "Margarin Flytande 500ml",
+      "company": "Becel",
+      "ingredients": "vegetabilisk olja 76% (rapsolja 71%, solrosolja 4%, linfröolja 1%), vatten, vegetabiliskt fett (fullhärdat rapsolja), kaliumklorid, emulgeringsmedel (solros- och SOJALECITHIN), syra (citronsyra), naturlig arom, vitamin A och D2.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408432003653",
+      "name": "Kvarg Vanilj 200g",
+      "company": "VALIO",
+      "ingredients": "KVARG (högpastöriserad SKUMMJÖLK, syrningskultur), högpastöriserad GRÄDDE, socker, vatten, förtjockningsmedel (pektin, fruktkärnmjöl och modifierad potatisstärkelse), aromer (vanilj och vanillin), färg (betakaroten) och enzymer (löpe och laktas).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5711953147821",
+      "name": "Vaniljvisp 10% 250ml",
+      "company": "Dreamy Dessert",
+      "ingredients": "MJÖLK, GRÄDDE 21%, socker 12%, MJÖLKPULVER, emulgeringsmedel (E472b), extrakt från Bourbonvanilj, vaniljaromer, stabiliseringsmedel (karragenan), mald vaniljstång, färgämne (betakaroten).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408432003646",
+      "name": "Kvarg Körsbär 200g",
+      "company": "VALIO",
+      "ingredients": "Kvarg (pastöriserad SKUMMJÖLK, syrningskultur), pastöriserad GRÄDDE, socker, körsbärsjuice från koncentrat 3,6 %, körsbär 2,4 %, modifierad stärkelse, aromer, färgämne (karmin), laktasenzym, ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408432003660",
+      "name": "Kvarg Citron 200g",
+      "company": "VALIO",
+      "ingredients": "KVARG (högpastöriserad SKUMMJÖLK, syrningskultur), högpastöriserad GRÄDDE, socker, citron (5%), vatten, förtjockningsmedel (pektin och modifierad potatisstärkelse), aromer, färg (kurkumin) och enzymer (löpe och laktas).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408432003677",
+      "name": "Kvarg Hallon / blåbär 200g",
+      "company": "VALIO",
+      "ingredients": "KVARG (högpastöriserad SKUMMJÖLK, syrningskultur), högpastöriserad GRÄDDE, socker, hallon 3%, blåbär 2,6% (bär, juice från koncentrat), lingonjuice från koncentrat 0,4%, modifierad potatisstärkelse, aromer, enzymer (löpe och laktas).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408432003639",
+      "name": "Kvarg Mango 200g",
+      "company": "VALIO",
+      "ingredients": "KVARG (pastöriserad MJÖLK, syrningskultur), pastöriserad GRÄDDE, socker, mango 6 %, passionsfruktsjuice från koncentrat, modifierad stärkelse, arom, färgämne (karotener), laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865074362",
+      "name": "Keso Cottage Cheese Hasselnötter, blåbär &amp; tranbär 6,5% 145g",
+      "company": "KESO®",
+      "ingredients": "Cottage cheese: pastöriserad MJÖLK, modifierad potatisstärkelse, salt, VASSLEPERMEAT, konserveringsmedel (kaliumsorbat), syrningskultur, ystenzym. Topping: rostade HASSELNÖTTER 58%, torkade bär 42% (blåbär 13%, tranbär 12%, äppeljuicekoncentrat, socker, solrosolja). Kan innehålla spår av nötter.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408430101283",
+      "name": "Laktosfri Proteindryck Choklad 250ml",
+      "company": "VALIO",
+      "ingredients": "MJÖLKPROTEIN, SKUMMJÖLK, fettreducerad kakao** 1,1 %, choklad** 0,2 %, stabiliseringsmedel (karragenan), aromer, salt, sötningsmedel (acesulfam K, sukralos), vitamin D, laktasenzym. **Rainforest Alliance-certifierad kakao. Find out more at ra.org.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350020729935",
+      "name": "Smoothie Äpple, jordgubb &amp; citron 250ml",
+      "company": "Froosh",
+      "ingredients": "Äppel-/eplejuice, jordgubbs-/jordbærpuré, bananpuré, vindruv-/druejuice, äppel-/eplepuré, citronjuice, guavapuré, färgande livsmedel (svart morotsextrakt)/næringsmiddel som avgir farge (svart gulrotekstrakt).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865880390",
+      "name": "Grädde Syrad 30% 300ml",
+      "company": "Arla Ko®",
+      "ingredients": "Pastöriserad GRÄDDE, syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310867005302",
+      "name": "Fruktdryck Persika &amp; Aprikos 1000ml",
+      "company": "ProViva",
+      "ingredients": "Juice från koncentrat (druva, äpple, morot, acerola), vatten, puré från koncentrat (persika 8%, aprikos 2%), bananpuré, HAVREmjöl 0,8%, syra (mjölksyra), naturlig arom, kultur: Lactobacillus plantarum 299v. Totalt fruktinnehåll 72%.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7313619002246",
+      "name": "Fruktdryck Apelsin nektar 1000ml",
+      "company": "God Morgon®",
+      "ingredients": "Apelsinjuice* med fruktkött (50%), vatten, socker, citronjuice* och vitamin C. *Från koncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310867005197",
+      "name": "Fruktdryck Blåbär 1000ml",
+      "company": "ProViva",
+      "ingredients": "Vatten, blåbär 9 % (bär, puré), socker, modifierad potatisstärkelse, HAVREmjöl 0,8 %, syra (citronsyra), vitamin C, kultur: Lactobacillus plantarum 299v.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310865889157",
+      "name": "Keso Cottage Cheese Vanilj 2,9% 500g",
+      "company": "KESO®",
+      "ingredients": "Cottage cheese (pastöriserad MJÖLK och GRÄDDE, salt, syrningskultur, ystenzym), vatten, socker 3,2%, modifierad potatisstärkelse, extrakt från Bourbonvanilj, mald vaniljstång, naturlig arom, citronjuice, konserveringsmedel (kaliumsorbat).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5411188139621",
+      "name": "Plantgurt Protein Mango &amp; banan 200g",
+      "company": "Alpro",
+      "ingredients": "vatten/vann/vand, skalade/afskallede SOJAbönor/SOYAbønner (10,2%), socker/sukker, SOJA/SOYAprotein, mango-bananmix (2%) (mango (1,5%), banan (0,5%)), bondböna/bønnevikke/hestebønneprotein, kalcium (trikalciumcitrat), stabiliseringsmedel/stabilisator (pektiner), naturliga aromer, koncentrat av/af morot/gulrot/gulerod och/og pumpa/gresskar/græskar, surhetsreglerande medel/midler (citronsyra, natriumcitrater), vitaminer B12, D2, yoghurtkultur (S. thermophilus, L. bulgaricus). KAN INNEHÅLLA/INNEHOLDE/INDEHOLDE SPÅR/SPOR AV/AF NÖTTER/NØTTER/NØDDER (INGA/INGEN JORDNÖTTER/PEANØTTER/JORDNØDDER).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310867005289",
+      "name": "Fruktdryck Apelsin &amp; Mango 1000ml",
+      "company": "ProViva",
+      "ingredients": "Juice från koncentrat (apelsin med fruktkött 21 %, druva, acerola), vatten, puré (mango 7,5 %, banan), HAVREmjöl 0,8 %, syra (mjölksyra), naturlig apelsinarom, kultur: Lactobacillus plantarum 299v.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6408432201806",
+      "name": "Laktosfri PROfeel Proteinshake Choklad 1,5% 250ml",
+      "company": "VALIO",
+      "ingredients": "MJÖLK, MJÖLKPROTEIN, fettreducerad kakao (1,6 %), stabiliseringsmedel (karragenan), sötningsmedel (acesulfam K, sukralos), aromer, salt, laktasenzym, vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310867005296",
+      "name": "Fruktdryck Ananas, Äpple &amp; Ingefära 1000ml",
+      "company": "ProViva",
+      "ingredients": "Juice från koncentrat (ananas 30%, druva, äpple 10%, acerola, lime), vatten, ingefära juice 1%, HAVREmjöl 0,8%, syra (mjölksyra), naturlig arom. Bakteriekultur: Lactobacillus plantarum 299v.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6408432201837",
+      "name": "Laktosfri Kvarg Jordgubb 7% 200g",
+      "company": "VALIO",
+      "ingredients": "KVARG (pastöriserad MJÖLK, syrningskultur), pastöriserad GRÄDDE, socker, jordgubbar 6 %, modifierad stärkelse, aromer, färgämne (karmin), laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7038010071287",
+      "name": "Yoghurt Melon &amp; passionsfrukt 3% 4-pack 600g",
+      "company": "TINE",
+      "ingredients": "högpastöriserad/højpasteuriseret MJÖLK/MÆLK, socker/sukker 5 %, melon och melonjuice* 3 %, passionsfruktsjuice/passionsfrugtjuice* 3 %, skumMJÖLKspulver/skummetMÆLKspulver, modifierad stärkelse/modificeret stivelse, förtjockningsmedel/fortykningsmiddel (guarkärnmjöl/guargummi), aromer/aromaer, laktasenzym, YOGHURTKULTUR (Streptococcus thermophilus och Lactobacillus bulgaricus) *från/fra koncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340011401841",
+      "name": "Matfett Flytande 500ml",
+      "company": "Xtra",
+      "ingredients": "Rapsolja (raps: EU), vatten, fullhärdad rapsolja 2 %, emulgeringsmedel (E 471, E 472c (vegetabiliskt), E 322), salt, arom, färgämne (E 160a).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350000553253",
+      "name": "Yoghurt Banan &amp; jordgubb 2,1% 4-pack 280g",
+      "company": "Danonino",
+      "ingredients": "Pastöriserad/pasteurisert MJÖLK/MÆLK/MELK 80%, socker/sukker, jordgubbs/jordbærpuré från koncentrat 3%, bananpuré 3%, stärkelse/stivelse, MJÖLK/MÆLK/MELKEproteinkoncentrat, modifierad/modificeret stärkelse/stivelse, kalcium, skumMJÖLK/MÆLK/MELKpulver, juicekoncentrat (morot/gulerod/gulrot, äpple/æble/eple, svart/sort morot/ gulerod/gulrot), naturliga aromer/aromaer, surhetsreglerande medel/middel (citronsyra), yoghurtkultur, vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6430081491352",
+      "name": "Sojagurt persika &amp; hallon 1000g",
+      "company": "Oddlygood®",
+      "ingredients": "vatten, skalade SOJABÖNOR 10 %, socker, persikopuré 2,4 %, hallonpuré 1,5 %, stärkelse, modifierad stärkelse, kalcium, aromer, koncentrerad svart morotsjuice, salt, färgämne (karotener), surhetsreglerande medel (natriumcitrater), vitaminer (riboflavin (B2), B12, D2), jod, syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6430081491369",
+      "name": "Sojagurt citron 1000g",
+      "company": "Oddlygood®",
+      "ingredients": "vatten, skalade SOJABÖNOR 10 %, socker, citronjuice 2,0 % (från koncentrat), stärkelse, modifierad stärkelse, kalcium, arom, salt, surhetsreglerande medel (natriumcitrater), färgämne (kurkumin), vitaminer (riboflavin (B2), B12, D2), jod, syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392672001854",
+      "name": "Laktosfri Kvarg Naturell 0,2% 500g",
+      "company": "Lindahls",
+      "ingredients": "Högpastöriserad MJÖLK**, VASSLEPROTEIN, laktasenzym, mjölksyrakultur. **Ursprungsland Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4016241050632",
+      "name": "Laktosfri Mild kvarg Jordgubb 0% 1000g",
+      "company": "Arla®",
+      "ingredients": "MJÖLK, vatten, jordgubbar 3,4%, cikoriarotfiber (inulin), majsstärkelse, aroniajuicekoncentrat, naturlig arom, pektin, sötningsmedel (aspartam**), citronjuicekoncentrat, mjölksyrakultur, laktasenzym. Mjölken är högpastöriserad. **Innehåller en fenylalaninkälla.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313619002659",
+      "name": "Shot Äpple, ingefära &amp; citron 450ml",
+      "company": "God Morgon®",
+      "ingredients": "Äppeljuice* (74 %), äppelpuré (14 %), ingefärajuice (7 %), citronjuice* (5 %), koncentrat (av spirulina, morot, äpple), vitamin C, E och D. Pastöriserad. * Från koncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5711953042003",
+      "name": "Laktosfri Drickyoghurt Yalla Jordgubb 0,5% 350ml",
+      "company": "Yoggi®",
+      "ingredients": "MJÖLK/MÆLK, jordgubbar/jordbær 6,0%, socker/sukker 4,0%, passionsfruktjuice/passionsfrugtjuice 0,4%, majsstärkelse/majsstivelse, laktasenzym/laktaseenzym, naturlig arom/aroma, YOGHURTKULTUR.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340001800708",
+      "name": "Proteinmilkshake Choklad 1,3% 330ml",
+      "company": "Barebells",
+      "ingredients": "MJÖLK/MÆLK (64 %), MJÖLK-/MÆLK-/MELKPROTEINKONCENTRAT (31 %), vatten/vand, kakao (1 %), stabiliseringsmedel/stabilisator (cellulosa, cellulosagummi, karragenan), surhetsreglerande medel (natriumfosfat), sötningsmedel/sødestoffer (acesulfam-K, sukralos), laktas, aromer/aromaer.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408432001710",
+      "name": "Laktosfritt Gårdsgoda 400g",
+      "company": "Valio",
+      "ingredients": "Laktosfritt SMÖR 64 % (pastöriserad GRÄDDE, salt och laktasenzym), rapsolja 23 %, vatten, salt, vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971301601",
+      "name": "Proteinpudding Chocolate 1,5% 200g",
+      "company": "Ehrmann High Protein",
+      "ingredients": "pastöriserad SKUMMJÖLK/pasteurisert SKUMMETMELK, MJÖLKPROTEIN/MELKEPROTEIN 8,0%, GRÄDDE/FLØTE, kakaopulver 1,7%, modifierad stärkelse/modifisert stivelse, förtjockningsmedel /fortykningsmiddel (E 407, E 466), fettreducerad kakaopulver 0,2%, laktasenzym, naturliga aromer/naturlige aromaer, sötningsmedel/søtstoffer (E 950, E 955). Innehåller naturligt förekommande socker. Med et naturlig innhold av sukker.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408432002915",
+      "name": "Laktosfri Cottage cheese 2,4% 200g",
+      "company": "VALIO",
+      "ingredients": "pastöriserad MJÖLK och GRÄDDE, modifierad stärkelse, salt, konserveringsmedel (kaliumsorbat), syrningskultur, laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310050005188",
+      "name": "Kaffedryck Espresso Eko 230ml",
+      "company": "Löfbergs",
+      "ingredients": "48% MJÖLK° (7,7% fett), 44% kaffe° (vatten, kaffeextrakt), socker°, karamell sockersirap°, förtjockningsmedel (karragenan, gellangummi), surhetsreglerande medel (trinatriumcitrat), naturlig kaffesmaksättning. Koffein ≈71 mg/burk. ° Organic/Ekologisk/Økologisk/Luomu/Mahetoode/Bioloģisks/Ekologiška/Składnik organiczny",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310867563215",
+      "name": "Fruktdryck Apelsin &amp; Äpple 1750ml",
+      "company": "Bravo",
+      "ingredients": "Vatten, äpplejuice* 42 %, apelsinjuice* 6 %, invertsocker 2,4 %, naturlig apelsinarom, syra (citronsyra), färg (betakaroten), vitamin C. *Juice från koncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5711953194054",
+      "name": "Protein Coffee latte 1,1% 330ml",
+      "company": "Starbucks®",
+      "ingredients": "MJÖLK med 1,2% fett (75%), Starbucks® Arabica kaffe (vatten, kaffeextrakt) (20,9%), MJÖLKprotein (3,9%), surhetsreglerande medel (natriumcitrat, kaliumkarbonat), stabiliseringsmedel (gellangummi, karragenan), sötningsmedel (acesulfam K).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971186208",
+      "name": "Kvarg Jordgubb, Banan &amp; Hallon 2,5% 12-pack 600g",
+      "company": "Robby MonsterBacke",
+      "ingredients": "Kvarg (fettfri pastöriserad MJÖLK, GRÄDDE, MJÖLKprotein, syrakultur), frukt*, socker, vegetabiliskt koncentrat (morot, rödbetsjuice)¹, naturliga aromer, modifierad stärkelse, förtjockningsmedel (E 412, E 415), kalciumcarbonat. ¹ jordgubbar och hallon. * frukt: jordgubbar, banan, hallon.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408430401390",
+      "name": "Proteinmousse PROfeel Vanilj &amp; jordgubb 150g",
+      "company": "VALIO",
+      "ingredients": "MJÖLK, MJÖLKPROTEIN, vatten, jordgubbar 3,0 %, jordgubbsjuice 2,3 % (från koncentrat), modifierad stärkelse, stärkelse, gelatin, förtjockningsmedel (guarkärnmjöl), malen vaniljstång, sötningsmedel (acesulfam K, sukralos), aromer, salt, färgämnen (karotener, karmin), surhetsreglerande medel (citronsyra, natriumcitrater), laktasenzym. Vispad med kväve.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310390010156",
+      "name": "Smör Flytande Culinesse 453g",
+      "company": "MILDA Culinesse",
+      "ingredients": "Vegetabilisk olja (80%) (rapsolja, solrosolja, linfröolja, i varierande proportioner), vatten, fullhärdad rapsolja, salt (1,5%),emulgeringsmedel (SOJA- och solroslecitin), arom, surhetsreglerande medel (citronsyra), A- och D-vitamin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5711953147746",
+      "name": "Vaniljsås Klassisk 10% 500ml",
+      "company": "Dreamy Dessert",
+      "ingredients": "MJÖLK, GRÄDDE 27%, socker 10,5%, modifierad potatisstärkelse, MJÖLKPULVER, extrakt från Bourbonvanilj, naturlig arom, mald vaniljstång.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5411188141136",
+      "name": "Dessert Choklad &amp; kokos 135g",
+      "company": "ALPRO",
+      "ingredients": "kokosmjölk/melk/mælk (49,1%) (vatten/vann/vand, kokosgrädde/fløte/fløde (22,5%)), vatten/vann/vand, socker/sukker, modifierad stärkelse/modificeret stivelse, kakaopulver (2,8%), mörk/mørk choklad/sjokolade/chokolade (0,7%), förtjockningsmedel/ middel (agar), havssalt. KAN INNEHÅLLA/INNEHOLDE/INDEHOLDE SPÅR/SPOR AV/AF SOJA/SOYA OCH/OG NÖTTER/NØTTER/NØDDER (INGA/INGEN JORDNÖTTER/PEANØTTER/JORDNØDDER).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310867000383",
+      "name": "Kefir Aprikos &amp; citron 1.3% 1000g",
+      "company": "Salakis",
+      "ingredients": "Laktosfri kefir (högpastöriserad MJÖLK*, syrningskultur och kultur av Bifidobacterium lactis och Lactobacillus acidophilus, laktasenzym, vitamin D), aprikos- och citronberedning (vatten, socker 5 %, modifierad majsstärkelse, aprikosjuicekoncentrat 2,9 %, arom, citronjuice 0,1 %, färg (gurkmeja), syra (citronsyra). *Ursprungsland Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5038862238595",
+      "name": "Smoothie Antioxidant 300ml",
+      "company": "Innocent",
+      "ingredients": "1½ pressade äpplen (61%), ½ mosad banan**, 8 pressade gröna vindruvor, ¼ krossad mango, lite krossad kiwi (6,1%), lite pressad gurka (1,5%), en skvätt spirulinaextrakt, några malda linfrön (0,39%), en skvätt limejuice (0,21%), lite safflorextrakt, lite matcha teextrakt (0,05%) och några vitaminer (B1, B2, B3, B6, C &amp; E).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311870010796",
+      "name": "Laktosfri Smör- &amp; Rapsolja Flytande 500ml",
+      "company": "Arla Köket®",
+      "ingredients": "Rapsolja (67%), vatten, SMÖROLJA (8%), MJÖLKSYRAKULTUR, sheaolja, kokosolja, salt, emulgeringsmedel (lecitin), vitamin A och D, laktasenzym, naturlig arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8718166008267",
+      "name": "Laktosfri Drickyoghurt Zero Citron 350ml",
+      "company": "Yalla®",
+      "ingredients": "MJÖLK, vatten, citron 2,0%, limejuice (från koncentrat), majsstärkelse, förtjockningsmedel (pektin, kalciumcitrat), sötningsmedel (aspartam**), surhetsreglerande medel (natriumcitrat, citronsyra), naturlig arom, laktasenzym, yoghurtkultur. **Innehåller en fenylalaninkälla.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350068291234",
+      "name": "ProPud Proteinmilkshake Cappuccino 1,5% 330ml",
+      "company": "PROPUD",
+      "ingredients": "MJÖLK/MELK/MÆLK, MJÖLKPROTEIN/MELKEPROTEIN/MÆLKEPROTEIN, stabiliseringsmedel/stabilisator (gellangummi/gellan, cellulosagummi, karragenan), arom, sötningsmedel/søtstoffer (steviolglykosider från stevia, acesulfam K), färgämne/fargestoff (sockerkulör/karamel), laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310861015444",
+      "name": "Laktosfri Lättyoghurt Naturell 1000g",
+      "company": "Verum",
+      "ingredients": "Högpastöriserad norrländsk MJÖLK, laktasenzym, yoghurtkultur inklusive Lactobacillus rhamnosus LB21, vitamin D, vitamin C.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6430081491338",
+      "name": "Sojagurt Natural 1000g",
+      "company": "Oddlygood®",
+      "ingredients": "vatten, skalade SOJABÖNOR 11 %, polydextros (kostfiber), druvsocker, modifierad stärkelse, socker, vitaminer (D2, riboflavin (B2), B12, folsyra), kalcium, stabiliseringsmedel (pektiner), salt, syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865068668",
+      "name": "Laktosfri Keso Cottage Cheese Naturell 4% 250g",
+      "company": "KESO®",
+      "ingredients": "pastöriserad MJÖLK och GRÄDDE, salt, konserveringsmedel (kaliumsorbat), syrningskultur, laktasenzym, ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5711953204814",
+      "name": "Laktosfri Drickfil Cultura Profibi Blåbär 330ml",
+      "company": "Arla®",
+      "ingredients": "MJÖLK, blåbär 4%, socker 3,6%, lösliga fibrer från majs 1,4%, majsstärkelse, fläderjuice-koncentrat, naturlig arom, laktasenzym, mjölksyrakultur (L. lactis, L. cremoris, L. lactis diacetylactis, Lc. mesenteroides, S. thermophilus, L. acidophilus LA-5®, Bifidobacterium lactis BB-12®, L. paracasei F19®), vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350003115014",
+      "name": "Laktosfri Mild Roslagsyoghurt Naturell 3% Eko 1000ml",
+      "company": "Roslagsmjölk",
+      "ingredients": "Högpastöriserad MJÖLK* från Roslagen, yoghurtkultur, vitamin D. Homogeniserad. *Krav-ekologisk ingrediens",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5711953081330",
+      "name": "Proteinshake Vanilj 0,9% 500g",
+      "company": "Arla®",
+      "ingredients": "MJÖLK (95%), MJÖLKPROTEIN (2,6%), socker (1,9%), stabiliseringsmedel (gellangummi, karragenan, trinatriumcitrat), naturlig arom, laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350056791500",
+      "name": "Drickyoghurt Ayran 2,4% 250ml",
+      "company": "Larsa Foods",
+      "ingredients": "Yoghurt/Jugurtti 65% (Högpastöriserad och homogeniserad MJÖLK/homogenisert og pasteurisert MELK/homogenisoitu ja pastöroitu MAITO, grädde/krem/kerma, yoghurtkultur/hapate), vatten/vann/vesi, salt/suolaa.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5411188141174",
+      "name": "Plantgurt Naturell 750g",
+      "company": "Alpro",
+      "ingredients": "Vatten/ vann/vand, skalade/afskallede SOJAbönor/SOYAbønner (10,7%), kalcium (trikalciumcitrat), stabiliseringsmedel/stabilisator (pektiner), surhetsreglerande medel/midler (natriumcitrater, citronsyra), naturlig arom, havssalt, antioxidationsmedel/antioxidanter (tokoferolrikaextrakt, askorbinsyraestrar av fettsyror), vitaminer B12, D2, yoghurtkultur (S. thermophilus, L. bulgaricus). Kan innehålla/inneholde/ indeholde spår/spor av/af NÖTTER/NØTTER/NØDDER",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350000553499",
+      "name": "Drickyoghurt Jordgubb &amp; kiwi 300g",
+      "company": "Activia",
+      "ingredients": "Pastöriserad skumMJÖLK/MÆLK/MELK, socker/sukker, rekonstituerad vassle/valle/mysepermeat (MJÖLK/MÆLK/MELK), GRÄDDE/FLØDE/FLØTE, jordgubbar/jordbær 1,6 %, kiwi 0,4 %, citrusfiber, naturliga aromer, MJÖLK/MÆLKE/MELKEproteiner, citron/sitronjuicekoncentrat, yoghurtkultur, Bifidobacterium lactis (ACTIREGULARIS®). Kan innehålla/indeholde/inneholde spår/spor av/af spannmål som innehåller gluten/glutenholdige kornprodukter/kornslag.",
+      "gluten": "Glutenfri [ Okänd ]"
+    },
+    {
+      "id": "5711953195914",
+      "name": "Laktosfri Fil Cultura Profibi Jordgubb 1000g",
+      "company": "Arla®",
+      "ingredients": "MJÖLK, jordgubb 7,5%, socker 3,4%, MJÖLKPROTEIN, lösliga fibrer från majs 1,7%, majsstärkelse, citronjuice-koncentrat, naturlig arom, laktasenzym, mjölksyrakultur (L. lactis, L. cremoris, L. lactis diacetylactis, Lc. mesenteroides, S. thermophilus, L. acidophilus LA-5®, Bifidobacterium lactis BB-12®, L. paracasei F19®), vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "3329770077959",
+      "name": "Yoghurt Blåbär 2,3% 4-pack 500g",
+      "company": "Yoplait",
+      "ingredients": "Yoghurt (skumMJÖLK från MJÖLKpulver - SkumMJÖLK - GRÄDDE- skumMJÖLKspulver - yoghurtkultur (MJÖLK)) - blåbär 9.5% - Socker 8,6% - Vatten - Majsstärkelse - Naturlig blåbär arom Förtjockningsmedel: Pektin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191118317",
+      "name": "Juice Äpple Eko 1000ml",
+      "company": "Änglamark",
+      "ingredients": "Ekologisk äppeljuice** från koncentrat 75%, ekologisk ofiltrerad äppeljuice** 25%. **KRAV-ekologisk ingrediens. KRAV-märkningen verifieras av KIWA. Äpplenas ursprung: Se kod vid Bäst före-datumet. DE=Tyskland, UA=Ukraina, IT=Italien, HU=Ungern, PL=Polen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311870012691",
+      "name": "Laktosfri Mild Yoghurt Vanilj 1.3% 1500g",
+      "company": "Arla Ko®",
+      "ingredients": "Högpastöriserad MJÖLK, socker 6,2%, MJÖLKPROTEIN, majsstärkelse, förtjockningsmedel (citruspektin), surhetsreglerande medel (citronsyra), mald vaniljstång, vaniljextrakt, naturlig arom, laktasenzym, mild yoghurtkultur och vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5038862235327",
+      "name": "Smoothie Energise 300ml",
+      "company": "Innocent",
+      "ingredients": "1 pressat äpple (50%), 13 pressade röda och gröna vindruvor, ½ mosad banan, 3 krossade jordgubbar (10%), 2½ krossade körsbär (3,3%),14 krossade svarta vinbär, en skvätt rödbetsjuice (1,5%), några malda linfrön (0,56%), några vitaminer (B1, B2, B3, B6, C &amp; E) och en skvätt guaranaextrakt (0,01%).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5411188137702",
+      "name": "Plantgurt Mango &amp; äpple 750g",
+      "company": "Alpro",
+      "ingredients": "SOJAbas (81%) (vatten, skalade SOJAbönor (9,7%)), mango-äpple-mix (13,3%), (mangopuré- (7,6%), äppeljuice- (3,8%), äppelpurékoncentrat (1,9%)), stabiliseringsmedel (pektin), kalcium (trikalciumfosfat), surhetsreglerande medel (citronsyra, natriumcitrater), naturlig arom, havssalt, antioxidationsmedel (tokoferolrika extrakt, askorbinsyraestrar av fettsyror), vitaminer B2, B12, D2, yoghurtkultur (S. thermophilus, L. bulgaricus). KAN INNEHÅLLA SPÅR AV NÖTTER (INGA JORDNÖTTER).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971253207",
+      "name": "Dessert Dubbel Choklad 190g",
+      "company": "Grand Dessert",
+      "ingredients": "SE/NO Ingredienser: pastöriserad SKUMMJÖLK/pasteurisert SKUMMETMELK, GRÄDDE/FLØTE 20% , vassle (MJÖLK)/myse (MELK), glukos-fruktossirap, socker/sukker, modifierad stärkelse/modifisert stivelse, fettreducerad kakaopulver 1,6%, choklad/sjokolade 1,0% (socker/sukker, kakaopulver, kakaosmör/kakaosmør), förtjockningsmedel/fortykningsmiddel (E 407, E 412), gelatin (nötkött/biff), emulgeringsmedel/emulgator (E 472b), arom/aroma.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7391637253307",
+      "name": "Fruktdryck Passionfruit 1000ml",
+      "company": "TROPIC DREAM",
+      "ingredients": "Vatten, fruktjuice* 17% (apelsin, äpple, passionsfrukt, citron), naturlig arom, syra (citronsyra), stabiliseringsmedel (pektin), sötningsmedel (cyklamat, sukralos, acesulfam K), antioxidationsmedel (askorbinsyra), färgämne (kurkumin, betakaroten). *Juice framställd från fruktjuicekoncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313619002307",
+      "name": "Fruktdryck Äpple &amp; hallon 1000ml",
+      "company": "God Morgon®",
+      "ingredients": "Äppeljuice* (44 %), vatten, druvjuice*, äppelpuré (5 %), hallonpuré (3 %), citronjuice*, svart morotsjuice* och naturlig arom. * Från koncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313619002567",
+      "name": "Apelsinjuice utan fruktkött 850ml",
+      "company": "Brämhults",
+      "ingredients": "Nypressad juice av apelsin",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350068291272",
+      "name": "ProPud Proteinmilkshake Päron &amp; vanilj 1,6% 330ml",
+      "company": "PROPUD",
+      "ingredients": "MJÖLK/MELK/MÆLK, MJÖLKPROTEIN/MELKEPROTEIN/MÆLKEPROTEIN, stabiliseringsmedel/stabilisator (gellangummi/gellan, cellulosagummi, karragenan), arom, sötningsmedel/søtstoffer (steviolglykosider från stevia, acesulfam K), färgämne/fargestoff (karotener), laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311870012684",
+      "name": "Laktosfri Mild Yoghurt Naturell 1.5% 1500g",
+      "company": "Arla Ko®",
+      "ingredients": "Högpastöriserad MJÖLK, MJÖLKPROTEIN, laktasenzym, mild yoghurtkultur och vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311870012233",
+      "name": "Laktosfri Yoghurt Naturell 3.0% 1000g",
+      "company": "Arla Ko®",
+      "ingredients": "Högpastöriserad MJÖLK, MJÖLKPROTEIN, laktasenzym, mild yoghurtkultur, vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408430101290",
+      "name": "Laktosfri Proteindryck Jordgubb 250ml",
+      "company": "VALIO",
+      "ingredients": "MJÖLKPROTEIN, SKUMMJÖLK, aromer, stabiliseringsmedel (karragenan), sötningsmedel (acesulfam K, sukralos), färgämne (karmin), vitamin D, laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6430081491376",
+      "name": "Sojagurt jordgubb 1000g",
+      "company": "Oddlygood®",
+      "ingredients": "vatten, skalade SOJABÖNOR 10 %, socker, jordgubbspuré 5 %, stärkelse, modifierad stärkelse, kalcium, aromer, koncentrerad svart morotsjuice, salt, surhetsreglerande medel (natriumcitrater), vitaminer (riboflavin (B2), B12, D2), jod, syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7316150977141",
+      "name": "Grekisk Yoghurt 10% 500g",
+      "company": "Fontana",
+      "ingredients": "Pastöriserad koMJÖLK, GRÄDDE, MJÖLKprotein, YOGHURTkultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7038010070617",
+      "name": "Yoghurt Skogsbär 3% 4-pack 600g",
+      "company": "TINE",
+      "ingredients": "lngredienser: högpastöriserad/højpasteuriseret MJÖLK/MÆLK, skogsbär/skovbær 5 % (fläderbärsjuice/hyldebærjuice*, fläderbär/hyldebær, björnbär/brombær, blåbär/blåbær, hallon/hindbær, jordgubbar/jordbær), socker/sukker 4 %, skumMJÖLKspulver/skummetMÆLKspulver, oligofruktos, modifierad stärkelse/modificeret stivelse, förtjockningsmedel/fortykningsmiddel (guarkärnmjöl/guargummi), aromer/aromaer, laktasenzym, YOGHURTKULTUR (Streptococcus thermophilus och Lactobacillus bulgaricus) *från/fra koncentrat",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971655308",
+      "name": "Drickyoghurt Jordgubb &amp; banan 200ml",
+      "company": "Ehrmann Robby",
+      "ingredients": "pastöriserad SKUMMJÖLK/ pasteurisert SKUMMETMELK 88%, socker/sukker, GRÄDDE/FLØTE, jordgubbsjuice från koncentrat/jordbærjuice fra konsentrat 1,2%, bananjuice från/fra koncentrat/ konsentrat 0,8%, oligofruktos/oligofruktose, modifierad stärkelse/modifisert stivelse, arom/aroma, färgväxtkoncentrat/fargestoffkonsentrat (morot/ gulrot), förtjockningsmedel/fortykningsmiddel (E 440), laktasenzym, yoghurtkultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408430400454",
+      "name": "Proteinmousse Hallon 0,9% 150g",
+      "company": "VALIO",
+      "ingredients": "pastöriserad MJÖLK, pastöriserad proteinkoncentrat (KÄRNMJÖLK), vatten, hallonpuré 2,8 %, hallonjuice 1,7 % (från koncentrat), modifierad stärkelse, stärkelse, gelatin, förtjockningsmedel (guarkärnmjöl), aromer, vaniljextrakt, salt, sötningsmedel (acesulfam K, aspartam*), färgämne (karmin), surhetsreglerande medel (citronsyra), syrningskultur, laktasenzym. *Innehåller en fenylalaninkälla.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311870012240",
+      "name": "Laktosfri Yoghurt Vanilj 2.6% 1000g",
+      "company": "Arla Ko®",
+      "ingredients": "Högpastöriserad MJÖLK, vatten (6,2%), socker (5,2%), MJÖLKPROTEIN, majsstärkelse, vaniljextrakt, surhetsreglerande medel (citronsyra), mald vaniljstång, laktasenzym, mild yoghurtkultur, vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5711953081354",
+      "name": "Proteinshake Jordgubb &amp; hallon 0,9% 500g",
+      "company": "Arla®",
+      "ingredients": "MJÖLK (95%), MJÖLKPROTEIN (2,6%), socker (1,9%), stabiliseringsmedel (gellangummi, karragenan, trinatriumcitrat), naturliga aromer, färgämne: betakaroten, laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310865891273",
+      "name": "Laktosfri Keso Cottage Cheese Vanilj &amp; Granola Jordgubb 145g",
+      "company": "KESO®",
+      "ingredients": "Cottage cheese (pastöriserad MJÖLK och GRÄDDE, salt, syrningskultur, laktasenzym, ystenzym), vatten, socker 3,2%, modifierad potatisstärkelse, extrakt från Bourbonvanilj, mald vaniljstång, naturlig arom, citronjuice, konserveringsmedel (kaliumsorbat). Topping: HAVREGRYN, fiber (oligofruktos), VETEGRYN, RÅGGRYN, glukos-fruktossirap, rismjöl, VETEKLI, VETEMJÖL, frystorkade jordgubbar 2%, VETEMALT, socker, solrosolja, dextros, VETEGLUTEN, salt",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "4016241050625",
+      "name": "Laktosfri Mild kvarg Vanilj 0% 1000g",
+      "company": "Arla®",
+      "ingredients": "MJÖLK, vatten, majsstärkelse, vaniljextrakt, naturlig arom, mald vaniljstång, sötningsmedel (aspartam**), förtjockningsmedel (pektin), citronjuicekoncentrat, mjölksyrakultur, laktasenzym. Mjölken är högpastöriserad. **Innehåller en fenylalaninkälla.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311443280250",
+      "name": "Bollnäsfil Jordgubb 2,8% 1500g",
+      "company": "Bollnäsfil",
+      "ingredients": "Svensk högpastöriserad MJÖLK, fruktberedning (socker, jordgubbar, majsstärkelse, förtjockningsmedel (pektin), arom, surhetsreglerande medel (citronsyra)), levande mjölksyrakultur och vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5391515140448",
+      "name": "Yoghurt Jordgubb 2,3% 4-pack 500g",
+      "company": "Yoplait",
+      "ingredients": "Yoghurt (SkumMJÖLK från MJÖLKpulver - SkumMJÖLK - GRÄDDE- SkumMJÖLKspulver - Yoghurtkultur (MJÖLK)) - Jordgubb 11% - Socker 8,6% - Morotsjuice från koncentrat - Majsstärkelse Citronjuice från koncentrat - Förtjockningsmedel: Pektiner Naturliga aromer - MJÖLKmineralkoncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350068294969",
+      "name": "Fruktdryck White Peach 1000ml",
+      "company": "LOWCALY",
+      "ingredients": "Vatten, äppel/eple/æblejuice från koncentrat, persika/ferskenpuré* från koncentrat (2 %), syra (citronsyra), naturlig arom, surhetsreglerande medel (kaliumcitrater), sötningsmedel/søtstoffer/sødemiddel (acesulfam K, aspartam), stabiliseringsmedel (pektiner), vitaminer (vitamin C, niacin, pantotensyra, vitamin B6, biotin, vitamin B12, vitamin D (vegansk)), färgämne (karotener). Innehåller en källa till fenylalanin/Inneholder en kilde til fenylalanin/phenylalaninkilde. *EU/icke-EU",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7314720714059",
+      "name": "Juice Äpple &amp; mango 1000ml",
+      "company": "Kiviks",
+      "ingredients": "Äppeljuice från koncentrat 81 %, svensk äppelmust med fruktkött 15 %, mangopuré 4 %.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310867561440",
+      "name": "Juice Apelsin &amp; mandarin 1000ml",
+      "company": "Bravo",
+      "ingredients": "Juice av apelsin, äpple och mandarin samt vitamin C. Juice från koncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310861011569",
+      "name": "Fil Lingon 3,7% 1000g",
+      "company": "Fjällfil",
+      "ingredients": "Fil (högpastöriserad norrländsk MJÖLK, levande mjölksyrakultur, vitamin D), bärberedning (socker, lingon, förtjockningsmedel pektin). Lingon 4,4%. Tillsatt socker 5,5%.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6408432001840",
+      "name": "Laktosfri Kvarg Hallon 7% 200g",
+      "company": "VALIO",
+      "ingredients": "KVARG (pastöriserad MJÖLK, syrningskultur), pastöriserad GRÄDDE, socker, hallon 6 %, modifierad stärkelse, arom, morotsjuicekoncentrat, laktasenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310861011583",
+      "name": "Fil Svarta vinbär 3,7% 1000g",
+      "company": "Fjällfil",
+      "ingredients": "Fil (högpastöriserad norrländsk MJÖLK, mjölksyrakultur, vitamin D), bärberedning (socker, svarta vinbär, förtjockningsmedel pektin). Svarta vinbär 4,4%. Tillsatt socker 5,5%.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310861011590",
+      "name": "Fil Röda vinbär &amp; hallon 3.7% 1000g",
+      "company": "Fjällfil",
+      "ingredients": "Fil (högpastöriserad norrländsk MJÖLK, syrningskultur, vitamin D), bärberedning (socker, rödavinbär, hallon, förtjockningsmedel pektin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310861011545",
+      "name": "Fil Hallon 3,7% 1000g",
+      "company": "Fjällfil",
+      "ingredients": "Fil (högpastöriserad norrländsk MJÖLK, levande mjölksyrakultur, vitamin D), bärberedning (socker, hallon, förtjockningsmedel pektin). Hallon 4,9%. Tillsatt socker 5,6%.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4016241042392",
+      "name": "Dessertkvarg Kesella Vanilj 7,5% 250g",
+      "company": "Dreamy Dessert",
+      "ingredients": "Kvarg (pastöriserad MJÖLK och GRÄDDE, syrningskultur, ystenzym), vatten, socker 9%, majsstärkelse, naturlig arom, förtjockningsmedel (pektin), naturligt färgämne (betakaroten), mald vaniljstång, vaniljextrakt, syra (citronsyra).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310470061306",
+      "name": "Vaniljsås 12,7% 500ml",
+      "company": "Ekströms",
+      "ingredients": "MJÖLK, GRÄDDE, socker, SKUMMJÖLKSPULVER, modifierad stärkelse, förtjockningsmedel (E471, E412, E407), vaniljarom, vanilj, färgämne (betakaroten).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8718166008137",
+      "name": "Laktosfri Drickyoghurt Zero Jordgubb &amp; smultron 350ml",
+      "company": "Yalla®",
+      "ingredients": "MJÖLK, jordgubbar 5,8%, vatten, smultron 0,6%, majsstärkelse, naturlig arom, sötningsmedel (aspartam**), laktasenzym, yoghurtkultur. **Innehåller en fenylalaninkälla.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191175341",
+      "name": "Nektar Multifrukt 1500ml",
+      "company": "Xtra",
+      "ingredients": "Vatten, äppeljuice* 41 %, socker, bananpuré 2 %, mangopuré* 2 %, citronjuice* 1 %, aprikospuré 1 %, apelsinjuice* 1 %, ananasjuice* 1 %, guavapuré* 0,5 %, passionsfruktjuice* 0,5 %, syra (E 330). *Från koncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7391637255202",
+      "name": "Fruktdryck Ananas 1000ml",
+      "company": "TROPIC DREAM",
+      "ingredients": "Vatten, apelsinjuice* 11%, ananasjuice* 9%, stabiliseringsmedel (pektin), syra (citronsyra), naturlig arom, antioxidationsmedel (askorbinsyra), sötningsmedel (sukralos, acesulfam K), färgämne (betakaroten). *Juice framställd av fruktjuicekoncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5411188131380",
+      "name": "Kokosgurt Naturell 350g",
+      "company": "Alpro",
+      "ingredients": "lätt/lett kokosmjölk/melk/mælk (94,7%) (vatten/vann/vand, kokosgrädde/creme (20,7%), kokosnötvatten (11,7%)), modifierad stärkelse/modificeret stivelse, naturliga aromer, havssalt, kulturer (S. thermophilus, L. bulgaricus). KAN INNEHÅLLA/INNEHOLDE/INDEHOLDE SPÅR/SPOR AV/AF SOJA/SOYA OCH/OG NÖTTER/NØTTER/NØDDER (INGA/IGEN JORDNÖTTER/-PEANØTTER/JORDNØDDER).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4016241031211",
+      "name": "Laktosfri Yoghurt Dofilus Naturell 1,5% 1000g",
+      "company": "Arla®",
+      "ingredients": "MJÖLK, lösliga fibrer från majs 1,5%, MJÖLKPROTEIN, laktasenzym, yoghurtkultur, Lactobacillus acidophilus LA5®, Bifidobacterium lactis BB12®, Lactobacillus casei F19®, vitamin D. Mjölken är högpastöriserad",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310861011354",
+      "name": "Norrskensfil Icy Peach &amp; polar lemon 3,6% 1000g",
+      "company": "Norrmejerier",
+      "ingredients": "Fil (högpastöriserad norrländsk MJÖLK, mjölksyrakultur, vitamin D), fruktberedning (socker, persika, citronjuicekoncentrat, modifierad majsstärkelse, naturlig arom, surhetsreglerande medel citronsyra). Persika 2,6%. Citron 1,3%. Tillsatt socker 5%.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6430081491345",
+      "name": "Sojagurt vanilj 1000g",
+      "company": "Oddlygood®",
+      "ingredients": "vatten, skalade SOJABÖNOR 9 %, socker, polydextros (kostfiber), druvsocker, modifierad stärkelse, vitaminer (D2, riboflavin (B2), B12, folsyra), kalcium, aromer, stabiliseringsmedel (pektiner), salt, malen vaniljstång, surhetsreglerande medel (citronsyra), konserveringsmedel (kaliumsorbat), syrningskultur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5711953204791",
+      "name": "Laktosfri Drickfil Cultura Profibi Hallon 330ml",
+      "company": "Arla®",
+      "ingredients": "MJÖLK, socker 3,6%, hallon 2%, hallonjuice från koncentrat 2%, lösliga fibrer från majs 1,4%, majsstärkelse, svart morotsjuicekoncentrat, naturlig arom, laktasenzym, mjölksyrakultur (L. lactis, L. cremoris, L. lactis diacetylactis, Lc. mesenteroides, S. thermophilus, L. acidophilus LA-5®, Bifidobacterium lactis BB-12®, L. paracasei F19®), vitamin D.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350056796000",
+      "name": "Turkisk Yoghurtdryck Ayran 2,4% 1000ml",
+      "company": "Larsa Foods",
+      "ingredients": "Yoghurt/Jugurtti 65% (Högpastöriserad och homogeniserad MJÖLK/homogenisert og pasteurisert MELK/homogenisoitu ja pastöroitu MAITO, grädde/krem/kerma, yoghurtkultur/hapate), vatten/vann/vesi, salt/suolaa.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310861011330",
+      "name": "Norrskensfil Winter strawberry &amp; frosty lime 3,6% 1000g",
+      "company": "Norrmejerier",
+      "ingredients": "Fil (högpastöriserad norrländsk MJÖLK, mjölksyrakultur, vitamin D), fruktberedning (socker, jordgubbar, limejuicekoncentrat, modifierad majsstärkelse, naturlig arom, surhetsreglerande medel citronsyra). Jordgubbar 2,1%, Lime 1,5%. Tillsatt socker 4,7%",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7394376616723",
+      "name": "Havregurt Vanilj 1000g",
+      "company": "Oatly",
+      "ingredients": "Vatten/vann, HAVRE 12%, socker 4 %, potatisstärkelse/potetstivelse, modifierad potatisstärkelse, rapsolja, mineraler (kalciumkarbonat, kalciumfosfat, kaliumjodid), naturlig arom, syror (äppelsyra/eplesyre, mjölksyra/melkesyre), salt, vaniljextrakt, vitaminer (D2, riboflavin, B12).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5411188110675",
+      "name": "Plantgurt Naturell 750g",
+      "company": "Alpro",
+      "ingredients": "vatten/vann/vand, skalade/afskallede SOJAbönor/SOYAbønner (10,7%), socker/sukker, kalcium, stabiliseringsmedel/stabilisator (pektiner), surhetsreglerande medel/midler (natriumcitrater, citronsyra), havssalt, antioxidationsmedel/antioxidanter (tokoferolrika extrakt/tocopherolrig ekstrakt, askorbinsyraestrar av fettsyror/ascorbinsyreestere af fedtsyrer), vitaminer B6, B12, D2, yoghurtkultur (S. thermophilus, L. bulgaricus).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971253603",
+      "name": "Pudding Double toffee 190g",
+      "company": "Grand Dessert",
+      "ingredients": "pastöriserad SKUMMJÖLK/pasteurisert SKUMMETMELK/pasteuriseret SKUMMÆLK, GRÄDDE/FLØTE/FLØDE 20%, vassle/myse/valle (MJÖLK/MELK/MÆLK), socker/sukker, modifierad stärkelse/modifisert stivelse/modificeret stivelse, glukos-fruktossirap/glukose-fruktosesirup, karamelliserad sockersirap/karamellisert sukkersirap/karamelliseret sukker sirup, karamell/karamelcreme (socker/sukker, SKUMMJÖLKSPULVER/skummet MELKEPULVER/SKUMMETMÆLKPULVER, glukossirap/glukosesirup), förtjockningsmedel/fortykningsmiddel/fortykningsmidler (E 407, E 412), gelatin/gelatine (nötkött/biff/oksekød), arom/aroma, emulgeringsmedel/emulgator (E 472b), HELMJÖLKSPULVER/HELMELKPULVER/SØDMÆLKSPULVER, salt, färgämne/fargestoff/farve (E 160a). Vispgrädde vispad med kväve./Fløte pålegg med nitrogen./Cremetopping pisket med nitrogen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8718166008144",
+      "name": "Laktosfri Drickyoghurt Zero Blåbär 350ml",
+      "company": "Yalla®",
+      "ingredients": "MJÖLK, vatten, blåbär 3,0%, cikoriarotfiber (inulin), modifierad stärkelse, förtjockningsmedel (pektin), arom, sötningsmedel (aspartam**), surhetsreglerande medel (natriumcitrat), laktasenzym, yoghurtkultur. **Innehåller en fenylalaninkälla.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392672003193",
+      "name": "Kvarg Vit Choklad 0,2% 150g",
+      "company": "Lindahls",
+      "ingredients": "Högpastöriserad MJÖLK**, vatten, VASSLEPROTEIN, modifierad majsstärkelse, arom, SMÖR, sötningsmedel (aspartam, acesulfam K), syra (mjölksyra), färg (karotener), mjölksyrakultur. Innehåller en källa till fenylalanin. **Ursprungsland Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7394376615757",
+      "name": "Havregurt Jordgubb 1000g",
+      "company": "Oatly",
+      "ingredients": "Vatten/vann, HAVRE 11 %, jordgubbspuré/jordbærpuré 6 %, socker 4 %, potatisstärkelse/potetstivelse/kartoffelstivelse, modifierad potatisstärkelse, rapsolja, mineraler (kalciumkarbonat, kalciumfosfat, kaliumjodid), syra (äppelsyra/eplesyre/æblesyre, mjölksyra/melkesyre/mælkesyre), naturlig arom, förtjockningsmedel/fortykningsmiddel (pektin), salt, citronjuicekoncentrat, morotsjuicekoncentrat/gulrotjuicekonsentrat, vitaminer (D2, riboflavin, B12).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7310240079586",
       "name": "Paj Bacon &amp; broccoli 220g",
