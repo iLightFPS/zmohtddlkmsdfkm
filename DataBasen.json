@@ -134,8 +134,29 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-09-08",
+  "date": "2026-09-10",
   "list": [
+    {
+      "id": "7310240073843",
+      "name": "Rösti 750g",
+      "company": "Felix",
+      "ingredients": "Potatis*, rapsolja, modifierad potatisstärkelse, torkad lök, salt, druvsocker, svartpepparextrakt. *Svenskt ursprung",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191152038",
+      "name": "Potatisbullar 800g",
+      "company": "Coop",
+      "ingredients": "Potatis 89 % (EU), solrosolja, potatisflingor, salt, dextros. Kan innehålla spår av vete.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310240073393",
+      "name": "Potatisbullar 810g",
+      "company": "Felix",
+      "ingredients": "Potatis*, rapsolja, potatispulver (ursprung EU), salt, druvsocker, svartpepparextrakt. *Svenskt ursprung.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "5411188137764",
       "name": "Proteinpudding Choklad 2,9% 200g",
