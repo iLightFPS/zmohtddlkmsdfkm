@@ -134,8 +134,43 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-09-10",
+  "date": "2026-09-12",
   "list": [
+    {
+      "id": "7350167516115",
+      "name": "Ostbågar Spicy paprika 100g",
+      "company": "Redhead",
+      "ingredients": "Majssemolina, solrosolja, kryddblandning med paprikasmak (socker, kryddor (paprika, chili, svartpeppar), salt, glukos, maltodextrin, naturlig arom, rökt salt, GRÄDDFILSPULVER (MJÖLK), tomatpulver, klumpförebyggande medel (tri- kalciumfosfat, kiseldioxid), surhetsreglerande medel (citronsyra), rökt maltodextrin och anti- oxidationsmedel (alfa-tokoferol)). Kan innehålla spår av SOJA.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350167516108",
+      "name": "Ostbågar Cheddar 100g",
+      "company": "Redhead",
+      "ingredients": "Majssemolina, solrosolja, kryddblandning med ostsmak (OSTPULVER, VASSLEPERMEAT (från MJÖLK), salt, druvsocker, maltodextrin, VASSLEPROTEIN (från MJÖLK), KÄRN- MJÖLKSPULVER, naturlig arom (innehåller MJÖLK), syra (mjölksyra), OSTPULVER (varav 55% cheddar), lök, jästextrakt, arom, krydda, kryddextrakt (paprika, gurkmeja), socker). Kan innehålla spår av SOJA.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690076926",
+      "name": "Punschrullar 210g",
+      "company": "ICA",
+      "ingredients": "Havregryn, socker, marsipan (socker, mandel, glukos, invertsocker, stabiliseringsmedel (E420), färgämne (E160a, E131), konserveringsmedel (E202)), margarin (vegetabilisktfett (palmolja, rapsolja, kokosolja, palmkärnolja), salt, vegetabiliskt emulgeringsmedel (E471), aromer, surhetsreglerande medel (E330)), kakaoglasyr (socker, vegetabiliskt fett (palmkärnolja, palmolja, sheaolja), fettreducerat kakaopulver, vegetabiliskt emulgeringsmedel (E492, sojalecitin)), fettreducerat kakaopulver, arom, konserveringsmedel (E202).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7315360063309",
+      "name": "Biskvi Choklad 6-pack 150g",
+      "company": "DELICATO",
+      "ingredients": "Socker, vegetabilisk olja (palm*, kokos, shea, raps), MANDEL (17%), ÄGGVITA, glukossirap, kakaopulver, vatten, förtjockningsmedel (guarkärnmjöl), emulgeringsmedel (lecitin, vegetabiliskt E471), salt, arom (bl.a. vanillin). Kan innehålla spår av MJÖLK. *Hållbart producerad från certifierade odlare.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690494522",
+      "name": "Salty Caramelbollar 6-p 240g",
+      "company": "ICA",
+      "ingredients": "HAVREGRYN*, socker, margarin (vegetabiliska fetter och oljor (palm**, shea, raps), vatten, salt, emulgeringsmedel (E471), arom, antioxidationsmedel (E330)), överdrag (socker, vegetabiliskt fett (palm**, shea), fettreducerat kakaopulver, emulgeringsmedel (solroslecitin), karamelliserat socker, salt, arom), saltkaramellströssel (socker, salt 1,7%, karamellsocker sirap 1,5%, glukossirap, ytbehandlingsmedel (E904), vegetabilisk olja (kokosnöt, raps)), sirap, fettreducerat kakaopulver, konserveringsmedel (E202).Kan innehålla spår av mandlar, mjölk och ägg.*Ursprung EU.**Den här produkten innehåller certifieradhållbar palmolja. ICA.se",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7310240073843",
       "name": "Rösti 750g",
