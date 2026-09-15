@@ -134,8 +134,57 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-09-12",
+  "date": "2026-09-15",
   "list": [
+    {
+      "id": "7340191177833",
+      "name": "Glutenfri Linguine 400g",
+      "company": "Coop",
+      "ingredients": "Majsmjöl 50 %, fullkornsrismjöl 38 %, rismjöl 12 %, emulgeringsmedel (E 471 vegetabiliskt).Majsens ursprung anges vid Bäst före-datumet. Om flera länder anges har en blandning från dessa länder använts. IT=Italien, ES=Spanien.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191133938",
+      "name": "Glutenfri Pasta Fusilli 340g",
+      "company": "Coop",
+      "ingredients": "Majsmjöl 50 %, fullkornsrismjöl 38 %, rismjöl 12 %, emulgeringsmedel (E 471 vegetabiliskt).Majsens ursprung anges vid Bäst före-datumet. Om flera länder anges har en blandning från dessa länder använts. IT=Italien, ES=Spanien.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8076809545464",
+      "name": "Glutenfri Pasta Fusilli 400g",
+      "company": "Barilla",
+      "ingredients": "vitt majsmjöl (65%) / hvidt majsmel (65%) / hvitt maismel (65%), gult majsmjöl (29,5%) / gult majsmel (29,5%) / gult maismel (29,5%), rismjöl (5%) / rismel (5%) / rismel (5%), vatten / vand / vann, emulgeringsmedel / emulgator / emulgator: mono- och diglycerider av fettsyror av vegetabiliskt ursprung / mono-og diglycerider af fedtsyrer af vegetabilsk oprindelse / mono-og diglyserider av fettsyrer av vegetabilsk opprinnelse.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8076809545440",
+      "name": "Glutenfri Pasta Spaghetti 400g",
+      "company": "Barilla",
+      "ingredients": "vitt majsmjöl (60%), gult majsmjöl (29,5%), brunt rismjöl (10%), vatten, emulgeringsmedel: mono- och diglycerider av fettsyror.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8076809571586",
+      "name": "Glutenfri Pasta Tagliatelle 300g",
+      "company": "Barilla",
+      "ingredients": "vitt majsmjöl (65%) / hvidt majsmel (65%) / hvitt maismel (65%), gult majsmjöl (29,5%) / gult majsmel (29,5%) / gult maismel (29,5%), rismjöl (5%) / rismel (5%) / rismel (5%), vatten / vand / vann, emulgeringsmedel / emulgator / emulgator: mono- och diglycerider av fettsyror / mono-og diglycerider af fedtsyrer / mono- og diglyserider av fettsyrer.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8076809545457",
+      "name": "Glutenfri Pasta Penne Rigate 400g",
+      "company": "Barilla",
+      "ingredients": "vitt majsmjöl (65%) / hvidt majsmel (65%) / hvitt maismel (65%), gult majsmjöl (29,5%) / gult majsmel (29,5%) / gult maismel (29,5%), rismjöl (5%) / rismel (5%) / rismel (5%), vatten / vand / vann, emulgeringsmedel / emulgator / emulgator: mono- och diglycerider av fettsyror / mono-og diglycerider af fedtsyrer / mono- og diglyserider av fettsyrer.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8076809576352",
+      "name": "Glutenfri Lasagne 250g",
+      "company": "Barilla",
+      "ingredients": "vitt majsmjöl (65%) / hvidt majsmel (65%) / hvitt maismel (65%), gult majsmjöl (29,5%) / gult majsmel (29,5%) / gult maismel (29,5%), rismjöl (5%) / rismel (5%) / rismel (5%), vatten / vand / vann, emulgeringsmedel / emulgator / emulgator: mono- och diglycerider av fettsyror / mono-og diglycerider af fedtsyrer / mono-og diglyserider av fettsyrer.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7350167516115",
       "name": "Ostbågar Spicy paprika 100g",
