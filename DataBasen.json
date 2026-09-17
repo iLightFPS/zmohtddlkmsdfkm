@@ -134,8 +134,50 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-09-15",
+  "date": "2026-09-17",
   "list": [
+    {
+      "id": "7333192074003",
+      "name": "Glutenfri Formfranska 450g",
+      "company": "FriendsofAdam",
+      "ingredients": "Vatten, glutenfri VETESTÄRKELSE, SKUMMJÖLK, socker, potatisflingor, rapsolja, jäst, vallmofrö, salt, förtjockningsmedel (E412, E464), bakpulver.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330242240111",
+      "name": "Glutenfritt Lantbröd 500g",
+      "company": "Fria",
+      "ingredients": "GLUTENFRI VETESTÄRKELSE, vatten, GLUTENFRITT MALTEXTRAKT (KORN), förtjockningsmedel (cellulosagummi, guarkärnmjöl, xantangummi), jäst, rapsolja, maltodextrin (majs), äppelfiber, torkad surdeg på bovete (1,4 %), psylliumfröskal, majsstärkelse, socker (endast som jästnäring), emulgeringsmedel (lecitin [raps], mono- och diglycerider av fettsyror [veg.]), salt, aromer. KAN INNEHÅLLA SPÅR AV ÄGG.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330242240050",
+      "name": "Glutenfri Limpan 500g",
+      "company": "Fria",
+      "ingredients": "GLUTENFRI VETESTÄRKELSE, vatten, sirap, jäst, GLUTENFRITT MALTEXTRAKT (KORN), förtjockningsmedel (cellulosagummi, guarkärnmjöl, xantangummi), rapsolja, maltodextrin (majs), psylliumfröskal, äppelfiber, potatisfiber, pomerans, emulgeringsmedel (lecitin [raps], mono- och diglycerider av fettsyror [veg.]), majsstärkelse, salt, aromer. KAN INNEHÅLLA SPÅR AV ÄGG.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7333192074034",
+      "name": "Glutenfri Tekaka 5-pack 350g",
+      "company": "FriendsofAdam",
+      "ingredients": "Glutenfri VETESTÄRKELSE, vatten, SKUMMJÖLKSPULVER, socker, potatisflingor, rapsolja, sirap, jäst, bakpulver, majsstärkelse, salt, förtjockningsmedel (E412, E464), arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330242240012",
+      "name": "Glutenfri Toast 500g",
+      "company": "Fria",
+      "ingredients": "GLUTENFRI VETESTÄRKELSE, vatten, GLUTENFRITT MALTEXTRAKT (KORN), förtjockningsmedel (cellulosagummi, guarkärnmjöl, xantangummi), jäst, rapsolja, socker, maltodextrin (majs), psylliumfröskal, majsstärkelse, ärtprotein, emulgeringsmedel (lecitin [raps], mono- och diglycerider av fettsyror [veg.]), salt, aromer. KAN INNEHÅLLA SPÅR AV ÄGG.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310350131600",
+      "name": "Halstabletter Hallon &amp; lakrits 25g",
+      "company": "Läkerol",
+      "ingredients": "sötningsmedel/sødestoffer (maltitoler, sorbitoler, steviolglykosider från/fra stevia/steviaplanten), stabiliseringsmedel/stabilisator (gummi arabicum), lakritsextrakt, ammoniumklorid (=salmiak), syra (citronsyra), naturlig arom, vegetabiliska oljor (kokos, raps), ytbehandlings-/overfladebehandlingsmiddel (karnaubavax/voks).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7340191177833",
       "name": "Glutenfri Linguine 400g",
