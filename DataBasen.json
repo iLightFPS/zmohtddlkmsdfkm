@@ -137,6 +137,20 @@
   "date": "2026-09-17",
   "list": [
     {
+      "id": "5000112696677",
+      "name": "Coca-Cola Zero 330ml",
+      "company": "Coca-Cola Zero Sugar",
+      "ingredients": "Kolsyrat vatten, färgämne (E150d), syra (E338), sötningsmedel (aspartam, acesulfam K, enzymatiskt framställda steviolglykosider), naturliga aromer, koffeinarom, surhetsreglerande medel (E331).Innehåller en källa till fenylalanin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191163829",
+      "name": "Hamburgerbröd Brioche Sesam 4-pack 250g",
+      "company": "Coop",
+      "ingredients": "VETEMJÖL (vete: Frankrike), ÄGG 9 % (ägg från frigående höns inomhus), vatten, socker, sirap av invertsocker, rapsolja, SESAMFRÖN 1,5 %, SKUMMJÖLKSPULVER, koncentrerat SMÖR, jäst, VETEGLUTEN, salt, naturlig arom, MJÖLKPROTEIN, rostat RÅGMALTMJÖL, deaktiverad jäst, färgämne (E 160a).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
       "id": "7333192074003",
       "name": "Glutenfri Formfranska 450g",
       "company": "FriendsofAdam",
