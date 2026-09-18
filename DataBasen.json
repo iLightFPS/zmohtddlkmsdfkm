@@ -134,8 +134,15 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "list": [
+    {
+      "id": "6416453047310",
+      "name": "Snacks Kina Röd 150g",
+      "company": "Fazer",
+      "ingredients": "socker, kakaosmör, helMJÖLKSpulver/sødMÆLKSpulver/helMELKpulver, vegetabilisk olja (shea), puffat majs, kakaomassa, skumMJÖLKSpulver/skummetMÆLKSpulver, vasslepulver (av MJÖLK)/vallepulver (fra MÆLK)/mysepulver (fra MELK), emulgeringsmedel (SOJAlecitin), salt, ytbehandlingsmedel (E904), naturlig arom. KAN INNEHÅLLA VETE/KAN INDEHOLDE HVEDE.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "5000112696677",
       "name": "Coca-Cola Zero 330ml",
