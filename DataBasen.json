@@ -134,8 +134,43 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "list": [
+    {
+      "id": "6416453554061",
+      "name": "Glutenfria Cookies Dumle 140g",
+      "company": "Fazer",
+      "ingredients": "glutenfritt HAVREmjöl/-mel, farinsocker, glutenfria HAVREgryn, rapsolja, toffeebitar (socker, glukossirap, solrosolja/solsikkeolje, potatisstärkelse/kartoffelstivelse, aromer, emulgeringsmedel (E322), ytbehandlingsmedel/overfladebehandlingsmidler (E901, E904), färgämne/farvestoff (E150c)), ÄGG/ÆG/EGG, socker, choklad (socker, kakaomassa (33%), kakaosmör, emulgeringsmedel (SOJAlecitin)), fuktighetsbevarande medel (E420), emulgeringsmedel (E471, E475), jäsningsmedel/hævemiddel (E500), joderat salt, förtjockningsmedel (E415), arom (kola/karamell). KAN INNEHÅLLA MJÖLK/ KAN INDEHOLDE MÆLK. Chokladen innehåller minst 33% kakao/kakaotørstof.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8008698005491",
+      "name": "Glutenfria Cookies Choco Chip 200g",
+      "company": "Schär",
+      "ingredients": "majsstärkelse/-stivelse, palmolia/-olie, majsmjöl/-mel, choklad chips 12% (socker/sukker, kakaomasse*/ kakaomassa*, kakaosmör*, emulgeringsmedel/emulgator: solroslecitin; naturlig arom), socker/sukker, maltodextrin, SOJAMJÖL/-MEL, kokosflingor/kokos flak, modifierad tapiocastärkelse/-stivelse, bakpulver/hevemiddel: ammoniumvätekarbonat/ammonium hydrogen karbonat, natirumvätekarbonat/sodium hydrogen karbonat; salt, naturlig arom. Kan innehålla ÄGG/Kan indeholde EGG/ÆG. *Rainforest Alliance Certified. Find out more at ra.org",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330242290154",
+      "name": "Glutenfria Hallonmuffins 4-pack 4",
+      "company": "Fria",
+      "ingredients": "ÄGG, socker, rapsolja, hallonsylt 16% (hallon 45%, socker, glukossirap, vatten, modifierad potatisstärkelse, förtjockningsmedel (pektin), fläderbärsjuice, naturlig arom), GLUTENFRI VETESTÄRKELSE, kardemumma, rismjöl, psylliumfröskal, bakpulver (natriumpyrofosfat, natriumbikarbonat), majsstärkelse, maltodextrin (majs), fullhärdad rapsolja, förtjockningsmedel (cellulosagummi, guarkärnmjöl, xantangummi), emulgeringsmedel (mono- och diglycerider av fettsyror [veg.]), salt, aromer.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191164949",
+      "name": "Glutenfri Jordgubbsrulltårta 350g",
+      "company": "Coop",
+      "ingredients": "Socker, ÄGG (från utehöns) (Finland), vatten, rapsolja, stärkelse, jordgubbar 5 %, certifierad palmolja, rismjöl, potatismjöl, kokosfett, modifierad stärkelse, stabiliseringsmedel (E 422, E 440, E 1442), salt, emulgeringsmedel (E 471 vegetabiliskt, E 475), konserveringsmedel (E 202, E 281), bakpulver (E 450, E 500), aromer, surhetsreglerande medel (E 330, E 333), färgämne (E 120). Krämfyllning 25 %.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8410376045024",
+      "name": "Glutenfria Digestive Kex 150g",
+      "company": "Gullón",
+      "ingredients": "Majsstärkelse, socker, vegetabilisk olja (solrosolja) 16%, potatisstärkelse, majsmjöl, rismjöl, glukos-fruktossirap (majs), risstärkelse, ärtfiber, resistent dextrin, bakpulver (natriumvätekarbonat, ammoniumvätekarbonat), salt, emulgeringsmedel (SOJAlecitin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "6416453047310",
       "name": "Snacks Kina Röd 150g",
