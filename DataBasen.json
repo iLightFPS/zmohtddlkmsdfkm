@@ -137,38 +137,80 @@
   "date": "2026-09-19",
   "list": [
     {
-      "id": "6416453554061",
-      "name": "Glutenfria Cookies Dumle 140g",
-      "company": "Fazer",
-      "ingredients": "glutenfritt HAVREmjöl/-mel, farinsocker, glutenfria HAVREgryn, rapsolja, toffeebitar (socker, glukossirap, solrosolja/solsikkeolje, potatisstärkelse/kartoffelstivelse, aromer, emulgeringsmedel (E322), ytbehandlingsmedel/overfladebehandlingsmidler (E901, E904), färgämne/farvestoff (E150c)), ÄGG/ÆG/EGG, socker, choklad (socker, kakaomassa (33%), kakaosmör, emulgeringsmedel (SOJAlecitin)), fuktighetsbevarande medel (E420), emulgeringsmedel (E471, E475), jäsningsmedel/hævemiddel (E500), joderat salt, förtjockningsmedel (E415), arom (kola/karamell). KAN INNEHÅLLA MJÖLK/ KAN INDEHOLDE MÆLK. Chokladen innehåller minst 33% kakao/kakaotørstof.",
+      "id": "7318690110118",
+      "name": "Rostad lök Glutenfri",
+      "company": "ICA",
+      "ingredients": "Lök 75%, palmolja*, bovete, salt. * Den här produkten innehåller certifierad hållbar palmolja",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "8008698005491",
-      "name": "Glutenfria Cookies Choco Chip 200g",
-      "company": "Schär",
-      "ingredients": "majsstärkelse/-stivelse, palmolia/-olie, majsmjöl/-mel, choklad chips 12% (socker/sukker, kakaomasse*/ kakaomassa*, kakaosmör*, emulgeringsmedel/emulgator: solroslecitin; naturlig arom), socker/sukker, maltodextrin, SOJAMJÖL/-MEL, kokosflingor/kokos flak, modifierad tapiocastärkelse/-stivelse, bakpulver/hevemiddel: ammoniumvätekarbonat/ammonium hydrogen karbonat, natirumvätekarbonat/sodium hydrogen karbonat; salt, naturlig arom. Kan innehålla ÄGG/Kan indeholde EGG/ÆG. *Rainforest Alliance Certified. Find out more at ra.org",
+      "id": "7310240407969",
+      "name": "Granola Blåbär &amp; citron 450g",
+      "company": "Paulúns",
+      "ingredients": "HAVREflingor, oligofruktos* (fiber), rostade kokosflakes 10%, solroskärnor, rapsolja, äppeljuicekoncentrat, torkade blåbär 2%, svartvinbärsjuicekoncentrat, siciliansk kallpressad citronolja, havssalt och kardemumma. Kan innehålla spår av JORDNÖTTER och NÖTTER. *Oligofruktos är ett naturligt fiber som finns naturligt i t.ex. banan, jordärtskocka, lök, betor och cikoriarot.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7318690517658",
+      "name": "Micropopcorn Ekologiska",
+      "company": "ICA I Love Eco",
+      "ingredients": "Majskorn* 85,7%, sheaolja*, salt 1,8%. *Ekologisk ingrediens.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7330242290154",
-      "name": "Glutenfria Hallonmuffins 4-pack 4",
-      "company": "Fria",
-      "ingredients": "ÄGG, socker, rapsolja, hallonsylt 16% (hallon 45%, socker, glukossirap, vatten, modifierad potatisstärkelse, förtjockningsmedel (pektin), fläderbärsjuice, naturlig arom), GLUTENFRI VETESTÄRKELSE, kardemumma, rismjöl, psylliumfröskal, bakpulver (natriumpyrofosfat, natriumbikarbonat), majsstärkelse, maltodextrin (majs), fullhärdad rapsolja, förtjockningsmedel (cellulosagummi, guarkärnmjöl, xantangummi), emulgeringsmedel (mono- och diglycerider av fettsyror [veg.]), salt, aromer.",
+      "id": "7318690514602",
+      "name": "Krossade Tomater",
+      "company": "ICA",
+      "ingredients": "Skalade krossade tomater* (tomater, tomatjuice), surhetsreglerande medel (E330). *Odlade i Italien.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7340191164949",
-      "name": "Glutenfri Jordgubbsrulltårta 350g",
-      "company": "Coop",
-      "ingredients": "Socker, ÄGG (från utehöns) (Finland), vatten, rapsolja, stärkelse, jordgubbar 5 %, certifierad palmolja, rismjöl, potatismjöl, kokosfett, modifierad stärkelse, stabiliseringsmedel (E 422, E 440, E 1442), salt, emulgeringsmedel (E 471 vegetabiliskt, E 475), konserveringsmedel (E 202, E 281), bakpulver (E 450, E 500), aromer, surhetsreglerande medel (E 330, E 333), färgämne (E 120). Krämfyllning 25 %.",
+      "id": "7310130003899",
+      "name": "Fullkornspasta Fusilli 500g",
+      "company": "Kungsörnen",
+      "ingredients": "fullkornsmjöl av durumVETE 55%, mjöl av durumVETE.Råvaruursprung:EU.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311310026806",
+      "name": "Kryddkvarn Black Pepper Tellicherry 70g",
+      "company": "Santa Maria",
+      "ingredients": "Svartpeppar (Tellicherry Garbled Special Extra Bold).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "8410376045024",
-      "name": "Glutenfria Digestive Kex 150g",
-      "company": "Gullón",
-      "ingredients": "Majsstärkelse, socker, vegetabilisk olja (solrosolja) 16%, potatisstärkelse, majsmjöl, rismjöl, glukos-fruktossirap (majs), risstärkelse, ärtfiber, resistent dextrin, bakpulver (natriumvätekarbonat, ammoniumvätekarbonat), salt, emulgeringsmedel (SOJAlecitin).",
+      "id": "7350002403457",
+      "name": "Linser Gröna Eko 380g",
+      "company": "Zeta",
+      "ingredients": "Ekologiska linser, vatten, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350002401712",
+      "name": "Rapsolja Kallpressad Nötig 500ml",
+      "company": "Zeta",
+      "ingredients": "Kallpressad rapsolja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300400127363",
+      "name": "Sandwich Tomat &amp; basilika 40g",
+      "company": "Wasa",
+      "ingredients": "VETEknäckebröd (VETEmjöl 57%, jäst, solrosolja, socker, salt), fyllning 38% (rapsolja, ostpulver 9,3% (MJÖLK), sheasmör, KÄRNMJÖLKSpulver, maltodextrin, naturlig arom (MJÖLK), torkad tomat 0,7%, torkad basilika 0,02%). Kan innehålla spår av SESAMFRÖN, SOJA, LUPIN, SELLERI och SENAP.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7318690077602",
+      "name": "Rostad Lök",
+      "company": "ICA",
+      "ingredients": "Lök*, palmolja**, VETEMJÖL, salt. Till 100g färdig produkt har 220g lök använts. *Odlad i EU. ** Läs om hållbarhetscertifierad palmolja på ica.se",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311312009708",
+      "name": "Tortillachips Giant Nacho Cheese 160g",
+      "company": "Santa Maria",
+      "ingredients": "Majsmjöl (74%), solrosolja (20%), ostkrydda (5,5%) (OSTPULVER (1,2%) (MJÖLK), salt, VASSLEPULVER (MJÖLK) (0,6%), KÄRNMJÖLKSPULVER, MJÖLK, LAKTOS, fruktos, naturlig arom (innehåller MJÖLK), lök, jästextrakt, surhetsreglerande medel (E270, E262ii), rödbeta, vitlök, rapsolja, karamelliserat socker, extrakt av rosmarin), salt. Kan innehålla soja.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
