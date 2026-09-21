@@ -134,8 +134,50 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-09-19",
+  "date": "2026-09-21",
   "list": [
+    {
+      "id": "7622202238413",
+      "name": "Mjölkchoklad Daim 160g",
+      "company": "Marabou",
+      "ingredients": "Socker, kakaosmör, kakaomassa, palmolja, vasslepulver (MJÖLK), SKUMMJÖLKSPULVER, SMÖRFETT, vassleprodukt (MJÖLK), MANDEL (1 %), sötad kondenserad SKUMMJÖLK, emulgeringsmedel (SOJALECITINER), salt, aromer. Minst 30 % kakao. KAN INNEHÅLLA ANDRA NÖTTER OCH VETE.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7622202367618",
+      "name": "Mjölkchoklad Biscoff 160g",
+      "company": "Marabou",
+      "ingredients": "Socker, kakaosmör, VETEMJÖL, kakaomassa, vasslepulver (MJÖLK), SKUMMJÖLKSPULVER, SMÖRFETT, vassleprodukt (MJÖLK), rapsolja, palmolja, emulgeringsmedel (SOJALECITINER), kandissockersirap, bakpulver (natriumkarbonater), salt, kanel, arom. Mjölkchoklad: minst 30 % kakao. KAN INNEHÅLLA NÖTTER.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7622202239427",
+      "name": "Mjölkchoklad Apelsinkrokant 160g",
+      "company": "Marabou",
+      "ingredients": "Socker, kakaosmör, kakaomassa, majs, vasslepulver (MJÖLK), SKUMMJÖLKSPULVER, SMÖRFETT, vassleprodukt (MJÖLK), palmolja, emulgeringsmedel (SOJALECITINER, E471), MANDEL (0,3%), salt, sockrad kondenserad SKUMMJÖLK, aromer. Minst 30% kakao. KAN INNEHÅLLA ANDRA NÖTTER OCH VETE.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7622202238383",
+      "name": "Mjölkchoklad Schweizernöt 160g",
+      "company": "Marabou",
+      "ingredients": "Socker, kakaosmör, HASSELNÖTTER, kakaomassa, vasslepulver (MJÖLK), SKUMMJÖLKSPULVER, SMÖRFETT, vassleprodukt (MJÖLK), emulgeringsmedel (SOJALECITINER), arom. Minst 30% kakao. KAN INNEHÅLLA ANDRA NÖTTER OCH VETE.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7622202238475",
+      "name": "Mjölkchoklad 160g",
+      "company": "Marabou",
+      "ingredients": "Socker, kakaosmör, kakaomassa, vasslepulver (MJÖLK), SKUMMJÖLKSPULVER, SMÖRFETT, vassleprodukt (MJÖLK), emulgeringsmedel (SOJALECITINER), arom. Minst 30% kakao. KAN INNEHÅLLA NÖTTER OCH VETE.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7622202277764",
+      "name": "Mjölkchoklad Daim 90g",
+      "company": "Marabou",
+      "ingredients": "Socker, kakaosmör, kakaomassa, palmolja, vasslepulver (MJÖLK), SKUMMJÖLKSPULVER, SMÖRFETT, vassleprodukt (MJÖLK), MANDEL (1 %), sötad kondenserad SKUMMJÖLK, emulgeringsmedel (SOJALECITINER), salt, aromer. Minst 30 % kakao. KAN INNEHÅLLA ANDRA NÖTTER OCH VETE.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690110118",
       "name": "Rostad lök Glutenfri",
