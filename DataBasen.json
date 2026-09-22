@@ -137,17 +137,24 @@
   "date": "2026-09-22",
   "list": [
     {
-      "id": "7350126087199",
-      "name": "Bearnaisesås 335ml",
+      "id": "7350126089124",
+      "name": "Salladsdressing 335ml",
       "company": "Felix",
-      "ingredients": "Rapsolja, vatten, naturliga aromer (innehåller MJÖLK), ÄGGula, rödvinsvinäger, vitvinsvinäger, majsstärkelse, salt, socker, vitlök, lök, chili, persilja, dragon, kryddextrakt (bl.a. muskotnöt, libbsticka), syra (citronssyra) antioxidationsmedel (rosmarinextrakt, tokoferolrika extrakt), förtjockningsmedel (xantangummi), färgämne (betakaroten).",
+      "ingredients": "Vatten, rapsolja, ättika, socker, ÄGGula, salt, potatisstärkelse, SENAP (vatten, SENAPsfrö, socker, ättika, salt, cayennepeppar), förtjockningsmedel (xantangummi), färgämne (betakaroten).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7310350504992",
-      "name": "Malaco Fruity Drops Fruity Mix 170g",
-      "company": "Malaco",
-      "ingredients": "Päronjuice konfektyr med fruktsmak./ Pærejuice konfekt med frugtsmag/ fruktsmak. Ingredienser: päron-/pærejuice från koncentrat 40%, socker/sukker, glukossirap, stärkelse/stivelse, syra (citronsyra), naturliga aromer, koncentrat från (sötpotatis/sød kartoffel/søtpotet, äpple/æble/eple, safflor, spirulina, rädisa/radise/reddik, körsbär/kirsebær), vegetabiliska oljor (kokos, raps), ytbehandlings-/overfladebehandlingsmiddel (karnaubavax/voks), färgämnen/farvestoffer (paprikaekstrakt, kurkumin). Blandningsförhållandet kan variera.",
+      "id": "7300156486516",
+      "name": "Flytande Margarin 500ml",
+      "company": "Coop",
+      "ingredients": "Rapsolja, vatten, fullhärdad rapsolja, salt, emulgeringsmedel (E 471, E 472c (vegetabiliska)), arom, färgämne (E 160a), A- och D-vitamin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392031001099",
+      "name": "Senap Chipotle &amp; svartpeppar 200g",
+      "company": "Johnny&apos;s",
+      "ingredients": "Socker, vatten, SENAPSFRÖ/SENNEPSFRØ, ättika/eddike, salt, kryddor (bl a svartpeppar/sort peber, chili, kanel, koriander), chipotle olja, chiliextrakt.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
