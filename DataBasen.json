@@ -134,8 +134,22 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "list": [
+    {
+      "id": "7350126087199",
+      "name": "Bearnaisesås 335ml",
+      "company": "Felix",
+      "ingredients": "Rapsolja, vatten, naturliga aromer (innehåller MJÖLK), ÄGGula, rödvinsvinäger, vitvinsvinäger, majsstärkelse, salt, socker, vitlök, lök, chili, persilja, dragon, kryddextrakt (bl.a. muskotnöt, libbsticka), syra (citronssyra) antioxidationsmedel (rosmarinextrakt, tokoferolrika extrakt), förtjockningsmedel (xantangummi), färgämne (betakaroten).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310350504992",
+      "name": "Malaco Fruity Drops Fruity Mix 170g",
+      "company": "Malaco",
+      "ingredients": "Päronjuice konfektyr med fruktsmak./ Pærejuice konfekt med frugtsmag/ fruktsmak. Ingredienser: päron-/pærejuice från koncentrat 40%, socker/sukker, glukossirap, stärkelse/stivelse, syra (citronsyra), naturliga aromer, koncentrat från (sötpotatis/sød kartoffel/søtpotet, äpple/æble/eple, safflor, spirulina, rädisa/radise/reddik, körsbär/kirsebær), vegetabiliska oljor (kokos, raps), ytbehandlings-/overfladebehandlingsmiddel (karnaubavax/voks), färgämnen/farvestoffer (paprikaekstrakt, kurkumin). Blandningsförhållandet kan variera.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7622202238413",
       "name": "Mjölkchoklad Daim 160g",
