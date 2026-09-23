@@ -134,8 +134,71 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "list": [
+    {
+      "id": "7311440052157",
+      "name": "Dressing Amerikansk 230g",
+      "company": "Kavli",
+      "ingredients": "Rapsolja, tomatpuré, ÄGG/ÆG*, gurka/agurk, ättika/eddike, socker, salt, kryddor (bl.a. vitlök, kanel, koriander), SENAPSFRÖ/SENNEPSFRØ, lök, paprika, kryddextrakt (bl.a. cayennepeppar), stabiliseringsmedel (E415, E509), konserveringsmedel (E202), antioxidationsmedel (E385). *Ägg från frigående höns/skrabeæg.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311442160300",
+      "name": "Dressing Lätt 230g",
+      "company": "Kavli",
+      "ingredients": "Vatten, rapsolja, tomatpuré, ättika, gurka, socker, ÄGG, mod. majsstärkelse, salt, kryddor (bl.a. paprika, kanel, koriander, vitlök), SENAPSFRÖ, lök, paprika, stabiliseringsmedel (E415, E509), konserveringsmedel (E202, E211), kryddextrakt (bl.a. cayennepeppar), antioxidationsmedel (E385).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311441165610",
+      "name": "Burger Cheese Cheddar 230g",
+      "company": "Kavli",
+      "ingredients": "EDAMEROST (45 %), vatten, CHEDDAROST från Norge 15 % (MJÖLK/MÆLK, syrakultur, salt, mikrobiellt löpe/mikrobiel løbe, färgämne (karotener)), smältsalter/smeltesalter (E339, E452), konserveringsmedel (E202, E234), naturlig arom, färgämne (karotener, paprikaextrakt).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311442162601",
+      "name": "Dressing French Hot Dog 230g",
+      "company": "Kavli",
+      "ingredients": "Rapsolja, vatten, ÄGG, socker, ättika, SENAPSFRÖ, kryddor (bl.a. lök, vitlök, bockhornsklöver, cayennepeppar, fänkål, koriander, spiskummin, kanel), salt, vitpepparextrakt, stabiliseringsmedel (E415), konserveringsmedel (E202), antioxidationsmedel (E385).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156480705",
+      "name": "Grillkorv Kyckling 400g",
+      "company": "Coop",
+      "ingredients": "Maskinurbenat kycklingkött 64%, vatten, fett från kyckling, potatismjöl, druvsocker, salt, kryddor (vitpeppar, paprika, koriander, cayennepeppar, libbsticka), lök, antioxidationsmedel (E 300), konserveringsmedel (E 250). Kokt och rökt. URSPRUNG KÖTTRÅVARA: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7320020003083",
+      "name": "Korv Bbq &amp; ost 270g",
+      "company": "Lindvalls",
+      "ingredients": "Svenskt kött 70% (fläsk), vatten, svensk OST 6%, stärkelse (svensk potatis), havssalt, kryddor (paprika, lök, vitpeppar, tomat, vitlök, oregano, chilipeppar, cayennepeppar), naturlig arom (svartpeppar, paprika), plantbaserat extrakt (lök), färgämne (rödbeta), rökt med rökarom från Lönn och Ek.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310628005589",
+      "name": "Grillkorv Smokey BBQ 320g",
+      "company": "Sibylla",
+      "ingredients": "Gris- och nötkött (70%), vatten, potatismjöl, salt, farinsocker, fett från gris, kryddor (chili, paprikapulver, ingefära, vitlök, rökt paprikapulver, svartpeppar, spiskummin, cayennepeppar), sirap, druvsocker, tomatpuré, modifierad potatisstärkelse, vitlökspulver, lökpulver, grönsaksbuljong (salt, morot, lök, tomat, broccoli, vitkål, palsternacka, svamp, persilja), lök, socker, ättika, kryddextrakt (svartpeppar, koriander), ananaspulver, stabiliseringsmedel (E450), antioxidationsmedel (E300), konserveringsmedel (E250), färgämne (E150c), arom, rökarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300327537009",
+      "name": "Grillkorv Kyckling 400g",
+      "company": "Kronfågel",
+      "ingredients": "Maskinurbenat kycklingkött 60%*, kycklingskinn*, vatten, potatisstärkelse, druvsocker (majs), salt, vitpeppar, paprika, koriander, cayennepeppar, potatisfibrer, lök, stabiliseringsmedel (E450), konserveringsmedel (E250), antioxidationsmedel (E300). Skinnfri. *Ursprung kyckling: Född uppväxt, slaktad i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156480712",
+      "name": "Grillkorv Kyckling Tjock 360g",
+      "company": "Coop",
+      "ingredients": "Maskinurbenat kycklingkött 64%, vatten, fett från kyckling, potatismjöl, druvsocker, salt, kryddor (vitpeppar, paprika, koriander, cayennepeppar, libbsticka), lök, antioxidationsmedel (E 300), konserveringsmedel (E 250). Kokt och rökt. URSPRUNG KÖTTRÅVARA: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7350126089124",
       "name": "Salladsdressing 335ml",
