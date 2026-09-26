@@ -134,8 +134,15 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "list": [
+    {
+      "id": "4056489421580",
+      "name": "Tortilla Chips Salted 450g",
+      "company": "Snack Day",
+      "ingredients": "77,2 % majs, 22,3 % solrosolja, 0,5 % salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311870011076",
       "name": "Bregott Smör &amp; raps Normalsaltat 750g",
