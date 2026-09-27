@@ -134,8 +134,36 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "list": [
+    {
+      "id": "7311312008183",
+      "name": "Nachochips 475g",
+      "company": "Santa Maria",
+      "ingredients": "Majsmjöl (78%), solrosolja, salt. Kan innehålla spår av soja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311312008138",
+      "name": "Tortillachips Cheese 475g",
+      "company": "Santa Maria",
+      "ingredients": "Majsmjöl (72%), solrosolja, ostkrydda (maltodextrin, salt, MJÖLKPULVER, druvsocker, socker, kryddor (lök, tomat, cayennpeppar, gurkmeja), naturliga aromer (innehåller MJÖLK), OSTPULVER (0,1%), syra (mjölksyra), kryddextrakt (paprika)). Kan innehålla spår av soja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311312008107",
+      "name": "Tortillachips Cheese 185g",
+      "company": "Santa Maria",
+      "ingredients": "Majsmjöl (72%), solrosolja, ostkrydda (maltodextrin, salt, MJÖLKPULVER, druvsocker, socker, kryddor (lök, tomat, cayennpeppar, gurkmeja), naturliga aromer (innehåller MJÖLK), OSTPULVER (0,1%), syra (mjölksyra), kryddextrakt (paprika)).Kan innehålla spår av soja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311312008077",
+      "name": "Nachochips 185g",
+      "company": "Santa Maria",
+      "ingredients": "Majsmjöl (78%), solrosolja, salt. Kan innehålla spår av soja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "4056489421580",
       "name": "Tortilla Chips Salted 450g",
