@@ -137,6 +137,118 @@
   "date": "2026-10-01",
   "list": [
     {
+      "id": "2371581500004",
+      "name": "Fläskytterfile - Holland 1.1kg",
+      "company": "nybergs deli",
+      "ingredients": "Kotlett* av gris (88 %), vatten, vinäger, salt, druvsocker, naturlig arom, glutenfri HAVREfiber.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156596642",
+      "name": "Kanelsnäckor 260g",
+      "company": "Coop",
+      "ingredients": "VETEMJÖL (Sverige), kanelfyllning 23% (socker, vatten, farinsocker, modifierad potatisstärkelse, rapsolja, kanel, potatisgranulat, glukossirap, VETEMJÖL, emulgeringsmedel (E 471 vegetabiliskt), salt, arom (vanillin)), vatten, rapsolja, sirap, jäst, pensling (vatten, stärkelsesirap av majs, modifierad potatisstärkelse, konserveringsmedel (E 211)), salt, bakpulver (E 450, E 500), mald kardemumma, emulgeringsmedel (E 471 vegetabiliskt), konserveringsmedel (E 200), KORNMALT, mjölbehandlingsmedel (E 300).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6437005075605",
+      "name": "Fikabröd Kanelknut De Luxe 95g",
+      "company": "Bonjour",
+      "ingredients": "VETEMJÖL/HVETEMEL, vatten, socker, vegetabilisk olja (raps), MANDEL 3,5%, SMÖR 3,4%, jäst/gjær, kanel, VETEGLUTEN, MJÖLKPULVER/ MELKEPULVER, salt, kardemumma, invertsockersirap, ÄGGPULVER/EGGEPULVER, surdeg av VETE [vatten, fermenterat VETEMJÖL], emulgeringsmedel (E472e), enzymer, naturlig vaniljarom, mjölbehandlingsmedel (E300)..",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7391288322100",
+      "name": "Kanelbulle 100g",
+      "company": "Bonjour",
+      "ingredients": "VETEMJÖL, vatten, socker, vegetabiliskt fett och olja (palm, raps), jäst/gjær, VETEGLUTEN, modifierad stärkelse, salt, kanel, aprikoskärnor, kardemumma, emulgeringsmedel (E472e), glukossirap, naturlig arom (vanilj), mjölbehandlingsmedel (E300). Kan innehålla spår av mjölk, ägg, mandel.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311800000149",
+      "name": "Frönuftig 375g",
+      "company": "Polarbröd",
+      "ingredients": "VETEmjöl¹, vatten, surdeg (RÅG)¹ (7%), fullkornsRÅGmjöl¹, hampafrö (1,9%), VETEGLUTEN, rapsolja¹, salt, fermenterat VETEmjöl, jäst¹, chiafrö (0,5%), maltmjöl (KORN). ¹Ursprungsland: Sverige. Innehåller naturligt förekommande sockerarter.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350046465015",
+      "name": "Svartpeppar Grovmalen 41g",
+      "company": "KOCKENS",
+      "ingredients": "Rainforest Alliance-certifierad Svartpeppar. Besök ra.org för mer information.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350104403034",
+      "name": "Proteinbar Triple chocolate 50g",
+      "company": "Nick´s",
+      "ingredients": "MJÖLK/MÆLKprotein, MJÖLK/MÆLKpulver, vegetabiliska oljor (shea, kokos, illipe, solros/ sikke), fuktighetsbevarande medel (glycerol), sötningsmedel (erytritol), hydrolyserat kollagen, kakaosmör, lösliga majsfiber, inulin (cikoriarot), SOJAchips (SOJAproteinisolat, kakaopulver, tapiokastärkelse), kakaomassa, kakaopulver, emulgeringsmedel (solroslecitin), naturlig arom, salt, sötningsmedel (enzymatiskt framställda steviolglykosider, sukralos). Kan innehålla spår av ÄGG, JORDNÖTTER/PEANØTTER och NÖTTER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5760466642019",
+      "name": "Vitost Krämig Hel Original 200g",
+      "company": "Apetina®",
+      "ingredients": "Pastöriserad MJÖLK, surhetsreglerande medel (E575), salt, konserveringsmedel (nisin), ystenzym.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310760012889",
+      "name": "Kokkaffe Mellanrost 500g",
+      "company": "Arvid Nordquist",
+      "ingredients": "Kaffe (100% Arabicabönor)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310760012391",
+      "name": "Bryggkaffe Mörkrost Wanyama 500g",
+      "company": "Arvid Nordquist",
+      "ingredients": "Kaffe (100% Arabicabönor)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7315200591887",
+      "name": "Vitvinsfond 180ml",
+      "company": "Caj P",
+      "ingredients": "Vatten, salt, VITT VIN, morot, lök, socker, VITVINSVINÄGER, modifierad stärkelse, krydda (fänkål, gurkmeja, kummin, vitpeppar, dragon, dill) purjolöksjuice koncentrat, citronjuicekoncentrat, schalottenlök, syra (mjölksyra), SELLERI, arom, konserveringsmedel (E202), förtjockningsmedel (E415).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7315200591863",
+      "name": "Svampfond umami 180ml",
+      "company": "Caj P",
+      "ingredients": "Vatten, salt, karljohansvamp (7,8%), socker, lök, morot och vitlökskoncentrat, kantarell (3,9%) naturlig arom, modifierad stärkelse, tomatpuré, karamelliserat socker, timjan, schalottenlök, konserveringsmedel (E202), kryddextrakt (lök).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310760012902",
+      "name": "Bryggkaffe Extra Mörk Franskrost 500g",
+      "company": "Arvid Nordquist",
+      "ingredients": "Kaffe (100% Arabicabönor)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310760012988",
+      "name": "Presskaffe Mörkrost Pressiado 500g",
+      "company": "Arvid Nordquist",
+      "ingredients": "Kaffe (100% Arabicabönor)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310760012308",
+      "name": "Bryggkaffe Extra Mörkrost Festivita 500g",
+      "company": "Arvid Nordquist",
+      "ingredients": "Kaffe (100% Arabicabönor)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310760012919",
+      "name": "Bryggkaffe Mellanmörk Svea 500g",
+      "company": "Arvid Nordquist",
+      "ingredients": "Kaffe (100% Arabicabönor)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "7310070009487",
       "name": "Pepsi 330ml",
       "company": "Pepsi",
@@ -6172,7 +6284,7 @@
     },
     {
       "id": "2383471000006",
-      "name": "Laxfilé 1.15kg",
+      "name": "Laxfilé 1.5kg",
       "company": "Harbour",
       "ingredients": "LAX (Salmo salar)* 100 %.",
       "gluten": "Glutenfri [ Ja ]"
@@ -20991,7 +21103,7 @@
     },
     {
       "id": "7310760012315",
-      "name": "Arvid Nordquist Bryggkaffe, Gran dia 500g",
+      "name": "Bryggkaffe Mellanmörk Gran Dia 500g",
       "company": "Arvid Nordquist",
       "ingredients": "Kaffe (100% Arabicabönor)",
       "gluten": "Glutenfri [ Ja ]"
