@@ -137,1018 +137,17 @@
   "date": "2026-10-01",
   "list": [
     {
-      "id": "7350166370060",
-      "name": "Linguine 400g",
-      "company": "Mino",
-      "ingredients": "DURUMVETEMJÖL*/DURUMHVETE*. Kan innehålla/inneholde spår/spor av SOJA/SOYA och/og SENAP/SENNEP. *Odlat/Dyrket i Italien/Italia.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7350166370053",
-      "name": "Spaghetti 400g",
-      "company": "Mino",
-      "ingredients": "DURUMVETEMJÖL*/DURUMHVETE*. Kan innehålla/inneholde spår/spor av SOJA/SOYA och/og SENAP/SENNEP. *Odlat/Dyrket i Italien/Italia.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7350166370077",
-      "name": "Spaghettoni 400g",
-      "company": "MINO",
-      "ingredients": "DURUMVETEMJÖL*/DURUMHVETE*. Kan innehålla/inneholde spår/spor av SOJA/SOYA och/og SENAP/SENNEP. *Odlat/Dyrket i Italien/Italia.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7350166370121",
-      "name": "Penne Lisce 400g",
-      "company": "Mino",
-      "ingredients": "DURUMVETEMJÖL*/DURUMHVETE*. Kan innehålla/inneholde spår/spor av SOJA/SOYA och/og SENAP/SENNEP. *Odlat/Dyrket i Italien/Italia.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "3800020491409",
-      "name": "Kitkat Tablet Hasselnöt 99g",
-      "company": "NESTLÉ",
-      "ingredients": "socker/sukker, kakaomassa1, vegetabiliskt fett (palm, shea), VETEMJÖL/HVEDEMEL/HVETEMEL, SKUMMJÖLKS-/SKUMMETMÆLKS-/SKUMMETMELKPULVER, kakaosmör1, VASSLE-/VALLE-/MYSEPERMEATPULVER (MJÖLK/MÆLK MELK), glukossirap/glukosesirup, SMÖRFETT/SMØRFEDT (MJÖLK/MÆLK/ MELK), HASSELNÖTTS-/HASSELNØDDEPASTA (2,1%), fettreducerat/ fedtfattigt kakaopulver', emulgeringsmedel/emulgator (lecitiner), salt, naturlig arom, bakpulver/hævemiddel (natriumbikarbonat). Kan innehålla/indeholde JORDNÖTTER/JORDNØDDER/PEANØTTER.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "3800020491416",
-      "name": "Kitkat Tablet Double Chocolate 99g",
-      "company": "NESTLÉ",
-      "ingredients": "socker/sukker, vegetabiliskt fett (palm, shea), kakaomassa¹, VETEMJÖL/HVEDE-/HVETEMEL, kakaosmör/-smør¹, SKUMMJÖLKS-/SKUMMETMÆLKS-/SKUMMETMELKPULVER, VASSLE-/VALLE-/MYSEPERMEATPULVER (MJÖLK/MÆLK/MELK), glukossirap/glukosesirup, fettreducerat/fedtfattigt kakaopulver¹, SMÖRFETT/SMØRFEDT (MJÖLK/MÆLK/MELK), emulgeringsmedel/emulgator (lecitiner), bakpulver/hævemiddel (natriumbikarbonat), naturlig arom. Kan innehålla/indeholde JÖRDNÖTTER/JORDNØDDER/PEANØTTER och/og NÖTTER/NØDDER/NØTTER. ¹Rainforest Alliance Certified. Find out more at ra.org",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "3800020491423",
-      "name": "Kitkat Tablet Salted Caramel 99g",
-      "company": "NESTLÉ",
-      "ingredients": "socker/sukker, vegetabiliskt fett (palm, shea), SKUMMJÖLKS-/SKUMMETMÆLKS-/SKUMMETMELKPULVER, VETEMJÖL/HVEDEMEL/HVETEMEL, kakaosmör1, kakaomassa1, VASSLE-/VALLE-/MYSEPERMEATPULVER (MJÖLK/MÆLK/MELK), glukossirap/glukosesirup, MJÖLKFETT/MÆLKEFEDT/MELKEFETT, kola-/karamelpulver (1,0%) (SKUMMJÖLKS-/SKUMMETMÆLKS- SKUMMETMELKPULVER), socker/sukker, VASSLE-/VALLE-/MYSEPULVER (MJÖLK/MÆLK/MELK), SMÖR/SMØR (MJÖLK/MÆLK/MELK), naturlig arom), fettreducerat/fedtfattigt kakaopulver1, emulgeringsmedel/emulgator (lecitiner), naturliga aromer, salt, bakpulver/hævemiddel (natriumbikarbonat), färgämne/farvestof (paprikaoleoresin/paprikaekstrakt). Kan innehålla/indeholde JORDNÖTTER/JORDNØDDER/PEANØTTER och NÖTTER/NØDDER/NØTTER.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "4000177034514",
-      "name": "Fruktdryck Mystic Dragon 10-pack 2000ml",
+      "id": "4000177026700",
+      "name": "Juicedryck Jungle 10-pack 2000ml",
       "company": "Capri-Sun",
-      "ingredients": "Vatten/ Vand, fruktjuice från/ frugtjuice fra koncentrat 10% (äpple/ æble 9,3%, banan 0,5%, jordgubbe/ jordbær 0,1%, drakfrukt/ dragefrugt 0,1%), socker/ sukker, syra/ syre (citronsyra / citronsyre, naturlig arom/ aroma, antioxidationsmedel/ antioxidant (askorbinsyra/ askorbinsyre).",
+      "ingredients": "Läs Ingredienser",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7350060709065",
-      "name": "Granola Kakao & banan 375g",
-      "company": "Färsking",
-      "ingredients": "HAVREflingor/-flak /-flager 37%, rostade/ristede fullkorns/fuldkorns-VETEflingor/HVETEflak/HVEDEflager 15%, oligofruktos/-fruktose/-fructose*, RÅGflingor/RUGflak/-flager 13%, solrosolja/solsikkeolje/-olie, solrosfrön/solsikkefrø/solsikkekerner, HAVREMJÖL/MEL, linfrön/linfrø/hørfrø, kakaopulver 2,4%, carob pulver/carobpulver, frystorkad/frysetørret banan 1,5%, rostade/ristede kokosflingor/ kokosflak/kokosflager, salt, naturlig arom/aroma. Kan innehålla spår av/Kan inneholde spor av/Kan indeholde spor af: JORDNÖTTER/PEANØTTER/JORDNØDDER, SOJA/SOYA, MJÖLK/MELK/MÆLK, NÖTTER/NØTTER/NØDDER, SESAMFRÖN/SESAMFRØ. *Oligofruktos är/er ett/en fiber som/der finns/finnes/findes naturligt i t.ex./f.eks. banan, betor/beter/bede och/og cikoriarot/sikorirot/cikorierod.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7350099111174",
-      "name": "Granola Naturell 375g",
-      "company": "Färsking",
-      "ingredients": "HAVREflingor/-flak/-flager 80%, oligofruktos/-fruktose/-fructose*, solrosolja/solsikkeolje/-olie, naturlig arom/aroma, salt. Kan innehålla spår av/Kan inneholde spor av/Kan indeholde spor af: JORDNÖTTER/PEANØTTER/JORDNØDDER, SOJA/SOYA, MJÖLK/MELK/ MÆLK, NÖTTER/NØTTER/NØDDER, SESAMFRÖN/SESAMFRØ. *Oligofruktos är/er ett/en fiber som/der finns/finnes/findes naturligt i t.ex./f.eks. banan, betor/beter/bede och/og cikoriarot/sikorirot/cikorierod.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7350099111129",
-      "name": "Granola Blåbär & jordgubb 375g",
-      "company": "Färsking",
-      "ingredients": "HAVREflingor/-flak/-flager 49%, oligofruktos/-fruktose/-fructose*,VETEflingor/HVETEflak/ HVEDEflager 12%, solrosolja/solsikkeolje/-olie, solrosfrö/solsikkefrø, rostade och hackade/ristede og hakkede MANDLAR/MANDLER, riven/revet kokos, linfrön/linfrø/hørfrø, frystorkade/frysetørkede/frysetørrede blåbär/blåbær 0,6% (blåbär/blåbær, solrosolja/solsikkeolje/-olie), kardemumma/kardemomme, frystorkade/frysetørkede/frysetørrede jordgubbar/jordbær 0,4% (jordgubbar/jordbær, solrosolja/solsikkeolje/-olie), salt. Kan innehålla spår av/Kan inneholde spor av/Kan indeholde spor af: JORDNÖTTER/PEANØTTER/JORDNØDDER, SOJA/SOYA, MJÖLK/MELK/ MÆLK, NÖTTER/NØTTER/NØDDER, SESAMFRÖN/SESAMFRØ. *Oligofruktos är/er ett/en fiber som/der finns/finnes/findes naturligt it.ex./f.eks. banan, betor/beter/bede och/og cikoriarot/sikorirot/cikorierod",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "4000177171929",
-      "name": "Juicedryck Monster Alarm 10-pack 2000ml",
+      "id": "4000177211328",
+      "name": "Juicedryck Tropisk 10-pack 2000ml",
       "company": "Capri-Sun",
-      "ingredients": "Vatten/ Vand, fruktjuice från/ frugtjuice fra koncentrat 10% (citron 3,9%, äpple/ æble 3,6%, svarta vinbär/ solbær 1%, surkörsbär/ surkirsebær 1%, jordgubbe/ jordbær 0,4%, lime 0,1%), socker/ sukker, naturlig arom/ aroma, antioxidationsmedel/ antioxidant (askorbinsyra/ askorbinsyre).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "4000177030042",
-      "name": "Juicedryck Multivitamin Zero 10-pack 2000ml",
-      "company": "Capri-Sun",
-      "ingredients": "källvatten/ kildevand, fruktjuice från/ frugtsaft fra koncentrat 7% (apelsin/ appelsin 3,1%, citron 2,7%, ananas 0,3%, banan 0,3%, äpple/ æble 0,3%, kiwi 0,2%, passionsfrukt/ passionsfrugt 0,1%), syrabildare citronsyra/ syre (citronsyre), naturlig arom/ naturlige aromaer, vitaminer (C, niacin, E, B6, thiamin, biotin), sötningsmedel sukralos/ sødestof sucralose, cyklamat och sackarin/ og saccharin, antioxidationsmedel/ antioxidant (askorbinsyra/ askorbinsyre).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350099111136",
-      "name": "Granola Kakao & hallon 375g",
-      "company": "Färsking",
-      "ingredients": "HAVREflingor/-flak /-flager 53%, oligofruktos/-fruktose/-fructose, RÅGflingor/RUGflak/-flager 11%, solrosolja/solsikkeolje/-olie, solrosfrö/solsikkefrø, kakaopulver 3,1%, rostade/ristede kokosflingor/ kokosflak/kokosflager, carob pulver/carobpulver, frystorkade/frysetørkede/frysetørrede hallon/bringebær/hindbær 1% (hallon/bringebær/hindbær, solrosolja/solsikkeolje/-olie), salt, naturlig arom/aroma 0,3%. Kan innehålla spår av/Kan inneholde spor av/Kan indeholde spor af: JORDNÖTTER/PEANØTTER/JORDNØDDER, SOJA/SOYA, MJÖLK/MELK/MÆLK, NÖTTER/NØTTER/NØDDER, SESAMFRÖN/SESAMFRØ.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7350099111112",
-      "name": "Granola Äpple & kanel 375g",
-      "company": "Färsking",
-      "ingredients": "HAVREflingor/-flak/-flager 42%, oligofruktos/-fruktose/-fructose*,VETEflingor/ HVETEflak/HVEDEflager 10%, solrosolja/solsikkeolje/-olie, linfrön/linfrø/hørfrø, solrosfrö/solsikkefrø, torkade äppelbitar/ tørkede eplebiter/tørrede æblestykker 3%, pumpafrön/gresskarkjerner/græskarkerner, kanel, salt. Kan innehålla spår av/Kan inneholde spor av/Kan indeholde spor af: JORDNÖTTER/PEANØTTER/JORDNØDDER, SOJA/SOYA,MJÖLK/MELK/ MÆLK, NÖTTER/NØTTER/NØDDER, SESAMFRÖN/SESAMFRØ. *Oligofruktos är/er ett/en fiber som/der finns/finnes/findes naturligt i t.ex./f.eks. banan, betor/beter/bede och/og cikoriarot/sikorirot/cikorierod.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7350104405182",
-      "name": "Proteinbar Creamy coconut 50g",
-      "company": "Nick´s",
-      "ingredients": "MJÖLK/MÆLKprotein, MJÖLK/MÆLKpulver, sheaolja, fuktighetsbevarande medel (glycerol), kollagenpeptider, sötningsmedel (erytritol), kokos (8%), MANDEL, löslig majsfiber, inulin (från cikoriarot), illipesmör, solrosolja, arom, emulgeringsmedel (solroslecitin), MJÖLK/MÆLKfett, kakaosmör, salt, kakaomassa, sötningsmedel (enzymatiskt framställda steviolglykosider, sukralos). Kan innehålla spår av ÄGG, JORDNÖTTER/PEANØTTER, NÖTTER och SOJA.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "73143611",
-      "name": "ProPud Choklad 1,5% 200g",
-      "company": "PROPUD",
-      "ingredients": "MJÖLK/MELK/MÆLK, MJÖLK/MELKE/MÆLKEPROTEIN, fettreducerad kakao (1,8%), förtjockningsmedel/fortykningsmiddel (karragenan, cellulosagummi), arom, stabiliseringsmedel/stabilisator (natriumfosfater), sötningsmedel/søtstoffer/sødestoffer (acesulfam K, steviolglykosider från stevia), laktasenzym.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350068296116",
-      "name": "Proteinpudding Delicatoboll 1,5% 200g",
-      "company": "PROPUD",
-      "ingredients": "MJÖLK/MELK/MÆLK, MJÖLK/MELKE/MÆLKEPROTEIN, fettreducerad kakao (1,2%), förtjockningsmedel/fortykningsmiddel (karragenan, cellulosagummi), arom, färgämne/fargestoff (sockerkulör/karamell), stabiliseringsmedel/stabilisator (natriumfosfater), sötningsmedel/søtstoffer/sødestoffer (acesulfam K, steviolglykosider från stevia), laktasenzym.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350104403058",
-      "name": "Proteinbar Hazelnut chocolate 50g",
-      "company": "Nick´s",
-      "ingredients": ". MJÖLK/MÆLKprotein, MJÖLK/MÆLKpulver, HASSELNÖTTER (9%), sötningsmedel (erytritol), vegetabiliska oljor (shea, kokosnöt, illipe, solros/sikke), hydrolyserat kollagen, fuktighetsbevarande medel (glycerol), kakaosmör, SOJAchips (SOJAproteinisolat, tapiokastärkelse, salt), löslig majsfiber, inulin (cikoriarot), kakaomassa, kakaopulver, emulgeringsmedel (solroslecitin), naturlig arom, salt, sötningsmedel (enzymatiskt framställda steviolglykosider, sukralos). Kan innehålla spår av ÄGG, JORDNÖTTER/PEANØTTER och NÖTTER.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350104405045",
-      "name": "Proteinbar Dulce de leche 50g",
-      "company": "Nick´s",
-      "ingredients": "MJÖLK/MÆLKprotein, fuktighetsbevarande medel (glycerol), vegetabiliska oljor (shea, solros, kokos, illipe), kollagenpeptider, MJÖLK/MÆLKpulver, inulin (cikoriarot), löslig majsfiber, sötningsmedel (erytritol), SMÖR, fiber (polydextros), sötningsmedel (isomalt), kakaosmör, kakaomassa, MJÖLK/MÆLKfett, emulgeringsmedel (solroslecitin), sötningsmedel (xylitol), naturlig arom, färgämne (sockerkulör), förtjockningsmedel (pektin), salt, sötningsmedel (enzymatiskt framställda steviolglykosider, sukralos). Kan innehålla spår av ÄGG, JORDNÖTTER/PEANØTTER, NÖTTER och SOJA.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350104404796",
-      "name": "Proteinbar choco crush 50g",
-      "company": "Nick´s",
-      "ingredients": "MJÖLK/MÆLKprotein, MJÖLK/MÆLKpulver, vegetabiliska oljor (shea, solros/sikke), fuktighetsbevarande medel (glycerol), sötningsmedel (erytritol), kollagenpeptider, puffad majs (majsmjöl, solrosolja, majsstärkelse, potatisstärkelse, salt, bakpulver (natriumbikarbonat), kryddor), illipesmör, inulin (från cikoriarot), vatten, lösliga majsfiber, kakaomassa, kakaopulver, SOJAchips (SOJAproteinisolat, tapiokastärkelse, salt), emulgeringsmedel (solroslecitin), arom, salt, sötningsmedel (enzymatiskt framställda steviolglykosider, sukralos). Kan innehålla spår av ÄGG, JORDNÖTTER/PEANØTTER och NÖTTER.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350104403003",
-      "name": "Proteinbar Caramel chocolate 50g",
-      "company": "Nick´s",
-      "ingredients": "MJÖLK/MÆLKprotein, löslig majsfiber, hydrolyserat kollagen, kakaosmör, MJÖLK/MÆLKpulver, fuktighetsbevarande medel (glycerol), sötningsmedel (erytritol), inulin (cikoriarot), vegetabiliska oljor (shea, kokosnöt, illipe, solros/sikke), kakaomassa, SMÖR, sötningsmedel (sorbitol), sötningsmedel (xylitol), kakaopulver, emulgeringsmedel (solros/sikkelecitin), naturlig arom, salt, sötningsmedel (enzymatiskt framställda steviolglykosider, sukralos). Kan innehålla spår av ÄGG, JORDNÖTTER/PEANØTTER, NÖTTER och SOJA.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350104403010",
-      "name": "Proteinbar Salty peanut 50g",
-      "company": "Nick´s",
-      "ingredients": "JORDNÖTTER/PEANØTTER (15%), MJÖLK/MÆLKprotein, löslig majsfiber, kakaosmör, MJÖLK/MÆLKpulver, hydrolyserat kollagen, fuktighetsbevarande medel (glycerol), sötningsmedel (erytritol), inulin (cikoriarot), kakaomassa, SMÖR, vegetabiliska oljor (shea, kokos, illipe, solros/sikke), sötningsmedel (sorbitol), sötningsmedel (xylitol), emulgeringsmedel (solros/solsikkelecitin), naturlig arom, salt, sötningsmedel (enzymatiskt framställda steviolglykosider, sukralos). Kan innehålla spår av ÄGG, NÖTTER och SOJA.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002348",
-      "name": "Kryddpeppar Malen 40g",
-      "company": "KOCKENS",
-      "ingredients": "Kryddpeppar.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8722700200185",
-      "name": "Chili Flakes 28g",
-      "company": "KOCKENS",
-      "ingredients": "25% svartpeppar, lök, 25% salt, surhetsreglerande medel (E330), paprika, vitlök, gurkmeja, 1% citronjuicepulver.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002485",
-      "name": "Persillade 45g",
-      "company": "KOCKENS",
-      "ingredients": "Lök, vitlök, 25% salt, persilja, citrongräs.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002133",
-      "name": "Curry 43g",
-      "company": "KOCKENS",
-      "ingredients": "Koriander, gurkmeja, bockhornsklöverfrön, fänkål, ingefära, spiskummin, svartpeppar, cayennepeppar, vitlök, kryddnejlika, kanel.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350104403041",
-      "name": "Proteinbar Peanut butter 50g",
-      "company": "Nick's",
-      "ingredients": "JORDNÖTTER/PEANØTTER (19%), MJÖLK/MÆLKprotein, sötningsmedel (erytritol), vegetabiliska oljor (shea, kokosnöt, illipe, solros/sikke), kakaosmör, hydrolyserat kollagen, MJÖLK/MÆLKpulver, fuktighetsbevarande medel (glycerol), löslig majsfiber, inulin (cikoriarot), SOJAchips (SOJAproteinisolat, tapiokastärkelse, salt), kakaomassa, kakaopulver, emulgeringsmedel (solroslecitin), naturlig arom, salt, sötningsmedel (enzymatiskt framställda steviolglykosider, sukralos). Kan innehålla spår av ÄGG och NÖTTER.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350046464933",
-      "name": "Sesamfrön 38g",
-      "company": "KOCKENS",
-      "ingredients": "SESAMFRÖN Vita.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350046464841",
-      "name": "Chilipulver 42g",
-      "company": "KOCKENS",
-      "ingredients": "Chilipeppar 84% , spiskummin, salt 5%, oregano, vitlök.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350046465152",
-      "name": "Cayennepeppar 35g",
-      "company": "KOCKENS",
-      "ingredients": "Cayennepeppar.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002454",
-      "name": "Paprika 43g",
-      "company": "KOCKENS",
-      "ingredients": "Paprika.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002522",
-      "name": "Rosmarin 20g",
-      "company": "KOCKENS",
-      "ingredients": "Rosmarin.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002072",
-      "name": "Basilika 10g",
-      "company": "KOCKENS",
-      "ingredients": "Basilika.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002720",
-      "name": "Vitpeppar Malen 45g",
-      "company": "KOCKENS",
-      "ingredients": "Vitpeppar.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002690",
-      "name": "Vitlökspulver 52g",
-      "company": "KOCKENS",
-      "ingredients": "Vitlök.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350046465183",
-      "name": "Spiskummin Malen 33g",
-      "company": "KOCKENS",
-      "ingredients": "Spiskummin.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002638",
-      "name": "Timjan 14g",
-      "company": "KOCKENS",
-      "ingredients": "Timjan.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002515",
-      "name": "Rosépeppar 20g",
-      "company": "KOCKENS",
-      "ingredients": "Rosépeppar.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002508",
-      "name": "Pizzakrydda 12g",
-      "company": "KOCKENS",
-      "ingredients": "Kyndel, oregano.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8722700100102",
-      "name": "Persilja 8g",
-      "company": "KOCKENS",
-      "ingredients": "Persilja.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002201",
-      "name": "Dragon 10g",
-      "company": "KOCKENS",
-      "ingredients": "Dragon.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002263",
-      "name": "Gurkmeja 43g",
-      "company": "KOCKENS",
-      "ingredients": "Gurkmeja.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002393",
-      "name": "Mejram 9g",
-      "company": "KOCKENS",
-      "ingredients": "Mejram.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002676",
-      "name": "Vitlök Finhackad 50g",
-      "company": "KOCKENS",
-      "ingredients": "Vitlök.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002270",
-      "name": "Örter Provencal 18g",
-      "company": "KOCKENS",
-      "ingredients": "Rosmarin, mejram, timjan, kyndel.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350046465602",
-      "name": "Superkryddor Kanel, Kardemumma, Ingefära Klassisk 30g",
-      "company": "KOCKENS",
-      "ingredients": "Kanel Cassia, kardemumma, ingefära.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350046465299",
-      "name": "Paprika Rökt 36g",
-      "company": "KOCKENS",
-      "ingredients": "Rökt paprika.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002294",
-      "name": "Kanel Cassia Malen 42g",
-      "company": "KOCKENS",
-      "ingredients": "Kanel.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350046469471",
-      "name": "Citronpeppar 53g",
-      "company": "KOCKENS",
-      "ingredients": "25% svartpeppar, lök, 25% salt, surhetsreglerande medel (E330), paprika, vitlök, gurkmeja, 1% citronjuicepulver.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002225",
-      "name": "Garam Masala 43g",
-      "company": "KOCKENS",
-      "ingredients": "Kardemumma, muskotnöt, svartpeppar, kryddnejlika, kanel, spiskummin.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350046465657",
-      "name": "Vitlök Rostad 44g",
-      "company": "KOCKENS",
-      "ingredients": "Vitlök rostad",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002386",
-      "name": "Lökpulver 43g",
-      "company": "KOCKENS",
-      "ingredients": "Lök.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310394002423",
-      "name": "Muskotnöt Malen 40g",
-      "company": "KOCKENS",
-      "ingredients": "Muskotnöt.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8445291105737",
-      "name": "Kaffekapslar Espresso Originale 10-pack 45g",
-      "company": "ZOÉGAS",
-      "ingredients": "INNEHÅLL: 10 Kapslar med rostat och malet kaffe för Nespresso-systemet.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8445291658110",
-      "name": "Kaffekapslar Espresso Skånerost 10-pack 44g",
-      "company": "ZOÉGAS",
-      "ingredients": "INNEHÅLL: 10 Kapslar med rostat och malet kaffe för Nespresso-systemet.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8445291154063",
-      "name": "Kaffekapslar Lungo Buongiorno 10-pack 44g",
-      "company": "ZOÉGAS",
-      "ingredients": "INNEHÅLL 10 Kapslar med rostat och malet kaffe för Nespresso-systemet.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191162600",
-      "name": "Dijonsenap 350g",
-      "company": "Xtra",
-      "ingredients": "Vatten, SENAPSFRÖN 31% (Frankrike), ättika, salt, syra (E 330), konserveringsmedel (E 224 KALIUMDISULFIT ).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191171503",
-      "name": "Tomatpuré 200g",
-      "company": "Coop",
-      "ingredients": "Tomatkoncentrat (tomat: EU). Till 100 g tomatpuré har 550 g färska tomater använts.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350027799931",
-      "name": "Gran Amore 150g",
-      "company": "Zeta",
-      "ingredients": "Opastöriserad koMJÖLK, salt, löpe, konserveringsmedel: E1105 (från ÄGG).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191162426",
-      "name": "Chèvre 180g",
-      "company": "Coop",
-      "ingredients": "Pastöriserad GETMJÖLK (EU), salt, mikrobiellt ystenzym, mjölksyrakultur (MJÖLK), vitmögelkultur.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310130012587",
-      "name": "Müsli Frukt & bär 600g",
-      "company": "AXA",
-      "ingredients": "HAVREgryn*, RÅGflingor*, VETEflingor*, klippta KORNflingor*, nougatpuffar (HAVREmjöl*, VETEstärkelse, socker, KORNmaltsirap, salt, nougatarom), dadlar 7% (dadlar 6,5%, rismjöl), torkade äppelbitar 2%, hallongranulat 0,8% (glukossirap, socker, hallon 0,2%, förtjockningsmedel (natriumalginat)). *Fullkorn. Produkten innehåller 86% fullkorn. Kan innehålla spår av cashewnöt, hasselnöt, mandel.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7310130012563",
-      "name": "Müsli Hasselnöt 600g",
-      "company": "AXA",
-      "ingredients": "HAVREgryn*, VETEflingor*, RÅGflingor*, dadlar 8% (dadlar 7,5%, rismjöl), frasflingor (KORNflingor*, socker, salt, KORNmaltextrakt), nougatpuffar (HAVREmjöl*, VETEstärkelse, socker, KORNmaltsirap, salt, nougatarom), HASSELNÖTTER 4,5%. *Fullkorn. Produkten innehåller 84% fullkorn. Kan innehålla spår av cashewnöt, mandel.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "3073780963930",
-      "name": "Smältost 8-pack 144g",
-      "company": "Kir",
-      "ingredients": "SMÄLTOST/SMELTEOST FETT/FEDT 29%. Ingredienser: Pastöriserad färsk MJÖLK/Pasteuriseret frisk MÆLK/MELK 53%, GRÄDDE/FLØTE/FLØDE 32%, vatten/vann/vand, MJÖLK/MÆLKE/MELKEmineralkoncentrat/sentrat, MJÖLK/MÆLKE/MELKE protein, SYRAVÄCKARE/gjæringsstoffer fra MELK/MÆLKEgærer, salt",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191169418",
-      "name": "Feta Eko 150g",
-      "company": "Änglamark",
-      "ingredients": "Pastöriserad ekologisk mjölk (FÅRMJÖLK min. 70 %, GETMJÖLK max.30 %), salt, mjölksyrakultur, mikrobiellt ystenzym.Mjölkens ursprungsland: Grekland",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191151123",
-      "name": "Mini Mozzarella 235g",
-      "company": "Coop",
-      "ingredients": "Mozzarellaost (pastöriserad KOMJÖLK (EU), salt, surhetsreglerande medel (E 330), mikrobiellt ystenzym), saltlake (vatten, salt, kalciumklorid).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8002670353006",
-      "name": "Granarolo Quattrocento 150g",
-      "company": "Granarolo",
-      "ingredients": "MJÖLK, salt, ystenzym.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191166233",
-      "name": "Rågbröd 6-pack 360g",
-      "company": "Coop",
-      "ingredients": "FULLKORNSRÅGMJÖL 36 % (råg: Estland och Lettland), VETEMJÖL 22 %, vatten, groddade RÅGKÄRNOR 12 % (råg: Estland), potatisflingor, VETEKLI 3,5 %, RÅGMALTMJÖL 3 %, VETEGLUTEN 3 %, salt, jäst, förtjockningsmedel (E 412), mjölbehandlingsmedel (E 300). Kan innehålla spår av korn och havre.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7340191171350",
-      "name": "Danskt rågbröd 320g",
-      "company": "Coop",
-      "ingredients": "Vatten, VETEMJÖL (vete: Estland), RÅGFLINGOR 15 % (råg: Estland), siktat RÅGMJÖL , FULLKORNSRÅGMJÖL 8 % (råg: Estland och Lettland), socker, solroskärnor, RÅGMALTMJÖL , linfrön, jäst, salt, mjölbehandlingsmedel (E 300). Kan innehålla spår av korn, havre och ägg.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7340191166240",
-      "name": "Ostbröd 4-pack 240g",
-      "company": "Coop",
-      "ingredients": "VETEMJÖL 68 % (vete: Estland), vatten, MJÖLK (Lettland och Estland), rapsolja, salt, jäst, socker, förtjockningsmedel (E 412), mjölksyrakultur, konsistensmedel (E 509), jästextrakt, mjölbehandlingsmedel (E 300).Kan innehålla spår av råg, korn och havre.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7340191179844",
-      "name": "Smältost Cheddar 200g",
-      "company": "Coop",
-      "ingredients": "CHEDDAROST 30 %, vatten, ost 20 % (pastöriserad MJÖLK (EU), salt, mjölksyrakultur, mikrobiellt ystenzym, konserveringsmedel (E 251), färgämne (E 160b(ii))), SMÖR, SKUMMJÖLKSPULVER, MJÖLKPROTEINKONCENTRAKT, smältsalt (E 452, E 450), salt, naturlig ostarom, färgämne (E 160c). Förpackad i en skyddande atmosfär.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191179875",
-      "name": "Smältost Chili cheddar 200g",
-      "company": "Coop",
-      "ingredients": "Ost 44 % (pastöriserad MJÖLK (EU), salt, mjölksyrakultur, mikrobiellt ystenzym, konserveringsmedel (E 251), färgämne (E 160b(ii))), vatten, CHEDDAROST 15 %, SMÖR, SKUMMJÖLKSPULVER, MJÖLKPROTEINKONCENTRAT, smältsalt (E 452, E 450), kryddor, salt, chili, färgämne (E 160c). Förpackad i en skyddande atmosfär.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7300156578358",
-      "name": "Kycklinggrillkorv 400g",
-      "company": "Xtra",
-      "ingredients": "Maskinurbenat kycklingkött° (59%), vatten, kycklingfett°, potatisstärkelse°, druvsocker, salt, kryddor (vitpeppar, paprika, koriander, cayennepeppar, libbsticka), lök, antioxidationsmedel (E 300), konserveringsmedel (E 250). Skinnfri. Kokt och rökt på alspån.°URSPRUNG: Sverige.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191161290",
-      "name": "Baguetter Mini Vitlök 6-pack 300g",
-      "company": "Coop",
-      "ingredients": "VETEMJÖL (vete: Frankrike), vatten, jäst, salt, alkohol*, vitlök, dextros, VETEGLUTEN , VETEMALTMJÖL , mjölbehandlingsmedel (E 300). *Alkoholen förångas vid gräddning. Kan innehålla spår av råg, korn, havre, mjölk och sesamfrön. Förpackad i en skyddande atmosfär.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7340191141889",
-      "name": "Baguetter Mini 6-pack 300g",
-      "company": "Coop",
-      "ingredients": "VETEMJÖL (vete: Frankrike), vatten, jäst, alkohol*, salt, fermenterat VETEMJÖL, VETEMALTMJÖL, deaktiverad jäst, mjölbehandlingsmedel (E 300).*Alkoholen förångas vid gräddning.Kan innehålla spår av råg, korn, havre, mjölk och sesamfrön. Förpackad i en skyddande atmosfär.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7340191141865",
-      "name": "Baguetter Halva 4-pack 300g",
-      "company": "Coop",
-      "ingredients": "VETEMJÖL (vete: Frankrike), vatten, jäst, alkohol*, salt, fermenterat VETEMJÖL, VETEMALTMJÖL, deaktiverad jäst, mjölbehandlingsmedel (E 300).*Alkoholen förångas vid gräddning.Kan innehålla spår av råg, korn, havre, mjölk och sesamfrön. Förpackad i en skyddande atmosfär.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7340191161962",
-      "name": "Baguetter Halva Grova 4-pack 300g",
-      "company": "Coop",
-      "ingredients": "VETEMJÖL (vete: Frankrike), vatten, FULLKORNSVETEMJÖL (vete: Frankrike), linfrön, jäst, salt, VETEGLUTEN, alkohol*, VETEMALTMJÖL, rostat KORNMALTMJÖL, KORNMALTEXTRAKT, VETEGRODDAR, mjölbehandlingsmedel (E 300), KORNMALTMJÖL, deaktiverad jäst, surdegskultur.*Alkoholen förångas vid gräddning.Kan innehålla spår av råg, havre, mjölk och sesamfrön.Förpackad i en skyddande atmosfär.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "8711327416192",
-      "name": "Snack pot Potatismos, bacon & lök 51g",
-      "company": "Knorr",
-      "ingredients": "Potatis¹ 57%, solrosolja, SKUMMJÖLKSPULVER, bacon 5,2 % (rökt sidfläsk, salt, stabilisator (natriumnitrit), rök), lök 4,8 %, MJÖLKSOCKER, joderat salt, kaliumklorid, baconfett (rökt sidfläsk, salt, rök), MJÖLKPROTEIN, arom, jästextrakt, örter (gräslök, persilja), rökarom, salt, emulgeringsmedel (mono- och diglycerider av fettsyror), gurkmeja. Kan innehålla spannmål som innehåller gluten, selleri och ägg. ¹Hållbart odlade ingredienser, läs mer på: www.knorr.se",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8711327416239",
-      "name": "Snack Pot Bolognese 60g",
-      "company": "Knorr",
-      "ingredients": "Pasta 66 % (DURUMVETEMJÖL, VETEMJÖL), tomatpuré 10 % , palmfett, lök, nötkött 1,7 % (nötkött, salt, maltodextrin, torkad ÄGGVITA), aromer, morotsjuice, tomater¹ 1 %, ROTSELLERI, socker, salt, kaliumklorid, jästextrakt, morötter 0,5 %, örter och kryddor (persilja, oregano¹, vitlök), joderat salt, röd paprika¹. Kan innehålla mjölk andra glutenhaltiga spannmålsprodukter, senap, sesam och soja. ¹Från hållbart jordbruk, läs mer på: www.knorr.se",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "8711327416215",
-      "name": "Snack Pot Carbonara 63g",
-      "company": "Knorr",
-      "ingredients": "Pasta¹ 61 % (DURUMVETEMJÖL, VETEMJÖL), stärkelse, SKUMMJÖLKSPULVER, OSTPULVER 5,2 % (OST, vassleprodukt (MJÖLK)), solrosolja, GRÄDDE 2,8 %, baconbitar 2,1 % (rökt sidfläsk, salt, stabilisator (natriumnitrit), rök), glukossirap, aromer (innehåller MJÖLK), MJÖLKSOCKER, joderat salt, kaliumklorid, socker, gräslök, salt, baconfett (rökt sidfläsk, salt, rök), naturlig arom, MJÖLKPROTEIN, lök, jästextrakt, gurkmeja. Kan innehålla råg, korn, havre, ägg, soja, sesam, selleri och senap. ¹Hållbart odlade ingredienser, läs mer på: www.knorr.se.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7340191165786",
-      "name": "Sesamkaka Kokos 40g",
-      "company": "Coop",
-      "ingredients": "SESAMFRÖN 54 % (Nigeria), glukossirap, rörsocker, kokos 6 %, arom. Kan innehålla spår av jordnötter, mandel, hassel-, val-, cashew-, pekan-, para-, pistage- och macadamianötter.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191165793",
-      "name": "Sesamkakor 40g",
-      "company": "Coop",
-      "ingredients": "SESAMFRÖN63 % (Nigeria), glukossirap, rörsocker, honung.Kan innehålla spår av jordnötter, mandel, hassel-, val-, cashew-, pekan-, para-, pistage- och macadamianötter.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191114838",
-      "name": "Tortellini Ost 500g",
-      "company": "Xtra",
-      "ingredients": "VETEMJÖL , ricottaost 16% ( MJÖLK ), DURUMVETEMJÖL , ÄGG (från frigående höns), ströbröd ( VETEMJÖL , vatten, salt, jäst), vatten, mozzarellaost 4% ( MJÖLK ), solrosolja, vasslepulver ( MJÖLK ), ost 1,7% ( MJÖLK ), arom (innehåller MJÖLK ), potatisflingor (potatis, emulgeringsmedel (E 471 vegetabiliskt)), salt, Scamorzaost 0,4% ( MJÖLK ), vitlök, peppar. Ostarna är framställda med löpe och mikrobiellt ystenzym. Kan innehålla spår av soya, senap, korn, selleri, fisk, blötdjur, kräftdjur, mandel, hasselnötter, valnötter, pistagenötter och cashewnötter. 60 g pasta och 40 g fyllning per 100 g tortellini. Förpackad i en skyddande atmosfär. Äggen och all mjölk i ostarna kommer från EU.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7340191172012",
-      "name": "Tonfisk 130g",
-      "company": "Coop",
-      "ingredients": "Skipjack-TONFISK, solrosolja 10 %, salt.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "8721201913068",
-      "name": "Snabbnudlar Kyckling 65g",
-      "company": "Knorr",
-      "ingredients": "Nudlar 85 % (VETEMJÖL, solrosolja, salt, modifierad stärkelse, socker, bakpulver (natriumkarbonat, kaliumkarbonat, gurkmejaextrakt), stärkelse, socker, smakförstärkare (E621, E631, E627), arom, palmfett, kaliumklorid, purjolök¹ 0,6 %, majs 0,5 %, vitlök¹, morötter¹ 0,3 %, rostad lök¹ 0,3 %, lökjuicekoncentrat¹, persilja¹ 0,2 %, peppar, gurkmeja, cayennepeppar, joderat salt, salt, syra (citronsyra), jästextrakt, sojasåspulver (maltodextrin, salt, sojasås (SOJA, VETE)), solrosolja. Kan innehålla råg, korn, havre, ägg, mjölk, selleri och senap. ¹Hållbart odlade ingredienser, läs mer på: www.knorr.se",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "8721201913075",
-      "name": "Snabbnudlar Kryddig kyckling 64g",
-      "company": "Knorr",
-      "ingredients": "Nudlar 86 % (VETEMJÖL, solrosolja, salt, modifierad stärkelse, socker, bakpulver (natriumkarbonat, kaliumkarbonat), gurkmejaextrakt), stärkelse, smakförstärkare (E621, E631, E627), arom, socker, cayennepeppar 1,1 %, kaliumklorid, paprikapulver, morötter¹, purjolök¹ 0,6 %, ingefära 0,6 %, vitlök¹, lök¹, röd chilipeppar 0,3 %, färgämne (paprikaoleoresin), persilja¹ 0,2 %, peppar. Kan innehålla råg, korn, havre, ägg, soja, mjölk, selleri och senap. ¹Hållbart odlade ingredienser, läs mer på: www.knorr.se",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "8721201913082",
-      "name": "Snabbnudlar Nötkött 63g",
-      "company": "Knorr",
-      "ingredients": "Nudlar 87 % (VETEMJÖL, solrosolja, salt, modifierad stärkelse, socker, bakpulver (natriumkarbonat, kaliumkarbonat), gurkmejaextrakt), arom, socker, smakförstärkare (E621, E631, E627), morötter 1,1 %, stärkelse, kaliumklorid, lök, vitlök, ingefära 0,4 %, bränd sockersirap, cayennepeppar, peppar, maltodextrin, persilja¹ 0,2 %, citrongräs, sojasåspulver (maltodextrin, salt, sojasås (SOJA, VETE)), jästextrakt, salt, syra (citronsyra). Kan innehålla råg, korn, havre, ägg, mjölk, selleri och senap. ¹Hållbart odlade ingredienser, läs mer på: www.knorr.se",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7340191149786",
-      "name": "Bakchoklad Mörk 200g",
-      "company": "Coop",
-      "ingredients": "Socker, kakaomassa* (kakaobönor: Västafrika), kakaosmör*, emulgeringsmedel (E 322, E 476), arom (vanilj). Kan innehålla spår av vete, korn, havre, mjölk, mandel, hassel-, cashew-, pistage- och pekannötter. Minst 46% kakao.*Rainforest Alliance-certifierad, ra.org",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191149755",
-      "name": "Bakchoklad Ljus 200g",
-      "company": "Coop",
-      "ingredients": "Socker, kakaosmör*, SKUMMJÖLKSPULVER, kakaomassa* (kakaobönor: Västafrika), vasslepulver (MJÖLK), vattenfritt MJÖLKFETT, emulgeringsmedel (E 322), naturlig vaniljarom. Kan innehålla spår av vete, korn, havre, mandel, hassel-, cashew-, pistage- och pekannötter.Minst 30 % kakao.*Rainforest Alliance-certifierad, ra.org",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310130013591",
-      "name": "Klippt Spaghetti 350g",
-      "company": "Kungsörnen",
-      "ingredients": "Mjöl av VETE, mjöl av durumVETE.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7340191114845",
-      "name": "Tortellini Ricotta & spenat 500g",
-      "company": "Xtra",
-      "ingredients": "VETEMJÖL , ricottaost 13% (vassle ( MJÖLK ), MJÖLK , GRÄDDE , salt, surhetsreglerande medel (E 330, E 270)), DURUMVETEMJÖL , ÄGG (från frigående höns inomhus), vatten, spenat 5%, potatisflingor (potatis, emulgeringsmedel (E 471 vegetabiliskt)), ströbröd ( VETEMJÖL , vatten, salt, jäst), vegetabiliska oljor (solrosolja, helraffinerad sojaolja, rapsolja), vasslepulver ( MJÖLK ), salt, ost ( MJÖLK , salt, mjölksyrakultur, löpe, mikrobiellt ystenzym), socker, arom (innehåller MJÖLK ), lök. Kan innehålla spår av soja, senap, korn, selleri, fisk, blötdjur, kräftdjur, mandel, hasselnötter, valnötter, pistagenötter och cashewnötter. 60 g pasta och 40 g fyllning per 100 g tortellini. Förpackad i en skyddande atmosfär.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7340191147898",
-      "name": "Kokosflingor Eko 200g",
-      "company": "Änglamark",
-      "ingredients": "Ekologiska kokosflingor (Filippinerna)",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191152083",
-      "name": "Potatiskroketter 600g",
-      "company": "Coop",
-      "ingredients": "Potatis 82 % (EU), solrosolja 7,5 %, rismjöl, potatismjöl 4,4 % (potatis, potatisstärkelse, salt, stabiliseringsmedel (E 461), dextros, vitpeppar, lökpulver, solrosolja). Kan innehålla spår av vete.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191151987",
-      "name": "Pommes frites sötpotatis 450g",
-      "company": "Coop",
-      "ingredients": "Sötpotatis 89 % (EU och icke-EU (USA)), solrosolja, modifierad stärkelse, rismjöl, dextrin, salt, kryddor (svartpeppar, paprika), vitlökspulver, lökpulver, kryddextrakt.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7300156597779",
-      "name": "Chicken nuggets 500g",
-      "company": "COOP",
-      "ingredients": "Kycklingkött° 54%, panering 30% (VETEMJÖL, salt, jäst, klumpförebyggande medel (E 535), majsstärkelse, tapiokastärkelse, maltodextrin, VETEGLUTEN, stabiliseringsmedel (E 450), surhetsreglerande medel (E 500), dextros, emulgeringsmedel (E 415), gurkmejaextrakt), vatten, rapsolja, salt (E 508), socker, jästextrakt, vitpeppar, naturlig arom, SELLERI. °Ursprung: Sverige.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7311312007612",
-      "name": "Naanbröd Original 2-pack 260g",
-      "company": "Santa Maria",
-      "ingredients": "VETEMJÖL (med kalciumkarbonat, niacin, järn, tiamin), vatten, rapsolja, ättika, jäst, kalonjifrön*, konserveringsmedel (kaliumsorbat, kalciumpropionat), surhetsreglerande medel (citronsyra), bakpulver (natriumkarbonater), salt, fänkål, VETESTÄRKELSE. *Kalonji är ett aromatiskt och pepprigt frö från växten Nigella sativa. Kallas även nigellafrö.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7311312000545",
-      "name": "Risnudlar 180g",
-      "company": "Santa Maria",
-      "ingredients": "Ris (95%), tapiokastärkelse.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350115940115",
-      "name": "Chili Mayo 200ml",
-      "company": "El Taco Truck",
-      "ingredients": "Vatten, rapsolja, lök, chili (4,6%), ättiksprit, socker, modifierad stärkelse, salt, farinsocker, vitlöksolja, konserveringsmedel (E202, E211, E270), förtjockningsmedel (E415), antioxidationsmedel (E385), surhetsreglerande medel (E330), färgämne (E160c).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350115940207",
-      "name": "Sås Cheezy 200ml",
-      "company": "El Taco Truck",
-      "ingredients": "Rapsolja, vatten, ättiksprit, socker, salt, chili, svartpeppar, koriander, vitlök, kummin, naturlig arom, konserveringsmedel (E202, E211, E270), förtjockningsmedel (E415, E1442, E1450), antioxidationsmedel (E385), surhetsreglerande medel (E330), färgämne (E160a, E160c).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191170452",
-      "name": "Krossade tomater Örter 390g",
-      "company": "Coop",
-      "ingredients": "Tomater 65 % (Italien), tomatpuré 34 % (tomat: Italien), basilika, oregano, surhetsreglerande medel (E 330).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191170896",
-      "name": "Passerade tomater 500g",
-      "company": "Coop",
-      "ingredients": "Passerade tomater utan skal och kärnor (EU), surhetsreglerande medel (E 330).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "5010338800376",
-      "name": "Sås Indonesian Satay Curry 350g",
-      "company": "Blue Dragon",
-      "ingredients": "Vatten/vand, rostade/ristede JORDNÖTTER/JORDNØDDER/ PEANØTTER (14%), socker/sukker, rostad/ristet JORDNÖTS-/JORDNØDDE-/PEANØTTpasta (7%), lök/løg (7%), tomat, koncentrerad tomatpuré, rapsolja, hackade/hakkede röda chilifrukter/chili (2%), modifierad majsstärkelse/-stivelse, salt, vitlöks-/hvidløgspuré, surhetsreglerande medel/middel (mjölksyra/mælkesyre), hackat/hakket citrongräs, hackad/hakket galangal, spritvinäger/spriteddike, stabiliseringsmedel/-middel (xantangummi). Kan även/også innehålla/indeholde nötter/nødder.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "5010338800352",
-      "name": "Sås Korean BBQ 350g",
-      "company": "Blue Dragon",
-      "ingredients": "Vatten/vand, lök/løg, ljus/lys sojasås/-sauce (5%) (vatten/vand, salt, SOJAbönor/SOJAbønner/SOYAbønner, rostat/ristet VETE/HVEDE, socker/sukker, alkohol), KORNmaltvinäger/-eddike, glukos-fruktossirap, socker/sukker, modifierad majsstärkelse/-stivelse, koncentrerad tomatpuré, vitlöks-/hvidløgspuré, ingefärspuré, SESAMolja (2,2%), melass, smaksättning/smagssætning i mirinstil (glukossirap, vatten/vand, fermenterat ris, socker/sukker, vinäger/eddike, surhetsreglerande medel/middel (citronsyra), melass), malde/stødte/malt kryddor/krydderier (rökt/røget paprika (0,4%), svartpeppar/sort peber, chili), jästextrakt/gærekstrakt, färgämne/farvestof (sockerkulör/karamel). Kan även/også innehålla/indeholde spår/spor av jordnötter/jordnødder/peanøtter och nötter/nødder.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7350115940283",
-      "name": "Mayo Cactus & Lime 200ml",
-      "company": "El Taco Truck",
-      "ingredients": "Rapsolja, vatten, agavesirap (3,3 %), ättiksprit, kaktus (3,0 %), limejuice (2,0 %), salt, modifierad stärkelse, koriander, chili, spiskummin, arom, konserveringsmedel (E202, E211, E270), förtjockningsmedel (E415), antioxidationsmedel (E385), surhetsreglerande medel (E330), färgämne (E141).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191170445",
-      "name": "Krossade tomater Vitlök 390g",
-      "company": "Coop",
-      "ingredients": "Skalade, krossade tomater 67 % (Italien), tomatjuice 30 % (tomat: Italien), vitlök 2,7 %, oregano, surhetsreglerande medel (E 330).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191170438",
-      "name": "Krossade tomater Chili 390g",
-      "company": "Coop",
-      "ingredients": "Skalade och krossade tomater 69 % (Italien), tomatjuice 30 % (tomat: Italien), vitlök, chili, basilika, oregano, surhetsreglerande medel (E 330).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191166219",
-      "name": "Champinjoner 320g",
-      "company": "Coop",
-      "ingredients": "Champinjoner (Polen), vatten, salt, surhetsreglerande medel (E 330), antioxidationsmedel (E 300).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191186552",
-      "name": "Tångcaviar Svart 70g",
-      "company": "Coop",
-      "ingredients": "Havstångextrakt (Phaeophyceae) 83 %, vatten, salt, kryddor, aromer (dill, dragon), surhetsreglerande medel (E 330), stabiliseringsmedel (E 415), konserveringsmedel (E 211, E 202), färgämne (E 153).SKÖRDEOMRÅDE: Längs Frankrikes kust i Engelska kanalen (Nordostatlanten (FAO 27)).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7340191162471",
-      "name": "Kaviar 190g",
-      "company": "Coop",
-      "ingredients": "Sockersaltad och rökt FISKROM* 52 %, rapsolja, socker, vatten, potatisflingor, tomatpuré, salt, konserveringsmedel (E 211), surhetsreglerande medel (E 300). *Fiskart för rommen: Se kod vid Bäst före-datumet. T=Torsk**, S=Sej**, A=Alaska pollock***.**Fångstområde: Nordostatlanten (FAO 27). ***Fångstområde: Stilla havet (FAO 61 eller 67).",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310520003027",
-      "name": "Singoalla Blåbär 190g",
-      "company": "Singoalla",
-      "ingredients": "VETEMJÖL/HVEDEMEL, kräm med vaniljsmak 23 % (socker, fullhärdat kokosfett, emulgeringsmedel (lecitin), surhetsreglerande medel (citronsyra), arom (vanillin)), blåbärsfyllning 14 % (socker, glukossirap, vatten, blåbärsjuicekoncentrat 4,9 %, geleringsmedel (karragenan), aromer), socker, solrosolja, invertsocker, bakpulver/hævemiddel (natriumbikarbonat, hjorthornssalt E503), emulgeringsmedel (lecitin), salt, aromer. Kan innehålla spår av HASSELNÖTTER/HASSELNØDDER och MJÖLK/MÆLK.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7310520009449",
-      "name": "Ballerina Mjölkchoklad 205g",
-      "company": "Ballerina",
-      "ingredients": "VETE-/HVEDE-/HVETEMEL, mjölkchokladfyllning 35% (fullhärdat kokosfett, socker, vassle-/valle-/mysepulver (MJÖLK/MÆLK/MELK), mjölkchoklad 8% (socker, kakaosmör¹, MJÖLK-/MÆLKE-/MELKEPULVER, kakaomassa¹, emulgeringsmedel (SOJALECITIN), arom), fettreducerat kakaopulver¹, emulgeringsmedel (lecitin), salt, aromer), socker, solrosolja/solsikkeolie, fettreducerat kakaopulver¹, bakpulver/hævemidler (natriumbikarbonat E500, hjorthornssalt E503), invertsocker, salt, emulgeringsmedel (lecitin), aromer. Kan innehålla spår/spor av HASSELNÖTTER/HASSELNØDDER. ¹Rainforest Alliance Certified. För mer info se ra.org.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7310521397712",
-      "name": "Ballerina Kladdkaka 210g",
-      "company": "Ballerina",
-      "ingredients": "Kakaofyllning 39% (socker, fullhärdat kokosfett, vasslepulver/vallepulver/mysepulver från MJÖLK/MÆLK/MELK, fettreducerat kakaopulver¹, aromer, emulgeringsmedel/emulgator (lecitin), salt), VETEMJÖL/HVEDEMEL/HVETEMEL, socker, solrosolja/solsikkeolie, fettreducerat kakaopulver¹, VETESTÄRKELSE/HVEDESTIVELSE/HVETESTIVELSE, invertsocker, bakpulver/hævemiddel (natriumbikarbonat E500), emulgeringsmedel/emulgator (lecitin), salt, arom. Kan innehålla spår/spor av HASSELNÖTTER/HASSELNØDDER. ¹Rainforest Alliance Certified. För mer info se ra.org.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7310520003089",
-      "name": "Singoalla Hallon 190g",
-      "company": "Singoalla",
-      "ingredients": "VETEMJÖL/HVEDEMEL, kräm med vaniljsmak 23 % (socker, fullhärdat kokosfett, emulgeringsmedel (lecitin), surhetsreglerande medel (citronsyra), arom (vanillin)), hallonfyllning/hindbærfyld 14 % (socker, vatten, glukossirap, koncentrerad juice av hallon/hindbær 2,1 %, blåbärsjuicekoncentrat, geleringsmedel (karragenan), aromer), socker, solrosolja, invertsocker, bakpulver/hævemiddel (hjorthornssalt E503, natriumbikarbonat), salt, emulgeringsmedel (lecitin), aromer. Kan innehålla spår av HASSELNÖTTER/HASSELNØDDER och MJÖLK/MÆLK.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7310520007650",
-      "name": "Kakor Hallon & lakrits 190g",
-      "company": "Singoalla",
-      "ingredients": "VETEMJÖL, kräm med hallonsmak 23 % (socker, fullhärdat kokosfett, färgämne (rödbetsrött), emulgeringsmedel (lecitin), surhetsreglerande medel (citronsyra), aromer (bl a hallon)), hallon- och lakritsfyllning 14 % (socker, glukossirap, vatten, karamellsockersirap, hallonjuicekoncentrat 2,3 %, lakritsrotextrakt 2,2 %, geleringsmedel (karragenan), salt, syra (citronsyra), aromer), socker, solrosolja, invertsocker, bakpulver (hjorthornssalt E503, natriumbikarbonat), emulgeringsmedel (lecitin), salt, aromer. Kan innehålla spår av HASSELNÖTTER och MJÖLK.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7340191164987",
-      "name": "Chokladmuffins 4-pack 300g",
-      "company": "Coop",
-      "ingredients": "VETEMJÖL , socker (EU), rapsolja, vatten, ÄGG (från frigående höns inomhus), fettreducerat kakaopulver*, kakaomassa*, modifierad stärkelse, bakpulver (E 450, E 500), ÄGGVITEPULVER (från frigående höns inomhus), salt, stärkelse, emulgeringsmedel (E 471 vegetabiliskt, E 322), vasslepulver ( MJÖLK ), dextros, konserveringsmedel (E 202), förtjockningsmedel (E 415), VETEMALT , färgämne (E 160a), aromer, kakaosmör*. Kan innehålla spår av mandel. Förpackad i en skyddande atmosfär. Minst 44% kakaotorrsubstans i den mörka chokladen. *Rainforest Alliance-certifierad, ra.org",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7340191165007",
-      "name": "Blåbärsmuffins 4-pack 300g",
-      "company": "Coop",
-      "ingredients": "VETEMJÖL , socker (EU), rapsolja, vatten, ÄGG (från frigående höns inomhus), blåbär 2 %, stärkelse, bakpulver (E 450, E 500), ÄGGVITEPULVER (från frigående höns inomhus), dextros, salt, emulgeringsmedel (E 471 vegetabiliskt), aromer, konserveringsmedel (E 202), äppeljuice, förtjockningsmedel (E 415), färgämne (E 160a), solrosolja, surhetsreglerande medel (E 330), VETEMALT . Kan innehålla spår av mjölk och mandel. Förpackad i en skyddande atmosfär.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7310520022103",
-      "name": "Matkex Ranch 74g",
-      "company": "Göteborgs Kex",
-      "ingredients": "VETEMJÖL/HVEDEMJÖL, rapsolja, glukos-fruktossirap, KORNMALTEXTRAKT/BYGMALTEKSTRAKT, kryddblandning (socker, salt, vasslepulver/vallepulver från MJÖLK/MÆLK, tomat, lök/løg, krydda (vitlök/hvidløg, paprika, persilja, cayennepeppar), surhetsreglerande medel (mjölksyra, citronsyra), OSTPULVER/OSTEPULVER, jästextrakt/gærekstrakt, arom, paprikaextrakt), bakpulver/hævemiddel (hjorthornssalt E503, natriumbikarbonat ), salt, emulgeringsmedel (SOJALECITIN), NATRIUMDISULFIT, jästextrakt/gærekstrakt, maltodextrin. Kan innehålla spår av JORNÖTTER/JORDNØDDER, HASSELNØTTER/HASSELNØDDER och MANDEL.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7310520022110",
-      "name": "Matkex Saltade 70g",
-      "company": "Göteborgs Kex",
-      "ingredients": "VETEMJÖL/HVEDEMEL, rapsolja, glukos-fruktossirap, KORNMALTEXTRAKT/BYGMALTEKSTRAKT, bakpulver/hævemiddel (hjorthornssalt E503, natriumbikarbonat), arom, salt, emulgeringsmedel (SOJALECITIN), NATRIUMDISULFIT, jästextrakt/gærekstrakt, maltodextrin. Kan innehålla spår av MJÖLK/MÆLK, JORDNÖTTER/JORDNØDDER, HASSELNÖTTER/HASSELNØDDER och MANDEL.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7310520022097",
-      "name": "Matkex Sourcream & onion 74g",
-      "company": "Göteborgs Kex",
-      "ingredients": "VETEMJÖL/HVEDEMEL, rapsolja, glukos-fruktossirap, KORNMALTEXTRAKT/BYGMALTEKSTRAKT, kryddblandning (salt, lök/løg, socker, arom, vasslepulver/vallepulver från MJÖLK/MÆLK, MJÖLKSOCKER/MÆLKESUKKER, jästextrakt/gærekstrakt, KÄRNMJÖLKSPULVER/KÆRNEMÆLKSPULVER, vitlök/hvidløg, persilja, rödlök/rødløg), bakpulver/hævemiddel (hjorthornssalt E503, natriumbikarbonat), salt, emulgeringsmedel (SOJALECITIN), NATRIUMDISULFIT, jästextrakt/gærekstrakt, maltodextrin. Kan innehålla spår av JORDNÖTTER/JORDNØDDER, HASSELNÖTTER/HASSELNØDDER och MANDEL.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7350028549139",
-      "name": "Majskakor Sourcream & Onion 125g",
-      "company": "Friggs",
-      "ingredients": "Majs (78%), rapsolja, kryddblandning (vasslepulver (från MJÖLK), salt, KÄRNMJÖLKSPULVER, OSTPULVER, lökpulver, tomatpulver, dextros, vitlökspulver, arom, syra (äppelsyra), jästextrakt, persilja, surhetsreglerande medel (natriumdiacetat), cayennepeppar, färgämne (paprikaoleoresin)). Kan innehålla spår av soja och sesamfrö.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7350028545094",
-      "name": "Majskakor Ost 125g",
-      "company": "Friggs",
-      "ingredients": "Majs (78%), rapsolja, kryddblandning med smak av ost (9,8%) (vasslepulver (från MJÖLK), OSTPULVER (13%) (OST, vasslepulver (från MJÖLK)), salt, jästextrakt (jästextrakt, salt, solrosolja), arom (MJÖLK), surhetsreglerande medel (mjölksyra, kalciumlaktat), kryddextrakt (gurkmeja), färgämne (paprikaoleoresin)). Kan innehålla spår av soja och sesamfrö.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "5410041472509",
-      "name": "Tuc Sourcream & onion 100g",
-      "company": "LU",
-      "ingredients": "VETEMJÖL/HVEDEMEL, palmolja/-olie, glukossirap, bakpulver/hævemidler (ammoniumkarbonater, natriumkarbonater), salt, socker, dextros, lök-/løgpulver 0,5%, naturlig arom, gräddfilspulver/creme fraichepulver/rømmepulver (MJÖLK/MÆLK/MELK) 0,1%, syror (citronsyra, kalciumlaktat), mjölbehandlingsmedel/melbehandlingsmiddel (NATRIUMDISULFIT). KAN INNEHÅLLA ÄGG/ÆG/EGG, SOJA/SOYA.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "6410500091752",
-      "name": "Knäckebröd Finn Crisp Original 400g",
-      "company": "Finn Crisp",
-      "ingredients": "fullkornsRÅGmjöl, surdeg 25 % (fullkornsRÅGmjöl, vatten), salt, jäst. Innehåller 95 % fullkornsrågmjöl. Kan innehålla spår av sesamfrön.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7310520011770",
-      "name": "Choco Crunch Umamisalt 90g",
-      "company": "OLW",
-      "ingredients": "Socker, MJÖLKPULVER, kakaosmör*, majsmjöl, solrosolja, kakaomassa*, fullhärdad kokosolja, fullhärdad rapsolja, tapiokastärkelse, emulgeringsmedel (SOJALECITIN), bakpulver (natriumbikarbonat), umamikryddblandning (glukossirap, salt, socker, rismjöl, maltodextrin, kokosolja, rapsolja, kryddor (bl.a. lök, vitlök), jästextrakt, arom (från MJÖLK)). *Rainforest Alliance-certifierad. Läs mer på ra.org",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "6416453032613",
-      "name": "Dumle Original 200g",
-      "company": "Fazer",
-      "ingredients": "glukossirap, socker, fullhärdat vegetabiliskt fett (kokos), helMJÖLKSpulver/sødMÆLKSpulver/tørrMELK, kakaosmör, vasslepulver (av MJÖLK)/vallepulver (fra MÆLK)/mysepulver (fra MELK), kakaomassa, skumMJÖLKSpulver/skummetMÆLKSpulver, salt, emulgeringsmedel (SOJAlecitin), aromer (kola/karamell, vanillin). KAN INNEHÅLLA NÖTTER, MANDLAR OCH SPANNMÅL SOM INNEHÅLLER GLUTEN/KAN INDEHOLDE NØDDER, MANDLER OG KORNPRODUKTER/KORNSLAG SOM INDEHOLDER GLUTEN. Mjölkchokladen innehåller minst 30% kakao/kakaotørstof.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "6416453032637",
-      "name": "Dumle Snacks 160g",
-      "company": "Fazer",
-      "ingredients": "socker, glukossirap, MJÖLK/MÆLK/MELK, helMJÖLKSpulver/sødMÆLKSpulver/helMELKpulver, kakaosmör, rismjöl, fullhärdat vegetabiliskt fett (kokos), vasslepulver (av MJÖLK)/vallepulver (fra MÆLK)/mysepulver (fra MELK), kakaomassa, skumMJÖLKSpulver/skummetMÆLKSpulver, maltextrakt (av KORN)/maltekstrakt (fra BYG), salt, emulgeringsmedel (SOJAlecitin), MJÖLK-/MÆLKE-/MELKEprotein, aromer (kola/karamell, vanillin). KAN INNEHÅLLA NÖTTER, MANDLAR OCH ANDRA SPANNMÅL SOM INNEHÅLLER GLUTEN/KAN INDEHOLDE NØDDER, MANDLER OG ANDRE KORNPRODUKTER/KORNSLAG |SOM INDEHOLDER GLUTEN. Mjölkchokladen innehåller minst 30% kakao/kakaotørstof.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "8445290552150",
-      "name": "Kitkat White 41.5g",
-      "company": "Nestlé",
-      "ingredients": "Socker/Sukker, vegetabiliskt fett (palm, shea, sal), VETEMJÖL/HVEDE-/HVETEMEL (tilsat kalcium, jern, vitaminer B1 och B3), SKUMMJÖLKS-/SKUMMETMÆLKS-/SKUMMETMELKPULVER, VASSLE-/VALLE-/MYSEPULVER (MJÖLK/MÆLK/MELK), glukossirap/glukosesirup, kakaomassa¹, emulgeringsmedel/emulgator (lecitiner), naturlig arom, kakaosmör¹, HELMJÖLKS-/SØDMÆLKS-/HELMELKPULVER, jäst/gær/gjær, bakpulver/hævemiddel (natriumkarbonat), SMÖRFETT/SMØRFEDT/SMØRFETT (MJÖLK/MÆLK/MELK), VASSLE-/VALLE-/MYSEPERMEATPULVER (MJÖLK/MÆLK/MELK). Kan innehålla/indeholde JORDNÖTTER/JORDNØDDER/PEANØTTER och/og NÖTTER/NØDDER/NØTTER. ¹Rainforest Alliance Certified. Find out more at ra.org",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "3800020401101",
-      "name": "Kitkat Hasselnöt 41.5g",
-      "company": "NESTLE",
-      "ingredients": "socker/sukker, VETEMJÖL/HVEDEMEL/HVETEMEL, SKUMMJÖLKS-/SKUMMETMÆLKS-/SKUMMETMELKPULVER, vegetabiliskt fett (palm, shea), kakaosmör/-smør, kakaomassa, glukossirap/glukosesirup, VASSLE-/VALLE-/MYSEPERMEATPULVER (MJÖLK/MÆLK/MELK), SMÖRFETT/SMØRFEDT (MJÖLK/MÆLK /MELK), fettreducerat/fedtfattigt kakaopulver, naturliga aromer, emulgeringsmedel/emulgator (lecitiner), bakpulver/hævemiddel (natriumkabonat). Kan innehålla/indeholde JORDNÖTTER/JORDNØDDER/PEANØTTER, NÖTTER/NØDDER/NØTTER.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7622201513184",
-      "name": "Apelsinkrokant Bar 43g",
-      "company": "Marabou",
-      "ingredients": "Socker, kakaosmör, kakaomassa, majs, vassle-/vallepulver (MJÖLK/MÆLK), SKUMMJÖLKSPULVER/SKUMMETMÆLKSPULVER, SMÖRFETT/SMØROLIE, vassle-/valleprodukt (MJÖLK/MÆLK), palmolja, emulgeringsmedel/emulgatorer (SOJALECITINER/SOJALECITHINER, E471), MANDEL/MANDLER, salt, sockrad/sødet kondenserad SKUMMJÖLK/SKUMMETMÆLK, aromer. KAN INNEHÅLLA ANDRA NÖTTER/NØDDER OCH VETE/HVEDE.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7622201801434",
-      "name": "Mjölkchoklad Bar Schweizernöt 43g",
-      "company": "Marabou",
-      "ingredients": "Socker, kakaosmör, HASSELNÖTTER/HASSELNØDDER (12 %), kakaomassa, vassle-/vallepulver (MJÖLK/MÆLK), SKUMMJÖLKSPULVER/SKUMMETMÆLKSPULVER, SMÖRFETT/SMØROLIE, vassle-/valleprodukt (MJÖLK/MÆLK), emulgeringsmedel/emulgator (SOJALECITINER/SOJALECITHINER), arom. KAN INNEHÅLLA ANDRA NÖTTER/NØDDER OCH VETE/HVEDE. Minst 30 % kakao/kakaotørstof.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7622202277795",
-      "name": "Mjölkchoklad 90g",
-      "company": "Marabou",
-      "ingredients": "Socker, kakaosmör, kakaomassa, vasslepulver (MJÖLK), SKUMMJÖLKSPULVER, SMÖRFETT, vassleprodukt (MJÖLK), emulgeringsmedel (SOJALECITINER), arom. Minst 30 % kakao. KAN INNEHÅLLA NÖTTER OCH VETE.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7622202275845",
-      "name": "Mjölkchoklad Schweizernöt 90g",
-      "company": "Marabou",
-      "ingredients": "Socker, kakaosmör, HASSELNÖTTER, kakaomassa, vasslepulver (MJÖLK), SKUMMJÖLKSPULVER, SMÖRFETT, vassleprodukt (MJÖLK), emulgeringsmedel (SOJALECITINER), arom. Minst 30 % kakao. KAN INNEHÅLLA ANDRA NÖTTER OCH VETE.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "5701090043919",
-      "name": "Persikor 80g",
-      "company": "HARIBO",
-      "ingredients": "Socker; glukossirap; vatten; gelatin; persikojuice från koncentrat (3 %); syra: citronsyra; frukt- och plantkoncentrat: morot, hibiskus; arom.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "5701090078911",
-      "name": "Peaches Raspberry 80g",
-      "company": "HARIBO",
-      "ingredients": "Socker; glukossirap; vatten; gelatin; fruktjuice från koncentrat (3 %): persiko, hallon; syra: citronsyra; frukt- och plantkoncentrat: safflor, äpple, citron, rättika, sötpotatis, morot, svarta vinbär, aronia, fläderbär, vindruva, hibiskus; arom; extrakt av fläderbär.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "5701090081355",
-      "name": "Peaches Sour 70g",
-      "company": "HARIBO",
-      "ingredients": "lngredienser: Socker; glukossirap; vatten; gelatin; persikojuice från koncentrat (3 %); syror: citronsyra, äppelsyra; surhetsreglerande medel: calciumcitrat, natriumvätemalat; frukt- och plantkoncentrat: spirulina, safflor, äpple, citron; arom; ytbehandlingsmedel: karnaubavax.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "5701090088033",
-      "name": "Nappar Blå Hallon & citron 80g",
-      "company": "HARIBO",
-      "ingredients": "Glukossirap; socker; gelatin; druvsocker; syra: citronsyra; frukt- och plantkoncentrat: spirulina, safflor, äpple, citron; arom; solrosolja; ytbehandlingsmedel: bivax vitt och gult.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "5701090076108",
-      "name": "Nappar Cola Sur 70g",
-      "company": "HARIBO",
-      "ingredients": "Glukossirap; socker; gelatin; druvsocker; syror: citronsyra, äppelsyra; surhetsreglerande medel: calciumcitrat, natriumvätemalat; arom; ytbehandlingsmedel: karnaubavax.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7622202813245",
-      "name": "Japp Peanut 60g",
-      "company": "Marabou",
-      "ingredients": "Socker, glukossirap, JORDNÖTTER/JORDNØDDER/PEANØTTER (19 %), sockrad/sødet kondenserad SKUMMJÖLK/SKUMMETMÆLK/SKUMMETMELK, shea-olja, kakaosmör, kakaomassa, SKUMMJÖLKSPULVER/SKUMMETMÆLKSPULVER/SKUMMETMELKPULVER, vassle-/valle-/mysepulver (MJÖLK/MÆLK/MELK), SMÖRFETT/SMØROLIE/MELKEFETT, stabiliseringsmedel (E420), salt, invertsocker/invertsukkersirup, fettreducerad/fedtfattig kakao (0,4 %), maltextrakt (från KORN/BYG/BYGG), emulgeringsmedel (SOJALECITINER/SOJALECITHINER/SOYALECITINER, E476), ÄGGVITA/ÆGGEHVIDER/EGGEHVITER, aromer. KAN INNEHÅLLA NÖTTER/NØDDER/NØTTER OCH VETE/HVEDE/HVETE.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7622202814198",
-      "name": "Mjölkchoklad Biscoff 90g",
-      "company": "Marabou",
-      "ingredients": "Socker, kakaosmör, kakaomassa, VETEMJÖL, vasslepulver (MJÖLK), SKUMMJÖLKSPULVER, SMÖRFETT, vassleprodukt (MJÖLK), rapsolja, palmolja, emulgeringsmedel (SOJALECITINER), kandisockersirap, bakpulver (natriumkarbonater), kanel, salt, arom. Mjölkchoklad: minst 30 % kakao. KAN INNEHÅLLA NÖTTER.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7300156601155",
-      "name": "Kolsyrat vatten Citron 1500ml",
-      "company": "Coop",
-      "ingredients": "Vatten från Hellebrunn i Bergslagen, kolsyra, naturlig citronarom och andra naturliga aromer.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7300156601230",
-      "name": "Kolsyrat Vatten Naturell 1500ml",
-      "company": "Coop",
-      "ingredients": "Naturligt mineralvatten från Hellebrunn i Bergslagen, kolsyra.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310070010155",
-      "name": "Kolsyrat vatten Naturell 1500ml",
-      "company": "Ramlösa",
-      "ingredients": "Kolsyrat naturligt mineralvatten.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310070010209",
-      "name": "Kolsyrat vatten Svarta vinbär 1500ml",
-      "company": "Ramlösa",
-      "ingredients": "Naturligt mineralvatten, kolsyra, naturlig arom.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310070010001",
-      "name": "Kolsyrat vatten Granatäpple 1500ml",
-      "company": "Ramlösa",
-      "ingredients": "Naturligt mineralvatten, kolsyra, granatäpplearom.",
-      "gluten": "Glutenfri [ Ja ]"
-    },
-    {
-      "id": "7310070009944",
-      "name": "Kolsyrat Vatten Citrus 1500ml",
-      "company": "Ramlösa",
-      "ingredients": "Naturligt mineralvatten, kolsyra, naturlig citron- och limearom med andra naturliga aromer.",
+      "ingredients": "Läs Ingredienser",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -6783,7 +5782,7 @@
       "id": "7311071336244",
       "name": "Rosta 450g",
       "company": "Pågen",
-      "ingredients": "VETEmjöl, vatten, VETEgluten, skållat VETEmjöl, rapsolja (1%), sirap, malt av KORN, jäst, salt, mjölbehandlingsmedel (askorbinsyra). Kan innehålla spår av vallmofrö.",
+      "ingredients": "VETEmjöl, vatten, VETEgluten, skållat VETEmjöl, rapsolja (1%), sirap, malt av KORN, jäst, salt, mjölbehandlingsmedel (askorbinsyra). Brödet innehåller 72% vete. Kan innehålla spår av vallmofrö. SVENSKT MJÖL Mer än 90% mjöl från svenskodlat spannmål malt i egen kvarn.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -6879,9 +5878,9 @@
     },
     {
       "id": "7300400483193",
-      "name": "Knäckebröd 100 Frön & havssalt 490g",
+      "name": "Knäckebröd 100 Frön &amp; havssalt 490g",
       "company": "Wasa",
-      "ingredients": "fullkornsRÅGmjöl 95 g*, linfrön 5,9 g*, vallmofrön 4,2 g*, jäst, havssalt 0,5 g*, salt. *i g för 100 g produkt.",
+      "ingredients": "FULLKORNSRÅGMJÖL (95% g*), linfrön (5,9 g*), vallmofrön (4,2 g*), jäst, havssalt (0,5 g*), salt. *i g för 100 g produkt.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -7966,7 +6965,7 @@
       "id": "7350028546640",
       "name": "Majskakor Ranch 125g",
       "company": "Friggs",
-      "ingredients": "Majs (80%), rapsolja, kryddblandning med ranchsmak (7,9%) (vasslepulver (MJÖLK), salt, socker, dextros, lökpulver (10%), tomatpulver (5,6%), ostpulver (MJÖLK) (5%), paprikapulver (4%), surhetsreglerande medel (mjölksyra, äppelsyra, citronsyra), jästextrakt, vitlökspulver (2%), persilja (1,2%), kryddextrakt (paprika), arom (MJÖLK)). Kan innehålla spår av soja och sesamfrön.",
+      "ingredients": "Majs (80%), rapsolja, kryddblandning (VASSLEPULVER (MJÖLK), salt, socker, dextros, lök, tomat, ostpulver (MJÖLK), paprika, jästextrakt, surhetsreglerande medel (mjölksyra, äpplesyra, citronsyra), vitlök, persilja, kryddextrakt (paprika), arom). Kan innehålla spår av soja och sesamfrön.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -16798,9 +15797,9 @@
     },
     {
       "id": "7300156486738",
-      "name": "Filmjölk 3% 1000ml",
+      "name": "Coop Filmjölk",
       "company": "Coop",
-      "ingredients": "Högpastöriserad MJÖLK (Sverige), filmjölkskultur och vitamin D.",
+      "ingredients": "MJÖLK 3,0 % (högpastöriserad), filmjölkskultur. Ursprungsland mjölk: Sverige.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -16868,16 +15867,16 @@
     },
     {
       "id": "7300156492333",
-      "name": "Lättfil 0,5% 1000g",
+      "name": "Coop Lättfil",
       "company": "Coop",
-      "ingredients": "Högpastöriserad MJÖLK (Sverige), filmjölkskultur och vitamin D.",
+      "ingredients": " MJÖLK 0,5% fetthalt (högpastöriserad), filmjölkskultur, vitamin A och D. Ursprungsland mjölk: Sverige.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7300156491176",
-      "name": "Mellanfil 1,5% 1000g",
+      "name": "Coop Mellanfil",
       "company": "Coop",
-      "ingredients": "Högpastöriserad MJÖLK (Sverige), filmjölkskultur och vitamin D.",
+      "ingredients": " MJÖLK 1,5% (högpastöriserad), filmjölkskultur, vitamin A och D. Ursprungsland mjölk: Sverige.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -19584,9 +18583,9 @@
     },
     {
       "id": "6411401019029",
-      "name": "Geisha Original 37g",
+      "name": "Fazer Geisha Original",
       "company": "Fazer",
-      "ingredients": ": socker, MJÖLK/MÆLK/MELK, kakaosmör, HASSELNÖTTER/HASSELNØDDER (11%), kakaomassa, helMJÖLKSpulver/sødMÆLKSpulver/tørrMELK, kärnMJÖLKSpulver/kærneMÆLKSpulver, VETEmjöl/HVEDEmel, majsstärkelse/-stivelse, emulgeringsmedel (SOJAlecitin), solrosolja/solsikkeolje, salt, aromer. KAN INNEHÅLLA ANDRA NÖTTER, MANDLAR OCH ANDRA SPANNMÅL SOM INNEHÅLLER GLUTEN/KAN INDEHOLDE ANDRE NØDDER, MANDLER OG ANDRE KORNPRODUKTER/KORNSLAG SOM INDEHOLDER GLUTEN. Mjölkchokladen innehåller minst 30% kakao/kakaotørstof.",
+      "ingredients": "socker, MJÖLK/MÆLK/MELK, kakaosmör, HASSELNÖTTER/HASSELNØDDER (11%), kakaomassa, HELMJÖLKSPULVER/SØDMÆLKSPULVER/TØRRMELK, KÄRNMJÖLKSPULVER/KÆRNEMÆLKSPULVER, vegetabiliskt fett (palm, shea), VETEMJÖL/HVEDEMEL, majsstärkelse, emulgeringsmedel (lecitin, bl.a. SOJA), salt, aromer. KAN INNEHÅLLA ANDRA NÖTTER OCH MANDEL/KAN INDEHOLDE ANDRE NØDDER OG MANDLER. Mjölkchokladen innehåller minst 30% kakao/kakaotørstof.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -19598,10 +18597,10 @@
     },
     {
       "id": "6411401019012",
-      "name": "Mjölkchoklad 39g",
+      "name": "Fazer Mjölkchoklad",
       "company": "Fazer",
       "ingredients": "MJÖLK/MÆLK/MELK, socker, kakaosmör, kakaomassa, emulgeringsmedel (SOJAlecitin), salt, naturlig arom (vanilj). KAN INNEHÅLLA NÖTTER, MANDLAR OCH SPANNMÅL SOM INNEHÅLLER GLUTEN/KAN INDEHOLDE NØDDER, MANDLER OG KORNPRODUKTER/KORNSLAG SOM INDEHOLDER GLUTEN. Mjölkchokladen innehåller minst 30% kakao/kakaotørstof.",
-      "gluten": "Glutenfri [ Ja ]"
+      "gluten": "Glutenfri [ Nej ]"
     },
     {
       "id": "40111216",
@@ -19647,16 +18646,16 @@
     },
     {
       "id": "7613038594132",
-      "name": "Lion White 42g",
-      "company": "NESTLÉ",
-      "ingredients": "socker/sukker, vegetabiliskt fett (palm, shea, palmkärna/palmekjerne), glukos-fruktossirap/glukose-fruktosesirup, VETEkrisp/HVEDE-/HVETE-cerealier (VETEMJÖL/HVEDEMEL/HVETEMEL, socker/sukker, VETESTÄRKELSE/HVEDESTIVELSE/HVETESTIVELSE, karamelliserad sirap/sirup, salt, emulgeringsmedel/emulgator (lecitiner), bakpulver/hævemiddel (natriumbikarbonat)), skumMJÖLKs-/skummetMÆLKs-/skummetMELKpulver, VETEMJÖL/HVEDEMEL/HVETEMEL, VASSLE-/VALLE-/MYSEPULVER (MJÖLK/MÆLK/MELK), HELMJÖLKs-/SØDMÆLKs-/HELMELKpulver, maltodextrin, emulgeringsmedel/emulgator (lecitiner), salt, naturlig arom/aroma, bakpulver/hævemiddel (natriumbikarbonat). Kan innehålla/indeholde JORDNÖTTER/JORDNØDDER/PEANØTTER och/og NÖTTER/NØDDER/NØTTER.",
+      "name": "Nestlé Lion White",
+      "company": "Nestlé",
+      "ingredients": "Glukos-fruktossirap, vegetabilisk olja (palm, shea, palmkärn), socker/sukker, VETEMJÖL/HVEDEMEL, sötad kondenserad MJÖLK/MÆLK/MELK (MJÖLK/MÆLK/MELK, socker/sukker), SKUMMJÖLKS-/SKUMMETMÆLKSPULVER, VASSLE-/VALLE-/MYSEPULVER (MJÖLK/MÆLK/MELK), maltodekstrin, emulgator (lecitin), VETESTÄRKELSE/HVEDESTIVELSE, salt, jäsningsmedel/hævemiddel/bakpulver (natriumcarbonat), naturlig arom, karamelliserad socker/sukker, förtjockningsmedel/fortykningsmiddel (karragenan). Kan innehålla JORDNÖTTER/ JORDNØDDER/PEANØTTER, SOJA, och NÖTTER/NØDDER/NØTTER.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
       "id": "7613038315706",
-      "name": "Lion Choco 42g",
-      "company": "NESTLÉ",
-      "ingredients": "mjölkchoklad/mælkechokolade (39,5%) [socker/sukker, kakaosmör¹, kakaomassa¹, SKUMMJÖLKS-/SKUMMETMÆLKS-/SKUMMETMELKPULVER, VASSLE-/VALLE-/MYSEPULVER (MJÖLK/MÆLK/MELK), SMÖRFETT/SMØRFEDT (MJÖLK/MÆLK/MELK), vegetabiliska oljor/olier (palm, shea), emulgeringsmedel/emulgator (lecitiner)], glukos-fruktossirap/glukose-fruktosesirup, VETEMJÖL/HVEDEMEL/HVETEMEL, sötad/sødet kondenserad MJÖLK/MÆLK/MELK (MJÖLK/MÆLK/MELK, socker/sukker), palmolja/palmeolie, socker/sukker, VASSLE-/VALLE-/MYSEPULVER (MJÖLK/MÆLK/MELK), maltodextrin, SKUMMJÖLKS-/SKUMMETMÆLKS-/SKUMMETMELKPULVER, stärkelse/stivelse (VETE/HVEDE/HVETE), salt, emulgeringsmedel/emulgator (lecitiner), bakpulver/hævemiddel (natriumkarbonat), karamelliserat socker/sukker, förtjockningsmedel/fortykningsmiddel (karragenan). KAN INNEHÅLLA/INDEHOLDE: JORDNÖTTER/JORDNØDDER/PEANØTTER, SOJA/SOYA och NÖTTER/NØDDER/NØTTER. ¹Rainforest Alliance Certified. Find out more at ra.org",
+      "name": "Nestlé Lion",
+      "company": "Nestlé",
+      "ingredients": "MJÖLKCHOKOLAD/MÆLKECHOKOLADE (39,5%) (socker/sukker, kakaosmör, HELMJÖLKS-/ SØDMÆLKSPULVER, kakaomassa, vegetabiliska oljar (palm, shea), VASSLE-/VALLE-/MYSEPULVER (MJÖLK/MÆLK/MELK), emulgeringsmedel/emulgator (lecitin)), glukos-fruktossirap, VETEMJÖL/HVEDEMEL, sötad/sødet kondensert MJÖLK/MÆLK/MELK (MJÖLK/MÆLK/MELK, socker/sukker), vegetabilisk olja (palm), socker/sukker, VASSLE-/VALLE-/MYSEPULVER (MJÖLK/MÆLK/MELK), maltodextrin, SKUMMJÖLKS-/SKUMMETMÆLKSPULVER, VETESTÄRKELSE/HVEDESTIVELSE, salt, emulgeringsmedel/emulgator (lecitin), bakpulver/hævemiddel (natriumhydrogencarbonat), karamelliserad socker/sukker, förtjockningsmedel/fortykningsmiddel (carrageenan). KAN INNEHÅLLA JORDNÖTTER/JORDNØDDER/PEANØTTER, NÖTTER/NØDDER/NØTTER OCH SOJA.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -19766,10 +18765,10 @@
     },
     {
       "id": "7622201047764",
-      "name": "Fransk Nougat Dubbel 46g",
+      "name": "Marabou Fransk Nougat Dubbel",
       "company": "Marabou",
-      "ingredients": "Socker, glukossirap, kakaomassa, HASSELNÖTSBITAR/HASSELNØDDESTYKKER (6,5 %), honung/honning, invertsockersirap, kakaosmör, SMÖRFETT/SMØROLIE, ÄGGVITA/ÆGGEHVIDER, SKUMMJÖLKSPULVER/SKUMMETMÆLKSPULVER, emulgeringsmedel/emulgatorer (SOJALECITINER/SOJALECITHINER, E476), aromer. KAN INNEHÅLLA JORDNÖTTER/JORDNØDDER, ANDRA NÖTTER/ANDRE NØDDER OCH VETE/HVEDE.",
-      "gluten": "Glutenfri [ Ja ]"
+      "ingredients": "Socker, glukossirap, kakaomassa, HASSELNÖTTER/-NØDDER, honung/honning, invertsocker, kakaosmør, SMÖRFETT/SMØROLIE, ÄGGVITA/ÆGGEHVIDE, emulgeringsmedel/emulgatorer (SOJALECITIN, E476), aromer, SKUMMJÖLKSPULVER. KAN INNEHÅLLA JORDNÖTTER/JORDNØDDER, ANDRA NÖTTER/ANDRE NØDDER OCH VETE/HVEDE.",
+      "gluten": "Glutenfri [ Nej ]"
     },
     {
       "id": "7622300245146",
@@ -19808,9 +18807,9 @@
     },
     {
       "id": "7310511251604",
-      "name": "Pigall Dubbel 40g",
+      "name": "Marabou Pigall Dubbel",
       "company": "Marabou",
-      "ingredients": "Socker, vegetabiliska oljor (palmkärn/palmekerne, kokos), kakaosmör, riskrisp (rismjöl/rismel, socker, E471, salt), kakaomassa, SKUMMJÖLKS-/SKUMMETMÆLKSPULVER, vassle-/vallepulver (MJÖLK/MÆLK), SMÖRFETT/SMØROLIE, HASSELNÖTTER/HASSELNØDDER (0,7 %), fettreducerat kakaopulver, emulgeringsmedel/emulgatorer (SOJALECITINER/SOJALECITHINER, E476), salt, aromer. KAN INNEHÅLLA JORDNÖTTER, ANDRA NÖTTER, ÄGG OCH VETE./ KAN INDEHOLDE JORDNØDDER, ANDRE NØDDER, ÆG OG HVEDE.",
+      "ingredients": "Socker, palmolja/palmeolie, kokosolja, MJÖLK-/MÆLKEPULVER, kakaosmör, riscrisp 7% (rismjöl/rismel, socker, glukossirap, salt, maltextrakt från KORN/fra BYG), kakaomassa, HASSELNÖTTER, fettreducerad/fedtfattig kakao, emulgeringsmedel/emulgatorer (SOJALECITIN, solroslecitin/solsikkelecithin, E476), salt, aromer. KAN INNEHÅLLA JORDNÖTTER, ANDRA NÖTTER, ÄGG OCH VETE/JORDNØDDER, ANDRE NØDDER, ÆG OG HVEDE",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -25793,9 +24792,9 @@
     },
     {
       "id": "4000177158227",
-      "name": "Capri-Sun Juicedrink Apelsin 10-Pack",
+      "name": "Juicedryck Apelsin 10-pack 2000ml",
       "company": "Capri-Sun",
-      "ingredients": "",
+      "ingredients": "Läs Ingredienser",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -26122,9 +25121,9 @@
     },
     {
       "id": "4000177158326",
-      "name": "Fruktdryck Multivitamin 10-pack 2000ml",
+      "name": "Capri-Sun Fruktdryck Multivitamin 10-Pack",
       "company": "Capri-Sun",
-      "ingredients": "Läs Ingredienser",
+      "ingredients": "",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -33892,9 +32891,9 @@
     },
     {
       "id": "7622400705960",
-      "name": "Noblesse Original 150g",
+      "name": "Marabou Noblesse Original",
       "company": "Marabou",
-      "ingredients": "Socker, kakaosmör, kakaomassa, SKUMMJÖLKSPULVER, SMÖRFETT, vasslepulver (MJÖLK), rostade majsflingor (majs, salt, socker), vassleprodukt (MJÖLK), emulgeringsmedel (SOJALECITINER), aromer. KAN INNEHÅLLA NÖTTER. Minst 38 % kakao.",
+      "ingredients": "",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -33906,9 +32905,9 @@
     },
     {
       "id": "7622400706035",
-      "name": "Noblesse Apelsin 150g",
+      "name": "Marabou Noblesse Apelsin",
       "company": "Marabou",
-      "ingredients": "Socker, kakaosmör, kakaomassa, SKUMMJÖLKSPULVER, SMÖRFETT, vasslepulver (MJÖLK), rostade majsflingor (majs, salt, socker), vassleprodukt (MJÖLK), emulgeringsmedel (SOJALECITINER), apelsinolja, aromer. KAN INNEHÅLLA NÖTTER. Minst 38 % kakao.",
+      "ingredients": "",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -34025,10 +33024,10 @@
     },
     {
       "id": "7622300345778",
-      "name": "Mjölkchoklad Dukat 100g",
+      "name": "Marabou Dukat",
       "company": "Marabou",
-      "ingredients": "Socker, vegetabiliska fetter (palmkärn, kokos), kakaosmör, kakaomassa, vassle-/valle-/mysepulver (MJÖLK/MÆLK/MELK), SKUMMJÖLKSPULVER/SKUMMETMÆLKSPULVER/SKUMMETMELKPULVER, SMÖRFETT/SMØROLIE/MELKEFETT, vassle-/valle-/myseprodukt (MJÖLK/MÆLK/MELK), HASSELNÖTTER/HASSELNØDDER/HASSELNØTTER (2,5 %), emulgeringsmedel/emulgator (SOJALECITINER/SOJALECITHINER/SOYALECITINER), aromer.KAN INNEHÅLLA ANDRA NÖTTER/NØDDER/NØTTER OCH VETE/HVEDE/HVETE.",
-      "gluten": "Glutenfri [ Ja ]"
+      "ingredients": "",
+      "gluten": "Glutenfri [ Nej ]"
     },
     {
       "id": "6416453015562",
@@ -34046,10 +33045,10 @@
     },
     {
       "id": "7622300346676",
-      "name": "Mjölkchoklad Gräddnougat 100g",
+      "name": "Marabou Gräddnougat",
       "company": "Marabou",
-      "ingredients": "Socker, kakaosmör, HASSELNÖTTER/HASSELNØDDER/HASSELNØTTER (10 %), vegetabiliska oljor (palmolja, shea-olja), kakaomassa, SKUMMJÖLKSPULVER/SKUMMETMÆLKSPULVER/SKUMMETMELKPULVER, SMÖRFETT/SMØROLIE/MELKEFETT, vassle-/valle-/myseprodukt (MJÖLK/MÆLK/MELK), GRÄDDPULVER/FLØDEPULVER/FLØTEPULVER (0,7 %), emulgeringsmedel (SOJALECITINER/SOJALECITHINER/SOYALECITINER), arom.KAN INNEHÅLLA ANDRA NÖTTER/NØDDER/NØTTER OCH VETE/HVEDE/HVETE.",
-      "gluten": "Glutenfri [ Ja ]"
+      "ingredients": "",
+      "gluten": "Glutenfri [ Nej ]"
     },
     {
       "id": "6416453015449",
@@ -34102,9 +33101,9 @@
     },
     {
       "id": "7622201437381",
-      "name": "Mjölkchoklad Oreo 92g",
+      "name": "Marabou Oreo Sandwich",
       "company": "Marabou",
-      "ingredients": "Socker, VETEMJÖL, kakaosmör, SKUMMJÖLKSPULVER, vegetabiliska fetter (palm- och palmkärnolja), kakaomassa, vasslepulver (MJÖLK), SMÖRFETT, fettreducerat kakaopulver (1,5%), glukos-fruktossirap, VETESTÄRKELSE, emulgeringsmedel (SOJALECITINER), bakpulver (E503, E501, E500), salt, surhetsreglerande medel (E524), aromer. KAN INNEHÅLLA NÖTTER. Minst 30% kakao.",
+      "ingredients": "",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -34151,10 +33150,10 @@
     },
     {
       "id": "7622300788834",
-      "name": "Mjölkchoklad Bubblig 60g",
+      "name": "Marabou Bubblig Mjölkchoklad",
       "company": "Marabou",
-      "ingredients": "Socker, kakaosmör, kakaomassa, vasslepulver (MJÖLK), SKUMMJÖLKSPULVER, SMÖRFETT, vassleprodukt (MJÖLK), emulgeringsmedel (SOJALECITINER), arom. KAN INNEHÅLLA NÖTTER OCH VETE. Minst 30 % kakao.",
-      "gluten": "Glutenfri [ Ja ]"
+      "ingredients": "",
+      "gluten": "Glutenfri [ Nej ]"
     },
     {
       "id": "4014400923735",
@@ -34186,10 +33185,10 @@
     },
     {
       "id": "7622210059956",
-      "name": "Mjölkchoklad Drömkrisp 100g",
+      "name": "Marabou Drömkrisp",
       "company": "Marabou",
-      "ingredients": "Socker, kakaosmör, HASSELNÖTTER (8 %), vegetabiliska fetter (palm, shea), kakaomassa, vasslepulver (MJÖLK), SKUMMJÖLKSPULVER, SMÖRFETT, vassleprodukt (MJÖLK), majsflingor (1,5 %) [majs, salt, socker, emulgeringsmedel (E471)], GRÄDDPULVER, emulgeringsmedel (SOJALECITINER), salt, arom. KAN INNEHÅLLA ANDRA NÖTTER OCH VETE.",
-      "gluten": "Glutenfri [ Ja ]"
+      "ingredients": "",
+      "gluten": "Glutenfri [ Nej ]"
     },
     {
       "id": "6416453015609",
@@ -35005,9 +34004,9 @@
     },
     {
       "id": "4001686313916",
-      "name": "Nappar Sur 80g",
-      "company": "HARIBO",
-      "ingredients": "Glukossirap; socker; gelatin; druvsocker; syror: citronsyra, äppelsyra; surhetsreglerande medel: calciumcitrat, natriumvätemalat; frukt- och plantkoncentrat: spirulina, safflor, äpple, citron, rättika, sötpotatis, morot, svarta vinbär, hibiskus; invertsockersirap; arom; ytbehandlingsmedel: karnaubavax.",
+      "name": "Haribo Nappar Sour",
+      "company": "Haribo",
+      "ingredients": "",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -35558,9 +34557,9 @@
     },
     {
       "id": "73143628",
-      "name": "ProPud Vanilla 1,5% 200g",
-      "company": "PROPUD",
-      "ingredients": "MJÖLK/MELK/MÆLK, MJÖLK/MELKE/MÆLKEPROTEIN, förtjockningsmedel/fortykningsmiddel (karragenan, cellulosagummi), arom, stabiliseringsmedel/stabilisator (natriumfosfater), sötningsmedel/søtstoffer/sødestoffer (acesulfam K, steviolglykosider från stevia), laktasenzym.",
+      "name": "Njie Propud Vanilla",
+      "company": "Njie",
+      "ingredients": "",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
