@@ -137,6 +137,181 @@
   "date": "2026-10-01",
   "list": [
     {
+      "id": "2320074500007",
+      "name": "Fläskfilé 550g",
+      "company": "Scan",
+      "ingredients": "Filé av svenskt fläskkött.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2320051600003",
+      "name": "Fläskkarre 1.2kg",
+      "company": "Scan",
+      "ingredients": "Karré av svenskt fläskkött.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2320272100009",
+      "name": "Nötstek Fransyska - Sverige 1.22kg",
+      "company": "Scan",
+      "ingredients": "Fransyska av svenskt nötkött.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2320272700001",
+      "name": "Högrev 1.16kg",
+      "company": "Scan",
+      "ingredients": "Högrev av svenskt nötkött.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7316840310579",
+      "name": "Västgötaägg 10-pack Frigående inomhus 10",
+      "company": "Lantägg",
+      "ingredients": "ÄGG",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7316840466085",
+      "name": "Brunchägg Frigående L/XL 6-pack 6",
+      "company": "Lantägg",
+      "ingredients": "ÄGG från frigående höns inomhus",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313940531002",
+      "name": "Kycklingklubbor mörade 1000g",
+      "company": "Guldfågeln",
+      "ingredients": "Kycklingklubba (87%), vatten, salt, socker.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156503633",
+      "name": "Ostronskivling Eko 155g",
+      "company": "Änglamark. Sverige",
+      "ingredients": "eller ämnen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156503640",
+      "name": "Shiitake Eko 155g",
+      "company": "Änglamark. Sverige",
+      "ingredients": "eller ämnen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156503626",
+      "name": "Kastanjechampinjoner Eko 200g",
+      "company": "Änglamark. Sverige",
+      "ingredients": "eller ämnen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313300000940",
+      "name": "Koriander Eko Kruka 1",
+      "company": "Svegro",
+      "ingredients": "eller ämnen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300200264008",
+      "name": "Prickig Korv 100g",
+      "company": "Scan",
+      "ingredients": "Svenskt gris- och nötkött (79%), fett från gris, salt, kryddextrakt, cayennepeppar, potatisflingor, gelatin, antioxidations- medel E300, konserveringsmedel E250.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330797077194",
+      "name": "Pepparsalami 120g",
+      "company": "Pärsons",
+      "ingredients": "Svenskt griskött*, fett från gris*, salt, svartpeppar 2 %, socker, druvsocker, vitpeppar, antioxidationsmedel (E300), konserveringsmedel (E250). *Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330797077149",
+      "name": "Rökt Emilskinka 120g",
+      "company": "Pärsons",
+      "ingredients": "Svensk skinka helmuskel 89%, vatten, koksalt, antioxidationsmedel (E326, E301), stabiliseringsmedel (E451), potatisstärkelse, druvsocker, potatisfiber, socker, konserveringsmedel (E250). Varmrökt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310941801554",
+      "name": "Leverpastej Mild & Krämig 200g",
+      "company": "Pastejköket",
+      "ingredients": "Fett från gris*, grislever* (19%), YOGHURT*, MJÖLK*, vatten, rapsolja, potatismjöl, socker, salt, lök, ingefära, peppar, konserveringsmedel (E250). *Svensk råvara.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310890100333",
+      "name": "Ostkaka Färsk 300g",
+      "company": "FRÖDINGE",
+      "ingredients": "MJÖLK*, GRÄDDE*, ÄGG*, VETEMJÖL*, socker*, MJÖLKSOCKER, SKUMMJÖLKSPULVER*, SÖTMANDEL, VETESTÄRKELSE, BITTERMANDEL, stabiliseringsmedel (kalciumklorid), vegetabiliskt ystenzym, konserveringsmedel (sorbinsyra), VETEMALT, mjölbehandlingsmedel (askorbinsyra). KAN INNEHÅLLA SPÅR AV NÖTTER. *Svenskt ursprunga",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310890600468",
+      "name": "Schwarzwaldtårta 400g",
+      "company": "FRÖDINGE",
+      "ingredients": "GRÄDDE* 47 %, socker*, ÄGGVITA*, vegetabilisk fett (kokos, shea), mörk choklad** 1,5% (socker, kakaomassa, kakaosmör, emulgeringsmedel (solroslecitin), naturlig vaniljarom), HASSELNÖT, fettreducerat kakaopulver**, potatisstärkelse*, laktosfri SKUMMJÖLKSPULVER, glukossirap, arom, stabiliseringsmedel (difosfater, fruktkärnmjöl, natriumalginat, guargummi), natriumkaseinat (av MJÖLK), rörsockersirap, emulgeringsmedel (SOJALECITIN). KAN INNEHÅLLA SPÅR AV ANDRA NÖTTER OCH MANDEL. * Från Sverige certifierad råvara. ** Rainforest Alliance-certifierad kakao.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340011351399",
+      "name": "Popcorn 500g",
+      "company": "Coop",
+      "ingredients": "Majskärnor.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191153462",
+      "name": "Vetemjöl 2000g",
+      "company": "Coop",
+      "ingredients": "VETEMJÖL °, mjölbehandlingsmedel (E 300). °Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "2317432600004",
+      "name": "Melon Galia 950g",
+      "company": "Klass 1. Brasilien",
+      "ingredients": "eller ämnen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350166370084",
+      "name": "Rigatoni 400g",
+      "company": "Mino",
+      "ingredients": "DURUMVETEMJÖL*/DURUMHVETE*. Kan innehålla/inneholde spår/spor av SOJA/SOYA och/og SENAP/SENNEP. *Odlat/Dyrket i Italien/Italia.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7039010547307",
+      "name": "Pan Pizza Classic 575g",
+      "company": "Grandiosa",
+      "ingredients": "VETEmjöl, OST, vatten, tomatpuré, durumVETEmjöl, nötkött, rapsolja, jäst, SOJAprotein, VETEstärkelse, stabiliseringsmedel (guarkärnmjöl), potatismjöl, socker, kryddor och kryddextrakt (bl.a. vitlök, lök, fänkål, oregano, basilikaextrakt, oreganoextrakt), salt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340012500536",
+      "name": "Salsicciafärs 400g",
+      "company": "Nonna Elide",
+      "ingredients": "fläskkött 90%, salt, dextros, sackaros, aromer, E262 (natriumacetat). Antioxidationmedel: E300, E331. Konserveringsmedel: E250.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156598042",
+      "name": "Leverpastej Bredbar 200g",
+      "company": "Coop",
+      "ingredients": "Fett fläsk°, grislever° 30%, vatten, potatismjöl°, socker, salt, lök, kryddor, kryddextrakt, druvsocker, arom, antioxidationsmedel E 300, konserveringsmedel E 250. °Ursprung Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350099111112",
+      "name": "Granola Äpple & kanel 375g",
+      "company": "Färsking",
+      "ingredients": "HAVREflingor/-flak/-flager 42%, oligofruktos/-fruktose/-fructose*,VETEflingor/ HVETEflak/HVEDEflager 10%, solrosolja/solsikkeolje/-olie, linfrön/linfrø/hørfrø, solrosfrö/solsikkefrø, torkade äppelbitar/ tørkede eplebiter/tørrede æblestykker 3%, pumpafrön/gresskarkjerner/græskarkerner, kanel, salt. Kan innehålla spår av/Kan inneholde spor av/Kan indeholde spor af: JORDNÖTTER/PEANØTTER/JORDNØDDER, SOJA/SOYA,MJÖLK/MELK/ MÆLK, NÖTTER/NØTTER/NØDDER, SESAMFRÖN/SESAMFRØ. *Oligofruktos är/er ett/en fiber som/der finns/finnes/findes naturligt i t.ex./f.eks. banan, betor/beter/bede och/og cikoriarot/sikorirot/cikorierod.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
       "id": "4000177026700",
       "name": "Juicedryck Jungle 10-pack 2000ml",
       "company": "Capri-Sun",
@@ -7285,16 +7460,16 @@
     },
     {
       "id": "7300156503091",
-      "name": "Ägg 10-pack M/L Frigående utomhus",
+      "name": "Ägg 10-pack M/L Frigående utomhus 10",
       "company": "Coop",
-      "ingredients": "Svenska medium/large ÄGG från frigående höns utomhus.",
+      "ingredients": "Ägg.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7300156482679",
-      "name": "Ägg 12-pack M/L Eko",
+      "name": "Ägg 12-pack M/L Eko 636g",
       "company": "Änglamark",
-      "ingredients": "Svenska KRAV-ekologiska medium / large ÄGG.",
+      "ingredients": "KRAV-ekologiska ägg.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -19899,9 +20074,9 @@
     },
     {
       "id": "5701251862540",
-      "name": "Gøl Salami Peppar",
-      "company": "Gøl",
-      "ingredients": "Griskött, salt, kryddor på ytan (krossad svartpeppar, gelatin), fett fläsk, druvsocker, kryddor, vitlök, antioxidationsmedel (E 300, E 301), torkade grönsaker, hydrolyserat majs- och rapsprotein, kryddextrakt, jästextrakt, starterkultur, konserveringsmedel (E 250). Till 100 g färdigvara har använts 116 g griskött. Rökt och torkat.",
+      "name": "Pepparsalami 150g",
+      "company": "GØL",
+      "ingredients": "Griskött, salt, kryddor på ytan (krossad svartpeppar, gelatin, konserveringsmedel (E202)), druvsocker, kryddor, vitlök, antioxidationsmedel (E 300, E 301), torkade grönsaker, (rödbeta, morot, paprika, tomat), hydrolyserat vegetabiliskt protein (majs, raps), kryddextrakt, jästextrakt, starterkultur, konserveringsmedel (E 250). Till 100 g färdigvara har använts 122 g griskött.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -20865,9 +21040,9 @@
     },
     {
       "id": "7300201375000",
-      "name": "Scan Köttbullar Delikatess Stekta 450g",
+      "name": "Köttbullar Delikatess 450g",
       "company": "Scan",
-      "ingredients": "Svenskt nöt- och griskött (75%), potatis, lök, ÄGG, MJÖLKPULVER, VASSLEPULVER, salt, kryddor, arom. Stekta i animaliskt fett.",
+      "ingredients": "Svenskt nöt- och griskött (75%)*, potatis*, lök, ÄGG*, MJÖLKPULVER*, VASSLEPULVER, salt, kryddor, arom. Stekta i animaliskt fett. *Ursprung: Sverige.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -34536,9 +34711,9 @@
     },
     {
       "id": "7310890100685",
-      "name": "Frödinge Ostkaka",
-      "company": "Frödinge",
-      "ingredients": "",
+      "name": "Ostkaka 600g",
+      "company": "FRÖDINGE",
+      "ingredients": "MJÖLK*, GRÄDDE*, ÄGG*, VETEMJÖL*, socker*, MJÖLKSOCKER, SKUMMJÖLKSPULVER*, SÖTMANDEL, VETESTÄRKELSE, BITTERMANDEL, kalciumklorid, vegetabiliskt ystenzym, konserveringsmedel (sorbinsyra). KAN INNEHÅLLA SPÅR AV NÖTTER. *Svenskt ursprung",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
