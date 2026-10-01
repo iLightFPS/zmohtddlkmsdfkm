@@ -137,6 +137,370 @@
   "date": "2026-10-01",
   "list": [
     {
+      "id": "7310040020054",
+      "name": "Plopp Mini 158g",
+      "company": "Cloetta",
+      "ingredients": "socker, glukossirap, kakaosmör1, HELMJÖLKSPULVER, vegetabiliska fetter (palm, shea), kakaomassa1, SKUMMJÖLKSPULVER, vasslepulver (MJÖLK), salt, emulgeringsmedel (SOJALECITIN), aromer (bl.a. vanillin). Kan innehålla HASSELNÖTTER. 1Rainforest Alliance Certified. Find out more at ra.org.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191152687",
+      "name": "Goodie mix 350g",
+      "company": "Xtra",
+      "ingredients": "Socker (sockerbetor: EU), glukossirap, vatten, stärkelse, gelatin (från gris), syror (E 270, E 296, E 330), geleringsmedel (E 440), aromer, grönsaks-, frukt- och växtkoncentrat (svart morot, druva, safflor och spirulina), färgämne (E 100, E 160c), kokosolja, ytbehandlingsmedel (E 903).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6416453032613",
+      "name": "Dumle Original 200g",
+      "company": "Fazer",
+      "ingredients": "glukossirap, socker, fullhärdat vegetabiliskt fett (kokos), helMJÖLKSpulver/sødMÆLKSpulver/tørrMELK, kakaosmör, vasslepulver (av MJÖLK)/vallepulver (fra MÆLK)/mysepulver (fra MELK), kakaomassa, skumMJÖLKSpulver/skummetMÆLKSpulver, salt, emulgeringsmedel (SOJAlecitin), aromer (kola/karamell, vanillin). KAN INNEHÅLLA NÖTTER, MANDLAR OCH SPANNMÅL SOM INNEHÅLLER GLUTEN/KAN INDEHOLDE NØDDER, MANDLER OG KORNPRODUKTER/KORNSLAG SOM INDEHOLDER GLUTEN. Mjölkchokladen innehåller minst 30% kakao/kakaotørstof.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6416453041455",
+      "name": "Marianne 200g",
+      "company": "Fazer",
+      "ingredients": "socker, glukossirap, kakaomassa, vegetabiliskt fett (palm, shea), kakaosmör, aromer, emulgeringsmedel (SOJAlecitin). KAN INNEHÅLLA MJÖLK/ KAN INDEHOLDE MÆLK. CHOKLADEN INNEHÅLLER OCKSÅ ANDRA VEGETABILISKA FETTER ÄN KAKAOSMÖR.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310350505548",
+      "name": "Gott & Blandat Fruity Bites 170g",
+      "company": "Malaco",
+      "ingredients": "glukossirap, socker/sukker, stärkelse/stivelse, syra (citronsyra), surhetsreglerande medel (natriumcitrater), naturliga aromer, koncentrat från (sötpotatis/sød kartoffel/søtpotet, äpple/æble/eple, rädisa/radise/reddik, körsbär/kirsebær), vegetabiliska oljor (kokos, raps), ytbehandlings-/overfladebehandlingsmiddel (karnaubavax/voks), färgämnen/farvestoffer (paprikaekstrakt, kurkumin, klorofyllinkopparkomplex).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350101198575",
+      "name": "Butikens bästa lösgodis 800g",
+      "company": "Candy Collection",
+      "ingredients": "Socker, glukossirap, kakaosmör, glukos-fruktossirap, gelatin, vatten, kakaomassa, majsstärkelse, VETEstärkelse, modifierad majsstärkelse, modifierad potatisstärkelse, HELMJÖLKSPULVER, SKUMMJÖLKSPULVER, invertsockersirap, VASSLEPULVER (MJÖLK), vassleprodukt (MJÖLK), vegetabiliskt fett och olja (palm, shea, raps, kokos), emulgeringsmedel (SOJALECITIN, solroslecitin), HASSELNÖTTER, VETEMJÖL, MANDEL, fuktighetsbevarande medel (sorbitol, glycerol), surhetsreglerande medel (citronsyra, äppelsyra, natriummalat, mjölksyra, natriumcitrat, natriumvätekarbonat, kaliumcitrat, natriumlaktat), salt, potatisprotein, druvsocker, kakaopulver, fettreducerat kakaopulver, sockrad kondenserad SKUMMJÖLK, SMÖRFETT, salmiak, lakrits, fullhärdat vegetabiliskt fett (kokos, palm), persikojuice från koncentrat, konserveringsmedel (E202), bränt socker, aromämnen (bl a kola, vanilj, vanillin), färgämne (svart morotskoncentrat, E100, E120, E132, E133, E150c, E150d, E153, E160c, E170), frukt- och grönsakskoncentrat (citron, hibiskus, morot, rättika, safflor, spirulina, svarta vinbär, sötpotatis, äpple), ytbehandlingsmedel (karnaubavax, kokosolja, bivax vitt & gult). KAN INNEHÅLLA SPÅR AV ANDRA NÖTTER OCH SENAP.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5701090043919",
+      "name": "Persikor 80g",
+      "company": "HARIBO",
+      "ingredients": "Socker; glukossirap; vatten; gelatin; persikojuice från koncentrat (3 %); syra: citronsyra; frukt- och plantkoncentrat: morot, hibiskus; arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310350505685",
+      "name": "Foamy Monkey Sour 115g",
+      "company": "Malaco",
+      "ingredients": "socker/sukker, glukossirap, modifierad stärkelse/stivelse, syror (citronsyra, äppel-/æble-/eplesyre), surhetsreglerande medel (natriumcitrater, natriummalater), potatis-/kartoffel-/potet protein, koncentrat från (rädisa/radise/reddik, äpple/æble/eple, svarta vinbär/solbær), naturlig arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6416453032606",
+      "name": "Dumle Mix 200g",
+      "company": "Fazer",
+      "ingredients": "glukossirap, socker, fullhärdat vegetabiliskt fett (kokos), kakaomassa, helMJÖLKSpulver/sødMÆLKSpulver/tørrMELK, kakaosmör, vasslepulver (av MJÖLK)/vallepulver (fra MÆLK)/mysepulver (fra MELK), melass, aromer, skumMJÖLKSpulver/skummetMÆLKSpulver, MJÖLKfett/MÆLKEfedt/MELKEfett, salt, emulgeringsmedel (SOJAlecitin). KAN INNEHÅLLA NÖTTER, MANDLAR OCH SPANNMÅL SOM INNEHÅLLER GLUTEN/KAN INDEHOLDE NØDDER, MANDLER OG KORNPRODUKTER/KORNSLAG SOM INDEHOLDER GLUTEN. Mörk choklad innehåller minst 47% kakao/kakaotørstof. Mjölkchokladen innehåller minst 30% kakao/kakaotørstof.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7312990003415",
+      "name": "Geléhallon 125g",
+      "company": "Aroma",
+      "ingredients": "SE NO DK FI UK DE Ingredienser/Ainekset/Ingredients/Zutaten: Glukossirap/glukoosisiirappi/Glucose syrup/Glukosesirup, socker/sukker/sokeri/sugar/Zucker*, gelatin/liivate/Gelatine, surhetsreglerande medel/surhetsregulerende middel/happamuudensäätöaine/acidity regulator/Säureregulator E330, arom/aromi/flavouring/Aroma, färgämne/fargestoff/farve/väri/colour/Farbstoff E120. *Ursprung/Oprindelse/Opprinnelse/Alkuperämaa/Origin/Herkunft EU",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6416453047303",
+      "name": "Snacks Kina Gul 150g",
+      "company": "Fazer",
+      "ingredients": "socker, kakaosmör, puffat VETE/HVEDE, helMJÖLKSpulver/sødMÆLKSpulver/helMELKpulver, vegetabilisk olja (shea), kakaomassa, skumMJÖLKSpulver/skummetMÆLKSpulver, vasslepulver (av MJÖLK)/vallepulver (fra MÆLK)/mysepulver (fra MELK), emulgeringsmedel (SOJAlecitin), salt, ytbehandlingsmedel (E904), arom.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310350505678",
+      "name": "Foamy Monkey 115g",
+      "company": "Malaco",
+      "ingredients": "glukossirap, socker/sukker, modifierad stärkelse/stivelse, syra (citronsyra), potatis-/kartoffel-/potet protein, surhetsreglerande medel (natriumcitrater), koncentrat från (rädisa/radise/reddik, äpple/æble/eple, svarta vinbär/solbær), kokosolja, naturlig arom, ytbehandlings-/overfladebehandlingsmiddel (karnaubavax/voks).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5701090076108",
+      "name": "Nappar Cola Sur 70g",
+      "company": "HARIBO",
+      "ingredients": "Glukossirap; socker; gelatin; druvsocker; syror: citronsyra, äppelsyra; surhetsreglerande medel: calciumcitrat, natriumvätemalat; arom; ytbehandlingsmedel: karnaubavax.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310350136933",
+      "name": "Strimler Tutti Frutti 80g",
+      "company": "Malaco",
+      "ingredients": "socker, VETEMJÖL, glukossirap, vindruvsjuice koncentrat 3,7%, syra (äppelsyra), vegetabiliska oljor (shea, kokos), surhetsreglerande medel (citronsyra, E331), arom, färgämnen (E160c, E141, E100), emulgeringsmedel (E471), koncentrat från (morot, hibiskus).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310350505500",
+      "name": "Kalaspatrullen 138g",
+      "company": "Malaco",
+      "ingredients": "socker/sukker, glukossirap, stärkelse/stivelse, glukos-fruktossirap, modifierad stärkelse/stivelse, gelatin, VETEMJÖL/HVEDE-/HVETEMEL, syror (E270, E330, E334), invertsockersirap, ammoniumklorid (=salmiak), melass, aromer (bl.a. vanillin), lakritsextrakt, vegetabiliska oljor (kokos, raps), fuktighetsbevarande medel (sorbitoler, glycerol), karamelliserat socker/sukker, salt, stabiliseringsmedel/stabilisator (E471), färgämnen/farvestoffer (E153, E120, E141, E160c, E100, E160a), ytbehandlings-/overfladebehandlingsmiddel (karnaubavax/voks), koncentrat från (morot/gulerod, svarta vinbär/solbær).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6416453047327",
+      "name": "Snacks Kina Salty Blå 140g",
+      "company": "Fazer",
+      "ingredients": "socker, kakaosmör, helMJÖLKSpulver/sødMÆLKSpulver/helMELKpulver, vegetabilisk olja (shea), puffat majs, kakaomassa, skumMJÖLKSpulver/skummetMÆLKSpulver, vasslepulver (av MJÖLK)/vallepulver (fra MÆLK)/mysepulver (fra MELK), havssalt, emulgeringsmedel (SOJAlecitin), salt, ytbehandlingsmedel (E904), naturlig arom. KAN INNEHÅLLA VETE/KAN INDEHOLDE HVEDE.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310350136995",
+      "name": "Vattenmelon 90g",
+      "company": "Malaco",
+      "ingredients": "socker/sukker, glukossirap, glukos-fruktossirap, stärkelse/stivelse, syror (citronsyra, vinsyra), naturlig arom, färgämne/farvestof (karmin)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310350504916",
+      "name": "Lollipops 128g",
+      "company": "Malaco",
+      "ingredients": "socker/sukker, glukossirap, syror (E270, E330), dextros, surhetsreglerande medel (E327), naturlig arom, färgämnen/farvestoffer (E163, E160a).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310350505210",
+      "name": "Butterflies 95g",
+      "company": "Malaco",
+      "ingredients": "glukossirap, socker/sukker, stärkelse/stivelse, syra (citronsyra), koncentrat från (svart morot/sort gulerod, morot/gulerod, svarta vinbär/solbær), naturliga aromer, surhetsreglerande medel (natriumcitrater), vegetabiliska oljor (kokos, raps), ytbehandlings-/overfladebehandlingsmiddel (karnaubavax/voks).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6416453049840",
+      "name": "Tutti Frutti Remix Salty 150g",
+      "company": "Fazer",
+      "ingredients": "socker, glukossirap, VETEstärkelse/HVEDEstivelse, modifierad potatisstärkelse/kartoffelstivelse, VETEmjöl/HVEDEmel, lakritsextrakt, förtjockningsmedel (E414), ammoniumklorid (salmiak), melass, salt, surhetsreglerande medel (E270, E325), stabiliseringsmedel (E420), majsstärkelse/-stivelse, aromer, fullhärdet vegetabiliskt fett (raps), vegetabilisk olja (raps), färgämnen/farvestoffer (E153, E160a), koncentrat av svart morot/gulrot/sort gulerod, ytbehandlingsmedel (E903). KAN INNEHÅLLA MJÖLK/KAN INDEHOLDE MÆLK/MELK.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310350504886",
+      "name": "Chewit Jordgubb 115g",
+      "company": "Malaco",
+      "ingredients": "socker, glukossirap, vegetabiliska oljor (palm, kokos), fuktighetsbevarande medel (sorbitoler), maltodextrin, syror (E330, E270), naturlig arom, emulgeringsmedel (sackarosestrar av fettsyror), fruktjuice från koncentrat (äpple, citron, jordgubb, apelsin, ananas, persika), salt, färgämne (rödbetsrött), koncentrat från (morot, svarta vinbär), surhetsreglerande medel (natriumlaktat). Kan innehålla MJÖLK.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310350505708",
+      "name": "Sprinkled Foamies Strawberry 110g",
+      "company": "Malaco",
+      "ingredients": "socker/sukker, glukossirap, gelatin, syra (citronsyra), koncentrat från (rädisa/radise/reddik, äpple/æble/eple, citron, spirulina, fläderbär/hyldebær), naturlig arom, safflor-/saflorekstrakt, svartvinbärsjuice-/ solbærjuicekoncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5701090078911",
+      "name": "Peaches Raspberry 80g",
+      "company": "HARIBO",
+      "ingredients": "Socker; glukossirap; vatten; gelatin; fruktjuice från koncentrat (3 %): persiko, hallon; syra: citronsyra; frukt- och plantkoncentrat: safflor, äpple, citron, rättika, sötpotatis, morot, svarta vinbär, aronia, fläderbär, vindruva, hibiskus; arom; extrakt av fläderbär.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5701090079864",
+      "name": "Happy Cherries Sour 75g",
+      "company": "HARIBO",
+      "ingredients": "Glukossirap; socker; gelatin; druvsocker; syror; citronsyra, äppelsyra; surhetsreglerande medel: calciumcitrat, natriumvätemalat; frukt- och plantkoncentrat: spirulina, safflor, äpple, rättika, sötpotatis, morot, svarta vinbär, hibiskus; arom; ytbehandlingsmedel: karnaubavax.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4001686005927",
+      "name": "Pixel Zourr 80g",
+      "company": "HARIBO",
+      "ingredients": "Socker; glukossirap; stärkelse; fuktighetsbevarande medel: sorbitolsirap; VETEMJÖL; syror: cironsyra, äppelsyra; emulgeringsmedel: mono- och diglycerider av fettsyror, mono- och diglyceriders citronsyraestrar; palmfett; druvsocker; surhetsreglerande medel: natriummalat, trinatriumcitrat, mononatriumcitrat; geleringsmedel: karragenan; arom; frukt- och plantkoncentrat: morot, spirulina, sötpotatis, svarta vinbär, fläderbär, äpple, hibiskus, rättika, aronia, vindruva; extrakt av fläderbär; färgämne: kurkumin. Kan innehålla spår av MJÖLK.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6416453051041",
+      "name": "Turkisk peppar Super Salty 80g",
+      "company": "Fazer",
+      "ingredients": "socker, glukossirap, modifierad potatisstärkelse/kartoffelstivelse, ammoniumklorid (salmiak), gelatin, salt, naturliga aromer, fullhärdat vegetabiliskt fett (raps), majsstärkelse/-stivelse, vegetabilisk olja (ryps), färgämne/farvestof (E153). KAN INNEHÅLLA VETE/KAN INDEHOLDE HVEDE.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310350505692",
+      "name": "Sprinkled Foamies Sour Bubblegum 110g",
+      "company": "Malaco",
+      "ingredients": "socker/sukker, glukossirap, gelatin, syra (citronsyra), maltodextrin, koncentrat från (rädisa/radise/reddik, sötpotatis/sød kartoffel/søtpotet, spirulina, morot/gulerod, svarta vinbär/solbær), naturlig arom, rödbets-/rødbedejuicekoncentrat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6416453047167",
+      "name": "Dumle Snacks Crunchy Puffs 140g",
+      "company": "Fazer",
+      "ingredients": "socker, vegetabilisk olja (shea, kokos, raps), kakaosmör, helMJÖLKSpulver/sødMÆLKSpulver/helMELKpulver, fullkornsVETEmjöl/fuldkornHVEDEmel, kakaomassa, skumMJÖLKSpulver/skummetMÆLKSpulver, vasslepulver (av MJÖLK)/vallepulver (fra MÆLK)/mysepulver (fra MELK), rismjöl, maltodextrin, fullcornsmajsmjöl, fettreducerat kakaopulver, VETEklimjöl/HVEDEklidmel, aromer, emulgeringsmedel (lecitin, bl.a. SOJA), salt, ytbehandlingsmedel (E904).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350098980207",
+      "name": "Choklad Vegan 50gr",
+      "company": "Vegan Delights",
+      "ingredients": "JORDNÖTTER, Vegan Choc (socker, kakaosmör, kakaomassa, rispulver (rissirap, rismjöl), inulin, emulgeringsmedel SOJALECITIN, naturlig kakaoarom, naturlig vaniljarom), Socker, Ljus Sirap, Glukossirap, Havregrädde (vatten, ren havre, rapsolja, stabiliserings- och emulgeringsmedel (E 1442, E412, E472e), modifierad stärkelse, stabiliseringsmedel (citronsyra), Havssalt, Naturlig vegansk karamellarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6416453051195",
+      "name": "Turkisk Peppar Sour Foams 80g",
+      "company": "Fazer",
+      "ingredients": "socker, glukossirap, gelatin, stabiliseringsmedel (E420), geleringsmedel (E440), surhetsreglerande medel (E330, E296), färgämnen/farvestoffer (E163, E132), aromer. KAN INNEHÅLLA VETE/KAN INDEHOLDE HVEDE.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6416453055124",
+      "name": "Snacks Kina Hallon 140g",
+      "company": "Fazer",
+      "ingredients": "socker, fullkornsVETEmjöl/fuldkornHVEDEmel, kakaosmör, helMJÖLKSpulver/sødMÆLKSpulver/helMELKpulver, vegetabiliskt fett (palm, shea), kakaomassa, skumMJÖLKSpulver/skummetMÆLKSpulver, vasslepulver (av MJÖLK)/vallepulver (fra MÆLK)/mysepulver (fra MELK), färgande livsmedel/fødevarer der farver/næringsmidler som avgir farge (koncentrat av rödbeta), VETEmjöl/HVEDEmel, naturliga aromer, emulgeringsmedel (SOJAlecitin), salt, ytbehandlingsmedel (E904). KAN INNEHÅLLA ANDRA SPANNMÅL SOM INNEHÅLLER GLUTEN/|KAN INDEHOLDE SPOR AF ANDRE GLUTENHOLDIGE KORNPRODUKTER/KAN INNEHOLDE ANDRE KORNSLAG SOM INNEHOLDER GLUTEN.|",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310350504893",
+      "name": "Chewit Blue Raspberry 115g",
+      "company": "Malaco",
+      "ingredients": "socker, glukossirap, vegetabiliska oljor (palm, kokos), fuktighetsbevarande medel (sorbitoler), maltodextrin, syror (E330, E270), naturlig arom, emulgeringsmedel (sackarosestrar av fettsyror), fruktjuice från koncentrat (apelsin, hallon, ananas), spirulinakoncentrat, salt, surhetsreglerande medel (natriumlaktat). Kan innehålla MJÖLK.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6416453066519",
+      "name": "Tutti Frutti Remix Sour 150g",
+      "company": "Fazer",
+      "ingredients": "socker, glukossirap, VETEstärkelse/HVEDEstivelse, modifierad potatisstärkelse/kartoffelstivelse, surhetsreglerande medel (E270, E325, E330), majsstärkelse/-stivelse, fullhärdat vegetabiliskt fett (ryps, solros/solsikke), färgande livsmedel/fødevarer der farver/næringsmidler som avgir farge (koncentrat av pumpa/græskar, morot/gulrot/gulerod, rädisa/radise, saflor, äpple/æble och batat/sød kartoffel/søtpotet), aromer, färgämnen/farvestoffer (E163, E141, E100, E160a).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6416453032637",
+      "name": "Dumle Snacks 160g",
+      "company": "Fazer",
+      "ingredients": "socker, glukossirap, MJÖLK/MÆLK/MELK, helMJÖLKSpulver/sødMÆLKSpulver/helMELKpulver, kakaosmör, rismjöl, fullhärdat vegetabiliskt fett (kokos), vasslepulver (av MJÖLK)/vallepulver (fra MÆLK)/mysepulver (fra MELK), kakaomassa, skumMJÖLKSpulver/skummetMÆLKSpulver, maltextrakt (av KORN)/maltekstrakt (fra BYG), salt, emulgeringsmedel (SOJAlecitin), MJÖLK-/MÆLKE-/MELKEprotein, aromer (kola/karamell, vanillin). KAN INNEHÅLLA NÖTTER, MANDLAR OCH ANDRA SPANNMÅL SOM INNEHÅLLER GLUTEN/KAN INDEHOLDE NØDDER, MANDLER OG ANDRE KORNPRODUKTER/KORNSLAG |SOM INDEHOLDER GLUTEN. Mjölkchokladen innehåller minst 30% kakao/kakaotørstof.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6411401038723",
+      "name": "Skolekridt 140g",
+      "company": "Fazer",
+      "ingredients": "socker, VETEmjöl/HVEDEmel, melass, VETEstärkelse/HVEDEstivelse, lakritsextrakt, förtjockningsmedel (E414), glukossirap, ammoniumklorid (salmiak), salt, majsstärkelse/stivelse, naturliga aromer, färgämne/favestof (vegetabiliskt kol). KAN INNEHÅLLA MJÖLK/ KAN INDEHOLDE MÆLK.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5701090081355",
+      "name": "Peaches Sour 70g",
+      "company": "HARIBO",
+      "ingredients": "lngredienser: Socker; glukossirap; vatten; gelatin; persikojuice från koncentrat (3 %); syror: citronsyra, äppelsyra; surhetsreglerande medel: calciumcitrat, natriumvätemalat; frukt- och plantkoncentrat: spirulina, safflor, äpple, citron; arom; ytbehandlingsmedel: karnaubavax.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6416453564039",
+      "name": "Klubbor Dumle 8-pack 8",
+      "company": "Fazer",
+      "ingredients": "glukossirap (EU och icke-EU), socker, vegetabiliskt fett (palm, shea), vatten, skumMJÖLKSpulver/skummetMÆLKSpulver, kakaosmör (icke/ikke-EU), helMJÖLKSpulver/sødMÆLKSpulver/tørrMELK, kakaomassa (icke/ikke-EU), emulgeringsmedel (E471, lecitin bl.a. SOJA), salt, aromer, jäsningsmedel/hævemiddel (E500). Mjölkchokladen innehåller minst 30% kakao/kakaotørstof.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6416453041288",
+      "name": "Palle Kuling Fruktpengar 90g",
+      "company": "Fazer",
+      "ingredients": "socker, glukossirap, modifierad potatisstärkelse/stivelse, gelatin, surhetsreglerande medel (E270, E325), aromer, färgämnen/farvestoffer (E120, E141, E160a, E100). KAN INNEHÅLLA VETE/KAN INDEHOLDE HVEDE.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6416453066618",
+      "name": "Tutti Frutti Salty Fruits 180g",
+      "company": "Fazer",
+      "ingredients": "socker, glukossirap, VETEstärkelse/HVEDEstivelse, modifierad potatisstärkelse/kartoffelstivelse, surhetsreglerande medel (E270, E325), ammoniumklorid (salmiak), fullhärdat vegetabilisk olja (raps), majsstärkelse/-stivelse, vegetabilisk olja (raps), färgande livsmedel/fødevarer der farver/næringsmidler som avgir farge (koncentrat av svart morot/gulrot/sort gulerod, safflor, batat/sød kartoffel/søtpotet, spirulina och äpple), naturliga aromer.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6416453057104",
+      "name": "Dumle Summer mix 180g",
+      "company": "Fazer",
+      "ingredients": "glukossirap, socker, fullhärdat vegetabiliskt fett (kokos), helMJÖLKSpulver/sødMÆLKSpulver/helMELKpulver, kakaosmör, vasslepulver (av MJÖLK)/vallepulver (fra MÆLK)/mysepulver (fra MELK), kakaomassa, skumMJÖLKSpulver/skummetMÆLKSpulver, salt, emulgeringsmedel (SOJAlecitin), aromer. KAN INNEHÅLLA NÖTTER, MANDLAR OCH SPANNMÅL SOM INNEHÅLLER GLUTEN/KAN INDEHOLDE NØDDER, MANDLER OG KORNPRODUKTER/KORNSLAG SOM INDEHOLDER GLUTEN. Mjölkchokladen innehåller minst 30% kakao/kakaotørstof.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310040052277",
+      "name": "Bridge Original 360g",
+      "company": "Cloetta",
+      "ingredients": "socker, kakaomassa1, kakaosmör1, HELMJÖLKSPULVER, vegetabiliska fetter (palm, shea), melass, MANDEL, glukossirap, VETEMJÖL, SKUMMJÖLKSPULVER, HASSELNÖTTER, russin, VASSLEPULVER (MJÖLK), invertsockersirap, puffat VETE, risstärkelse, emulgeringsmedel (SOJALECITIN, solroslecitin, E476), gelatin, ammoniumklorid (=salmiak), förtjockningsmedel (gummi arabicum, pektin), lakritsextrakt, modifierad stärkelse, aromer (bl.a. vanillin), ytbehandlingsmedel (gummi arabicum, shellack, karnaubavax, bivax), stabiliseringsmedel (gummi arabicum, E471), salt, konsistensmedel (invertas), vegetabiliska oljor (kokos, raps), färgämnen (E141, E100, E162, E120), syra (citronsyra). 1Rainforest Alliance Certified. Find out more at ra.org.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "4014400932492",
+      "name": "Gräddkarameller Soft Salted Caramel 125g",
+      "company": "WERTHER'S ORIGINAL",
+      "ingredients": "Glukossirap, socker/sukker, vegetabiliskt fett/fedtstoffer (palm, shea), kondenserad SKUMMJÖLK/SKUMMETMÆLK, fuktighetsbevarande medel: sorbitolsirap, HELMJÖLKSPULVER/SØDMÆLKSPULVER, MJÖLKSOCKER (LAKTOS/LAKTOSE), GRÄDDE/FLØDE (2,9 %), kondenserad VASSLE/VALLE/MYSE (från MJÖLK/MÆLK), SMÖR/SMØR (1,9 %), VASSLEPULVER/VALLEPULVER/MYSEPULVER (från MJÖLK/MÆLK), farinsocker, salt, emulgeringsmedel: lecitin/lecithiner (SOJA), rörsockersirap/rørsukkersirup, aromer, karamellsockersirap/ karamelsukkersirup, malda/malede HASSELNÖTTER/HASSELNØDDER. KAN ÄVEN/OGSÅ INNEHÅLLA/INDEHOLDE DELAR/BESTANDDELE AV MANDEL OCH/OG ANDRA NÖTTER/NØDDER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6416453041264",
+      "name": "Tutti Frutti Hallon 90g",
+      "company": "Fazer",
+      "ingredients": "socker, glukossirap, VETEstärkelse/HVEDEstivelse, modifierad potatisstärkelse/kartoffelstivelse, surhetsreglerande medel (E270, E325), färgande livsmedel/fødevarer der farver/næringsmidler som avgir farge (koncentrat av svart morot/gulrot/sort gulerod), naturlig arom, ytbehandlingsmedel (E903).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6416453055414",
+      "name": "Tutti Frutti Remix Boo Sour 90g",
+      "company": "Fazer",
+      "ingredients": "socker, glukossirap, majsstärkelse/-stivelse, modifierad potatisstärkelse/kartoffelstivelse, stabiliseringsmedel (E420), gelatin, surhetsreglerande medel (E270, E330, E325), färgande livsmedel/fødevarer der farver/næringsmidler som avgir farge (bränt socker), fullhärdat vegetabiliskt fett (ryps, solros/solsikke), aromer, färgämnen/farvestoffer (E120, E160a). KAN INNEHÅLLA VETE/KAN INDEHOLDE HVEDE.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7041111138445",
+      "name": "Knatter Frukt 80g",
+      "company": "Brynild",
+      "ingredients": "sukker/socker, glykosesirup, konsistensmiddel (oksidert/oxiderad potetstivelse/potatisstärkelse/kartoffelstivelse, E420), gelatin (svin/gris), invertsukker/-socker, surhetsregulerende midler (E330, E331), aroma, emulgator/emulgeringsmedel (E471), overflatebehandlingsmidler/ytbehandlingsmedel (kokosolje, E901), potetstivelse/potatisstärkelse/kartoffelstivelse, fargestoffer/färgämnen/farvestoffer (E120, E160a, E160e, E141). Produktet kan inneholde spor av NØTTER/NÖTTER/NØDDER og PEANØTTER/JORDNÖTTER/JORDNØDDER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6416453040540",
+      "name": "Mintchoklad Pärla Marianne 150g",
+      "company": "Fazer",
+      "ingredients": "socker, kakaomassa, kakaosmör, vegetabilisk olja (shea), förtjockningsmedel (E414), emulgeringsmedel (SOJAlecitin), arom, ytbehandlingsmedel (E903). KAN INNEHÅLLA MJÖLK OCH VETE./KAN INDEHOLDE MÆLK OG HVEDE.|CHOKLADEN INNEHÅLLER OCKSÅ ANDRA VEGETABILISKA FETTER ÄN KAKAOSMÖR. Chokladen innehåller minst 44% kakao/kakaotørstof.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7394269079109",
+      "name": "Gräddkola 95g",
+      "company": "Aroma",
+      "ingredients": "Socker/sukker/sokeri/Sugar/Zucker, glukossirap/glukosesirup/glukoosisiirappi/Glucose syrup, sötad kondenserad MJÖLK/MAELK/makeutettu kondensoitu MAITO/Sweetened condensed MILK/Gezuckerte kondensMILCH, kakaosmör/kaakaovoi/Cocoa butter/Kakaobutter*, vegetabiliskt fett/kasvirasvat/Vegetable fat (raps/rapeseed- och/ja/and/und kokosolja/kookosöljy/Coconut oil, Kokosöl), kakaomassa/kaakaomassa/Cocoa mass/Kakaomasse*, helMJÖLKspulver/helMELKpulver/sødeMÆLKspulver/täysMAITOjauhe/WholeMILKpowder/VollMILCHpulver skumMJÖLKspulver/skummet MELKpulver/rasvaton MAITOjauhe/Skimmed MILK powder/MagerMILCHpulver, LAKTOS/LAKTOSE/LAKTOOSI/LACTOSE, vasslepulver/vallepulver/herajauhe/Whey powder/Molkenpulver (MJÖLK/MÆLK/MAITO/MILK/MILCH), MJÖLKfett/MÆLKEfedt/MAITOrasva/MILKfat/MILCHfett, emulgeringsmedel/emulgator/emulgointiaine/Emulsifier E471, E476, E322 (SOJA/SOYA/SOIJA/SOY), ytbehandlingsmedel/overflatebehandlingsmiddel/lasitusaineet/Glazing agent/Glanzmittel E904, salt/suola, vanillin/vanilliini, arom/Flavouring/Aroma/aromi. Mjölkchokladen innehåller min 30,1 % kakao/Mælkechokoladen indeholder minimum 30,1% kakao/Maitosuklaa sisältää vähintään 30,1 % kaakaota/The milk chocolate contains min 30,1 % cocoa/Die Milchschokolade enthält mindestens 30,1 % Kakao. *Rainforest Alliance Certified",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5701090080419",
+      "name": "Stjärn Mix Sur 150g",
+      "company": "HARIBO",
+      "ingredients": "Glukossirap; socker; gelatin; druvsocker; syror: citronsyra, äppelsyra; surhetsreglerande medel: calciumcitrat, natriumvätemalat; arom; frukt- och plantkoncentrat: spirulina, safflor, äpple, citron, rättika, sötpotatis, morot, svarta vinbär, hibiskus; karamelliserat socker; ytbehandlingsmedel: karnaubavax.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5701090088033",
+      "name": "Nappar Blå Hallon & citron 80g",
+      "company": "HARIBO",
+      "ingredients": "Glukossirap; socker; gelatin; druvsocker; syra: citronsyra; frukt- och plantkoncentrat: spirulina, safflor, äpple, citron; arom; solrosolja; ytbehandlingsmedel: bivax vitt och gult.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7622202264870",
+      "name": "Non Stop 150g",
+      "company": "Marabou",
+      "ingredients": "Socker, kakaomassa, kakaosmör, MJÖLKPULVER, ytbehandlingsmedel (gummi arabicum, bivax), emulgeringsmedel (SOJALECITINER), aromer, färgämnen (E172, E153, E120, E100, E133, E160a), glukos-fruktossirap. KAN INNEHÅLLA JORDNÖTTER, NÖTTER OCH VETE. Mörk choklad: minst 44 % kakao.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5701090079338",
+      "name": "Soda Straws Zourr 90g",
+      "company": "HARIBO",
+      "ingredients": "Socker; glukossirap; stärkelse; fuktighetsbevarande medel: sorbitolsirap; syra: citronsyra; VETEMJÖL; VETESTÄRKELSE; palmfett; druvsocker; gelatin; emulgeringsmedel: mono- och diglycerider av fettsyror, mono- och diglyceriders citronsyraestrar; surhetsreglerande medel: trinatriumcitrat; arom; frukt- och plantkoncentrat: spirulina, svarta vinbär, fläderbär, aronia, vindruva; extrakt av fläderbär; färgämne: kurkumin. Kan innehålla spår av MJÖLK.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5701090079215",
+      "name": "Shakes 100g",
+      "company": "HARIBO",
+      "ingredients": "Glukossirap; socker; gelatin; druvsocker; arom; frukt- och plantkoncentrat: rättika, äpple, svarta vinbär; solrosolja; ytbehandlingsmedel: bivax vitt och gult.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "2320074500007",
       "name": "Fläskfilé 550g",
       "company": "Scan",
@@ -715,7 +1079,7 @@
       "name": "Snacks Kina Röd 150g",
       "company": "Fazer",
       "ingredients": "socker, kakaosmör, helMJÖLKSpulver/sødMÆLKSpulver/helMELKpulver, vegetabilisk olja (shea), puffat majs, kakaomassa, skumMJÖLKSpulver/skummetMÆLKSpulver, vasslepulver (av MJÖLK)/vallepulver (fra MÆLK)/mysepulver (fra MELK), emulgeringsmedel (SOJAlecitin), salt, ytbehandlingsmedel (E904), naturlig arom. KAN INNEHÅLLA VETE/KAN INDEHOLDE HVEDE.",
-      "gluten": "Glutenfri [ Nej ]"
+      "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "5000112696677",
@@ -5236,7 +5600,7 @@
       "id": "7310350136926",
       "name": "Zoo 95g",
       "company": "Malaco",
-      "ingredients": "socker/sukker, glukossirap, gelatin, stärkelse/stivelse, syra (E270), vegetabiliska oljor (kokos, raps), arom, ytbehandlings-/overfladebehandlingsmiddel (karnaubavax/voks), färgämnen/farvestoffer (E120, E160a).",
+      "ingredients": "socker/sukker, glukossirap, gelatin, stärkelse/stivelse, syra (E270), naturlig arom, vegetabiliska oljor (kokos, raps), ytbehandlings-/overfladebehandlingsmiddel (karnaubavax/voks), färgämnen/farvestoffer (E120, E160a).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -8510,9 +8874,9 @@
     },
     {
       "id": "7311590002026",
-      "name": "Nöt-Crème",
+      "name": "Nöt-Crème 18g",
       "company": "Nöt-Crème",
-      "ingredients": "Socker, vegetabiliska oljor och fetter (raps, fullhärdad kokos), HASSELNÖTTER, JORDNÖTTER, kakao, naturlig vanilj, emulgator (solroslecitin).",
+      "ingredients": "Socker, vegetabiliska oljor och fetter (raps, fullhärdad kokos), HASSELNÖTTER, JORDNÖTTER, kakao, naturlig vaniljarom, emulgator (solroslecitin).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -11429,9 +11793,9 @@
     },
     {
       "id": "5701090076634",
-      "name": "Nappar Skum Lakrits 120g Haribo",
-      "company": "Haribo",
-      "ingredients": "Glukossirap; socker; gelatin; rålakrits (3 %); ammoniumklorid; färgämne: vegetabiliskt kol; arom; palmolja; ytbehandlingsmedel: bivax vitt och gult, karnaubavax.",
+      "name": "Godis Skumnappar Lakrits 120g",
+      "company": "HARIBO",
+      "ingredients": "Glukossirap; socker; gelatin; lakritsextrakt (3 %); ammoniumklorid; mörk sirap; färgämne: vegetabiliskt kol; arom; solrosolja; ytbehandlingsmedel: bivax vitt och gult.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -16959,9 +17323,9 @@
     },
     {
       "id": "7394269079123",
-      "name": "Aroma Chokladbanan - 100g",
+      "name": "Skumbananer Choklad 100g",
       "company": "Aroma",
-      "ingredients": "CHOKLADBANAN/SUKLAABANAANI Ingredienser/Ainekset/Ingredients/Inhaltsstoffe: Socker/sokeri/Sugar/Zucker* (56%), glukos-fruktossirap/glukoosi-fruktoosisiirappi/Glucose-fructose syrup/Glucose-Fructose-Sirup, kakaosmör/kaakaovoi/Cocoa butter/Kakaobutter, helMJÖLKspulver/helMELKpulver/helMÆLKspulver/täysMAITOjauhe/Whole MILK powder/ VollMILCHpulver, gelatin/gelatiini/Gelatine, kakaomassa/kaakaomassa/Cocoa mass/Kakaomasse, VASSLE/myse/valle/hera/Whey/Molke (MJÖLK/MELK/MÆLK/MAITO/MILK/MILCH), emulgeringsmedel/emulgointiaine/Emulsifier/Emulgator E322 (SOJAlecitin/SOIJAlesitiini/SOYA lecithin/SOJA Lecithin), aromer/aromit/Flavourings/Aromen (vanillin/vanilliini). *Ursprung/Alkuperämaa/Origin EU",
+      "ingredients": "Socker/sukker/sokeri/Sugar/Zucker* (51%), glukos-fruktossirap/glukoosi-fruktoosisiirappi/Glucose-fructose syrup, kakaosmör/kaakaovoi/Cocoa butter/Kakaobutter**, kakaomassa/kaakaomassa/Cocoa mass/Kakaomasse**, gelatin/liivate, helMJÖLKspulver/helMELKpulver/sødeMÆLKspulver/täysMAITOjauhe/WholeMILKpowder/VollMILCHpulver, skumMJÖLKspulver/skummet MELKpulver/rasvaton MAITOjauhe/Skimmed MILK powder/MagerMILCHpulver, LAKTOS/LAKTOSE/LAKTOOSI/LACTOSE, vasslepulver/vallepulver/herajauhe/Whey powder/Molkenpulver, (MJÖLK/MÆLK/MAITO/MILK/MILCH), MJÖLKfett/MÆLKEfedt/MAITOrasva/MILKfat/MILCHfett, emulgeringsmedel/emulgator/emulgointiaine/Emulsifier E476, E322 (SOJA/SOYA/SOIJA/SOY), vanillin/vanilliini, salt/suola, färgämne/farvestof/väri/Colour/Farbstoff E160a, arom/Flavouring/Aroma/aromi. Mjölkchokladen innehåller min 30,1 % kakao/Mælkechokoladen indeholder minimum 30,1% kakao/Maitosuklaa sisältää vähintään 30,1 % kaakaota/The milk chocolate contains min 30,1 % cocoa/Die Milchschokolade enthält mindestens 30,1 % Kakao. *Ursprung/Alkuperämaa/Origin EU **Rainforest Alliance Certified",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -19542,9 +19906,9 @@
     },
     {
       "id": "5701090068493",
-      "name": "Haribo Godispåse Starmix 170g",
-      "company": "Haribo",
-      "ingredients": "Glukossirap; socker; gelatin; druvsocker; fruktjuice från koncentrat: äpple, jordgubbar, hallon, apelsin, citron, ananas; syra: citronsyra; frukt- och plantkoncentrat: safflor, spirulina, äpple, fläderbär, apelsin, svarta vinbär, kiwi, citron, aronia, mango, passionsfrukt, rättika, sötpotatis, morot, hibiskus, vindruva; invertsockersirap; karamelliserat socker; arom; extrakt av fläderbär; palmolja; ytbehandlingsmedel: bivax vitt och gult, karnaubavax.",
+      "name": "Starmix 170g",
+      "company": "HARIBO",
+      "ingredients": "lngredienser: Glukossirap; socker; gelatin; druvsocker; syra: citronsyra; frukt- och plantkoncentrat: spirulina, safflor, äpple, citron, rättika, sötpotatis, morot, svarta vinbär, hibiskus; arom; karamelliserat socker; solrosolja; ytbehandlingsmedel: bivax vitt och gult.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -20319,9 +20683,9 @@
     },
     {
       "id": "5701090075293",
-      "name": "Haribo Godis Nappar Skum 120g",
-      "company": "Haribo",
-      "ingredients": "Glukossirap; socker; gelatin; frukt- och plantkoncentrat: spirulina, safflor, äpple, citron, rödbeta, morot; syra: citronsyra; arom; invertsockersirap; palmolja; ytbehandlingsmedel: bivax vitt och gult, karnaubavax.",
+      "name": "Nappar Skum 120g",
+      "company": "HARIBO",
+      "ingredients": "Glukossirap; socker; gelatin; frukt- och plantkoncentrat: spirulina, safflor, äpple, citron, rödbeta, morot; syra: citronsyra; arom; solrosolja; ytbehandlingsmedel: bivax vitt och gult.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -32996,9 +33360,9 @@
     },
     {
       "id": "8003340093284",
-      "name": "Lindt Lindor Strawberries &Cream",
+      "name": "Lindor Strawberries & Cream 137g",
       "company": "Lindt",
-      "ingredients": "",
+      "ingredients": "socker, kakaosmör, vegetabiliskt fett (kokos, palmkärna), helMJÖLKspulver, LAKTOS, GRÄDDpulver 1,1%, emulgeringsmedel (SOJAlecitin), jordgubbspulver 0,2%, naturlig arom, färg (rödbeta), arom. Kan innehålla HASSELNÖTTER, andra NÖTTER.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -33843,9 +34207,9 @@
     },
     {
       "id": "7340011424871",
-      "name": "Xtra Fruktkola",
+      "name": "Fruktkola 350g",
       "company": "Xtra",
-      "ingredients": "",
+      "ingredients": "Socker (sockerbetor: EU), glukossirap, fullhärdat kokosfett, fruktsaft från koncentrat 6% (citron, apelsin, jordgubbar, hallon, körsbär), syra (E 330), gelatin (från gris), arom, grönsaks- och växtkoncentrat (morot, paprika, safflor), emulgeringsmedel (E 322 av solros).Kan innehålla spår av mjölk och hasselnöt.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -33948,9 +34312,9 @@
     },
     {
       "id": "7310350130054",
-      "name": "Malaco Gott &Blandat Fizzypop",
+      "name": "Gott & Blandat Fizzypop 170g",
       "company": "Malaco",
-      "ingredients": "",
+      "ingredients": "socker, glukossirap, gelatin, stärkelse, syror (E296, E330, E270), surhetsreglerande medel (natriumkarbonat, natriummalater), fullhärdad solrosolja, karamelliserat socker, aromer, koncentrat från (spirulina, morot, svarta vinbär, safflor, citron), färgämnen (E120, E133, E160c, E132).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -34032,9 +34396,9 @@
     },
     {
       "id": "7350039457553",
-      "name": "Candypeople S-Märke Sura",
+      "name": "S-Märke Supersurt 80g",
       "company": "Candypeople",
-      "ingredients": "",
+      "ingredients": "socker/sukker, glukos/glykose, gelatin (nöt/okse/storfe), surhetsreglerande medel/middel (äppelsyra/æblesyre/eplesyre, natriumcitrat), aromer, färgämnen/farvestoffer/fargestoffer (kurkumin/gurkemeie, karmin, klorofyllinkopparkomplex/klorofyllinkobberkompleks).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -34053,9 +34417,9 @@
     },
     {
       "id": "5701090070632",
-      "name": "Haribo Stora Nappar",
-      "company": "Haribo",
-      "ingredients": "",
+      "name": "Stora Nappar 170g",
+      "company": "HARIBO",
+      "ingredients": "Glukossirap; socker; druvsocker; gelatin; syra: citronsyra; frukt- och plantkoncentrat: spirulina, safflor, äpple, citron, rättika, sötpotatis, morot, svarta vinbär, hibiskus; invertsockersirap; arom; palmolja; ytbehandlingsmedel: bivax vitt och gult, karnaubavax.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -34067,16 +34431,16 @@
     },
     {
       "id": "5700417990219",
-      "name": "Malaco Snöre Jordgubb",
+      "name": "Snöre Jordgubb 94g",
       "company": "Malaco",
-      "ingredients": "",
+      "ingredients": "glukos-fruktossirap, VETEMJÖL, socker, fuktighetsbevarande medel (sorbitoler), syra (E270), fullhärdat kokosfett, arom, vegetabiliska fetter/oljor (kokos, raps), färgämnen (E160c, E120).",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
       "id": "7350039457690",
-      "name": "Candypeople Peacemärke Jordgubb/Lakrits",
+      "name": "Peacemärke Jordgubb & lakrits 80g",
       "company": "Candypeople",
-      "ingredients": "",
+      "ingredients": "socker, glukos,gelatin (nöt), surhetsreglerande medel( äppelsyra, natriumcitrat), lakrits, aromer, färgämne (karmin, vegetabiliskt kol).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -34088,9 +34452,9 @@
     },
     {
       "id": "7310350106851",
-      "name": "Malaco Gott &Blandat Familie Guf",
+      "name": "Gott & Blandat Familie Guf 210g",
       "company": "Malaco",
-      "ingredients": "",
+      "ingredients": "glukossirap, socker, stärkelse, VETEMJÖL, gelatin, glukos-fruktossirap, lakritsextrakt, syra (citronsyra), invertsockersirap, ammoniumklorid (=salmiak), aromer, vegetabiliska oljor (kokos, raps), maltodextrin, färgämnen (E153, E120, E100, E141), modifierad stärkelse, ytbehandlingsmedel (bivax, karnaubavax), stabiliseringsmedel (E471), geleringsmedel (gummi arabicum), kokosfett.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -34137,16 +34501,16 @@
     },
     {
       "id": "5996379193731",
-      "name": "Haribo Nappar Cola",
-      "company": "Haribo",
-      "ingredients": "",
+      "name": "Nappar Cola 80g",
+      "company": "HARIBO",
+      "ingredients": "Glukossirap; socker; gelatin; druvsocker; syra: citronsyra; karamelliserat socker; arom; solrosolja; ytbehandlingsmedel: bivax vitt och gult.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "5701090043933",
-      "name": "Haribo Nappar Liqourice",
-      "company": "Haribo",
-      "ingredients": "",
+      "name": "Nappar Lakrits 80g",
+      "company": "HARIBO",
+      "ingredients": "lngredienser. Glukossirap; socker; starkelse; mörk sirap; salt; ammoniumklorid; lakritsextrakt (3 %); arom; palmolja; ytbehandlingsmedel: bivax vitt och gult, karnaubavax.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -34158,30 +34522,30 @@
     },
     {
       "id": "6416453038295",
-      "name": "Fazer Tutti Frutti Original",
+      "name": "Tutti Frutti Original 350g",
       "company": "Fazer",
-      "ingredients": "",
+      "ingredients": "socker, glukossirap, VETEstärkelse/HVEDEstivelse, modifierad potatisstärkelse/kartoffelstivelse, surhetsreglerande medel (E270, E325), färgande livsmedel/fødevarer der farver/næringsmidler som avgir farge (koncentrat av svart morot/gulrot/sort gulerod, safflor, batat/sød kartoffel/søtpotet, spirulina och äpple), naturliga aromer, ytbehandlingsmedel (E903).",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
       "id": "7310350115433",
-      "name": "Malaco Gott &Blandat Favorit",
+      "name": "Gott & Blandat Favorit 190g",
       "company": "Malaco",
-      "ingredients": "",
+      "ingredients": "glukossirap, socker, stärkelse, glukos-fruktossirap, gelatin, ammoniumklorid (=salmiak), syror (E330, E270), lakritsextrakt, vegetabiliska oljor (kokos, raps), karamelliserat socker, koncentrat från (svart morot), aromer, färgämnen (E153, E120, E160c, E160e, E141, E160a), ytbehandlingsmedel (bivax, karnaubavax), stabiliseringsmedel (E471).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7310350116249",
-      "name": "Malaco Gott &Blandat Supersur",
+      "name": "Gott & Blandat Supersur 170g",
       "company": "Malaco",
-      "ingredients": "",
+      "ingredients": "glukossirap, socker, stärkelse, modifierad stärkelse, gelatin, syror (E270, E296, E330), surhetsreglerande medel (natriummalater, natriumkarbonat), aromer, fullhärdad solrosolja , karamelliserat socker, koncentrat från (svart morot, morot, svarta vinbär, spirulina, safflor), färgämnen (E120, E160c, E133, E100).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "4001686313916",
-      "name": "Haribo Nappar Sour",
-      "company": "Haribo",
-      "ingredients": "",
+      "name": "Nappar Sur 80g",
+      "company": "HARIBO",
+      "ingredients": "Glukossirap; socker; gelatin; druvsocker; syror: citronsyra, äppelsyra; surhetsreglerande medel: calciumcitrat, natriumvätemalat; frukt- och plantkoncentrat: spirulina, safflor, äpple, citron, rättika, sötpotatis, morot, svarta vinbär, hibiskus; invertsockersirap; arom; ytbehandlingsmedel: karnaubavax.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -34200,9 +34564,9 @@
     },
     {
       "id": "4014400910063",
-      "name": "Werthers Original Cream Candies",
-      "company": "Werthers Original",
-      "ingredients": "",
+      "name": "Gräddkarameller 135g",
+      "company": "WERTHER'S ORIGINAL",
+      "ingredients": "Socker/sukker, glukossirap/glukosesirup, GRÄDDE/FLØDE (7,4 %), kondenserad VASSLE/VALLE/MYSE (från/fra MJÖLK/MÆLK), SMÖR/SMØR (4,8 %), rörsockersirap/rørsukkersirup, salt, emulgeringsmedel/emulgator: lecitin/lecithiner (SOJA), arom/aroma.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -34235,16 +34599,16 @@
     },
     {
       "id": "4014400902495",
-      "name": "Riesen Riesen",
-      "company": "Riesen",
-      "ingredients": "",
+      "name": "Riesen 150g",
+      "company": "RIESEN",
+      "ingredients": "Glukossirap, socker, kondenserad VASSLE (från MJÖLK), kakaomassa* (10 %), palmfett, kondenserad SKUMMJÖLK, kakao, kakaosmör, fuktighetsbevarande medel: sorbitolsirap, SMÖRFETT, VASSLEPULVER (från MJÖLK), modifierad stärkelse, emulgeringsmedel: lecitin (SOJA), vaniljextrakt. *gjord av Gavoa kakaoblandning KAN ÄVEN INNEHÅLLA DELAR AV HASSELNÖT, MANDEL, JORDNÖT OCH ANDRA NÖTTER.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "6416453036413",
-      "name": "Fazer Tutti Frutti Sour",
+      "name": "Tutti Frutti Sour 180g",
       "company": "Fazer",
-      "ingredients": "",
+      "ingredients": "socker, glukossirap, VETEstärkelse/HVEDEstivelse, modifierad potatisstärkelse/stivelse, surhetsreglerande medel (E270, E330, E325), majsstärkelse/-stivelse, fullhärdat vegetabiliskt fett (ryps, solros/solsikke), färgande livsmedel/fødevarer der farver/næringsmidler som avgir farge (koncentrat av svart morot/gulrot/sort gulerod, safflor, batat/sød kartoffel/søtpotet, spirulina och äpple), naturliga aromer.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -34270,16 +34634,16 @@
     },
     {
       "id": "5996379193748",
-      "name": "Haribo Goldbären",
-      "company": "Haribo",
-      "ingredients": "",
-      "gluten": "Glutenfri [ Nej ]"
+      "name": "Goldbären 80g",
+      "company": "HARIBO",
+      "ingredients": "Glukossirap; socker; gelatin; druvsocker; fruktjuice från koncentrat: äpple, hallon, jordgubbar, apelsin, citron, ananas; syra: citronsyra; solrosolja; frukt- och plantkoncentrat: safflor, spirulina, äpple, fläderbär, apelsin, svarta vinbär, kiwi, citron, aronia, mango, vindruva, passionsfrukt; arom; extrakt av fläderbär; ytbehandlingsmedel: bivax vitt och gult.",
+      "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "5700417990202",
-      "name": "Malaco Snöre Kola",
+      "name": "Snöre Kola 94g",
       "company": "Malaco",
-      "ingredients": "",
+      "ingredients": "glukos-fruktossirap, VETEMJÖL, socker, fuktighetsbevarande medel (sorbitoler), fullhärdat kokosfett, arom, vegetabiliska fetter/oljor (kokos, raps), färgämne (E150c).",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -34298,9 +34662,9 @@
     },
     {
       "id": "7340011341901",
-      "name": "Xtra Vingummi",
+      "name": "Vingummi 500g",
       "company": "Xtra",
-      "ingredients": "",
+      "ingredients": "Glukossirap, socker (sockerbetor: EU), VETESTÄRKELSE , vatten, gelatin (från gris), syra (E 330), kokosolja, aromer, färgämnen (E 100, E 141, E 153, E 160c), svart morotsjuicekoncentrat, ytbehandlingsmedel (E 903).",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -34340,9 +34704,9 @@
     },
     {
       "id": "6416453038288",
-      "name": "Fazer Tutti Frutti Original",
+      "name": "Tutti Frutti Original 180g",
       "company": "Fazer",
-      "ingredients": "",
+      "ingredients": "socker, glukossirap, VETEstärkelse/HVEDEstivelse, modifierad potatisstärkelse/kartoffelstivelse, surhetsreglerande medel (E270, E325), färgande livsmedel/fødevarer der farver/næringsmidler som avgir farge (koncentrat av svart morot/gulrot/sort gulerod, safflor, batat/sød kartoffel/søtpotet, spirulina och äpple), naturliga aromer, ytbehandlingsmedel (E903).",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -34354,9 +34718,9 @@
     },
     {
       "id": "7310040034525",
-      "name": "Cloetta Polly Blå",
+      "name": "Polly Blå 200g",
       "company": "Cloetta",
-      "ingredients": "",
+      "ingredients": "socker/sukker (EU), vegetabiliska fetter (palm, shea), invertsockersirap, glukossirap, kakaomassa1, SKUMMJÖLKS-/SKUMMETMÆLKSPULVER, vassle-/vallepulver (MJÖLK/MÆLK), gelatin, emulgeringsmedel/emulgator (lecitiner/lecithiner (SOJA/SOYA), E476), ytbehandlings-/overfladebehandlingsmidler (gummi arabicum, shellack), vassleprotein (MJÖLK)/ valleprotein (MÆLK), aromer (bl.a. vanillin), förtjocknings-/fortykningsmiddel (pektin), syra (citronsyra), vegetabiliska oljor (kokos, raps), HELMJÖLKS-/SØDMÆLKSPULVER. Kan innehålla HASSELNÖTTER och MANDEL. Kan indeholde HASSELNØDDER og MANDLER. 1Rainforest Alliance Certified. Find out more at ra.org.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -34375,16 +34739,16 @@
     },
     {
       "id": "6416453036376",
-      "name": "Fazer Tutti Frutti Rings",
+      "name": "Tutti Frutti Rings 180g",
       "company": "Fazer",
-      "ingredients": "",
+      "ingredients": "socker, glukossirap, majsstärkelse/-stivelse, VETEstärkelse/HVEDEstivelse, modifierad potatisstärkelse/kartoffelstivelse, lakritsextrakt, surhetsreglerande medel (E270, E325), salt, ammoniumklorid (salmiak), naturliga aromer, färgande livsmedel/fødevarer der farver/næringsmidler som avgir farge (koncentrat av svart morot/gulrot/sort gulerod, batat/sød kartoffel/søtpotet, morot/gulrot/gulerod, äpple och safflor), härdad rapsolja/hærdet rapsolie/herded rapsolje, vegetabilisk olja (raps), färgämne/farvestof (E153).",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
       "id": "7310350118175",
-      "name": "Malaco Gott &Blandat Original",
+      "name": "Gott & Blandat Original 400g",
       "company": "Malaco",
-      "ingredients": "",
+      "ingredients": "socker, glukossirap, glukos-fruktossirap, stärkelse, VETEMJÖL, modifierad stärkelse, ammoniumklorid (=salmiak), melass, syra (E270), lakritsextrakt, fuktighetsbevarande medel (sorbitoler, glycerol), vegetabiliska oljor (kokos, raps), aromer, salt, färgämnen (E153, E160c, E100, E141), koncentrat från (morot, svarta vinbär), ytbehandlingsmedel (karnaubavax), stabiliseringsmedel (E471), kokosfett.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -34410,9 +34774,9 @@
     },
     {
       "id": "5996379193724",
-      "name": "Haribo Nappar Fruit",
-      "company": "Haribo",
-      "ingredients": "",
+      "name": "Nappar Frukt 80g",
+      "company": "HARIBO",
+      "ingredients": "Glukossirap; socker; gelatin; druvsocker; syra: citronsyra; frukt- och plantkoncentrat: spirulina, safflor, äpple, citron, rättika, sötpotatis, morot, svarta vinbär, hibiskus; arom; solrosolja; ytbehandlingsmedel: bivax vitt och gult.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -34459,9 +34823,9 @@
     },
     {
       "id": "7310040034532",
-      "name": "Cloetta Polly Röd",
+      "name": "Polly Röd 200g",
       "company": "Cloetta",
-      "ingredients": "",
+      "ingredients": "socker/sukker, vegetabiliska fetter (palm, shea), invertsockersirap, glukossirap, SKUMMJÖLKS-/SKUMMETMÆLKSPULVER, vassleprotein (MJÖLK)/valleprotein (MÆLK), kakaomassa1, gelatin, emulgeringsmedel/emulgator (lecitiner/lecithiner (SOJA/SOYA), E476), ytbehandlings-/overfladebehandlingsmidler (gummi arabicum, shellack), vassleprotein (MJÖLK)/valleprotein (MÆLK), aromer (bl.a. vanillin), förtjocknings-/fortykningsmiddel (pektin), vegetabiliska oljor (kokos, raps), syra (citronsyra). Kan innehålla HASSELNÖTTER och MANDEL. Kan indeholde HASSELNØDDER og MANDLER.1Rainforest Alliance Certified. Find out more at ra.org.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -34480,16 +34844,16 @@
     },
     {
       "id": "6416453036383",
-      "name": "Fazer Tutti Frutti Passion",
+      "name": "Tutti Frutti Passion 180g",
       "company": "Fazer",
-      "ingredients": "",
-      "gluten": "Glutenfri [ Nej ]"
+      "ingredients": "socker, glukossirap, majsstärkelse/-stivelse, surhetsreglerande medel (E270, E325), naturliga aromer, färgande livsmedel/fødevarer der farver/næringsmidler som avgir farge (koncentrat av svart morot/gulrot/sort gulerod, saflor, spirulina och extrakt av paprikaolja), ytbehandlingsmedel (E903), färgämne/farvestoff (extrakt av antocyaner). KAN INNEHÅLLA VETE/KAN INDEHOLDE HVEDE.",
+      "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7310040052260",
-      "name": "Cloetta Bridge Original",
+      "name": "Bridge Original 180g",
       "company": "Cloetta",
-      "ingredients": "",
+      "ingredients": "socker, kakaomassa1, kakaosmör1, HELMJÖLKSPULVER, vegetabiliska fetter (palm, shea), melass, MANDEL, glukossirap, VETEMJÖL, SKUMMJÖLKSPULVER, HASSELNÖTTER, russin, VASSLEPULVER (MJÖLK), invertsockersirap, puffat VETE, risstärkelse, emulgeringsmedel (SOJALECITIN, solroslecitin, E476), gelatin, ammoniumklorid (=salmiak), förtjockningsmedel (gummi arabicum, pektin), lakritsextrakt, modifierad stärkelse, aromer (bl.a. vanillin), ytbehandlingsmedel (gummi arabicum, shellack, karnaubavax, bivax), stabiliseringsmedel (gummi arabicum, E471), salt, konsistensmedel (invertas), vegetabiliska oljor (kokos, raps), färgämnen (E141, E100, E162, E120), syra (citronsyra). 1Rainforest Alliance Certified. Find out more at ra.org.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -34508,9 +34872,9 @@
     },
     {
       "id": "7310350106844",
-      "name": "Malaco Gott &Blandat Original",
+      "name": "Gott & Blandat Original 210g",
       "company": "Malaco",
-      "ingredients": "",
+      "ingredients": "socker, glukossirap, glukos-fruktossirap, stärkelse, VETEMJÖL, modifierad stärkelse, ammoniumklorid (=salmiak), melass, syra (E270), lakritsextrakt, fuktighetsbevarande medel (sorbitoler, glycerol), vegetabiliska oljor (kokos, raps), aromer, salt, färgämnen (E153, E160c, E100, E141), koncentrat från (morot, svarta vinbär), ytbehandlingsmedel (karnaubavax), stabiliseringsmedel (E471), kokosfett.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -36202,9 +36566,9 @@
     },
     {
       "id": "7310350109906",
-      "name": "Ahlgrens bilar Original",
-      "company": "CLOETTA",
-      "ingredients": "",
+      "name": "Bilar Original 160g",
+      "company": "Ahlgrens Bilar",
+      "ingredients": "glukossirap, socker, stärkelse, gelatin, invertsockersirap, syra (E270), vegetabiliska oljor (kokos, raps), naturliga aromer, ytbehandlingsmedel (karnaubavax), färgämnen (klorofyllinkopparkomplex, karmin).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -36258,9 +36622,9 @@
     },
     {
       "id": "7310350114153",
-      "name": "Ahlgrens bilar Saltlakrits",
-      "company": "CLOETTA",
-      "ingredients": "",
+      "name": "Bilar Saltlakrits 130g",
+      "company": "Ahlgrens Bilar",
+      "ingredients": "socker, glukossirap, stärkelse, gelatin, invertsockersirap, ammoniumklorid (=salmiak), lakritsextrakt, färgämnen (sockerkulör [ammoniak], vegetabiliskt kol), fullhärdat palmfett, salt, aromer (bl.a. vanillin).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
