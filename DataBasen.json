@@ -134,8 +134,15 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-09-27",
+  "date": "2026-10-01",
   "list": [
+    {
+      "id": "7310070009487",
+      "name": "Pepsi 330ml",
+      "company": "Pepsi",
+      "ingredients": "Kolsyrat vatten, socker, färgämne (E150 d), aromer (inkl. koffein), syra (fosforsyra), sötningsmedel (acesulfam K, sukralos).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311312008183",
       "name": "Nachochips 475g",
