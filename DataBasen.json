@@ -137,17 +137,87 @@
   "date": "2026-10-02",
   "list": [
     {
-      "id": "7350065513773",
-      "name": "Dillkött Med Gourmetpotatis Eko 400g",
+      "id": "7350065513827",
+      "name": "Fiskgryta Bouillabaisse 400g",
       "company": "Grön Ko",
-      "ingredients": "Potatis* 33%, nötkött* 20%, vatten, morot* 7%, GRÄDDE*, MJÖLK*, köttbuljong* (vatten, nötkött*, rapsolja*, salt, potatismjöl*, svartpeppar*), potatisstärkelse*, dill* 1,3%, SMÖR*, rapsolja*, purjolök*, salt, socker*, vitvinsvinäger*, ättika*, naturlig arom, vitpeppar*. *Ekologisk ingrediens. Nötkött från djur fött, uppfött och slaktat i Sverige.",
+      "ingredients": "FISK 20% (torsk (Gadus morhua), lax (Salmo salar)), krossade tomater 18% (tomat, tomatjuice, surhetsreglerande medel (citronsyra)), potatis 17%, GRÄDDE 14%, FISKbuljong (vatten, salt, maltodextrin, FISKpulver (torsk (Gadus morhua)), potatisstärkelse, lökpulver, solrosolja, libbstickarot, arom, palsternackapulver, vitlökspulver, citronjuice), morot, RÄKOR 5% (Pandalus borealis), fänkål 2,9%, lök, SMÖR, stjälkSELLERI, socker, modifierad potatisstärkelse, citronjuice (citronjuice från koncentrat), salt, vitvinsvinäger, persilja, vitlök, saffransextrakt, svartpeppar, chili. Kan innehålla spår av blötdjur.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7350065513780",
-      "name": "Fläsklägg Med Rotmos 400g",
+      "id": "7310960039884",
+      "name": "Pan Pizza Capricciosa 170g",
+      "company": "Billys",
+      "ingredients": "VETEMJÖL (innehåller askorbinsyra, malt av KORN), OST, champinjoner (10 %), tomatpuré, griskött* (4,5%), vatten, rapsolja, svampkoncentrat, socker, salt, potatismjöl, modifierad stärkelse, kryddor, jäst, vitvinsvinäger, antioxidationsmedel (E300, E331), rosmarin, stabiliseringsmedel E451, konserveringsmedel E250. *Ursprung: EU.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7331500700422",
+      "name": "Oxfilépasta 400g",
+      "company": "Carolines Saltsjö-Boo",
+      "ingredients": "Kokt pasta 36% (durumVETE, vatten), GRÄDDE*, MJÖLK*, nötkött 18% (oxfilé**, nötkött**, rapsolja, salt), lök, OST, kalvfond (vatten, salt, arom, koncentrerad kalvfond, socker, modifierad stärkelse, lök, tomat, vinäger), matlagningsvin 1,5% (vatten, vitt vin, amontillado, salt, naturlig peppararom), rucola, modifierad stärkelse, salt, vitlök, chilipeppar, tryffelolja (solrosolja, arom), svartpeppar, konserveringsmedel (E202, E211), chilipeppar. Rätten innehåller 9% oxfilé. *Ursprung: Sverige. **Ursprung: Finland.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300156588111",
+      "name": "Pannkakor 6-pack 360g",
+      "company": "Coop",
+      "ingredients": "MJÖLK°, VETEMJÖL°, ÄGG° (frånfrigående höns), rapsolja°, salt. °Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310960794752",
+      "name": "Pan Pizza Hawaii 170g",
+      "company": "Billys",
+      "ingredients": "VETEMJÖL (innehåller askorbinsyra, malt av KORN), OST, ananas, tomatpuré, vatten, rapsolja, griskött* (3%), socker, modifierad stärkelse, kryddor, salt, potatismjöl, jäst, vitvinsvinäger, antioxidationsmedel (E331, E300), rosmarin, stabiliseringsmedel E451, konserveringsmedel E250. *Ursprung: EU.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310240077667",
+      "name": "Pizza X-tra Allt Capricciosa 165g",
+      "company": "Grandiosa",
+      "ingredients": "VETEmjöl, vatten, OST, rökt skinka och grisbog (skinka, griskött, vatten, salt, druvsocker, stabiliseringsmedel (E450), antioxidationsmedel (E301), konserveringsmedel (E250)), tomatpuré, champinjon, rapsolja, VETEskållning, salt, socker, krydda (bl.a. vitlök, oregano, libbsticka), lök, tomat, morot, jäst, stabiliseringsmedel (E471), naturlig arom.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310240077575",
+      "name": "Pizza X-Tra Allt Calzone 165g",
+      "company": "Grandiosa",
+      "ingredients": "VETEmjöl, vatten, rökt skinka och grisbog (skinka, griskött, vatten, salt, druvsocker, stabiliseringsmedel (E450), antioxidationsmedel (E301), konserveringsmedel (E250)), mozzarellaOST, OST, tomatpuré, rapsolja, tomater, VETEskållning, socker, jäst, salt, kryddor och kryddextrakt (bl.a. lök, chilipeppar, vitlök, oregano), stabiliseringsmedel (mono-och diglycerider av fettsyror), jästextrakt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7331500700439",
+      "name": "Biff Stroganoff 400g",
+      "company": "Carolines Saltsjö-Boo",
+      "ingredients": "Biff stroganoff 49% (nötkött*, GRÄDDE**, champinjoner, lök, tomatpuré, matlagningsvin (vitt vin, salt, peppar), dijonsenap (vatten, SENAPSFRÖN, brännvinsättika, salt), kalvfond (vatten, koncentrerad kalvfond, salt, arom, socker, modifierad stärkelse, lök, tomat, vinäger), salt, modifierad stärkelse, svartpeppar, paprikapulver 1,2%), potatismos 45% (potatis, MJÖLK**, rapsolja, SMÖR**, salt, potatisfiber, vitpeppar), cornichons 5% (gurkor, vinäger, vatten, salt, kryddor), persilja. *Ursprung: Finland **Ursprung: Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156597069",
+      "name": "Kyckling & currygryta med ris 400g",
+      "company": "Coop",
+      "ingredients": "Kokt basmatiris 50% (ris, rapsolja, salt), currysås 37% (MJÖLK°, vatten, GRÄDDE°, lök, paprika, purjolök, äppelmos (äpple, socker, vatten, förtjockningsmedel (E 440)), modifierad potatisstärkelse, salt, kycklingfond (vatten, salt, arom, koncentrerad kycklingfond, socker, modifierad majsstärkelse, lök, kycklingextraktpulver, vinäger, kryddor), curry 1% (koriander, gurkmeja, bockhornsklöver, cayennepeppar, spiskummin, fänkål, svartpeppar), tomatpuré, kryddor), kyckling 13% (kycklinglårfilé°, potatisstärkelse, salt, druvsocker, svartpepparextrakt, kycklingbuljong).°Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350065514084",
+      "name": "Lasagne Eko 400g",
       "company": "Grön Ko",
-      "ingredients": "Kålrot 32%, potatis 32%, fläsklägg 28% (lägg av gris*, lagerblad, krydd- peppar, vatten, salt, socker, antioxidationsmedel (natriumcitrat, askorbat), konserveringsmedel (natriumnitrit)), morot, buljong från fläsklägg (vatten, lägg av gris*, lagerblad, kryddpeppar, salt, socker, antioxidationsmedel (natriumcitrat, askorbat), konserveringsmedel (natriumnitrit)), SMÖR, persilja, grönsaksbuljong (salt, maltodextrin, grönsakspulver (palsternacka, blomkål, lök, purjolök, vitlök, vitkål, morotsjuice, libbstickarot, persiljerot), naturlig arom, extra jungfruolivolja, arom, svampjuicekoncentrat), vitpeppar. *Griskött från djur fött, uppfött och slaktat i Sverige.",
+      "ingredients": "Köttfärssås* 42% (nötfärs* 34%, krossade tomater* (tomat*, tomatjuice*, surhetsreglerande medel (citronsyra)), lök*, morot*, tomatpuré*, salt, vitlök*, stärkelse* (majs*, potatis*), socker*, köttbuljong* (vatten, maltodextrin*, salt, nötköttspulver*, naturlig nötköttsarom, solrosolja*, lökpulver*, vitlökspulver*), rapsolja*, svartpeppar*, oregano*, basilika*, chili*, timjan*), kokt pasta 32% (durumVETE*), béchamelsås* 26% (MJÖLK*, ost 13% (MJÖLK*, salt, potatisstärkelse*, syrningskultur, vegetabilisk ystenzym), stärkelse* (majs*, potatis*), GRÄDDE*, salt, vitpeppar*, muskotnöt*). *Ekologisk ingrediens. Nötkött från djur fött, uppfött och slaktat i Sverige. Kan innehålla spår av soja och senap.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191168886",
+      "name": "Kyckling Tikka Masala 400g",
+      "company": "Coop",
+      "ingredients": "Vatten, ris (icke-EU), kyckling 10 % (EU), kokosnötsextrakt, YOGHURT 5,5 %, GRÄDDE, lök 4 %, koncentrerad tomatpuré, rapsolja, stärkelse, russin 1 %, socker, örter, kryddor, salt, solrosolja, arom, förtjockningsmedel (E 415), konserveringsmedel (E 202), limejuice. Kan innehålla spår av mandel, hassel-, val-, cashew-, pekan-, para-, pistage-, macadamia- och jordnötter.Förpackad i en skyddande atmosfär.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156597052",
+      "name": "Korv stroganoff med ris 400g",
+      "company": "Coop",
+      "ingredients": "Korv stroganoff 50% (korv (nöt-° och griskött° 65%, vatten, fett från gris°, potatismjöl, salt, kryddor, lökpulver, stabiliseringsmedel (E 450)), MJÖLK°, lök, CRÈME FRAICHE°, tomatpuré, GRÄDDE°, dijonsenap (vatten, SENAPSFRÖ, brännvinsättika, salt), modifierad potatisstärkelse, köttbuljong (salt, naturlig arom, maltodextrin, jästextrakt, socker, nötköttbuljongpulver, potatisstärkelse, lökpulver, karameliserad sockersirap, nötköttextrakt, gurkmeja, vitpeppar), salt, paprikapulver, svartpeppar), kokt basmatiris 50% (ris, rapsolja, salt). Rätten innehåller 20% korv. °Ursprung: Sverige.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -3330,7 +3400,7 @@
     },
     {
       "id": "7393914000161",
-      "name": "Pasta carbonara med rökt sidfläsk 380 g",
+      "name": "Pasta carbonara med rökt sidfläsk 380g",
       "company": "Gooh",
       "ingredients": "Kokt tagliatelle (36%) (durumVETEMJÖL, ÄGG), vatten, rökt sidfläsk (14%) (sidfläsk*, vatten, salt, druvsocker, stabiliseringsmedel (E451), antioxidationsmedel (natriumaskorbat), konserveringsmedel (E250)), GRÄDDE, CRÈME FRAICHE, lök, parmesanOST (3%), modifierad potatisstärkelse, vitlök, spenat, salt (jod), svartpeppar. *Ursprung: Sverige.",
       "gluten": "Glutenfri [ Nej ]"
@@ -3414,7 +3484,7 @@
     },
     {
       "id": "7393914000147",
-      "name": "Köttbullar med potatismos & gräddsås 400g",
+      "name": "Köttbullar med Potatismos, Gräddsås 400g",
       "company": "Gooh",
       "ingredients": "Köttbullar (29%) (fläsk*- och nötkött* (80%), ströbröd (VETE), potatis, lök, ÄGG, salt, potatismjöl, torkad lök, kryddor, socker, MJÖLKpulver), potatis (27%), vatten, MJÖLK, GRÄDDE (5,7%), SMÖR, kalvfond (vatten, salt, köttextrakt, tomatpulver, arom, kalvbuljong, modifierad potatisstärkelse), lök, salt (jod), modifierad potatisstärkelse, socker, bacon (sidfläsk*, vatten, salt, druvsocker, stabiliseringsmedel (E451), antioxidationsmedel (natriumaskorbat), konserveringsmedel (E250)), ättika, vitpeppar. *Ursprung: Sverige.",
       "gluten": "Glutenfri [ Nej ]"
@@ -19976,9 +20046,9 @@
     },
     {
       "id": "7310960713654",
-      "name": "Pan Pizza Original 170g",
+      "name": "Billys Pan Pizza Original",
       "company": "Billys",
-      "ingredients": "VETEMJÖL (innehåller askorbinsyra, malt av KORN), OST, griskött* (9%), vatten, tomatpuré, rapsolja, potatismjöl, socker, salt, modifierad stärkelse, kryddor, jäst, vitvinsvinäger, antioxidationsmedel (E300, E331), rosmarin, stabiliseringsmedel E451, konserveringsmedel E250. *Ursprung: EU.",
+      "ingredients": "VETEMJÖL, OST, vatten, griskött, tomatpuré, rapsolja, socker, potatismjöl, salt, modifierad stärkelse, jäst, vitvinsvinäger, kryddor, kryddextrakt, antioxidationsmedel E300, konserveringsmedel E250. Kött: 10%",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -20788,7 +20858,7 @@
     },
     {
       "id": "7310090755692",
-      "name": "Risgrynsgröt 500g",
+      "name": "Felix Risgröt 500g",
       "company": "Felix",
       "ingredients": "MJÖLK**, ris (14%), vatten**, socker** och salt. **Svenskt ursprung.",
       "gluten": "Glutenfri [ Ja ]"
@@ -20816,9 +20886,9 @@
     },
     {
       "id": "5760466878234",
-      "name": "Kelda Mild tomatsoppa 3% 500ml",
-      "company": "Kelda",
-      "ingredients": "I en förpackning på 5 dl har vi använt: 2 ½ dl grönsaksbuljong (vatten, salt, lök, palsternacka, morot, tomat, libbsticka, paprika, savoykål, purjolök, lagerblad, timjan, cayennepeppar), 130 g tomatpuré, ½ dl mjölk, 2 ½ msk grädde, ½ msk modifierad potatisstärkelse, socker, mald oregano, salviaextrakt, vitlökspulver, mald vitpeppar. Mängden tomatpuré motsvarar 62% färska tomater.",
+      "name": "Tomatsoppa Mild 500ml",
+      "company": "Kelda®",
+      "ingredients": "Grönsaksbuljong (vatten, salt, lök, palsternacka, socker, morot, tomat, libbsticka, paprika, savoykål, purjolök, lagerblad, timjan, cayennepeppar), tomatpuré* 26%, MJÖLK, GRÄDDE, modifierad stärkelse, salt, socker, oregano, salviaextrakt, vitlökspulver, vitpeppar. *Mängden tomatpuré motsvarar 62% färska tomater.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -20830,9 +20900,9 @@
     },
     {
       "id": "7310090752691",
-      "name": "Ärtsoppa med fläsk 500g",
-      "company": "FELIX",
-      "ingredients": "Vatten, gula ärter (25%), griskött (10%) rimmat med salt innehållande konserveringsmedel (natriumnitrit), salt och kryddor (bl.a. SENAPSFRÖ och timjan).",
+      "name": "Felix Ärter med fläsk 500g",
+      "company": "Felix",
+      "ingredients": "Vatten, gula ärter (25%), griskött (10%) rimmat med salt innehållande konserveringsmedel (natriumnitrit), salt och kryddor (bl.a. SENAPSFRÖ och timjan). Gula ärter och griskött kommer från Sverige.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
