@@ -137,67 +137,18 @@
   "date": "2026-10-02",
   "list": [
     {
-      "id": "7300400115636",
-      "name": "Knäckebröd Runda Kanel 330g",
-      "company": "Wasa",
-      "ingredients": "VETEmjöl 81%, socker, jäst, solrosfröolja, salt, kanel 0,7%, emulgeringsmedel (monooch diglycerider av fettsyror). Kan innehålla spår av LUPIN, MJÖLK, SENAP, SESAMFRÖN och SOJABÖNOR",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7311070004144",
-      "name": "Müslibröd 650g",
-      "company": "Pågen",
-      "ingredients": "VETEmjöl, vatten, fullkornsVETEmjöl*, HAVREflingor (6,2%), sirap, poppade RÅGkärnor*, groddade RÅGkärnor*, VETEgluten, solrosfrön (2,2%), VETEgroddar, surdeg på VETE, fermenterat VETEmjöl, kallpressad rapsolja, gula linfrön, linfrö, malt av KORN, VETEkli, jäst, salt, mjölbehandlingsmedel (askorbinsyra). *Brödet innehåller 26% fullkorn",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7314710120006",
-      "name": "Hallonkransar 600g",
-      "company": "Gille",
-      "ingredients": "VETEMJÖL, margarin (vegetabiliska fetter och oljor (palm*, shea, raps, kokos), vatten, salt, emulgeringsmedel: mono- och diglycerider av vegetabiliska fettsyror, naturlig arom, antioxidationsmedel: citronsyra), socker, hallonfyllning 12 % (socker, vatten, hallonpuré 10 %, äppelkoncentrat, förtjockningsmedel: modifierad stärkelse (tapioka), pektin; färgämne: lila morotkoncentrat; surhetsreglerande medel: citronsyra; konserveringsmedel: kaliumsorbat; naturlig hallon arom), invertsockersirap, vatten, arom, mjölbehandlingsmedel: askorbinsyra. Kan innehålla spår av ägg och mandel. *Hållbart producerad och certifierad.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7311379532072",
-      "name": "Korvbröd 10-pack 270g",
-      "company": "Korvbrödsbagarn",
-      "ingredients": "VETEMJÖL*, vatten*, invertsocker*, rapsolja*, jäst*, VETEGLUTEN, salt, fermenterat VETEMJÖL, maltmjöl av KORN, vegetabiliskt emulgeringsmedel (E471), mjölbehandlingsmedel (E300). Kan innehålla spår av sesamfrö. *råvaran har svenskt ursprung.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7311070001952",
-      "name": "Rasker Fullkorn 1100g",
-      "company": "Pågen",
-      "ingredients": "VETEmjöl, vatten, fullkornsVETEmjöl*, surdeg på fullkornsRÅG* och VETE, klippt fullkornsRÅG* (6%), siktat RÅGmjöl, VETEgluten, solrosfrö (2%), fermenterat VETEmjöl, HAVREfiber, rapsolja, sirap, malt av KORN, jäst, salt, mjölbehandlingsmedel (askorbinsyra). *Brödet innehåller 25% fullkorn.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7311070008609",
-      "name": "Surdegsbröd Kärnsund 700g",
-      "company": "Pågen",
-      "ingredients": "Vetemjöl, vatten, fullkornsvetemjöl*, groddade rågkärnor (12%), surdeg på fullkornsråg* och vete (10%), klippt fullkornsråg*, vetegluten, malt av korn, rågskållning*, kallpressad rapsolja (1%), jäst, salt, mjölbehandlingsmedel (askorbinsyra). *Brödet innehåller 39% fullkorn.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7310521053106",
-      "name": "Brago 225g",
-      "company": "Brago",
-      "ingredients": "VETEMJÖL/HVEDEMEL, socker, vegetabilisk olja*, VETESTÄRKELSE/HVEDESTIVELSE, sirap, salt, bakpulver/hævemiddel (natriumbikarbonat, hjorthornssalt E503), emulgeringsmedel (lecitin), aromer. *För info om vilken olja som använts se www.goteborgskex.se/ravaror.",
-      "gluten": "Glutenfri [ Nej ]"
-    },
-    {
-      "id": "7330242200658",
-      "name": "Glutenfria Kanelbullar 4-pack 4",
-      "company": "Fria",
-      "ingredients": "GLUTENFRI VETESTÄRKELSE, socker, vatten, rapsolja, jäst, GLUTENFRITT MALTEXTRAKT (KORN), förtjockningsmedel (cellulosagummi, guarkärnmjöl, xantangummi), psylliumfröskal, kanel, kardemumma, äppelfiber, maltodextrin (majs), emulgeringsmedel (mono- och diglycerider av fettsyror [veg.], lecitin [raps]), modifierad potatisstärkelse, glukossirap, ärtprotein, potatisgranulat, majsstärkelse, fullhärdad rapsolja, salt, aromer. KAN INNEHÅLLA SPÅR AV ÄGG",
+      "id": "7350065513773",
+      "name": "Dillkött Med Gourmetpotatis Eko 400g",
+      "company": "Grön Ko",
+      "ingredients": "Potatis* 33%, nötkött* 20%, vatten, morot* 7%, GRÄDDE*, MJÖLK*, köttbuljong* (vatten, nötkött*, rapsolja*, salt, potatismjöl*, svartpeppar*), potatisstärkelse*, dill* 1,3%, SMÖR*, rapsolja*, purjolök*, salt, socker*, vitvinsvinäger*, ättika*, naturlig arom, vitpeppar*. *Ekologisk ingrediens. Nötkött från djur fött, uppfött och slaktat i Sverige.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
-      "id": "7391288218007",
-      "name": "Grekiskt Bröd 600g",
-      "company": "Bonjour",
-      "ingredients": "VETEMJÖL, vatten, DURUMVETEMJÖL, jäst/gjær, VETEGLUTEN, torkad surdeg av VETE, salt, vegetabilisk olja (raps), malt av KORN/BYGG, surdeg av RÅG [vatten, RÅGMJÖL], fruktsocker, emulgeringsmedel (E472e), mjölbehandlingsmedel (E300). Kan innehålla spår av mjölk, valnötter.",
-      "gluten": "Glutenfri [ Nej ]"
+      "id": "7350065513780",
+      "name": "Fläsklägg Med Rotmos 400g",
+      "company": "Grön Ko",
+      "ingredients": "Kålrot 32%, potatis 32%, fläsklägg 28% (lägg av gris*, lagerblad, krydd- peppar, vatten, salt, socker, antioxidationsmedel (natriumcitrat, askorbat), konserveringsmedel (natriumnitrit)), morot, buljong från fläsklägg (vatten, lägg av gris*, lagerblad, kryddpeppar, salt, socker, antioxidationsmedel (natriumcitrat, askorbat), konserveringsmedel (natriumnitrit)), SMÖR, persilja, grönsaksbuljong (salt, maltodextrin, grönsakspulver (palsternacka, blomkål, lök, purjolök, vitlök, vitkål, morotsjuice, libbstickarot, persiljerot), naturlig arom, extra jungfruolivolja, arom, svampjuicekoncentrat), vitpeppar. *Griskött från djur fött, uppfött och slaktat i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7310072000581",
@@ -3463,7 +3414,7 @@
     },
     {
       "id": "7393914000147",
-      "name": "Köttbullar med Potatismos, Gräddsås 400g",
+      "name": "Köttbullar med potatismos & gräddsås 400g",
       "company": "Gooh",
       "ingredients": "Köttbullar (29%) (fläsk*- och nötkött* (80%), ströbröd (VETE), potatis, lök, ÄGG, salt, potatismjöl, torkad lök, kryddor, socker, MJÖLKpulver), potatis (27%), vatten, MJÖLK, GRÄDDE (5,7%), SMÖR, kalvfond (vatten, salt, köttextrakt, tomatpulver, arom, kalvbuljong, modifierad potatisstärkelse), lök, salt (jod), modifierad potatisstärkelse, socker, bacon (sidfläsk*, vatten, salt, druvsocker, stabiliseringsmedel (E451), antioxidationsmedel (natriumaskorbat), konserveringsmedel (E250)), ättika, vitpeppar. *Ursprung: Sverige.",
       "gluten": "Glutenfri [ Nej ]"
@@ -20025,9 +19976,9 @@
     },
     {
       "id": "7310960713654",
-      "name": "Billys Pan Pizza Original",
+      "name": "Pan Pizza Original 170g",
       "company": "Billys",
-      "ingredients": "VETEMJÖL, OST, vatten, griskött, tomatpuré, rapsolja, socker, potatismjöl, salt, modifierad stärkelse, jäst, vitvinsvinäger, kryddor, kryddextrakt, antioxidationsmedel E300, konserveringsmedel E250. Kött: 10%",
+      "ingredients": "VETEMJÖL (innehåller askorbinsyra, malt av KORN), OST, griskött* (9%), vatten, tomatpuré, rapsolja, potatismjöl, socker, salt, modifierad stärkelse, kryddor, jäst, vitvinsvinäger, antioxidationsmedel (E300, E331), rosmarin, stabiliseringsmedel E451, konserveringsmedel E250. *Ursprung: EU.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -20837,7 +20788,7 @@
     },
     {
       "id": "7310090755692",
-      "name": "Felix Risgröt 500g",
+      "name": "Risgrynsgröt 500g",
       "company": "Felix",
       "ingredients": "MJÖLK**, ris (14%), vatten**, socker** och salt. **Svenskt ursprung.",
       "gluten": "Glutenfri [ Ja ]"
@@ -20879,9 +20830,9 @@
     },
     {
       "id": "7310090752691",
-      "name": "Felix Ärter med fläsk 500g",
-      "company": "Felix",
-      "ingredients": "Vatten, gula ärter (25%), griskött (10%) rimmat med salt innehållande konserveringsmedel (natriumnitrit), salt och kryddor (bl.a. SENAPSFRÖ och timjan). Gula ärter och griskött kommer från Sverige.",
+      "name": "Ärtsoppa med fläsk 500g",
+      "company": "FELIX",
+      "ingredients": "Vatten, gula ärter (25%), griskött (10%) rimmat med salt innehållande konserveringsmedel (natriumnitrit), salt och kryddor (bl.a. SENAPSFRÖ och timjan).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
