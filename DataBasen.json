@@ -137,6 +137,83 @@
   "date": "2026-10-02",
   "list": [
     {
+      "id": "7312920094902",
+      "name": "Risgrynsgröt 6x1000g",
+      "company": "LECORA",
+      "ingredients": "MJÖLK, ris 15%, vatten, socker, SMÖR, salt, konserveringsmedel (kaliumsorbat).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7321574693874",
+      "name": "Risgrynsgröt KRAV 1 kg",
+      "company": "Martin & Servera",
+      "ingredients": "MJÖLK* 68 % , grötris* 14 %, vatten, socker*, salt, smör*. * = KRAV-ekologiskt ingrediens.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7312920094957",
+      "name": "Risgröt Laktosfri 500g",
+      "company": "LECORA",
+      "ingredients": "Laktosfri MJÖLK, ris 18%, vatten, socker, rapsolja, salt, konserveringsmedel (kaliumsorbat).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310100564818",
+      "name": "Fiberbaguetter GF 300g",
+      "company": "Semper",
+      "ingredients": "Produktsammansättningen kan ändras, läs därför alltid ingrediensförteckningen på förpackningen. SE/NO/DK Ingredienser: Vetestärkelse/hvete-/hvedestivelse, vatten/vann, skummjölks-/skummetmelkpulver, socker/sukker, vegetabilisk olja (raps, palm), jäst/gær, förtjockningsmedel/fortykningsmiddel (E412, E460, E464), fiber av sockerbeta/sukkerroe, salt, bakpulver/hævemidler (E575, E500), konserveringsmedel (E200),mineralämne/mineral (järn/jern), vitaminer (tiamin, riboflavin, niacin, B6, folsyra/folinsyre).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350006712920",
+      "name": "Protein Bar Hallon & Lakrits 55 g",
+      "company": "Dalblads",
+      "ingredients": "Vassleproteinisolat (MJÖLK), glukossirap, fruktossirap, överdrag (socker, vegetabilisk olja och fett (palm, shea), fettreducerad kakao, emulgeringsmedel (lecitin, sorbitantristearat), arom), mörk choklad (kakaomassa, socker, kakaosmör, emulgeringsmedel (lecitin), arom), vit choklad (socker, kakaosmör, HELMJÖLKSPULVER, emulgeringsmedel (lecitin), arom), MJÖLKPROTEIN, ÄGGVITEPROTEIN, solrosolja, frystorkade hallon (0,9 %), arom, salmiak, färgämne (vegetabiliskt kol, rödbetsrött), surhetsreglerande medel (citronsyra), emulgeringsmedel (SOJALECITIN). Kan innehålla spår av sojaprotein.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "6430031895131",
+      "name": "Kycklingsoppa koncentrat 3 kg",
+      "company": "Feelia",
+      "ingredients": "Potatis, kycklingkött 18 % [kycklinglårkött (Finland), vatten, joderat salt, stabiliseringsmedel (E450, E451), dextros, maltodextrin, arom], paprika, morot, palsternacka, lök, purjolök, joderat salt, hönsbuljong [maltodextrin, salt, naturlig arom, lök, malt kycklingkött, antioxidationsmedel (rosmarinextrakt)], currypulver, vitpeppar.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6430031895056",
+      "name": "Laxsoppa koncentrat 3 kg",
+      "company": "Feelia",
+      "ingredients": "Potatis, LAX eller REGNBÅGSLAX 23 % (Norge, Sverige eller Finland), lök, purjolök, joderat salt, kryddpeppar. Laxhalt till färdig soppa 14 %. Det kan finnas fiskben kvar",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7312920096715",
+      "name": "Svartsoppa 500g",
+      "company": "LECORA",
+      "ingredients": "Vatten, blodprotein (nöt/gris), äpplejuice, äpplepulver, socker, VETEMJÖL, modifierade potatisstärkelse, ananaspulver, krydda, kryddextrakt (innehåller SELLERI), arom, sirap, rödvinsextrakt, vin, salt, jästextrakt, konserveringsmedel (kaliumsorbat), smakförstärkare (E621).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350045950642",
+      "name": "Svartsoppa 500g",
+      "company": "Snapphane Chark",
+      "ingredients": "Vatten, kryddmix (rismjöl, blodprotein (från gris, nöt), socker, äpplepulver, konserveringsmedel (E220), jästextrakt, salt, kryddnejlika, kanel, peppar, ingefära), madeira vin, (rött vin, starkvin, salt, antioxidationsmedel (E353), E202, E220, (SULFIT), E300, ättika",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392497954465",
+      "name": "Klassisk skaldjurssoppa MSC 2,5kg",
+      "company": "FELDTS",
+      "ingredients": "Skaldjursfond (vatten, RÄKSKAL MSC 17,6%, morot, gullök, tomatpuré, vitlök, fänkål, lagerblad), GRÄDDE, dill, salt, citronkoncentrat (citronjuice från koncentrat, konserveringsmedel (E224)), rapsolja, xantangummi, kaliumsorbat, vitpeppar",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7312920096708",
+      "name": "Svartsoppa 1000g",
+      "company": "LECORA",
+      "ingredients": "Vatten, blodprotein (nöt/gris), äpplejuice, äpplepulver, socker, VETEMJÖL, modifierade potatisstärkelse, ananaspulver, krydda, kryddextrakt (innehåller SELLERI), arom, sirap, rödvinsextrakt, vin, salt, jästextrakt, konserveringsmedel (kaliumsorbat), smakförstärkare (E621).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
       "id": "7350065513827",
       "name": "Fiskgryta Bouillabaisse 400g",
       "company": "Grön Ko",
@@ -14271,16 +14348,16 @@
     },
     {
       "id": "7312920094988",
-      "name": "Risgrynsgröt Utan tillsatt socker 500g Lecora",
-      "company": "Lecora",
-      "ingredients": "Mjölk, grötris, vatten, smör, salt, konserveringsmedel E 202.",
+      "name": "Risgröt u.t socker 500g",
+      "company": "LECORA",
+      "ingredients": "MJÖLK, ris 14%, vatten, SMÖR, salt, konserveringsmedel (kaliumsorbat).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7312920060518",
-      "name": "Risgrynsgröt 500g KRAV Lecora",
-      "company": "Lecora",
-      "ingredients": "MJÖLK*, ris* , vatten, socker* 1%, SMÖR*, salt. * = Kravgodkända råvaror",
+      "name": "Risg.gröt KRAV 500g",
+      "company": "LECORA",
+      "ingredients": "MJÖLK*, ris* 14%, vatten, socker*, salt , SMÖR*. * = KRAV - godkända råvaror",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -20858,8 +20935,8 @@
     },
     {
       "id": "7310090755692",
-      "name": "Felix Risgröt 500g",
-      "company": "Felix",
+      "name": "Risgröt 500 g",
+      "company": "FELIX",
       "ingredients": "MJÖLK**, ris (14%), vatten**, socker** och salt. **Svenskt ursprung.",
       "gluten": "Glutenfri [ Ja ]"
     },
