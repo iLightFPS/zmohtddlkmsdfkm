@@ -134,8 +134,869 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "list": [
+    {
+      "id": "7310072000581",
+      "name": "Festis Hallon 3-pack Eko 600ml",
+      "company": "Festis",
+      "ingredients": "Vatten, äppeljuice från koncentrat (7%)*, socker*, hallonjuice från koncentrat (0,5%)*, syra (citronsyra), naturlig hallonarom. *Ekologisk ingrediens",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310072000598",
+      "name": "Festis Apelsin 3-pack Eko 600ml",
+      "company": "Festis",
+      "ingredients": "Vatten, apelsinjuice från koncentrat (7.5 %)*, socker*, surhetsreglerande medel (citronsyra), naturlig apelsinarom, antioxidationsmedel (askorbinsyra). *Ekologisk ingrediens",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310072000604",
+      "name": "Festis Päron 3-pack Eko 600ml",
+      "company": "Festis",
+      "ingredients": "Vatten, päronjuice från koncentrat (8%)*, socker*, surhetsreglerande medel (citronsyra), naturlig päronarom. *Ekologisk ingrediens",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7331631010810",
+      "name": "Salamichips Classic 80gr",
+      "company": "PAUL och THOM",
+      "ingredients": "Griskött*, salt, torkad glukossirap, kryddor (vitlök, vitpeppar, muskotnöt, koriander, ingefära, muskotblomma), dextros, antioxidationsmedel: E300; konserveringsmedel: E250; startkultur. *Ursprung: EU. För tillverkning av 100 gram salami chips har 155 gram griskött använts.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7331631010827",
+      "name": "Salamichips Chili 80g",
+      "company": "PAUL och THOM",
+      "ingredients": "Griskött*, kryddor (vitpeppar, paprika, chili (0,4%), vitlök, koriander, muskotnöt, ingefära, muskotblomma), salt, torkad glukossirap, dextros, paprikaextrakt, antioxidationsmedel: E300; konserveringsmedel: E250; startkultur. *Ursprung: EU. För tillverkning av 100 gram salami chips har 155 gram griskött använts.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5707196274165",
+      "name": "Salamichips Chili 80g",
+      "company": "GØL",
+      "ingredients": "Näringsvärdesanalyser och deklarationer kontrolleras kontinuerligt och uppdateras vid behov, läs därför alltid ingrediensförteckningen på förpackningen. Ingredienser: Griskött, grisfett, salt, chili, kryddor, kryddextrakt, aromer, glukos, färgämne (E 120), antioxidationsmedel (E 316), konserveringsmedel (E 250), startkultur. Till 100 g färdigvara har använts 160 g griskött.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5707196274196",
+      "name": "Salamichips Garlic 80g",
+      "company": "GØL",
+      "ingredients": "Näringsvärdesanalyser och deklarationer kontrolleras kontinuerligt och uppdateras vid behov, läs därför alltid ingrediensförteckningen på förpackningen. Ingredienser: Griskött, grisfett, salt, vitlök, kryddor, kryddextrakt, aromer, glukos, färgämne (E 120), antioxidationsmedel (E 316), konserveringsmedel (E 250), startkultur. Till 100 g färdigvara har använts 160 g griskött.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5707196274134",
+      "name": "Salami Chips Classic 80g",
+      "company": "GØL",
+      "ingredients": "Näringsvärdesanalyser och deklarationer kontrolleras kontinuerligt och uppdateras vid behov, läs därför alltid ingrediensförteckningen på förpackningen. Ingredienser: Griskött, grisfett, salt, kryddor, kryddextrakt, aromer, glukos, färgämne (E 120), antioxidationsmedel (E 316), konserveringsmedel (E 250), startkultur. Till 100 g färdigvara har använts 160 g griskött.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2317417300004",
+      "name": "Äpple Royal Gala 160g",
+      "company": "Klass 1. Italien",
+      "ingredients": "eller ämnen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2317468800003",
+      "name": "Paprika Röd 200g",
+      "company": "Klass 1. Nederländerna",
+      "ingredients": "eller ämnen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2339401100001",
+      "name": "Banan Styck Eko 190g",
+      "company": "Klass 1. Ecuador",
+      "ingredients": "eller ämnen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191180741",
+      "name": "Plommontomater 400g",
+      "company": "Coop",
+      "ingredients": "Plommontomater 60 % (Italien), tomatjuice (tomater: Italien).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191165861",
+      "name": "Lingonsylt Refill 700g",
+      "company": "Coop",
+      "ingredients": "Lingon (EU (Sverige och/eller Finland)), vatten, socker, förtjockningsmedel (E 440), konserveringsmedel (E 202). Fruktmängd: 45 g per 100 g.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156598233",
+      "name": "Rårörda lingon 620g",
+      "company": "Coop",
+      "ingredients": "Lingon°, socker°, vatten, förtjockningsmedel (E 440). °Ursprung: Sverige. Tillverkat av 48 g lingon per 100 g sylt. Total mängd socker 43 g per 100 g sylt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310340002279",
+      "name": "Strösocker 2000g",
+      "company": "DAN SUKKER",
+      "ingredients": "Socker.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191135680",
+      "name": "Krossade tomater Eko 390g",
+      "company": "Änglamark",
+      "ingredients": "Skalade och krossade tomater** 65% (Italien), tomatjuice** 35% (tomat: Italien), surhetsreglerande medel (E 330 citronsyra ). **KRAV-ekologisk ingrediens. KRAV-märkningen verifieras av Kiwa.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191144880",
+      "name": "Pasta Tagliatelle med ägg 500g",
+      "company": "Coop",
+      "ingredients": "DURUMVETE , ÄGG (från frigående höns) 19 %. Kan innehålla spår av soja och senap.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191156111",
+      "name": "Pizzasås 390g",
+      "company": "Coop",
+      "ingredients": "Tomatpuré 38% (EU), vatten, tomater 14% (Italien), lök, solrosolja, modifierad majsstärkelse, salt, vinäger, socker, vitlökspulver, kryddört- och kryddextrakt, surhetsreglerande medel (E 330).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191170438",
+      "name": "Krossade tomater Chili 390g",
+      "company": "Coop",
+      "ingredients": "Skalade och krossade tomater 69 % (Italien), tomatjuice 30 % (tomat: Italien), vitlök, chili, basilika, oregano, surhetsreglerande medel (E 330).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191170407",
+      "name": "Tomater Krossade 390g",
+      "company": "Xtra",
+      "ingredients": "Skalade, krossade tomater 60 % (Italien), tomatjuice 40 % (tomat: Italien), surhetsreglerande medel (E 330).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191171473",
+      "name": "Körsbärstomater hela 400g",
+      "company": "Coop",
+      "ingredients": "Körsbärstomater 60 % (Italien), tomatjuice 40 % (tomater: Italien).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311311021183",
+      "name": "Tortilla Large 12-pack 742g",
+      "company": "Santa Maria",
+      "ingredients": "VETEMJÖL (72%), vatten, rapsolja, fuktighetsbevarande medel (E422), salt, emulgeringsmedel (E471), bakpulver (natriumkarbonater), surhetsreglerande medel (citronsyra), sockerbetsfiber.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191163232",
+      "name": "Strösocker 2000g",
+      "company": "Coop",
+      "ingredients": "Socker (Sockerbetor: EU).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191149564",
+      "name": "Majs Sweet corn 340g",
+      "company": "Coop",
+      "ingredients": "Majskorn (Ungern), vatten, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5000157024671",
+      "name": "Vita Bönor I Tomatsås 415g",
+      "company": "Heinz",
+      "ingredients": "Bönor (50%), vatten, tomatpuré (15%), socker, modifierad majsstärkelse, ättika, salt, krydd- och örtextrakt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156599452",
+      "name": "Havregryn 1500g",
+      "company": "Coop",
+      "ingredients": "HAVREGRYN°* (ångpreparerade och valsade). °Ursprung: Sverige. *Fullkorn 100%.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191170445",
+      "name": "Krossade tomater Vitlök 390g",
+      "company": "Coop",
+      "ingredients": "Skalade, krossade tomater 67 % (Italien), tomatjuice 30 % (tomat: Italien), vitlök 2,7 %, oregano, surhetsreglerande medel (E 330).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191139152",
+      "name": "Snabbnudlar Biff 85g",
+      "company": "Coop",
+      "ingredients": "VETEMJÖL (vete: Litauen), solrosolja, salt, stärkelse, smakförstärkare (E 621, E 635), socker, aromer, LAKTOS , nötkött (EU), morötter, SOJABÖNOR , VETE , vårlök, bakpulver (E 500, E 501), chilipeppar, maltodextrin, svartpeppar, antioxidationsmedel (E 300), färgämne (E 150c), rapsolja. Kan innehålla spår av kräftdjur, selleri och senap.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191170452",
+      "name": "Krossade tomater Örter 390g",
+      "company": "Coop",
+      "ingredients": "Tomater 65 % (Italien), tomatpuré 34 % (tomat: Italien), basilika, oregano, surhetsreglerande medel (E 330).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191170896",
+      "name": "Passerade tomater 500g",
+      "company": "Coop",
+      "ingredients": "Passerade tomater utan skal och kärnor (EU), surhetsreglerande medel (E 330).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8076804215058",
+      "name": "Pasta Spaghetti 1000g",
+      "company": "Barilla",
+      "ingredients": "DURUMVETE, vatten. Kan innehålla spår av SOJABÖNOR och SENAP.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340011317869",
+      "name": "Äggnudlar 250g",
+      "company": "Coop",
+      "ingredients": "VETEMJÖL 83% (vete: Kina), vatten, D URUMVETE, ÄGG 3% (från utehöns) (Kina), salt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191149557",
+      "name": "Majs 3-pack 165g",
+      "company": "Coop",
+      "ingredients": "Majskorn (Ungern), vatten, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191170414",
+      "name": "Krossade tomater 390g",
+      "company": "Coop",
+      "ingredients": "Skalade, krossade tomater 65 % (Italien), tomatjuice 35% (tomat: Italien), surhetsreglerande medel (E 330).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311311021121",
+      "name": "Tortilla Small 8-pack 200g",
+      "company": "Santa Maria",
+      "ingredients": "VETEMJÖL (72%), vatten, fuktighetsbevarande medel (E422), rapsolja, salt, emulgeringsmedel (E471), bakpulver (natriumkarbonater), surhetsreglerande medel (citronsyra), sockerbetsfiber.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191134980",
+      "name": "Majs Eko 3-pack 450g",
+      "company": "Änglamark",
+      "ingredients": "Majskorn** (Ungern), vatten, salt. **KRAV-ekologisk ingrediens. KRAV-märkningen verifieras av KIWA.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5997523312176",
+      "name": "Snabbnudlar Soba Chili 92g",
+      "company": "Nissin",
+      "ingredients": "Nudlar 71,7% [VETEmjöl 73,5%, palmolja, salt, smakförstärkare (E621), surhetsreglerande medel (natriumkarbonater, citronsyra), stabiliseringsmedel (E451), antioxidationsmedel (E306)], Kryddsås 20,7% [socker, vatten, dextros, rapsolja, smakförstärkare (E621, E635), vinäger, sojasås (vatten, SOJABÖNOR, salt, VETE), melass, färgämne (E150c), salt, kryddor, hydrolyserat majsprotein, tomatpulver, aromer, surhetsreglerande medel (citronsyra), chilipulver (0,5% i kryddsås)], kål, röd paprika. Kan innehålla spår av SELLERI, KRÄFTDJUR, FISK, MJÖLK, BLÖTDJUR, SENAP och SESAMFRÖN.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8005110172106",
+      "name": "Tomater Krossade 210g",
+      "company": "Mutti",
+      "ingredients": "Tomat 99,8%, salt",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5997523312152",
+      "name": "Sanbbnudlar Soba Classic 90g",
+      "company": "Nissin",
+      "ingredients": "Nudlar 72,3% [VETEmjöl 73,5%, palmolja, salt, smakförstärkare (E621), surhetsreglerande medel (natriumkarbonater, citronsyra), stabiliseringsmedel (E451), antioxidationsmedel (E306)], Kryddsås 19,9% [socker, vatten, rapsolja, sojasås (vatten, SOJABÖNOR, salt, VETE), smakförstärkare (E621, E635), färgämne (E150c), dextros, melass, vinäger, salt, kryddor, hydrolyserat majsprotein, tomatpulver, modifierad stärkelse, surhetsreglerande medel (citronsyra), aromer], kål, kycklingköttbitar. Kan innehålla spår av SELLERI, KRÄFTDJUR, FISK, MJÖLK, BLÖTDJUR, SENAP och SESAMFRÖN.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191135611",
+      "name": "Tomater Passerade Eko 500g",
+      "company": "Änglamark",
+      "ingredients": "Passerade tomater** utan skal och kärnor (Italien), surhetsreglerande medel (E 330 citronsyra). **KRAV-ekologisk ingrediens. KRAV-märkningen verifieras av Kiwa.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191149069",
+      "name": "Ramennudlar 250g",
+      "company": "Coop",
+      "ingredients": "VETEMJÖL (vete: Kina), salt.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310470065106",
+      "name": "Hallonkräm 1000ml",
+      "company": "Ekströms",
+      "ingredients": "Vatten, socker, hallon, äppeljuice från koncentrat, förtjockningsmedel (modifierad potatisstärkelse och pektin), druvjuice från koncentrat, vitamin C, naturlig arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5997523328238",
+      "name": "Snabbnudlar Soba Teriyaki 110g",
+      "company": "Nissin",
+      "ingredients": "Nudlar 83,3% [VETEmjöl, palmolja, salt, surhetsreglerande medel (natriumkarbonater, kaliumkarbonater), stabiliseringsmedel (trifosfater), förtjockningsmedel (guarkärnmjöl), antioxidationsmedel (tokoferolrika extrakt)], Kryddsås 16,0% [sojasås (vatten, SOJABÖNOR, salt, VETE), socker, rapsolja, dextros, smakförstärkare (mononatriumglutamat, dinatrium-5'-ribonukleotider), hydrolyserat majsprotein, kryddor, färgämne (sockerkulör), kycklingköttspulver, modifierad stärkelse, aromer (innehåller SELLERI)], purjolök. Kan innehålla spår av KÄRFTDJUR, FISK, MJÖLK, BLÖTDJUR, SENAP och SESAMFRÖN.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "3254474020683",
+      "name": "Majs Extra Crispy 160g",
+      "company": "Green Giant",
+      "ingredients": "Majs, vatten/vann, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191109292",
+      "name": "Sushi Rice 500g",
+      "company": "Coop",
+      "ingredients": "Rundkornigt ris. Risets ursprung: Se kod vid Bäst före-datumet. IT=Italien, ES=Spanien, GR=Grekland, US=USA, VN=Vietnam, RO=Rumänien, PT=Portugal, KH=Kambodja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191141629",
+      "name": "Ris med tomat & kryddörter 250g",
+      "company": "Coop",
+      "ingredients": "Vatten, långkornigt ris 35%, tomater 10%, tomatkoncentrat, solrosolja, tomatpulver, paprikaextrakt, citronjuice, basilika, salt, jästextrakt, rosmarin, oregano, gurkmeja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311311021169",
+      "name": "Tortilla Large 6-pack 371g",
+      "company": "Santa Maria",
+      "ingredients": "VETEMJÖL (72%), vatten, rapsolja, fuktighetsbevarande medel (E422), salt, emulgeringsmedel (E471), bakpulver (natriumkarbonater), surhetsreglerande medel (citronsyra), sockerbetsfiber.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300156599438",
+      "name": "Fiberhavregryn 1500g",
+      "company": "Coop",
+      "ingredients": "HAVREGRYN°* 87% (klippta, ångpreparerade och valsade), VETEKLI° 13% (ångpreparerat). °Ursprung: Sverige. *Fullkorn 87%.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "4008671728694",
+      "name": "Snabbitsocker 1000g",
+      "company": "DAN SUKKER",
+      "ingredients": "Socker.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8005110413544",
+      "name": "Tomater Hela Eko 400g",
+      "company": "Mutti",
+      "ingredients": "ekologiska skalade tomater, ekologisk tomatjuice, surhetsreglerande medel: citronsyra",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5997523328092",
+      "name": "Snabbnudlar Soba Chili 111g",
+      "company": "Nissin",
+      "ingredients": "Nudlar 82,2% [VETEmjöl, palmolja, salt, surhetsreglerande medel (natriumkarbonater, kaliumkarbonater), stabiliseringsmedel (trifosfater), förtjockningsmedel (guarkärnmjöl), antioxidationsmedel (tokoferolrika extrakt)], Kryddsås 17,1% [socker, vatten, dextros, rapsolja, smakförstärkare (mononatriumglutamat, dinatrium-5'-ribonukleotider), vinäger, sojasås (vatten, SOJABÖNOR, salt, VETE), melass, färgämne (sockerkulör ammoniakprocessen), salt, kryddor, hydrolyserat majsprotein, tomatpulver, aromer, surhetsreglerande medel (citronsyra), chilipulver (0,1% i produkt)], purjolök. Kan innehålla spår av SELLERI, KRÄFTDJUR, FISK, MJÖLK, BLÖTDJUR, SENAP och SESAMFRÖN.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8712429350407",
+      "name": "Snabbnudlar Sesam 100g",
+      "company": "Nissin",
+      "ingredients": "Nudlar 91,6% [VETEmjöl 75,4%, palmolja, salt, mjölbehandlingsmedel (natriumkarbonater, trifosfater), stabiliseringsmedel (kaliumkarbonater), förtjockningsmedel (guarkärnmjöl), antioxidationsmedel (tokoferolrika extrakt)], Kryddpulver 7,2% [salt, smakförstärkare (mononatriumglutamat, dinatrium-5'-ribonukleotider), socker, sojasåspulver (SOJABÖNOR, VETE, salt, maltodextrin), hydrolyserat majsprotein, kryddor, färgämne (sockerkulör ammoniakprocessen), arom, purjolök, jästextrakt, rapsolja, surhetsreglerande medel (citronsyra), klumpförebyggande medel (kiseldioxid)], Kryddolja 1,2% [rostad SESAMolja (99,2% i kryddoljan), rapsolja, aromer, färgämne (paprikaoleoresin)]. Kan innehålla spår av SELLERI, KRÄFTDJUR, FISK, MJÖLK, BLÖTDJUR och SENAP.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311311021152",
+      "name": "Tortilla Medium 12-pack 480g",
+      "company": "Santa Maria",
+      "ingredients": "VETEMJÖL (72%), vatten, rapsolja, fuktighetsbevarande medel (E422), salt, emulgeringsmedel (E471), bakpulver (natriumkarbonater), surhetsreglerande medel (citronsyra), sockerbetsfiber.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5997523328078",
+      "name": "Snabbnudlar Soba Classic 109g",
+      "company": "Nissin",
+      "ingredients": "Nudlar 82,8% [VETEmjöl, palmolja, salt, surhetsreglerande medel (natriumkarbonater, kaliumkarbonater), stabiliseringsmedel (trifosfater), förtjockningsmedel (guarkärnmjöl), antioxidationsmedel (tokoferolrika extrakt)], Kryddsås 16,4% [socker, vatten, rapsolja, sojasås (vatten, SOJABÖNOR, salt, VETE), smakförstärkare (mononatriumglutamat, dinatrium-5'-ribonukleotider), färgämne (sockerkulör ammoniakprocessen), dextros, melass, vinäger, salt, kryddor, hydrolyserat majsprotein, tomatpulver, modifierad stärkelse, surhetsreglerande medel (citronsyra), aromer], purjolök. Kan innehålla spår av SELLERI, KRÄFTDJUR, FISK, MJÖLK, BLÖTDJUR, SENAP och SESAMFRÖN.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191165601",
+      "name": "Pasta Fusilli 1000g",
+      "company": "Coop",
+      "ingredients": "DURUMVETE . Kan innehålla spår av ägg, soja och senap.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5997523335311",
+      "name": "Snabbnudlar Räka 100g",
+      "company": "Nissin",
+      "ingredients": "Nudlar 93,0% [VETEmjöl 75,4%, palmolja, salt, mjölbehandlingsmedel (natriumkarbonater, trifosfater), stabiliseringsmedel (kaliumkarbonater), förtjockningsmedel (guarkärnmjöl), antioxidationsmedel (tokoferolrika extrakt)], Kryddpulver 7,0% [salt, smakförstärkare (mononatriumglutamat, dinatriumguanylat, dinatriuminosinat), socker, kryddor, räkpulver (KRÄFTDJUR) 5,0% i kryddpulvret, hydrolyserat majsprotein, aromer (innehåller VETE, SOJA, KRÄFTDJUR), sojasåspulver (SOJABÖNOR, VETE, salt, maltodextrin), jästextrakt, färgämne (sockerkulör), rapsolja, klumpförebyggande medel (kiseldioxid)]. Kan innehålla spår av SELLERI, FISK, MJÖLK, BLÖTDJUR, SENAP och SESAMFRÖN.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5997523335410",
+      "name": "Snabbnudlar Miso 100g",
+      "company": "Nissin",
+      "ingredients": "Nudlar 90,8% [VETEmjöl, palmolja, salt, surhetsreglerande medel (natriumkarbonater, kaliumkarbonater), stabiliseringsmedel (trifosfater), förtjockningsmedel (guarkärnmjöl), antioxidationsmedel (tokoferolrika extrakt)], Kryddpulver 9,2% [salt, socker, smakförstärkare (mononatriumglutamat, dinatriumguanylat, dinatriuminosinat), glukossirap, misopulver 0,7%* (SOJABÖNOR, ris, salt), kryddor, förtjockningsmedel (guarkärnmjöl), lökpulver, aromer (innehåller VETE, SOJA, SESAM), färgämnen (sockerkulör, ammoniakprocessen, paprikaoleoresin), sojasåspulver (SOJABÖNOR, VETE, salt, maltodextrin), klumpförebyggande medel (kiseldioxid), jästextrakt, hydrolyserat majsprotein, surhetsreglerande medel (bärnstenssyra)]. *i slutprodukten. Kan innehålla spår av SELLERI, KRÄFTDJUR, FISK, MJÖLK, BLÖTDJUR och SENAP.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191177444",
+      "name": "Durumpasta Tagliatelle 500g",
+      "company": "Coop",
+      "ingredients": "eller ämnen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5997523328276",
+      "name": "Snabbnudlar Soba Yakitori Kyckling 110g",
+      "company": "Nissin",
+      "ingredients": "Nudlar 82,0% [VETEmjöl, palmolja, salt, surhetsreglerande medel (natriumkarbonater, kaliumkarbonater), stabiliseringsmedel (trifosfater), förtjockningsmedel (guarkärnmjöl), antioxidationsmedel (tokoferolrika extrakt)], Kryddsås 17,3% [sojasås (vatten, SOJABÖNOR, salt, VETE), rapsolja, socker, dextros, smakförstärkare (mononatriumglutamat, dinatrium-5'-ribonukleotider), kycklingfett, lökpulver, hydrolyserat majsprotein, färgämnen (sockerkulör, paprikaextrakt), kycklingarom, aromer, modifierad stärkelse], purjolök. Kan innehålla spår av SELLERI, KRÄFTDJUR, FISK, MJÖLK, BLÖTDJUR, SENAP och SESAMFRÖN.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191165663",
+      "name": "Pasta Ruote 500g",
+      "company": "Coop",
+      "ingredients": "DURUMVETE . Kan innehålla spår av ägg, soja och senap.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191169302",
+      "name": "Risnudlar 250g",
+      "company": "Coop",
+      "ingredients": "Rismjöl 90 % (ris: Thailand), vatten.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310340111049",
+      "name": "Rörsocker Strö 500g",
+      "company": "DAN SUKKER",
+      "ingredients": "Rörsocker.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191133150",
+      "name": "Jordgubbsberedning 400g",
+      "company": "Xtra",
+      "ingredients": "Socker, jordgubbar (Polen och Egypten), vatten, geleringsmedel (E 440), surhetsreglerande medel (E 330), aroniajuicekoncentrat, konserveringsmedel (E 202). Bärmängd: 35 g per 100 g.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310130321283",
+      "name": "Havregryn 1000g",
+      "company": "Gyllenhammars",
+      "ingredients": "HAVREgryn (ångpreparerade och valsade).100% fullkorn.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191165854",
+      "name": "Hallonsylt Refill 700g",
+      "company": "Coop",
+      "ingredients": "Hallon (Polen och Ukraina), vatten, socker, förtjockningsmedel (E 440), surhetsreglerande medel (E 330), konserveringsmedel (E 202).Fruktmängd: 45 g per 100 g.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311312009753",
+      "name": "Tortilla Vete Extra Thin Medium 8-pack 244g",
+      "company": "Santa Maria",
+      "ingredients": "VETEMJÖL (66%), vatten, stabiliseringsmedel (E422), rapsolja, VETEGLUTEN, VETEFIBER, druvsocker, syra (E296), emulgeringsmedel (E471), bakpulver (E500), salt, konserveringsmedel (E282), mjölbehandlingsmedel (E920).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310340112473",
+      "name": "Syltsocker 1000g",
+      "company": "DAN SUKKER",
+      "ingredients": "Socker, geleringsmedel (pektin), surhetsreglerande medel (citronsyra, innehåller 0,1% vegetabiliskt fullhärdat fett, (solros)), konserveringsmedel (kaliumsorbat).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156599445",
+      "name": "Havregryn 750g",
+      "company": "Coop",
+      "ingredients": "HAVREGRYN°* (ångpreparerade och valsade). °Ursprung: Sverige. *Fullkorn 100%.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "6414000001754",
+      "name": "Bitsocker 750g",
+      "company": "DAN SUKKER",
+      "ingredients": "Socker.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191129801",
+      "name": "Kikärtor Eko 380g",
+      "company": "Änglamark",
+      "ingredients": "Ekologiska kikärtor**(Italien), vatten, salt.**KRAV-ekologisk ingrediens. KRAV-märkningen verifieras av KIWA.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311312000545",
+      "name": "Risnudlar 180g",
+      "company": "Santa Maria",
+      "ingredients": "Ris (95%), tapiokastärkelse.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191116894",
+      "name": "Tomater Soltorkade Eko 190g",
+      "company": "Änglamark",
+      "ingredients": "Soltorkade tomater** (EU och icke-EU (Italien och/eller Turkiet)), solrosolja**, salt, surhetsreglerande medel (E 270), vinäger**, vitlökspulver*.Kan innehålla spår av selleri och senap.*Ekologisk ingrediens.**KRAV- ekologisk ingrediens.KRAV-märkningen verifieras av KIWA.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156598240",
+      "name": "Lingonsylt 620g",
+      "company": "Coop",
+      "ingredients": "Lingon°, socker°, vatten, förtjockningsmedel (E 440), konserveringsmedel (E 202). °Ursprung: Sverige. Tillverkat av 45 g lingon per 100 g sylt. Total mängd socker 43 g per 100 g sylt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8000320387975",
+      "name": "Körsbärstomater 400g",
+      "company": "Cirio",
+      "ingredients": "körsbärstomater, tomatjuice, surhetsreglerande medel: citronsyra.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310470064109",
+      "name": "Hallonkräm Extra prima 1000ml",
+      "company": "Ekströms",
+      "ingredients": "Vatten, hallon, socker, förtjockningsmedel (modifierad potatisstärkelse, pektin), vitamin C.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5700384514968",
+      "name": "Strösocker 1000g",
+      "company": "Coop",
+      "ingredients": "Socker (Sockerbetor: EU).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191164819",
+      "name": "Jordgubbssylt Refill 700g",
+      "company": "Coop",
+      "ingredients": "Jordgubbar (Polen och Ukraina), vatten, socker, förtjockningsmedel (E 440), surhetsreglerande medel (E 330), konserveringsmedel (E 202). Fruktmängd: 45 g per 100 g.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191133143",
+      "name": "Hallonberedning 400g",
+      "company": "Xtra",
+      "ingredients": "Socker, hallon 35 % (Polen och Ukraina), vatten, geleringsmedel (E 440), surhetsreglerande medel (E 330), konserveringsmedel (E 202).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311311020643",
+      "name": "Tortilla Majs & Vete Medium 8-pack 8",
+      "company": "Santa Maria",
+      "ingredients": "Mjölblandning (VETE (47%), majs (20%)), vatten, fuktighetsbevarande medel (E422), rapsolja, VETEGLUTEN, majsgroddar (1,2%), salt, emulgeringsmedel (E471), bakpulver (natriumbikarbonat), surhetsreglerande medel (citronsyra), stabiliseringsmedel (E415), paprika, gurkmeja.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191173309",
+      "name": "Honung 500g",
+      "company": "Coop",
+      "ingredients": "Blandning av honung från Ukraina och Argentina.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8001440118944",
+      "name": "Tomater Finkrossade 3-pack 1200g",
+      "company": "Cirio",
+      "ingredients": "tomater, surhetsreglerande medel: citronsyra.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310470065281",
+      "name": "Aprikoskräm 1000ml",
+      "company": "Ekströms",
+      "ingredients": "Vatten, aprikospuré, socker, förtjockningsmedel (modifierad potatisstärkelse, pektin, trikalciumcitrat), syra (citronsyra), vitamin C, naturlig arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311311020636",
+      "name": "Tortilla Fullkorn Medium 8-pack 8",
+      "company": "Santa Maria",
+      "ingredients": "Mjölblandning (VETE (45%), GRAHAM, VETEKLI), vatten, rapsolja, fuktighetsbevarande medel (E422), surdegspulver (VETE)(1,1%), salt, emulgeringsmedel (E471), surhetsreglerande medel (citronsyra), bakpulver (natriumbikarbonat), stabiliseringsmedel (E415). Innehåller 24% fullkorn, motsvarande 30% av torrvikten.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310470064383",
+      "name": "Äppelkräm 1000ml",
+      "company": "Ekströms",
+      "ingredients": "Vatten, äppelpuré, socker, äpple, förtjockningsmedel (modifierad potatisstärkelse och pektin), äppeljuice från koncentrat, syra (citronsyra), vitamin C.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156490933",
+      "name": "Vanillinsocker 140g",
+      "company": "Coop",
+      "ingredients": "Florsocker (s ockerbetor: EU ), potatisstärkelse, klumpförebyggande medel (E 551), arom (ethylvanillin, vanillin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311311020612",
+      "name": "Tortilla Medium 8-pack Eko 8",
+      "company": "Santa Maria",
+      "ingredients": "VETEMJÖL* (72%), vatten, rapsolja*, glukossirap*, salt, socker*, emulgeringsmedel (lecitin*), bakpulver (natriumbikarbonat), surhetsreglerande medel (citronsyra), stabiliseringsmedel (xantangummi). *Certifierad ekologisk.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8005110413520",
+      "name": "Tomater Tärnade Eko 400g",
+      "company": "Mutti",
+      "ingredients": "KRAV-ekologisk tomat 99,8 %, salt",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5997523313739",
+      "name": "Snabbnudlar Soba Protein Chili 93g",
+      "company": "Nissin",
+      "ingredients": "Nudlar 56% [modifierad stärkelse, VETEmjöl, palmolja, proteinblandning 7,8%* (VETEGLUTEN, ärtprotein, VETEprotein), stärkelse, psylliumfröskalpulver, surhetsreglerande medel (natriumkarbonater, kaliumlaktat, citronsyra), smakförstärkare (E621, E508), förtjockningsmedel (E412, E401), salt, vitlökspulver, stabiliseringsmedel (E451), antioxidationsmedel (E306)], Kryddsås 25% [socker, vatten, dextros, rapsolja, smakförstärkare (E621, E635, E508), vinäger, sojasås (vatten, SOJABÖNOR, VETE, salt), melass, färgämne (E150c), kryddor, salt, hydrolyserat majsprotein, tomatpulver, aromer, surhetsreglerande medel (citronsyra), chilipulver 0,1%*], texturerade bitar av veteprotein 9,9% [VETEGLUTEN, stabiliseringsmedel (E516), konserveringsmedel (natriumdiSULFIT)], kål, röd paprika, majs, rostad lök. *i den färdiga produkten. Kan innehålla spår av SELLERI, KRÄFTDJUR, FISK, MJÖLK, BLÖTDJUR, SENAP och SESAMFRÖN.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191162099",
+      "name": "Snabbnudlar Neutral 5-pack 400g",
+      "company": "Coop",
+      "ingredients": "VETEMJÖL (vete: Litauen), solrosolja, stärkelse, salt, bakpulver (E 500, E 501).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311312009777",
+      "name": "Tortilla Fullkorn Extra Thin Medium 8-pack 240g",
+      "company": "Santa Maria",
+      "ingredients": "FULLKORNSVETEMJÖL (70%), vatten, rapsolja, stabiliseringsmedel (E422), druvsocker, syra (E296), emulgeringsmedel (E471), bakpulver (E500), salt, konserveringsmedel (E282), mältat VETEMJÖL, mjölbehandlingsmedel (E920).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8001440136924",
+      "name": "Tomater Finkrossade 390g",
+      "company": "Cirio",
+      "ingredients": "krossade tomater, surhetsreglerande medel: citronsyra.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8076809580731",
+      "name": "Pasta Tagliatelle 500g",
+      "company": "Barilla",
+      "ingredients": "PASTA AV DURUMVETE. Kan innehålla spår av SOJA, ÄGG och SENAP.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191147645",
+      "name": "Ananasskivor 3-pack 681g",
+      "company": "Coop",
+      "ingredients": "Ananas (Thailand), ananasjuice, surhetsreglerande medel (E 330).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8000139007095",
+      "name": "Pasta Mezze Maniche Rigate 500g",
+      "company": "Garofalo",
+      "ingredients": "DurumVETE",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191150096",
+      "name": "Jordgubbssylt Squeezy 380g",
+      "company": "Coop",
+      "ingredients": "Jordgubbar (Polen och Ukraina), vatten, socker, geleringsmedel (E 440), aroniajuicekoncentrat, surhetsreglerande medel (E 330), konserveringsmedel (E 202). Fruktmängd: 40 g per 100 g.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156599421",
+      "name": "Havregryn Fiber 800g",
+      "company": "Coop",
+      "ingredients": "HAVREGRYN°* 87% (klippta, ångpreparerade och valsade), VETEKLI° 13% (ångpreparerat). °Ursprung: Sverige. *Fullkorn 87%",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191180376",
+      "name": "Hallonsylt 720g",
+      "company": "Coop",
+      "ingredients": "Hallon (EU och icke-EU (Marocko)), socker, vatten, geleringsmedel (E 440), surhetsreglerande medel (E 330), konserveringsmedel (E 202). Fruktmängd: 45 g per 100 g.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191165878",
+      "name": "Drottningsylt Refill 700g",
+      "company": "Coop",
+      "ingredients": "Vatten, hallon 22,5 %, blåbär 22,5 %, socker, förtjockningsmedel (E 440), surhetsreglerande medel (E 330), konserveringsmedel (E 202).Fruktmängd: 45 g per 100 g.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191180406",
+      "name": "Jordgubbssylt 720g",
+      "company": "Coop",
+      "ingredients": "Jordgubbar (EU och icke-EU (Marocko)), socker, vatten, geleringsmedel (E 440), surhetsreglerande medel (E 330), konserveringsmedel (E 202).Fruktmängd: 45 g per 100 g.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191161054",
+      "name": "Aprikoser Torkade Eko 150g",
+      "company": "Änglamark",
+      "ingredients": "Aprikoser** 91 % (Turkiet), vatten.**KRAV-ekologisk ingrediens.KRAV-märkningen verifieras av Kiwa.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311312008329",
+      "name": "Tortilla Havre Medium 6-pack 240g",
+      "company": "Santa Maria",
+      "ingredients": "HAVREMJÖL (37%), vatten, rismjöl, stabiliseringsmedel (glycerol, xantangummi), rapsolja, emulgeringsmedel (mono- och diglycerider av fettsyror), syra (äppelsyra), konserveringsmedel (kalciumpropionat), bakpulver (natriumkarbonater), salt. Kan innehålla spår av soja och gluten.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310240151169",
+      "name": "Rödbetor Skivade 710g",
+      "company": "Felix",
+      "ingredients": "Skivade rödbetor* i lag av vatten, ättika, socker*, konserveringsmedel (kaliumsorbat), kryddextrakt (bl.a. cayennepeppar) och arom. *Svenskt ursprung.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350002404584",
+      "name": "Pasta Strozzapreti 400g",
+      "company": "Zeta",
+      "ingredients": "DurumVETEmjöl. Kan innehålla spår av SOJA och SENAP.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310340726748",
+      "name": "Bitsocker Mini 500g",
+      "company": "DAN SUKKER",
+      "ingredients": "Socker",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191170773",
+      "name": "Jordgubbssylt Eko 340g",
+      "company": "Änglamark",
+      "ingredients": "Jordgubbar** (Polen), socker**, vatten, geleringsmedel (E 440), citronjuicekoncentrat**, surhetsreglerande medel (E 333). **KRAV-ekologisk ingrediens. KRAV-märkningen verifieras av KIWA.Fruktmängd: 50 g per 100 g.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8001440120152",
+      "name": "Tomater Passerade 3-pack 600g",
+      "company": "Cirio",
+      "ingredients": "tomater, salt, surhetsreglerande medel: citronsyra.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310340111056",
+      "name": "Rörsocker Bit 500g",
+      "company": "DAN SUKKER",
+      "ingredients": "Rörsocker.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191135178",
+      "name": "Pumpakärnor Eko 350g",
+      "company": "Änglamark",
+      "ingredients": "Ekologiska pumpakärnor. Ursprung: Se Bäst Före-datumet. CN=Kina, UA=Ukraina, MD=Moldavien. Förpackad i en skyddande atmosfär.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191154155",
+      "name": "Mannagryn 500g",
+      "company": "Coop",
+      "ingredients": "MANNAGRYN (vete: Lettland). Kan innehålla spår av råg, korn och havre.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191160590",
+      "name": "Kokosmjölk Eko 400ml",
+      "company": "Änglamark",
+      "ingredients": "Kokosextrakt** 76% (kokosnöt: Vietnam), vatten, förtjockningsmedel (E 415). **KRAV-ekologisk ingrediens. KRAV-märkningen verifieras av KIWA.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156480620",
+      "name": "Havregryn Eko 1500g",
+      "company": "Änglamark",
+      "ingredients": "Ångpreparerade och valsade HAVREGRYN*o. *KRAV-ekologisk ingrediens. oUrsprung Sverige.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310240050721",
+      "name": "Saltgurka Skivad 700g",
+      "company": "Felix",
+      "ingredients": "Skivad gurka med SENAPsfrö i lag av vatten, salt, ättika, socker, syra (citronsyra), stabiliseringsmedel (kalciumklorid), kryddextrakt (cayennepeppar), naturlig dillarom, arom, konserveringsmedel (kaliumsorbat) och antioxidationsmedel (askorbinsyra). Kan innehålla spår av GLUTEN.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191134041",
+      "name": "Müslibar Yoghurt & jordgubb 6-pack 150g",
+      "company": "Xtra",
+      "ingredients": "FULLKORNSHAVREFLINGOR 29%, glukosfruktossirap, yoghurtcoating (certifierat palmfett, socker, HELMJÖLKSYOGHURTPULVER 2,8%, vasslepulver ( MJÖLK ), emulgeringsmedel (E 322)), extruderat spannmål ( VETEMJÖL , rismjöl, socker, dextros, VETEMALTMJÖL , KORNMALTMJÖL , salt), majsflingor (majs, socker, salt, KORNMALTEXTRAKT ), SKUMMJÖLKSYOGHURTPULVER 1,6%, maltodextrin, soroslolja, frystorkade jordgubbsbitar 0,7%, syra (E 330), emulgeringsmedel (E 322), salt, naturlig arom. Kan innehålla spår av råg, jordnötter mandel, hasselnötter, valnötter, cashewnötter, pekannötter, paranötter, pistagenötter, macadamianötter, soja och sesam. Havren odlas i EU. Vid brist kan komplettering ske med havre utanför EU, i detta fall ses ursprunget vid Bäst Före-datumet.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300156490940",
+      "name": "Bakpulver 225g",
+      "company": "Coop",
+      "ingredients": "Bakpulver (E 450 (Thailand), E 500 (Polen)), potatisstärkelse.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8000139910258",
+      "name": "Pasta Mafalda Corta 500g",
+      "company": "Garofalo",
+      "ingredients": "DurumVETE",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191166288",
+      "name": "Champinjoner Skivade 180g",
+      "company": "Coop",
+      "ingredients": "Champinjoner (Polen), vatten, salt, surhetsreglerande medel (E 330), antioxidationsmedel (E 300).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8076802085981",
+      "name": "Pasta Fusilli 500g",
+      "company": "Barilla",
+      "ingredients": "PASTA AV DURUMVETE. Kan innehålla spår av SOJABÖNOR och SENAP.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8001440127953",
+      "name": "Pizzasås 190g",
+      "company": "Cirio",
+      "ingredients": "hackade tomater 75%, tomatpuré 18 %, lök, socker, salt, basilika, torkad oregano, surhetsreglerande medel: citronsyra.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7316150376494",
+      "name": "Tomater Soltorkade Finskurna 180g",
+      "company": "Fontana",
+      "ingredients": "Återfuktade soltorkade tomater 55% (soltorkade tomater, vatten, vinäger, salt), solrosolja, oregano, kapris, surhetsreglerande medel: citronsyra, antioxidationsmedel: askorbinsyra.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156598257",
+      "name": "Lingonsylt 400g",
+      "company": "Coop",
+      "ingredients": "Lingon°, socker°, vatten, förtjockningsmedel (E 440), konserveringsmedel (E 202). °Ursprung: Sverige. Tillverkat av 45 g lingon per 100 g sylt. Total mängd socker 43 g per 100 g sylt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4008671728700",
+      "name": "Snabbitsocker 500g",
+      "company": "DAN SUKKER",
+      "ingredients": "Socker.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350002404546",
+      "name": "Pasta Mezze Maniche 400g",
+      "company": "Zeta",
+      "ingredients": "DurumVETEmjöl. Kan innehålla spår av SOJA och SENAP.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340191155558",
+      "name": "Tomater Skalade Eko 400g",
+      "company": "Änglamark",
+      "ingredients": "Ekologiska skalade tomater** 60% (Italien), ekologisk tomatjuice** 40% (tomat: Italien). **KRAV-ekologisk ingrediens. KRAV-märkningen verifieras av Kiwa.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "6416453041271",
       "name": "Tutti Frutti Sur Melon 90g",
@@ -6977,9 +7838,9 @@
     },
     {
       "id": "7340191139176",
-      "name": "Snabbnudlar Tom Yum",
+      "name": "Snabbnudlar Tom Yum 85g",
       "company": "Coop",
-      "ingredients": "VETEMJÖL (vete: Litauen), certifierad palmolja, salt, aromer (innehåller SKALDJUR), smakförstärkare (E 621, E 635), modifierad potatisstärkelse, socker, kryddor, VETEGLUTEN, surhetsreglerande medel (E 330), purjolök, jästextrakt, bakpulver (E 500, E501), färgämne (E 150c), paprikaextrakt, rapsolja, klumpförebyggande medel (E 551). Kan innehålla spår av soja, mjölk, selleri och senap.",
+      "ingredients": "VETEMJÖL (vete: Litauen), solrosolja, salt, stärkelse, smakförstärkare (E 621, E 635), aromer (innehåller KRÄFTDJUR ), socker, chili, vitlök, surhetsreglerande medel (E 330), purjolök, jästextrakt, bakpulver (E 500, E 501), färgämne (E 150c), paprikaextrakt, rapsolja, klumpförebyggande medel (E 551). Kan innehålla spår av soja, mjölk, selleri och senap.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -7511,7 +8372,7 @@
       "id": "7340191139169",
       "name": "Snabbnudlar Kyckling 85g",
       "company": "Coop",
-      "ingredients": "VETEMJÖL (vete: Litauen), certifierad palmolja, salt, smakförstärkare (E 621, E 635), modifierad potatisstärkelse, socker, VETEGLUTEN, kryddor, hydrolyserat majsprotein, aromer, morot, certifierad palmfett, vårlök, lök, bakpulver (E 500, E 501). Kan innehålla spår av skaldjur, soja, mjölk, selleri och senap.",
+      "ingredients": "VETEMJÖL (vete: Litauen), solrosolja, salt, stärkelse, smakförstärkare (E 621, E 635), socker, kryddor, hydrolyserat majsprotein, aromer, morötter, certifierat palmfett, chilipeppar, vårlök, bakpulver (E 500, E 501). Kan innehålla spår av kräftdjur, soja, mjölk, selleri och senap.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -7567,7 +8428,7 @@
       "id": "7340191139138",
       "name": "Snabbnudlar Grönsaker 85g",
       "company": "Coop",
-      "ingredients": "VETEMJÖL (vete: Litauen), certifierad palmolja, salt, modifierad potatisstärkelse, smakförstärkare (E 621, E 635), aromer (innehåller SELLERI), socker, kryddor, VETEGLUTEN, morot, certifierad palmfett, vårlök, bakpulver (E 500, E 501), antioxidationsmedel (E 300), färgämne (E 150c), paprikaextrakt. Kan innehålla spår av skaldjur, soja, mjölk och senap.",
+      "ingredients": "VETEMJÖL (vete: Litauen), solrosolja, salt, stärkelse, smakförstärkare (E 621, E 635), aromer (innehåller SELLERI ), socker, kryddor, morötter, certifierat palmfett, chili, vårlök, bakpulver (E 500, E 501), antioxidationsmedel (E 300), färgämne (E 150c), paprikaextrakt. Kan innehålla spår av kräftdjur, soja, mjölk och senap.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -8197,7 +9058,7 @@
       "id": "8076802085738",
       "name": "Pasta Penne Rigate 500g",
       "company": "Barilla",
-      "ingredients": "DURUMVETE, vatten. Kan innehålla spår av SOJABÖNOR och SENAP.",
+      "ingredients": "PASTA AV DURUMVETE. Kan innehålla spår av SOJABÖNOR och SENAP.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -12108,9 +12969,9 @@
     },
     {
       "id": "5701259100781",
-      "name": "Florsocker 500g Dansukker",
-      "company": "Dansukker",
-      "ingredients": "Socker, 2% potatisstärkelse.",
+      "name": "Florsocker 500g",
+      "company": "DAN SUKKER",
+      "ingredients": "Socker från sockerbetor, 2% potatisstärkelse.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -12150,8 +13011,8 @@
     },
     {
       "id": "7310340114026",
-      "name": "Pärlsocker 500g Dansukker",
-      "company": "Dansukker",
+      "name": "Pärlsocker 500g",
+      "company": "DAN SUKKER",
       "ingredients": "Socker",
       "gluten": "Glutenfri [ Ja ]"
     },
@@ -12171,8 +13032,8 @@
     },
     {
       "id": "5701259725373",
-      "name": "Socker KRAV 1kg Dansukker",
-      "company": "Dansukker",
+      "name": "Strösocker Eko 1000g",
+      "company": "DAN SUKKER",
       "ingredients": "KRAV-ekologiskt betsocker.",
       "gluten": "Glutenfri [ Ja ]"
     },
@@ -12234,8 +13095,8 @@
     },
     {
       "id": "5701259000661",
-      "name": "Farinsocker 500g Dansukker",
-      "company": "Dansukker",
+      "name": "Farinsocker 500g",
+      "company": "DAN SUKKER",
       "ingredients": "Socker och rörsockersirap.",
       "gluten": "Glutenfri [ Ja ]"
     },
@@ -12297,9 +13158,9 @@
     },
     {
       "id": "7310340114033",
-      "name": "Brun Farin Strö 500g Dansukker",
-      "company": "Dansukker",
-      "ingredients": "Socker, maltodextrin, rörsockersirap och potatisstärkelse.(Maltodextrin är en stärkelseprodukt som gör att farinet inte klumpar sig.)",
+      "name": "Brun Farin 500g",
+      "company": "DAN SUKKER",
+      "ingredients": "Strösocker, (råvara svenska sockerbetor), maltodextrin, florsocker, rörsockersirap och potatisstärkelse.(Maltodextrin är en stärkelseprodukt som gör att farinet inte klumpar sig.)",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -12458,9 +13319,9 @@
     },
     {
       "id": "7310340002323",
-      "name": "Muscovadorörsocker Ljust 400g Fairtrade Dansukker",
-      "company": "Dansukker",
-      "ingredients": "Rörsocker",
+      "name": "Muscovadorörsocker Ljust 400g",
+      "company": "DAN SUKKER",
+      "ingredients": "Ingrediens: Rörsocker.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -12472,8 +13333,8 @@
     },
     {
       "id": "5701259727100",
-      "name": "Florsocker KRAV 500g Dansukker",
-      "company": "Dansukker",
+      "name": "Florsocker Eko 500g",
+      "company": "DAN SUKKER",
       "ingredients": "KRAV-ekologiskt betsocker, 2% ekologisk potatisstärkelse.",
       "gluten": "Glutenfri [ Ja ]"
     },
@@ -12724,9 +13585,9 @@
     },
     {
       "id": "7310340002316",
-      "name": "Muscovadorörsocker Mörkt 400g Fairtrade Dansukker",
-      "company": "Dansukker",
-      "ingredients": "Rörsocker",
+      "name": "Muscovadorörsocker Mörkt 400g",
+      "company": "DAN SUKKER",
+      "ingredients": "Ingrediens: Rörsocker.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -18702,9 +19563,9 @@
     },
     {
       "id": "7310130003547",
-      "name": "Kungsörnen Idealmakaroner Gammaldags",
+      "name": "Idealmakaroner Gammaldags 750g",
       "company": "Kungsörnen",
-      "ingredients": "Mjöl av VETE, mjöl av durumVETE",
+      "ingredients": "VETEmjöl",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -20025,7 +20886,7 @@
     },
     {
       "id": "5707196176063",
-      "name": "Gøl Classic Salami Chips",
+      "name": "Salamichips Classic 80g",
       "company": "Gøl",
       "ingredients": "Griskött, grisfett, salt, aromer, kryddor, paprikaextrakt, glukos, färgämne (E 120), antioxidationsmedel (E 316), konserveringsmedel (E 250), startkultur. Till 100 g färdigvara har använts 150 g griskött.",
       "gluten": "Glutenfri [ Ja ]"
@@ -21320,9 +22181,9 @@
     },
     {
       "id": "7311310031039",
-      "name": "Santa Maria Taco spice mix Orginal 28g 3-p",
+      "name": "Kryddmix Taco Mild 3-pack 84g",
       "company": "Santa Maria",
-      "ingredients": "Kryddor (chilipeppar (11%), spiskummin (10%), vitlök (6%)), druvsocker, lök (19%), salt, oregano (4%), jästextrakt, potatisstärkelse, potatisfiber, klumpförebyggande medel (kiseldioxid), kryddextrakt (paprika).",
+      "ingredients": "Kryddor (spiskummin (14%), chilipeppar (11%), vitlök (7,6%)), druvsocker, lök (17%), salt, oregano (4,4%), jästextrakt, potatisstärkelse, potatisfibrer, klumpförebyggande medel (kiseldioxid), kryddextrakt (paprika).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -21376,15 +22237,15 @@
     },
     {
       "id": "7311311020599",
-      "name": "SANTA MARIA Tortilla Original Medium",
-      "company": "SANTA MARIA",
-      "ingredients": "VETEMJÖL (72%), vatten, rapsolja, fuktighetsbevarande medel (E422), salt, emulgeringsmedel (E471), bakpulver (natriumbikarbonat), surhetsreglerande medel (citronsyra), sockerbetsfiber.",
+      "name": "Tortilla Medium 8-pack 320g",
+      "company": "Santa Maria",
+      "ingredients": "VETEMJÖL (72%), vatten, rapsolja, fuktighetsbevarande medel (E422), salt, emulgeringsmedel (E471), bakpulver (natriumkarbonater), surhetsreglerande medel (citronsyra), sockerbetsfiber.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
       "id": "7311312002112",
-      "name": "SANTA MARIA Taco Sauce Medium",
-      "company": "SANTA MARIA",
+      "name": "Tacosås Medium 230g",
+      "company": "Santa Maria",
       "ingredients": "Tomat (68%)(krossad tomat, tomatpuré, passerad tomat), vatten, lök, grön paprika, salt, ättika, majsstärkelse, kryddor och örter (chilipeppar, vitlök, spiskummin, koriander, cayennepeppar, oregano), grön jalapeño.",
       "gluten": "Glutenfri [ Ja ]"
     },
@@ -25268,9 +26129,9 @@
     },
     {
       "id": "7310070000309",
-      "name": "Festis Guanabana &Ananas",
+      "name": "Festis Guanabana & Ananas 500ml",
       "company": "Festis",
-      "ingredients": "",
+      "ingredients": "Vatten, socker, fruktjuice (äpple 4,5%, ananas 0,5%) från koncentrat, guanabana puré (0,003%) från koncentrat, aromer, syra (citronsyra), konserveringsmedel (kaliumsorbat), antioxidationsmedel (askorbinsyra), stabiliseringsmedel (E445), färgämnen (lutein, briljantblått).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -25324,9 +26185,9 @@
     },
     {
       "id": "7310070000293",
-      "name": "Festis Kaktus &Lime",
+      "name": "Festis Kaktus & Lime 500ml",
       "company": "Festis",
-      "ingredients": "",
+      "ingredients": "Vatten, socker, äppeljuice (5%) från koncentrat, aromer, syra, (citronsyra), färgämne (E150b, E133), konserveringsmedel (kaliumsorbat).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -28887,44 +29748,44 @@
     },
     {
       "id": "7310470063492",
-      "name": "Ekströms Fruktsoppa",
+      "name": "Fruktsoppa 1000ml",
       "company": "Ekströms",
-      "ingredients": "",
+      "ingredients": "Vatten, socker, äppeljuice från koncentrat, aprikospuré, förtjockningsmedel (modifierad stärkelse och guarkärnmjöl), äppelpuré, katrinplommonpuré, syra (citronsyra), vitamin C, naturlig arom.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7300156485410",
-      "name": "Coop Hallonkräm",
+      "name": "Hallonkräm 1000ml",
       "company": "Coop",
-      "ingredients": "",
+      "ingredients": "Vatten, socker, hallon 12%, druvjuice från koncentrat, förtjockningsmedel (modifierad potatisstärkelse, E 440, E 415), äppeljuice från koncentrat, hallonarom, C-vitamin 40 mg *. * 50% av Rekommenderat Dagligt Intag.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7300156485427",
-      "name": "Coop Jordgubbskräm",
+      "name": "Jordgubbskräm 1000ml",
       "company": "Coop",
-      "ingredients": "",
+      "ingredients": "Vatten, socker, jordgubb 12%, druvjuice från koncentrat, förtjockningsmedel (modifierad potatisstärkelse, E 440, E 415), äppeljuice från koncentrat, svartvinbärsjuice från koncentrat, vitamin C, jordgubbsarom, surhetsreglerande medel (E 330).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7300156586728",
-      "name": "Coop Aprikoskräm",
+      "name": "Aprikoskräm 1000ml",
       "company": "Coop",
-      "ingredients": "",
+      "ingredients": "Vatten, aprikoser 20%, socker, förtjockningsmedel (modifierad potatisstärkelse, E 440, E 415), surhetsreglerande medel (E 330), vitamin C, aprikosarom.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7340011341604",
-      "name": "Xtra Jordgubbskräm",
+      "name": "Jordgubbskräm 1LTR",
       "company": "Xtra",
-      "ingredients": "",
+      "ingredients": "Vatten, socker,jordgubbar 6%, äppeljuice*, druvjuice*, potatisstärkelse,jordgubbsjuice* 2%, fläderbärsjuice*, förtjockningsmedel (E 440), antioxidationsmedel (E 330, E 300), arom. *från koncentrat. Jordgubbarnasursprungsländer anges vid Bäst före-datumet. Om två ursprungsländer anges, har en bärblandning från dessa länder använts. PL=Polen, CN=Kina, ES=Spanien, Turkiet=TR.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7310470063096",
-      "name": "Ekströms Nyponsoppa",
+      "name": "Nyponsoppa Originalet 1000ml",
       "company": "Ekströms",
-      "ingredients": "",
+      "ingredients": "Vatten, socker, förtjockningsmedel (modifierad stärkelse, guarkärnmjöl), nyponmjöl, syra (citronsyra), vitamin C. Innehåller 9% nypon och 9,5% tillsatt socker.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -28943,30 +29804,30 @@
     },
     {
       "id": "7300156485403",
-      "name": "Coop Nyponsoppa",
+      "name": "Nyponsoppa 1000ml",
       "company": "Coop",
-      "ingredients": "",
+      "ingredients": "Vatten, nypon (18%), socker, modiferad potatisstärkelse, surhetsreglerande medel (E 330), vitamin C.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7310470070209",
-      "name": "Ekströms Nyponsoppa",
+      "name": "Nyponsoppa UTS 1000ml",
       "company": "Ekströms",
-      "ingredients": "",
+      "ingredients": "Vatten, nyponpuré, förtjockningsmedel (modifierad stärkelse och guarkärnmjöl), nyponmjöl, syra (citronsyra), vitamin C, sötningsmedel (aspartam och acesulfam K). Innehåller en fenylalaninkälla.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7310470063195",
-      "name": "Ekströms Blåbärssoppa",
+      "name": "Blåbärssoppa 1000ml",
       "company": "Ekströms",
-      "ingredients": "",
+      "ingredients": "Vatten, socker, blåbär, förtjockningsmedel (modifierad stärkelse, guarkärnmjöl), cikoriarot (inulin), syra (citronsyra), vitamin C, arom.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7310470063294",
-      "name": "Ekströms Saftsoppa",
+      "name": "Saftsoppa 1000ml",
       "company": "Ekströms",
-      "ingredients": "",
+      "ingredients": "Vatten, socker, svartvinbärsjuice, jordgubbar, förtjockningsmedel (modifierad stärkelse och guarkärnmjöl), syra (citronsyra), vitamin C, arom.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -28978,9 +29839,9 @@
     },
     {
       "id": "7310470070193",
-      "name": "Ekströms Blåbärssoppa",
+      "name": "Blåbärssoppa UTS 1000ml",
       "company": "Ekströms",
-      "ingredients": "",
+      "ingredients": "Vatten, druvjuice, blåbär, förtjockningsmedel (modifierad stärkelse och guarkärnmjöl), aroniajuice, cikoriarot (inulin), syra (citronsyra), vitamin C, sötningsmedel (aspartam och acesulfam K), arom. Innehåller en fenylalaninkälla.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -28992,30 +29853,30 @@
     },
     {
       "id": "7310470065021",
-      "name": "Ekströms Jordgubbskräm",
+      "name": "Jordgubbskräm 1000ml",
       "company": "Ekströms",
-      "ingredients": "",
+      "ingredients": "Vatten, socker, jordgubbar, äppeljuice, förtjockningsmedel (modifierad potatisstärkelse och pektin), druvjuice, svartvinbärsjuice, vitamin C, syra (citronsyra), naturlig arom.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7300156485397",
-      "name": "Coop Blåbärssoppa",
+      "name": "Blåbärssoppa 1000ml",
       "company": "Coop",
-      "ingredients": "",
+      "ingredients": "Vatten, socker, blåbär 5%, förtjockningsmedel (modifierad potatisstärkelse), blåbärsarom, antioxidationsmedel (E 330).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7310470064031",
-      "name": "Ekströms Jordgubbskräm",
+      "name": "Jordgubbskräm Extra prima 1000ml",
       "company": "Ekströms",
-      "ingredients": "",
+      "ingredients": "Vatten, jordgubbar, socker, förtjockningsmedel (modifierad potatisstärkelse, pektin, guarkärnmjöl), svartvinbärsjuice, syra (citronsyra), vitamin C.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7310470062099",
-      "name": "Ekströms Nyponsoppa",
+      "name": "Nyponsoppa 1000ml",
       "company": "Ekströms",
-      "ingredients": "",
+      "ingredients": "Vatten, nyponpuré, socker, förtjockningsmedel (modifierad stärkelse, pektin, gellangummi), syra (citronsyra), vitamin C. Innehåller 15% nypon och 10,5% tillsatt socker.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -29034,16 +29895,16 @@
     },
     {
       "id": "7310240050189",
-      "name": "Felix Smörgåsgurka",
+      "name": "Smörgåsgurka 370g",
       "company": "Felix",
-      "ingredients": "",
+      "ingredients": "Skivad gurka med SENAPsfrö i lag av vatten, socker, ättika, salt, stabiliseringsmedel (kalciumklorid), kryddextrakt (bl.a. cayennepeppar), arom, naturlig dillarom. Kan innehålla spår av GLUTEN.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7310240050844",
-      "name": "Felix Bostongurka Original",
+      "name": "Bostongurka Original 375g",
       "company": "Felix",
-      "ingredients": "",
+      "ingredients": "Gurka, socker, syra (ättiksyra), lök, röd paprika, modifierad stärkelse, salt, SENAPsfrö, konserveringsmedel (kaliumsorbat), stabiliseringsmedel (kalciumklorid), kryddextrakt (cayennepeppar), kryddor (bl.a. kryddnejlika) och färgämne (E141, riboflavin). Kan innehålla spår av GLUTEN.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -29139,9 +30000,9 @@
     },
     {
       "id": "8005110170300",
-      "name": "Mutti Krossade Tomater",
+      "name": "Tomater Krossade 3-pack 1200g",
       "company": "Mutti",
-      "ingredients": "",
+      "ingredients": "Tomat 99,8%, salt",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -29195,30 +30056,30 @@
     },
     {
       "id": "7350002400555",
-      "name": "Zeta Soltorkade Tomater Strimlor",
+      "name": "Tomater Soltorkade Strimlade 200g",
       "company": "Zeta",
-      "ingredients": "",
+      "ingredients": "Soltorkade tomater 70%, solrosolja, havssalt, vitlök, socker, oregano, surhetsreglerande medel E330, antioxidationsmedel E300, peppar, naturliga aromer.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7350002400036",
-      "name": "Zeta Soltorkade Tomater",
+      "name": "Tomater Soltorkade 200g",
       "company": "Zeta",
-      "ingredients": "",
+      "ingredients": "Soltorkade tomater 70%, solrosolja, havssalt, vitlök, socker, oregano, surhetsreglerande medel E330, antioxidationsmedel E300, naturliga aromer.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7340011424673",
-      "name": "Coop Soltorkade Tomater",
+      "name": "Tomater Soltorkade 285g",
       "company": "Coop",
-      "ingredients": "",
-      "gluten": "Glutenfri [ ? ]"
+      "ingredients": "Soltorkade tomater (Turkiet), solrosolja, salt, oregano, surhetsreglerande medel (E 330, E 260).",
+      "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "8005110551215",
-      "name": "Mutti Pizzasås Tomat",
+      "name": "Pizzasås Tomat 400g",
       "company": "Mutti",
-      "ingredients": "",
+      "ingredients": "tomat 99,7%, salt, basilika 0,05%, oregano 0,04%, lök 0,03, naturlig arom.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -29237,37 +30098,37 @@
     },
     {
       "id": "8005110630408",
-      "name": "Mutti Tomater Passerade",
+      "name": "Tomater Passerade 400g",
       "company": "Mutti",
-      "ingredients": "",
+      "ingredients": "tomat 99.5%, salt",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "8005110550508",
-      "name": "Mutti Körsbärstomater",
+      "name": "Körsbärstomater 400g",
       "company": "Mutti",
-      "ingredients": "",
+      "ingredients": "Hela körsbärstomater, tomatjuice",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "8005110000454",
-      "name": "Mutti Krossade Tomater",
+      "name": "Dadeltomater Krossade 300g",
       "company": "Mutti",
-      "ingredients": "",
+      "ingredients": "Krossade plommontomater 65%, tomatjuice, salt",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "8005110060007",
-      "name": "Mutti Skalade Tomater",
+      "name": "Tomater Skalade 400g",
       "company": "Mutti",
-      "ingredients": "",
+      "ingredients": "hela skalade tomater, tomatjuice",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "8005110170461",
-      "name": "Mutti Krossade Tomater Vitlök",
+      "name": "Tomater Krossade Vitlök 400g",
       "company": "Mutti",
-      "ingredients": "",
+      "ingredients": "Tomat 98,2%, vitlök \"Aglio Di Voghiera DOP\" 1,5 %, salt.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -29293,9 +30154,9 @@
     },
     {
       "id": "8005110550614",
-      "name": "Mutti Dadeltomater",
+      "name": "Dadeltomater 400g",
       "company": "Mutti",
-      "ingredients": "",
+      "ingredients": "körsbärstomater, tomatjuice.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -29328,9 +30189,9 @@
     },
     {
       "id": "8005110002052",
-      "name": "Mutti Pizzasås Tomat",
+      "name": "Pizzasås Tomat 400g",
       "company": "Mutti",
-      "ingredients": "",
+      "ingredients": "Tomater 99,7%, salt",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -29342,9 +30203,9 @@
     },
     {
       "id": "7310240150131",
-      "name": "Felix Smörgåsgurka",
+      "name": "Smörgåsgurka 715g",
       "company": "Felix",
-      "ingredients": "",
+      "ingredients": "Skivad gurka med SENAPsfrö i lag av vatten, socker, ättika, salt, stabiliseringsmedel (kalciumklorid), kryddextrakt (bl.a. cayennepeppar), arom, naturlig dillarom. Kan innehålla spår av GLUTEN.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -29363,9 +30224,9 @@
     },
     {
       "id": "7310240050653",
-      "name": "Felix Saltgurka Hel",
+      "name": "Saltgurka Hel 700g",
       "company": "Felix",
-      "ingredients": "",
+      "ingredients": "Hela gurkor med SENAPsfrö i lag av vatten, salt, ättika, socker, syra (citronsyra), stabiliseringsmedel (kalciumklorid), naturlig dillarom, kryddextrakt (cayennepeppar), arom och konserveringsmedel (kaliumsorbat). Kan innehålla spår av GLUTEN.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -30238,16 +31099,16 @@
     },
     {
       "id": "7311310034603",
-      "name": "Santa Maria Sweet Chili Original",
+      "name": "Sås Sweet Chili Original 500ml",
       "company": "Santa Maria",
-      "ingredients": "",
+      "ingredients": "Socker, vatten, röd chilipeppar (12,5%), vitlök (6,5%), ättika, salt, modifierad majsstärkelse, förtjockningsmedel (E415), syra (citronsyra).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "7311310034405",
-      "name": "Santa Maria Sweet Chili Sås Mindre Socker",
+      "name": "Sweet Chili Sås Mindre socker 500ml",
       "company": "Santa Maria",
-      "ingredients": "",
+      "ingredients": "Vatten, socker, röd chilipeppar (12%), vitlök (6,5%), ättika, salt, modifierad majsstärkelse, förtjockningsmedel (E415), syra (citronsyra).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -30763,9 +31624,9 @@
     },
     {
       "id": "7310090244226",
-      "name": "Bob Squeezy Jordgubbssylt",
-      "company": "Bob",
-      "ingredients": "",
+      "name": "Jordgubbssylt Squeezy 390g",
+      "company": "BOB",
+      "ingredients": "Jordgubbar, vatten, socker, aroniajuicekoncentrat, förtjockningsmedel (pektin), surhetsreglerande medel (citronsyra), konserveringsmedel (kaliumsorbat), stabiliseringsmedel (trikalciumcitrat).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -30840,9 +31701,9 @@
     },
     {
       "id": "7340011416036",
-      "name": "Xtra Jordgubbssylt Hink",
+      "name": "Jordgubbsberedning Hink 1500g",
       "company": "Xtra",
-      "ingredients": "",
+      "ingredients": "Jordgubbar, glukos-fruktossirap, vatten, socker, förtjockningsmedel (E 440), syra (E 330), konserveringsmedel (E 202, E 211). Till100 g sylt har 35 g bär använts.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -30868,9 +31729,9 @@
     },
     {
       "id": "7340011416043",
-      "name": "Xtra Hallonsylt Hink",
+      "name": "Hallonberedning Hink 1500g",
       "company": "Xtra",
-      "ingredients": "",
+      "ingredients": "Socker, hallon, vatten, geleringsmedel (E 440), surhetsreglerande medel (E 330), konserveringsmedel (E 202, E 211). Bärmängd: 35 g per 100 g. Hallonens ursprung anges vid Bäst Före-datumet. Om två ursprungsländer nämns har en bärblandning från dessa länder använts. PL=Polen, CN=Kina, RS=Serbien, LT=Litauen, MA=Marocko.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -31050,9 +31911,9 @@
     },
     {
       "id": "7340011341536",
-      "name": "Xtra Äppelmos",
+      "name": "Äppelmos 720g",
       "company": "Xtra",
-      "ingredients": "",
+      "ingredients": "Äpplen 92% (EU), socker, surhetsreglerande medel (E 330), antioxidationsmedel (E 300), konserveringsmedel (E 202).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -31134,9 +31995,9 @@
     },
     {
       "id": "7340011341246",
-      "name": "Xtra Lingonsylt Hink",
+      "name": "Lingonberedning 1500g",
       "company": "Xtra",
-      "ingredients": "",
+      "ingredients": "Lingon, vatten, glukos-fruktossirap, socker, förtjockningsmedel (E 440), konserveringsmedel (E 202, E 211). Tillverkat av 35 g bär per 100 g sylt.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -34529,16 +35390,16 @@
     },
     {
       "id": "8712429350209",
-      "name": "Nissin Nudlar Biff",
+      "name": "Snabbnudlar Biff 100g",
       "company": "Nissin",
-      "ingredients": "",
+      "ingredients": "Nudlar 90,9% [VETEmjöl, palmolja, salt, surhetsreglerande medel (natriumkarbonater, kaliumkarbonater), stabiliseringsmedel (trifosfater), förtjockningsmedel (guarkärnmjöl), antioxidationsmedel (tokoferolrika extrakt)], Kryddpulver 7,3% [salt, smakförstärkare (mononatriumglutamat, dinatriumguanylat, dinatriuminosinat), sojasåspulver (SOJABÖNOR, VETE, salt, maltodextrin), socker, dextros, nötköttsaromer (innehåller VETE, SOJA), kryddor (innehåller SELLERI), nötköttsextraktpulver (maltodextrin, nötköttsextrakt), färgämne (sockerkulör ammoniakprocessen), purjolök, jästextrakt, rapsolja, glukossirap, klumpförebyggande medel (kiseldioxid), fettpulver från nötkött (nötköttfett, nötköttextrakt), palmolja, surhetsreglerande medel (citronsyra), MJÖLKproteiner], Kryddolja 1,8% (nötköttfett, rapsolja, arom). Kan innehålla spår av KRÄFTDJUR, FISK, BLÖTDJUR, SENAP och SESAMFRÖN.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
       "id": "8712429350100",
-      "name": "Nissin Nudlar Kyckling",
+      "name": "Snabbnudlar Kyckling 100g",
       "company": "Nissin",
-      "ingredients": "",
+      "ingredients": "Nudlar 91,5% [VETEmjöl, palmolja, salt, surhetsreglerande medel (natriumkarbonater, kaliumkarbonater), stabiliseringsmedel (trifosfater), förtjockningsmedel (guarkärnmjöl), antioxidationsmedel (tokoferolrika extrakt)], Kryddpulver 7,3% [salt, smakförstärkare (mononatriumglutamat, dinatriumguanylat, dinatriuminosinat), socker, kycklingpulver 0,4%*, kryddor, sojasåspulver (SOJABÖNOR, VETE, salt, maltodextrin), purjolök, jästextrakt, arom, rapsolja, klumpförebyggande medel (kiseldioxid), rökarom], Kryddolja 1,2% [rostad SESAMolja, rapsolja, aromer, färgämne (paprikaoleoresin)]. *i slutprodukten. Kan innehålla spår av SELLERI, KRÄFTDJUR, FISK, MJÖLK, BLÖTDJUR och SENAP.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -34557,9 +35418,9 @@
     },
     {
       "id": "8712429361106",
-      "name": "Nissin Demae Ramen Spicy",
+      "name": "Snabbnudlar Spicy 100g",
       "company": "Nissin",
-      "ingredients": "",
+      "ingredients": "Nudlar 89,7% [VETEmjöl, palmolja, salt, surhetsreglerande medel (natriumkarbonater, kaliumkarbonater), stabiliseringsmedel (trifosfater), förtjockningsmedel (guarkärnmjöl), antioxidationsmedel (tokoferolrika extrakt)], Kryddpulver 8,3% [salt, smakförstärkare (mononatriumglutamat, dinatriumguanylat, dinatriuminosinat), socker, sojasåspulver (SOJABÖNOR, VETE, salt, maltodextrin), aromer, chilipulver 0,6%*, kryddor, jästextrakt, färgämnen (paprikaoleoresin, sockerkulör), purjolök, klumpförebyggande medel (kiseldioxid), surhetsreglerande medel (citronsyra)], Kryddolja 2,0% [rostad SESAMolja, rapsolja, färgämne (paprikaoleoresin), aromer]. *i slutprodukten. Kan innehålla spår av SELLERI, KRÄFTDJUR, FISK, MJÖLK, BLÖTDJUR och SENAP.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
