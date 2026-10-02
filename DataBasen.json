@@ -137,6 +137,69 @@
   "date": "2026-10-02",
   "list": [
     {
+      "id": "7300400115636",
+      "name": "Knäckebröd Runda Kanel 330g",
+      "company": "Wasa",
+      "ingredients": "VETEmjöl 81%, socker, jäst, solrosfröolja, salt, kanel 0,7%, emulgeringsmedel (monooch diglycerider av fettsyror). Kan innehålla spår av LUPIN, MJÖLK, SENAP, SESAMFRÖN och SOJABÖNOR",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311070004144",
+      "name": "Müslibröd 650g",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl, vatten, fullkornsVETEmjöl*, HAVREflingor (6,2%), sirap, poppade RÅGkärnor*, groddade RÅGkärnor*, VETEgluten, solrosfrön (2,2%), VETEgroddar, surdeg på VETE, fermenterat VETEmjöl, kallpressad rapsolja, gula linfrön, linfrö, malt av KORN, VETEkli, jäst, salt, mjölbehandlingsmedel (askorbinsyra). *Brödet innehåller 26% fullkorn",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7314710120006",
+      "name": "Hallonkransar 600g",
+      "company": "Gille",
+      "ingredients": "VETEMJÖL, margarin (vegetabiliska fetter och oljor (palm*, shea, raps, kokos), vatten, salt, emulgeringsmedel: mono- och diglycerider av vegetabiliska fettsyror, naturlig arom, antioxidationsmedel: citronsyra), socker, hallonfyllning 12 % (socker, vatten, hallonpuré 10 %, äppelkoncentrat, förtjockningsmedel: modifierad stärkelse (tapioka), pektin; färgämne: lila morotkoncentrat; surhetsreglerande medel: citronsyra; konserveringsmedel: kaliumsorbat; naturlig hallon arom), invertsockersirap, vatten, arom, mjölbehandlingsmedel: askorbinsyra. Kan innehålla spår av ägg och mandel. *Hållbart producerad och certifierad.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311379532072",
+      "name": "Korvbröd 10-pack 270g",
+      "company": "Korvbrödsbagarn",
+      "ingredients": "VETEMJÖL*, vatten*, invertsocker*, rapsolja*, jäst*, VETEGLUTEN, salt, fermenterat VETEMJÖL, maltmjöl av KORN, vegetabiliskt emulgeringsmedel (E471), mjölbehandlingsmedel (E300). Kan innehålla spår av sesamfrö. *råvaran har svenskt ursprung.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311070001952",
+      "name": "Rasker Fullkorn 1100g",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl, vatten, fullkornsVETEmjöl*, surdeg på fullkornsRÅG* och VETE, klippt fullkornsRÅG* (6%), siktat RÅGmjöl, VETEgluten, solrosfrö (2%), fermenterat VETEmjöl, HAVREfiber, rapsolja, sirap, malt av KORN, jäst, salt, mjölbehandlingsmedel (askorbinsyra). *Brödet innehåller 25% fullkorn.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311070008609",
+      "name": "Surdegsbröd Kärnsund 700g",
+      "company": "Pågen",
+      "ingredients": "Vetemjöl, vatten, fullkornsvetemjöl*, groddade rågkärnor (12%), surdeg på fullkornsråg* och vete (10%), klippt fullkornsråg*, vetegluten, malt av korn, rågskållning*, kallpressad rapsolja (1%), jäst, salt, mjölbehandlingsmedel (askorbinsyra). *Brödet innehåller 39% fullkorn.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7310521053106",
+      "name": "Brago 225g",
+      "company": "Brago",
+      "ingredients": "VETEMJÖL/HVEDEMEL, socker, vegetabilisk olja*, VETESTÄRKELSE/HVEDESTIVELSE, sirap, salt, bakpulver/hævemiddel (natriumbikarbonat, hjorthornssalt E503), emulgeringsmedel (lecitin), aromer. *För info om vilken olja som använts se www.goteborgskex.se/ravaror.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7330242200658",
+      "name": "Glutenfria Kanelbullar 4-pack 4",
+      "company": "Fria",
+      "ingredients": "GLUTENFRI VETESTÄRKELSE, socker, vatten, rapsolja, jäst, GLUTENFRITT MALTEXTRAKT (KORN), förtjockningsmedel (cellulosagummi, guarkärnmjöl, xantangummi), psylliumfröskal, kanel, kardemumma, äppelfiber, maltodextrin (majs), emulgeringsmedel (mono- och diglycerider av fettsyror [veg.], lecitin [raps]), modifierad potatisstärkelse, glukossirap, ärtprotein, potatisgranulat, majsstärkelse, fullhärdad rapsolja, salt, aromer. KAN INNEHÅLLA SPÅR AV ÄGG",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7391288218007",
+      "name": "Grekiskt Bröd 600g",
+      "company": "Bonjour",
+      "ingredients": "VETEMJÖL, vatten, DURUMVETEMJÖL, jäst/gjær, VETEGLUTEN, torkad surdeg av VETE, salt, vegetabilisk olja (raps), malt av KORN/BYGG, surdeg av RÅG [vatten, RÅGMJÖL], fruktsocker, emulgeringsmedel (E472e), mjölbehandlingsmedel (E300). Kan innehålla spår av mjölk, valnötter.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
       "id": "7310072000581",
       "name": "Festis Hallon 3-pack Eko 600ml",
       "company": "Festis",
