@@ -134,8 +134,610 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-10-02",
+  "date": "2026-10-04",
   "list": [
+    {
+      "id": "7310240073812",
+      "name": "Pommes Chateau 800g",
+      "company": "Felix",
+      "ingredients": "Potatis*, rapsolja och druvsocker. *Svenskt ursprung.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191120792",
+      "name": "Wok mix Malaysia 400g",
+      "company": "Coop",
+      "ingredients": "Orange morötter 20% (EU (Belgien och/eller Nederländerna)), gula morötter 20% (EU (Belgien och/eller Nederländerna)), röd paprika 14%, sockerärtor 11%, extra fina gröna bönor 10%, minimajs 8%, black fungus svamp 6%, rödlök 6%, bambuskott 5%.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191112629",
+      "name": "Wokmix Eko 450g",
+      "company": "Änglamark",
+      "ingredients": "Gröna bönor** 20% (Spanien), röd paprika** 18% (Spanien), palsternacka** 18% (Spanien), orange morötter** 18% (Spanien och/eller Frankrike), gula morötter** 17% (Spanien och/eller Frankrike), grillad lök** 9%. **KRAV-ekologisk ingrediens. KRAV-märkningen verifieras av Kiwa.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191174610",
+      "name": "Wok mix 1000g",
+      "company": "Xtra",
+      "ingredients": "Morötter 26 % (EU), broccoli 22 % (EU), gul paprika 17 %, röd paprika 14 %, majskorn 12 %, sockerärtor 9 %.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310500187181",
+      "name": "Wok Classic Style 450g",
+      "company": "Findus",
+      "ingredients": "Morot, broccoli, palsternacka, minimajs 10 %, vattenkastanj 7,3 %, vatten, salt, svartpeppar. Broccolin har en skyddande vattenglasering.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191151420",
+      "name": "Wok Mix Thai 500g",
+      "company": "Coop",
+      "ingredients": "Morötter 30% (EU), broccoli 20%, minimajs 14%, vattenkastanjer 12%, palsternacka 10%, sockerärtor 10%, bambuskott 4%.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300208345006",
+      "name": "Bacon 140g",
+      "company": "Scan",
+      "ingredients": "Svenskt sidfläsk av gris (96%), koksalt, antioxidationsmedel E301, konserveringsmedel E250, rökarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310943092523",
+      "name": "Blodpudding 500g",
+      "company": "Gea´s",
+      "ingredients": "Vatten, fullkornsmjöl av RÅG, VETEmjöl, rapsolja, blodpulver från gris*, socker, salt, kryddor och örtkryddor (ingefära, kanel, koriander, kryddpeppar, nejlika, peppar, mejram), lökpulver, arom, konserveringsmedel (E250). *EU-råvara.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350027791775",
+      "name": "Antipastitallrik 120g",
+      "company": "Zeta",
+      "ingredients": "eller ämnen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156589392",
+      "name": "Lufttorkad Fläskkarré Coppa 80g",
+      "company": "Coop",
+      "ingredients": "Fläskkarré, salt, socker, naturlig arom, konserveringsmedel(E 252, E 250). Till 100 g färdig produkt har 145 g köttanvänts. Ursprung köttråvara: Italien*.*Uppfyller Coops kriterier för djurvälfärd. Läs mer påwww.coop.se/vart-ansvar/hallbarhetsarbete/kott/djurvalfard",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300205753002",
+      "name": "Bacon Tärnat 140g",
+      "company": "Scan",
+      "ingredients": "Svenskt griskött, salt, antioxidationsmedel (E301), konserveringsmedel (E250), rökarom. Bacon är en rå produkt som ska tillagas före användning.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191147164",
+      "name": "Antipasto Misto 120g",
+      "company": "Coop",
+      "ingredients": "PROSCIUTTO CRUDO INGREDIENSER per 100 g PROSCIUTTO: Fläskkött * 130 g (Tyskland), salt. SALAME MILANO INGREDIENSER per 100 g SALAMI: Fläskkött * 143 g (Italien), salt, socker, peppar, vitlök, konserveringsmedel (E 252, E 250), antioxidationsmedel (E 301), startkultur. SALAME RUSTICO INGREDIENSER per 100 g SALAMI: Fläskkött * 135 g (Italien), salt, socker, peppar, vitlök, konserveringsmedel (E 252, E 250), antioxidationsmedel (E 301), startkultur. Förpackad i en skyddande atmosfär. *Uppfyller Coop Sveriges kriterier för djurvälfärd. Läs mer på www.coop.se/hallbarhet/hallbarhetsarbete/kott",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156586506",
+      "name": "Jamón Serrano 70g",
+      "company": "Coop",
+      "ingredients": "Fläskkött (Spanien*), salt.Till 100 g färdig produkt har 146 g kött använts. *Uppfyller Coops kriterier för djurvälfärd. Läsmer på www.coop.se/vart-ansvar/hallbarhetsarbete/kott/djurvalfard",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2097086400006",
+      "name": "Skinka Källarrökt 100g",
+      "company": "coop",
+      "ingredients": "Svensk skinka (helmuskel, 95%), salt, druvsocker, glukossirap, stabiliseringsmedel E451, antioxidationsmedel E301, konserveringsmedel E250.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191147157",
+      "name": "Prosciutto Crudo 80g",
+      "company": "Coop",
+      "ingredients": "per 100 g PROSCIUTTO : Fläskkött* 130 g (Tyskland), salt. Förpackad i en skyddande atmosfär. *Uppfyller Coop Sveriges kriterier för djurvälfärd. Läs mer på www.coop.se/hallbarhet/hallbarhetsarbete/kott",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156577603",
+      "name": "Bacon 3-pack 375g",
+      "company": "Coop",
+      "ingredients": "Svålfri sida av gris* 97%, vatten, salt, druvsocker, antioxidationsmedel (E 301), konserveringsmedel (E 250), rökarom. *Uppfött och slaktat i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156579089",
+      "name": "Rökt skinka Strimlad 180g",
+      "company": "Coop",
+      "ingredients": "Skinka av gris 95% (skinkbitar), salt, antioxidationsmedel (E 331, E 301), socker, stabiliseringsmedel (E 450), konserveringsmedel (E 250). Rökt. URSPRUNG KÖTTRÅVARA: Fött, uppfött, styckat och slaktat i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300206718000",
+      "name": "Bacon 3-pack 420g",
+      "company": "Scan",
+      "ingredients": "Svenskt sidfläsk av gris (96%), koksalt, antioxidationsmedel E301, konserveringsmedel E250, rökarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8032484863880",
+      "name": "Tapas Gourmet 200g",
+      "company": "Corte Parma",
+      "ingredients": "QUESO DE LA MESA 60g (pastöriserad KOMJÖLK* min. 80%, pastöriserad FÅRMJÖLK* min 5%, salt, stabiliseringsmedel: E 509, löpe, mjölksyra). GRÖNA OLIVER 50g (Gordal) (kärnfria gröna oliver***, salt, solrosolja). JAMON SERRANO GTS 12mån 35g (skinka*, salt, konserveringsmedel: E250 E252; antioxidant: E301). LOMO 35g (karré*, salt, socker, LAKTOS, aromer, kryddor, stabilisator: E452i; antioxidant: E301, E326; konserveringsmedel: E250 E252). TARALLI 20g (VETEMJÖL, vitt vin (SULFITER), olivolja, extra jungfruolja 5%, salt). KAN INNEHÅLLA SPÅR AV MANDEL, SOJA & SESAM. *Ursprung: Spanien **Ursprung: EU ***Ursprung: Grekland",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7350166370466",
+      "name": "Fiocchetto 60g",
+      "company": "MINO",
+      "ingredients": "Fläskkött*, salt, kryddor, naturlig arom, konserveringsmedel (E250, E252). Fött, uppfött och slaktat i Italien.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2097008800006",
+      "name": "Prosciutto Di Parma Slega 100g",
+      "company": "Slega",
+      "ingredients": "Skinka (helmuskel), salt. Till 100 g färdig produkt har använts 145 g köttråvara.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5707196078442",
+      "name": "Stekfläsk Skivat 375g",
+      "company": "TULIP",
+      "ingredients": "Sidfläsk (90%), vatten, salt, antioxidationsmedel (E 301), konserveringsmedel (E 250).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156578556",
+      "name": "Bacon 120g",
+      "company": "Xtra",
+      "ingredients": "Svålfri sidaav gris* 90%, vatten, salt,stabiliseringsmedel (E 451),animaliskt protein från gris,antioxidationsmedel (E 301),konserveringsmedel (E 250),rökarom. Rökt. *UppfyllerCoops kriterier för djurvälfärd.Läs mer på www.coop.se/vartansvar/hallbarhetsarbete/kott/djurvalfard",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5707196060515",
+      "name": "Bacon Tärnat 500g",
+      "company": "Majesty",
+      "ingredients": "Griskött, salt, antioxidationsmedel (E 301), konserveringsmedel (E 250).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2317258500007",
+      "name": "Kassler I Bit 600g",
+      "company": "Coop",
+      "ingredients": "Benfri kotlett av gris. salt, glukossirap, vatten, stabiliseringsmedel E250, antioxidationsmedel E301, konserveringsmedel E250, rökarom",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8032484863101",
+      "name": "Aperitivo Gourmet 170g",
+      "company": "Corte Parma",
+      "ingredients": "GRÖNA OLIVER 35% (Oliver 60%, solrosolja, salt). TRYFFELSALAMI 18% (Griskött*, svart sommartryffel 3% (Tuber Aestivum vitt), salt, dextros, naturliga smakämnen, kryddor, antioxidant: E301, konserveringsmedel: E250, E252). PROSCIUTTO CRUDO 12mån 18% (Skinka*, salt). SALAMI D'ITALIA 18% (Griskött*, salt, dextros, smakämnen, kryddor, antioxidant: E301; konserveringsmedel: E250, E252). PARMIGIANO REGGIANO DOP 11% (MJÖLK, salt, löpe). *Uppfött och slaktat i Italien.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2097217700005",
+      "name": "Prosciutto Di Parma Extra 100g",
+      "company": "Negroni",
+      "ingredients": "Skinka helmuskel, salt (5,1%). Till 100g produkt har avänts 137g råvara.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5707196306040",
+      "name": "Pancetta Tärnad 150g",
+      "company": "Tulip",
+      "ingredients": "Sidfläsk, salt, antioxidationsmedel (E 301), konserveringsmedel (E 250).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2097217100003",
+      "name": "Pancetta Affumicata 100g",
+      "company": "Negroni",
+      "ingredients": "Sidfläsk, salt, kryddor, dextros, konserveringsmedel (natriumnitrit), antioxidationsmedel (natriumaskorbat). Rök med bokträ. Till 100g produkt har använts 121g köttråvara.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5707196299762",
+      "name": "Stekfläsk Tärnat 150g",
+      "company": "Tulip",
+      "ingredients": "Sidfläsk (90%), vatten, salt, antioxidationsmedel (E 301), konserveringsmedel (E 250).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300200030009",
+      "name": "Köttbullar Mammas 350g",
+      "company": "Scan",
+      "ingredients": "Svenskt gris- och nötkött (73%)*, vatten, potatismjöl, fett från nötkött*, lök, potatisflingor, salt jodberikat, mineralsalt med mindre natrium, potatisfiber, druvsocker, socker, kryddor, kryddextrakt. Stekta i animaliskt fett. *Ursprung Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310943092400",
+      "name": "Blodpudding Skivad 380g",
+      "company": "Gea´s",
+      "ingredients": "Vatten, fullkornsmjöl av RÅG, VETEmjöl, rapsolja, blodpulver från gris*, socker, salt, kryddor och örtkryddor (ingefära, kanel, koriander, kryddpeppar, nejlika, peppar, mejram), lökpulver, arom, konserveringsmedel (E250). *EU-råvara.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300156577634",
+      "name": "Tärnat Bacon 140g",
+      "company": "Coop",
+      "ingredients": "Svålfri sida av gris* 97%, vatten, salt, druvsocker, antioxidationsmedel (E 301), konserveringsmedel (E 250), rökarom. *Uppfött och slaktat i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5707196171938",
+      "name": "Kalkonbacon 110g",
+      "company": "Tulip",
+      "ingredients": "Näringsvärdesanalyser och deklarationer kontrolleras kontinuerligt och uppdateras vid behov, läs därför alltid ingrediensförteckningen på förpackningen. Ingredienser: Kalkonkött (93%), salt, potatisstärkelse, antioxidationsmedel (E 301), konserveringsmedel (E 250). Rökt och torkat.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300201883000",
+      "name": "Bacon Eko 120g",
+      "company": "Scan",
+      "ingredients": "Svenskt sidfläsk av gris (96%)*, salt, antioxidationsmedel (E301), konserveringsmedel (E250). *Ekologisk råvara.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5707196194708",
+      "name": "Bacon 3-pack 375g",
+      "company": "Tulip",
+      "ingredients": "Sidfläsk, salt, antioxidationsmedel (E 301), konserveringsmedel (E 250).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300209337000",
+      "name": "Bacon Extrarökt 120g",
+      "company": "Scan",
+      "ingredients": "Svenskt sidfläsk av gris (98%), salt, antioxidationsmedel (E301), konserveringsmedel (E250), rökarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7331044002839",
+      "name": "Bacon Kalkon 100g",
+      "company": "Ingelsta Kalkon",
+      "ingredients": "Kalkonlårkött (86 %), vatten, salt, baconarom, druvsocker, stabiliseringsmedel (E451), antioxidationsmedel (E301), konserveringsmedel (E250).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300204336008",
+      "name": "Bacon Miniskivat 140g",
+      "company": "Scan",
+      "ingredients": "Svenskt sidfläsk, salt, antioxidationsmedel (E301), konserveringsmedel (E250), rökarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156592903",
+      "name": "Jamón Serrano Gran Reserva 80g",
+      "company": "Coop",
+      "ingredients": "PER 100 g SERRANOSKINKA: Fläskkött* 146 g (Spanien), salt. Förpackad i en skyddande atmosfär. *Uppfyller Coops kriterier för djurvälfärd. Läs mer på www.coop.se/hallbarhet/hallbarhetsarbete/kott",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350027793717",
+      "name": "Prosciutto di Parma 70g",
+      "company": "Zeta",
+      "ingredients": "Fläsklägg*, havssalt. Till 100g färdig produkt har 140g kött använts.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300202024006",
+      "name": "Bacon Björk & alspånsrökt 125g",
+      "company": "Scan",
+      "ingredients": "Svenskt sidfläsk av gris (96%), salt, antioxidationsmedel (E301), konserveringsmedel (E250)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2097054800005",
+      "name": "Lindösalami Peppar 100g",
+      "company": "Lönneberga",
+      "ingredients": "Griskött, nötkött, fett från gris, koksalt, druvsocker, svartpeppar, kryddor (bl.a. koriander, vitlök), gelatin, konserveringsmedel (E250), surhetsreglerande medel (E575), antioxidationsmedel (E300, E301). Till 100 g färdig produkt har använts 102 g griskött och 25 g nötkött.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350027794103",
+      "name": "Prosciutto Crudo Eko 70gr",
+      "company": "Zeta",
+      "ingredients": "Skinka*, havssalt. *Ekologisk certifierad ingrediens. Till 100g färdig produkt har 149g kött använts.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191147188",
+      "name": "Prosciutto di Parma 70g",
+      "company": "Coop",
+      "ingredients": "per 100 g PROSCIUTTO: Fläskkött* 130 g (Italien), havssalt. Förpackad i en skyddande atmosfär. *Uppfyller Coop Sveriges kriterier för djurvälfärd. Läs mer på www.coop.se/hallbarhet/hallbarhetsarbete/kott",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156577597",
+      "name": "Bacon 140g",
+      "company": "Coop",
+      "ingredients": "Svålfri sida av gris* 97%, vatten, salt, druvsocker, antioxidationsmedel (E 301), konserveringsmedel (E 250), rökarom. *Uppfött och slaktat i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156593160",
+      "name": "Prosciutto 80g",
+      "company": "Coop",
+      "ingredients": "Skinka från gris* (Tyskland), salt. Till 100 g färdig produkt har 130 g kött använts.*Uppfyller Coops kriterier för djurvälfärd. Läs mer på www.coop.se/vart-ansvar/hallbarhetsarbete/kott/djurvalfard",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156498557",
+      "name": "Serrano 80g",
+      "company": "Coop",
+      "ingredients": "Fläskkött* (Spanien), salt, socker, konserveringsmedel (E 250, E 252), antioxidations- medel (E 300). Till 100 g färdig produkt har 145 g kött använts. *Uppfyller Coops kriterier för djurvälfärd. Läs mer på www.coop.se/vart-ansvar/hallbarhetsarbete/ kott/djurvalfard.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191137202",
+      "name": "Jamón Serrano 250g",
+      "company": "Coop",
+      "ingredients": "PER 100 g SERRANOSKINKA: Fläskkött* 146 g (Spanien), salt.Förpackad i en skyddande atmosfär.*Uppfyller Coops kriterier för djurvälfärd. Läs mer på www.coop.se/hallbarhet/hallbarhetsarbete/kott",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191147171",
+      "name": "Bresaola 70g",
+      "company": "Coop",
+      "ingredients": "per 100 g BRESAOLA: Nötkött* 135 g (Frankrike), salt, naturliga aromer, konserveringsmedel (E 250, E 252). Förpackad i en skyddande atmosfär. *Uppfyller Coop Sveriges kriterier för djurvälfärd. Läs mer på www.coop.se/hallbarhet/hallbarhetsarbete/kott",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350027793816",
+      "name": "Prosciutto Crudo 70g",
+      "company": "Zeta",
+      "ingredients": "Skinka*, salt. Till 100g färdig produkt har 137g kött använts. *Uppfött och slaktat i EU.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300324068001",
+      "name": "Kycklingköttbullar 800g",
+      "company": "Kronfågel",
+      "ingredients": "Kycklingkött 70%, vatten, kycklingfett, potatisstärkelse, potatisflingor, salt, lök, druvsocker, vegetabilisk fiber (potatis, citrus), grönsaksbuljong, kryddextrakt (svartpeppar), vitpeppar, cayennepeppar.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300150000244",
+      "name": "Köttbullar 1000g",
+      "company": "Xtra",
+      "ingredients": "Gris°- och nötkött°° 60%, lök, potatis, kryddblandning (potatismjöl, potatisflingor, potatis fiber, lök, druvsocker, socker, kött buljong, naturlig arom, kryddextrakt), vatten, salt. Stekta i rapsolja. °Fött och uppvuxet i Nederländerna, slaktat och styckat i Tyskland. °°Fött och uppfött på Irland.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300324064003",
+      "name": "Kycklingköttbullar 350g",
+      "company": "Kronfågel",
+      "ingredients": "Kycklingkött 70%, vatten, kycklingfett, potatisstärkelse, potatisflingor, salt, lök, druvsocker, vegetabilisk fiber (potatis, citrus), grönsaksbuljong, kryddextrakt (svartpeppar), vitpeppar, cayennepeppar.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2097218000005",
+      "name": "Lufttorkat Nötinnanlår Bresaola 100g",
+      "company": "Negroni",
+      "ingredients": "Nötkött, salt, druvsocker, naturlig arom, konserveringsmedel (natriumnitrit, kaliumnitrat). Till 100 g färdig produkt har använts 153 g köttråvara. Ej ätbart korvskinn.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7393263018107",
+      "name": "Blod Bägare - Sverige 500g",
+      "company": "Nyhléns Hugosons",
+      "ingredients": "Nötblod, antioxidationsmedel E331. Svensk råvara.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7331044060334",
+      "name": "Kalkonköttbullar 400g",
+      "company": "Ingelsta Kalkon",
+      "ingredients": "Kalkonkött 70 %, vatten, kalkonfett, potatisstärkelse, potatisflingor, salt, lök, druvsocker, potatisgrits, socker, potatisfiber, citrusfiber, stabiliseringsmedel (E450, E451), kryddor (vitpeppar, ingefära), arom, kryddextrakt (kryddpeppar, cayennepeppar).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5707196314281",
+      "name": "Skinka Kokt Strimlad 450g",
+      "company": "TULIP",
+      "ingredients": "Skinka (85%), vatten, salt, kaliumklorid, druvsocker, stabiliseringsmedel (E 451), konserveringsmedel (E 261, E 250), antioxidationsmedel (E 301).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "9120018531479",
+      "name": "Cevapcici Banja Luka 400g",
+      "company": "Brajlovic",
+      "ingredients": ", nötkött 96%, salt, vitlök, svartpeppar, smakförstärare mononatriumglutamat, stabiliseringsmedel natriumbikarbonat, dextros.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5707196314342",
+      "name": "Rökt Skinka Strimlad 450g",
+      "company": "TULIP",
+      "ingredients": "Skinka (85%), vatten, salt, kaliumklorid, druvsocker, stabiliseringsmedel, (E 451), konserveringsmedel (E 261, E 250), antioxidationsmedel (E 301).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2317258400000",
+      "name": "Kassler I Bit Rimmad & Varmrökt 1kg",
+      "company": "Xtra",
+      "ingredients": "Benfri kotlett av gris* 82%, vatten, salt, glukossirap, stabiliseringsmedel (E 450), druvsocker, animaliskt protein från gris, antioxidationsmedel (E 301), konserveringsmedel (E 250), rökarom. *Uppfyller Coops kriterier för djurvälfärd. Läs mer på www.coop.se/vart-ansvar/hallbarhetsarbete/ kott/djurvalfard",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2354744900002",
+      "name": "Picnicbog Rökt I Bit 500g",
+      "company": "Fåddman AB",
+      "ingredients": "eller ämnen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2372700400007",
+      "name": "Blodpudding I Bit 500g",
+      "company": "Andersson & Tillman",
+      "ingredients": "Nötblod, fett från nöt, vatten, nötkött (7%), socker, RÅGMJÖL, ströbröd (VETEMJÖL, vatten, salt, jäst), VETEMJÖL, kryddor (kryddpeppar, vitpeppar, kanel, kryddnejlika, lök), salt, vegetabilisk olja (solros, kokos), kryddextrakt, konserveringsmedel (E250).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300150000251",
+      "name": "Köttbullar 1000g",
+      "company": "Coop",
+      "ingredients": "Gris- och nötkött° (73%), lök°, potatismjöl, potatis°, potatisflingor, salt, potatisfiber, socker, druvsocker, köttbuljong, arom, naturlig arom, ingefära, kryddextrakt (svart peppar). Stekta i rapsolja. °Ursprung: Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300150000282",
+      "name": "Kycklingköttbullar 300g",
+      "company": "Coop",
+      "ingredients": "Kycklingkött 66%°, kycklingskinn°, vatten, potatismjöl, potatisflingor, salt, lök, potatisfiber, druvsocker, socker, stabiliserings medel (E 451), arom, kryddor (ingefära), kryddextrakt (cayenne peppar, svartpeppar). Stekta i rapsolja. °Köttursprung: Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300150000275",
+      "name": "Kycklingköttbullar 800g",
+      "company": "Coop",
+      "ingredients": "Kycklingkött 66%°, kycklingskinn°, vatten, potatismjöl, potatisflingor, salt, lök, potatisfiber, druvsocker, socker, stabiliserings medel (E 451), arom, kryddor (ingefära), kryddextrakt (cayenne peppar, svartpeppar). Stekta i rapsolja. °Köttursprung: Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2317219500008",
+      "name": "Skinka Rökt I Bit 350g",
+      "company": "Coop",
+      "ingredients": "Skinka av gris 95% (helmuskel), vatten, salt, druvsocker, socker, stabiliseringsmedel (E 451), antioxidationsmedel (E 301), konserveringsmedel (E 250). Varmrökt. URSPRUNG KÖTTRÅVARA: Fött, uppfött, slaktat och styckat i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300150000299",
+      "name": "Pannbiff 300g",
+      "company": "Coop",
+      "ingredients": "Gris°- och nötkött° 73%, vatten, potatisstärkelse, lök°, kryddor, potatis°, potatisflingor, salt, potatisfiber. Stekta i rapsolja. °Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300150000268",
+      "name": "Köttbullar 350g",
+      "company": "Coop",
+      "ingredients": "NGREDIENSER: Gris- och nötkött° (73%), lök°, potatismjöl, potatis°, potatisflingor, salt, potatisfiber, socker, druvsocker, köttbuljong, arom, naturlig arom, ingefära, kryddextrakt (svart peppar). Stekta i rapsolja. °Ursprung: Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310943092530",
+      "name": "Blodpudding Utan Socker 500g",
+      "company": "Gea´s",
+      "ingredients": "Vatten, fullkornsmjöl av RÅG, VETEmjöl, rapsolja, blodpulver från gris*, bambufiber, salt, kryddor (ingefära, kanel, koriander, kryddpeppar, nejlika, peppar), lök, mejram, potatisfiber, protein från gris, arom, konserveringsmedel (E250). *EU-råvara.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "2372700200003",
+      "name": "Bacon 200g",
+      "company": "Andersson & Tillman",
+      "ingredients": "Svålfritt sidfläsk (94%), salt, druvsocker, antioxidationsmedel (E330, E331), konserveringsmedel (E250). Tillverkad av svensk köttråvara.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5707196380781",
+      "name": "Bacon Cubes Hot Honey 240g",
+      "company": "TULIP",
+      "ingredients": "Baconkuber (83%) (sidfläsk av gris, salt, antioxidationsmedel (E301), konserveringsmedel (E250)), marinad (17%) (vatten, socker, honung (15%), modifierad stärkelse, chili, kryddor, kryddextrakt, aromämne).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7330797088077",
+      "name": "Bacontärningar Ojämna 350g",
+      "company": "Pärsons",
+      "ingredients": "Svenskt sidfläsk av gris (95%), vatten, salt, antioxidationsmedel (E301), konserveringsmedel (E250), rökarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156495280",
+      "name": "Pölsa 500g",
+      "company": "Coop",
+      "ingredients": "Vatten, nötsenor°, nötlunga°, KORNGRYN°, bindväv från gris°, nöthjärta°, grislever°, nöttalg°, lök, salt, kryddor (kardemumma, kryddpeppar, nejlika, mejram), kryddextrakt, dextros, konserveringsmedel (E 250). °Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7300201359000",
+      "name": "Miniköttbullar Ost & skinka 300g",
+      "company": "Scan",
+      "ingredients": "Svenskt griskött (75%), potatis, vatten, ÄGG, RIVEN OST, VASSLEPULVER, lök, paprika, salt, svartpeppar, cayennepeppar, arom, naturlig arom, (MJÖLK).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5707196033243",
+      "name": "Bacon Tärnat 150g",
+      "company": "TULIP",
+      "ingredients": "Sidfläsk, salt, antioxidationsmedel (E 301), konserveringsmedel (E 250).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156596109",
+      "name": "Bacontärningar 120g",
+      "company": "XTRA",
+      "ingredients": "Svålfri sida av gris* 90%, vatten, salt, stabiliseringsmedel (E 451), animaliskt protein från gris, antioxidationsmedel (E 301), konserveringsmedel (E 250), rökarom. Rökt. *Uppfyller Coops kriterier för djurvälfärd.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156582225",
+      "name": "Rökt skinka Strimlad 450g",
+      "company": "Coop",
+      "ingredients": "Skinka av gris 95% (skinkbitar), salt, antioxidationsmedel (E 331, E 301), socker, stabiliseringsmedel (E 450), konserveringsmedel (E 250). Rökt. URSPRUNG KÖTTRÅVARA: Fött, uppfött, styckat och slaktat i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300201361003",
+      "name": "Pannbiffar 300g",
+      "company": "Scan",
+      "ingredients": "Svenskt gris- och nötkött (73)*, vatten, potatismjöl, fett från nötkött*, lök, potatisflingor, joderat salt, mineralsalt med mindre natrium, potatisfiber, druvsocker, socker, kryddor, kryddextrakt. Stekta i animaliskt fett. *Ursprung: Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5707196217940",
+      "name": "Bacon Eko 100g",
+      "company": "TULIP",
+      "ingredients": "Ekologiskt sidfläsk, salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5707196338836",
+      "name": "Pancetta Rökt Tärnad 150g",
+      "company": "TULIP",
+      "ingredients": "Sidfläsk, salt, antioxidationsmedel (E 301), konserveringsmedel (E 250).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "2320719100005",
+      "name": "Kassler Rökt & rimmad 1kg",
+      "company": "Scan",
+      "ingredients": "Svensk varmrökt kotlett av gris (82 %), vatten, salt, druvsocker, stabiliseringsmedel (E451), animaliskt protein (gris), potatisfiber, rökarom, antioxidationsmedel (E301), konserveringsmedel (E250).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "5762385534970",
+      "name": "Stekfläsk Skivat 1000g",
+      "company": "TULIP",
+      "ingredients": "Sidfläsk (90%), vatten, salt, antioxidationsmedel (E 301), konserveringsmedel (E 250).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350051211102",
+      "name": "Skinka Lufttorkad Prosciutto Crudo 80g",
+      "company": "Engelmanns",
+      "ingredients": "fläskkött (EU), salt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156587831",
+      "name": "Bacon 3-pack 360g",
+      "company": "Xtra",
+      "ingredients": "Svålfri sida av gris* 90%, vatten, salt, stabiliseringsmedel (E 451), animaliskt protein från gris, antioxidationsmedel (E 301), konserveringsmedel (E 250), rökarom. Rökt. *Uppfyller Coops kriterier för djurvälfärd. Läs mer på www.coop.se/ vart-ansvar/hallbarhetsarbete/ kott/djurvalfard",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350166370473",
+      "name": "Culatta 60g",
+      "company": "MINO",
+      "ingredients": "Fläskkött*, salt. Fött, uppfött och slaktat i EU",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7312920094902",
       "name": "Risgrynsgröt 6x1000g",
@@ -22216,9 +22818,9 @@
     },
     {
       "id": "7300200080004",
-      "name": "Scan Köttbullar Mamma Scans 1kg Scan",
+      "name": "Köttbullar Mammas 1000g",
       "company": "Scan",
-      "ingredients": "Svenskt gris- och nötkött (73%), vatten, potatismjöl, lök, jodsalt, potatisfiber, druvsocker, socker, kryddor, kryddextrakt. Stekta i animaliskt fett.",
+      "ingredients": "Svenskt gris- och nötkött (73%)*, vatten, potatismjöl, fett från nötkött*, lök, potatisflingor, joderat salt, mineralsalt med mindre natrium, potatisfiber, druvsocker, socker, kryddor, kryddextrakt. *Ursprung Sverige. Stekta i animaliskt fett.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
