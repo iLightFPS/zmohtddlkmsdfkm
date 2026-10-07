@@ -134,8 +134,36 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-10-04",
+  "date": "2026-10-07",
   "list": [
+    {
+      "id": "7310620032040",
+      "name": "Kokkorv I Burk 300g",
+      "company": "Sibylla",
+      "ingredients": "Griskött (51%), vatten, fett från gris, potatismjöl, bindväv från gris, salt, druvsocker, lökpulver, kryddextrakt (muskotnöt, svartpeppar, koriander, cayennepeppar), antioxidationsmedel (E300), konserveringsmedel (E250).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310620027893",
+      "name": "Wienerkorv 300g",
+      "company": "Lithells",
+      "ingredients": "Gris-* och nötkött* (74%), vatten, potatismjöl, fett från gris*, salt, druvsocker, lökpulver, kryddor och kryddextrakt (cayennepeppar, koriander, muskotnöt, svartpeppar), antioxidationsmedel (E300), konserveringsmedel (E250). Köttmängd 74%. *Svensk råvara.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156494689",
+      "name": "Wienerkorv 300g",
+      "company": "Coop",
+      "ingredients": "Gris°- och nötkött° 65%, vatten, potatismjöl, salt, fett från gris°, druvsocker, kryddor (paprika, ingefära, muskot, libbsticka), kryddextrakt (peppar), antioxidationsmedel (E 300), konserveringsmedel (E 250). °Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7310620025417",
+      "name": "Wienerkorv 15-pack 750g",
+      "company": "Lithells",
+      "ingredients": "Gris*- och nötkött* (66%), vatten, fett från gris*, potatismjöl, salt, druvsocker, lökpulver, kryddor och kryddextrakt (svartpeppar, vitpeppar, cayennepeppar, ingefära, muskotnöt, koriander, paprika), arom, antioxidationsmedel (E300), konserveringsmedel (E250). *Fött, uppfött och slaktat i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7310240073812",
       "name": "Pommes Chateau 800g",
@@ -9233,7 +9261,7 @@
       "id": "7310628008887",
       "name": "Varmkorv 900g",
       "company": "Lithells",
-      "ingredients": "Griskött* (55%), vatten, potatismjöl, fett från gris*, druvsocker, salt, kryddor och kryddextrakt (svartpeppar, muskotnöt, koriander, cayennepeppar), lökpulver, antioxidationsmedel (E300), konserveringsmedel (E250), rökarom.*Svensk råvara.",
+      "ingredients": "Griskött* (55%), vatten, potatismjöl, fett från gris*, druvsocker, salt, kryddor och kryddextrakt (svartpeppar, muskotnöt, koriander, cayennepeppar), lökpulver, antioxidationsmedel (E300), konserveringsmedel (E250), rökarom. *Svensk råvara.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
