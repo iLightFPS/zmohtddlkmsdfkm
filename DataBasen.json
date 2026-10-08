@@ -134,8 +134,15 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "list": [
+    {
+      "id": "7313160007066",
+      "name": "Kebabsås vit 900g",
+      "company": "RYDBERGS",
+      "ingredients": "YOGHURT 44%, rapsolja, vatten, ÄGGULA, SENAPSFRÖ, salt, socker, lök, vitlök, kryddor, örtkryddor, svartpepparextrakt, champinjonpulver, ättika, stabiliseringsmedel (guarkärnmjöl, xantangummi), surhetsreglerande medel (citronsyra), konserveringsmedel (natriumbensoat, kaliumsorbat)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7310620032040",
       "name": "Kokkorv I Burk 300g",
