@@ -134,8 +134,43 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "list": [
+    {
+      "id": "7311171008386",
+      "name": "Havrefras Original 375g",
+      "company": "Havrefras",
+      "ingredients": "FullkornsHAVREmjöl (84%), VETEkli, socker, KORNmaltextrakt, bakpulver (kaliumvätekarbonat), salt. Kan innehålla spår av andra gluteninnehållande spannmål.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340011342434",
+      "name": "Cornflakes 750g",
+      "company": "Xtra",
+      "ingredients": "Majs 92 % (EU), socker, KORNMALTEXTRAKT, salt. Kan innehålla spår av vete, råg, havre, soja, mjölk, sesamfrön, jordnötter, mandel, hassel-, val-, cashew-, pekan-, para-, pistage- och macadamianötter.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7340011353478",
+      "name": "Cornflakes 500g",
+      "company": "Coop",
+      "ingredients": "Majs 95 %, socker, salt, KORNMALTEXTRAKT . Kan innehålla spår av vete, råg, havre, soja och mjölk. Majsens ursprung är EU, om inget annat anges i samband med datummärkningen.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311171008409",
+      "name": "Havrefras Jordgubb 300g",
+      "company": "Havrefras",
+      "ingredients": "FullkornsHAVREmjöl (72%), VETEkli, frystorkade jordgubbar (7%), socker, KORNmaltextrakt, bakpulver (kaliumvätekarbonat), salt. Kan innehålla spår av andra gluteninnehållande spannmål.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311171008393",
+      "name": "Havrefras Original 600g",
+      "company": "Havrefras",
+      "ingredients": "FullkornsHAVREmjöl (78%), VETEkli, socker, KORNmaltextrakt, bakpulver (kaliumvätekarbonat), salt. Kan innehålla spår av andra gluteninnehållande spannmål.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "7313160007066",
       "name": "Kebabsås vit 900g",
