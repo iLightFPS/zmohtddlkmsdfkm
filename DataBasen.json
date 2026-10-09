@@ -137,6 +137,97 @@
   "date": "2026-10-09",
   "list": [
     {
+      "id": "7312690205027",
+      "name": "Sorbet Hallon 500ml",
+      "company": "SIA Glass",
+      "ingredients": "Vatten, hallon (26%), socker, glukossirap, hallonjuice från koncentrat (1,8%), citronjuice från koncentrat (1,4%), stabiliseringsmedel (xantangummi, pektin, guarkärnmjöl).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156586148",
+      "name": "Isbitar 2000g",
+      "company": "Coop",
+      "ingredients": "Vatten (Norge).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7312690201302",
+      "name": "Gräddglass Jordgubb 500ml",
+      "company": "SIA Glass",
+      "ingredients": "SKUMMJÖLK*, GRÄDDE*(21%), socker*, jordgubbar*, glukossirap, SKUMMJÖLKSPULVER*, druvsocker, citronjuicekoncentrat, arom, färgämne (rödbetsrött, fläderbärsjuicekoncentrat), emulgeringsmedel (mono- och diglycerider av veg fettsyror), stabiliseringsmedel (fruktkärnmjöl, guarkärnmjöl, pektin). *Ursprung: Sverige. Grädde med 40% fetthalt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7318690113553",
+      "name": "Ekologiska krossade tomater 390g",
+      "company": "ICA",
+      "ingredients": "Krossade tomater 84%, koncentrerad tomatpuré",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7391196075600",
+      "name": "Skinka Gallerrökt Pepparkryddad 100gr",
+      "company": "Jakobsdals",
+      "ingredients": "Svensk skinka 96 % (helmuskel),Â salt, svartpeppar (0,8 %), druvsocker (majs), antioxidationsmedel (E 325, E 301), stabiliseringsmedel (E 451), kryddor, kryddextrakt (muskot), konserveringsmedel (E250). Rökt med rökarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7391196075501",
+      "name": "Skinka Gallerrökt 100gr",
+      "company": "Jakobsdals",
+      "ingredients": "Svensk skinka 96 % (helmuskel),Â salt, druvsocker (majs), antioxidationsmedel (E 325, E 301), stabiliseringsmedel (E 451), kryddor, kryddextrakt (muskot), konserveringsmedel (E250). Rökt med rökarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7391196071503",
+      "name": "Skinka Rökt Bror Jakobs 100gr",
+      "company": "Jakobsdals",
+      "ingredients": "Svensk skinka 96 % (helmuskel), salt, druvsocker (majs), antioxidationsmedel (E 325, E 301), stabiliseringsmedel (E 451), kryddor, kryddextrakt (muskot), konserveringsmedel (E250). Rökt med rökarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311043022878",
+      "name": "Flatrökt Skina",
+      "company": "Garant",
+      "ingredients": "Läs Ingredienserna",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311043000470",
+      "name": "Extrarökt Skinka 120g",
+      "company": "Garant",
+      "ingredients": "Skinka (helmuskel), vatten, salt, druvsocker, vegatabilisk buljong, stabiliseringsmedel (E451), anti - oxidationsmedel (E301), Konserverings - medel (E250), buljong, rökarom",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7312338006535",
+      "name": "Skinka Basturökt 105g",
+      "company": "Lönneberga",
+      "ingredients": "Skinka* (95%) (helmuskel), salt, antioxidationsmedel (E325, E301), maltodextrin (majs), druvsocker (majs), stabiliseringsmedel (E451), kryddextrakt (muskotnöt, svartpeppar), konserveringsmedel (E250). *Fött, uppfött och slaktat i Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156600271",
+      "name": "Skinka Basturökt 120g",
+      "company": "Coop",
+      "ingredients": "Skinka° 95% (helmuskel), salt, stabiliseringsmedel (E 450, E 451), potatis stärkelse, druvsocker, potatisfiber, socker, antioxidationsmedel E 301, konserveringsmedel E 250. Alspånsrökt.°Ursprung: Sverige. Rökt och kokt.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340023809369",
+      "name": "Skinka Basturökt 100g",
+      "company": "SVEA",
+      "ingredients": "Svensk skinka helmuskel 89%, natriumreducerat salt, stärkelse (potatis), druvsocker, naturlig arom, stabiliseringsmedel E450, konserveringsmedel E250, antioxidationsmedel E301, rökarom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340023810020",
+      "name": "Basturökt Skinka 105g",
+      "company": "BRÖDERNAS",
+      "ingredients": "Svensk skinka helmuskel 96%, naturlig arom, havssalt, kryddor (svarteppar).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
       "id": "76145759",
       "name": "Toblerone 100g",
       "company": "TOBLERONE",
@@ -9819,9 +9910,9 @@
     },
     {
       "id": "7312060502251",
-      "name": "Gammaldags gräddglass Äkta vanilj 1.75l",
+      "name": "Gammaldags gräddglass Äkta vanilj 1750ml",
       "company": "Triumf Glass",
-      "ingredients": "SKUMMJÖLK, GRÄDDE 23%, socker, vasslepulver (av MJÖLK), glukos-fruktossirap, vegetabiliskt emulgeringsmedel (mono- och diglycerider av fettsyror), stabiliseringsmedel (fruktkärnmjöl, guarkärnmjöl, karragenan), mald vaniljstång, vaniljarom.",
+      "ingredients": "SKUMMJÖLK, GRÄDDE 23%, socker, vasslepulver (av MJÖLK), glukos-fruktossirap, vegetabiliskt emulgeringsmedel (mono- och diglycerider av fettsyror), stabiliseringsmedel (fruktkärnmjöl, guarkärnmjöl), mald vaniljstång, vaniljarom.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -33773,9 +33864,9 @@
     },
     {
       "id": "7312060501162",
-      "name": "Triumf Glass Hallonsorbet",
+      "name": "Sorbet Hallon 500ml",
       "company": "Triumf Glass",
-      "ingredients": "",
+      "ingredients": "Vatten, socker, hallon 10%, hallonjuicekoncentrat [vatten, hallonjuice 19%, socker, surhetsreglerande medel (citronsyra), hallonessens, rödbetsjuicekoncentrat, stabiliseringsmedel (pektin), naturliga aromer], glukossirap (majs), vegetabiliskt emulgeringsmedel (mono- och diglycerider av fettsyror), stabiliseringsmedel (fruktkärnmjöl, guarkärnmjöl).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -34039,9 +34130,9 @@
     },
     {
       "id": "7312690021405",
-      "name": "Sia Glass Vaniljglass",
-      "company": "Sia Glass",
-      "ingredients": "",
+      "name": "Gräddglass Vanilj 1500ml",
+      "company": "SIA Glass",
+      "ingredients": "SKUMMJÖLK*, GRÄDDE* (25%), socker*, glukossirap, SKUMMJÖLKSPULVER*, druvsocker, vaniljarom, vaniljfrön, emulgeringsmedel (mono- och diglycerider av veg fettsyror), stabiliseringsmedel (fruktkärnmjöl, guarkärnmjöl). *Ursprung: Sverige.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
