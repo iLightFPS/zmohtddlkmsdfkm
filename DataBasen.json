@@ -134,8 +134,43 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-10-09",
+  "date": "2026-10-11",
   "list": [
+    {
+      "id": "7340011471455",
+      "name": "Glaze Aceto Balsamico Di Modena 180g",
+      "company": "Coop",
+      "ingredients": "Aceto Balsamico di Modena SGB 61 % (vinäger*, kokt druvmust*, färgämne (E 150d*)), kokt druvmust*, socker, färgämne (E 150d*), stabiliseringsmedel (E 415).*Innehåller SULFITER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350002409954",
+      "name": "Äppelcidervinäger 1000ml",
+      "company": "Zeta",
+      "ingredients": "Äppelcider, antioxidationsmedel E220 (SVAVELDIOXID).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350002400456",
+      "name": "Vitvinsvinäger Reserva 250ml",
+      "company": "Zeta",
+      "ingredients": "Vin (innehåller SULFITER).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156577993",
+      "name": "Äppelcidervinäger 500ml",
+      "company": "Coop",
+      "ingredients": "Äppelcidervinäger (Italien), antioxidationsmedel (E 224 SULFIT ). Ättiksyrahalt 5%.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7340191189089",
+      "name": "Vitvinsvinäger 250ml",
+      "company": "Coop",
+      "ingredients": "Vitvinsvinäger (Italien), konserveringsmedel (E 224 SULFIT). Ättiksyrahalt 6 %.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7312690205027",
       "name": "Sorbet Hallon 500ml",
