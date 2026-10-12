@@ -134,8 +134,78 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "list": [
+    {
+      "id": "7350126083375",
+      "name": "Chokladpudding 480g",
+      "company": "Ekströms",
+      "ingredients": "Socker, fettreducerad kakao, modifierad stärkelse, stabiliseringsmedel (E578 och E450), salt, naturlig chokladarom, arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350126083672",
+      "name": "Hallonmousse 80g",
+      "company": "Ekströms",
+      "ingredients": "Socker, palmolja, glukossirap, torkade hallon, gelatin, solrosolja, emulgeringsmedel (E 472a), MJÖLKprotein, surhetsreglerande medel (citronsyra), arom. Färdig mousse innehåller 8,3% hallon. Kan innehålla spår av GLUTEN.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350126083610",
+      "name": "Chokladmousse med crisp 106g",
+      "company": "Ekströms",
+      "ingredients": "Socker, crisp (kakaomassa, socker, emulgeringsmedel (SOJAlecitin), naturlig vaniljarom), fettreducerad kakao, fullhydrerad kokosfett, glukossirap, gelatin, emulgeringsmedel (E472b), MJÖLKprotein, vanillin. Kan innehålla spår av GLUTEN.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350126083498",
+      "name": "Chokladpudding 120g",
+      "company": "Ekströms",
+      "ingredients": "Socker, modifierad stärkelse, fettreducerad kakao, stabiliseringsmedel (E578 och E450), salt, arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156475077",
+      "name": "Druvor Röda Kärnfria 500g",
+      "company": "COOP. Spanien",
+      "ingredients": "eller ämnen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350027798170",
+      "name": "Spaghetti 500g",
+      "company": "Zeta",
+      "ingredients": "DurumVETEmjöl. Kan innehålla spår av SOJA och SENAP.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5711953212802",
+      "name": "Currysoppa 500ml",
+      "company": "Kelda®",
+      "ingredients": "Grönsaksbuljong (vatten, salt, lök, palsternacka, socker, morot, tomat, libbsticka, paprika, savoykål, purjolök, lagerblad, timjan, cayennepeppar), MJÖLK, GRÄDDE, kokosmjölk (5,4%), tomatpuré, modifierad stärkelse, äppeljuicekoncentrat, lökpulver, salt, curry, spiskummin.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7392055078800",
+      "name": "Nötfärs 20% 500g",
+      "company": "John's",
+      "ingredients": "eller ämnen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350090452504",
+      "name": "Kycklingkebab 275g",
+      "company": "Schysst käk",
+      "ingredients": "Kyckling* (90 %), vatten, salt, kryddor, potatisfiber, potatisstärkelse, lök, socker, jästextrakter, vitlök, druvsocker, örtkryddor, tomat, maltodextrin, kryddextrakter, konserveringsmedel (E262, E301), stabiliseringsmedel (E450, E451) , surhetsreglerandemedel (E270, E327, E330). *Ursprung: EU",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300324025004",
+      "name": "Ätklar Kyckling Skivad Classic 200g",
+      "company": "Kronfågel",
+      "ingredients": "Kycklingbröstfilé, salt, stabiliseringsmedel (E450, E451), druvsocker, surhetsreglerande medel (E262), antioxidationsmedel (E301), arom. Till 100g färdig kyckling har använts 114g kyckling.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7340011471455",
       "name": "Glaze Aceto Balsamico Di Modena 180g",
@@ -9738,7 +9808,7 @@
       "name": "Citronfromage 80g",
       "company": "Ekströms",
       "ingredients": "Socker, palmolja, glukossirap, gelatin, solrosolja, torkad citronjuice, MJÖLKprotein, emulgeringsmedel (E472a), surhetsreglerande medel (citronsyra), arom, apelsin, färgämne (betakaroten). Färdig fromage innehåller 2,65% citronjuice. Kan innehålla spår av GLUTEN.",
-      "gluten": "Glutenfri [ Nej ]"
+      "gluten": "Glutenfri [ Ja ]"
     },
     {
       "id": "4001724022398",
@@ -23175,9 +23245,9 @@
     },
     {
       "id": "7310070382306",
-      "name": "Pepsi Max 1,5l",
+      "name": "Pepsi Max 1500ml",
       "company": "Pepsi",
-      "ingredients": "Kolsyrat vatten, färgämne (E 150d), sötningsmedel (aspartam, acesulfam k), surhetsreglerande medel (fosforsyra, citronsyra, natriumcitrat), aromämnen (inkl. koffein). Innehåller en fenylalaninkälla.",
+      "ingredients": "Kolsyrat vatten, färgämne (E 150d), sötningsmedel (aspartam, acesulfam K), syror (fosforsyra, citronsyra), surhetsreglerande medel (natriumcitrater), aromer (inkl. koffein). Innehåller en fenylalaninkälla.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -28530,9 +28600,9 @@
     },
     {
       "id": "2340379500007",
-      "name": "Arla Gouda 28% Familjefavoriter",
-      "company": "Arla",
-      "ingredients": "",
+      "name": "Ost Familjefavoriter Gouda 1.2kg",
+      "company": "Arla®",
+      "ingredients": "Pastöriserad MJÖLK, salt, syrningskultur, ystenzym, kalciumklorid.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
