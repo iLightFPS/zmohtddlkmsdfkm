@@ -134,8 +134,29 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-10-12",
+  "date": "2026-10-14",
   "list": [
+    {
+      "id": "8720182144287",
+      "name": "Kalvbuljong 60g",
+      "company": "Knorr",
+      "ingredients": "Salt, vegetabiliskt fett (palm, shea, sal), smakförstärkare (mononatriumglutamat, dinatriuminosinat, dinatriumguanylat), arom, nötköttsfett 4,7 %, stärkelse, socker, nötköttspulver 2,6 %, kalvköttspulver 0,4 %, kryddor (gurkmeja[1], SELLERIFRÖ), morötter[1], persilja[1], citronsyra, antioxidationsmedel (rosmarinextrakt, E 320, E 310), färgämne (E 310). [1]Hållbart odlade ingredienser",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8712100815713",
+      "name": "Köttbuljong 6",
+      "company": "Knorr",
+      "ingredients": "Salt, vegetabiliskt fett (palm, shea, sal), stärkelse, arom, socker, jästextrakt, nötköttsfett 3 %, buljongpulver av oxben 2,1%, karamelliserad sockersirap, lökpulver, maltodextrin, persilja, morot, kryddor (bl.a. SELLERIFRÖ), antioxidationsmedel (rosmarinextrakt). Buljong av ben och kött från nötdjur.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8721497012278",
+      "name": "Kycklingbuljong 120g",
+      "company": "Knorr",
+      "ingredients": "Salt, stärkelse, palmfett, smakförstärkare (mononatriumglutamat, dinatriuminosinat, dinatriumguanylat), kaliumklorid, fullhärdat palmfett, socker, arom, kycklingfett 2,9%, lök, kycklingkött 1%, kryddor (vitlök, gurkmeja, SELLERIfröpulver), morot 0,6%, karamelliserat socker, persilja 0,5%, maltodextrin, paprika, syra (citronsyra), antioxidationsmedel (extrakt av rosmarin).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7350126083375",
       "name": "Chokladpudding 480g",
@@ -37287,9 +37308,9 @@
     },
     {
       "id": "8712100750588",
-      "name": "Knorr Köttbuljong",
+      "name": "Köttbuljong 12-pack 120g",
       "company": "Knorr",
-      "ingredients": "",
+      "ingredients": "Salt, vegetabiliskt fett (palm, shea, sal), stärkelse, arom, socker, jästextrakt, nötköttsfett 3 %, buljongpulver av oxben 2,1 %, karamelliserad sockersirap, lökpulver, maltodextrin, persilja, morot, kryddor (bl.a. SELLERIFRÖ), antioxidationsmedel (rosmarinextrakt).",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
