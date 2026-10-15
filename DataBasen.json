@@ -134,8 +134,15 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "list": [
+    {
+      "id": "7318690070917",
+      "name": "Salta pinnar 250 g",
+      "company": "ICA",
+      "ingredients": "VETEMJÖL, palmolja*, salt, MALTEXTRAKT, surhetsreglerande medel (E524), jäst. Kan innehålla spår av sesamfrö. *Den här produkten innehåller certifierad hållbar palmolja.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "8720182144287",
       "name": "Kalvbuljong 60g",
