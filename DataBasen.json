@@ -134,8 +134,15 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-10-19",
+  "date": "2026-10-21",
   "list": [
+    {
+      "id": "7318690659983",
+      "name": "Hamburger ost",
+      "company": "ICA",
+      "ingredients": "ost 46% (pastöriserad mjölk, salt, syrningskultur, mjölkkoagulerande enzym (mikrobiellt)), vatten, skummjölkspulver, cheddarost 6% (pastöriserad mjölk, salt, syrningskultur, mjölkkoagulerande enzym (mikrobiellt), E330), salt, färgämne (E160c), surhetsreglerande medel (E330)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7350028549061",
       "name": "Proteinkakor Ost 125g",
