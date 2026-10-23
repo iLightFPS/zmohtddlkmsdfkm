@@ -134,8 +134,71 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-10-21",
+  "date": "2026-10-23",
   "list": [
+    {
+      "id": "7300156599117",
+      "name": "Kryddkorv Chili 225g",
+      "company": "Coop",
+      "ingredients": "Griskött° 73%, vatten, potatismjöl, salt, kryddor (chili 1,3%, ingefära, vitlök, paprika, lök- och vitlökspulver), druvsocker, kryddextrakt (svartpeppar, koriander), socker, ättika, stabiliseringsmedel E450, antioxidationsmedel E300, konserveringsmedel E250. Stoppad i naturskinn. Kokt och rökt. °Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156599087",
+      "name": "Kabanoss 225g",
+      "company": "Coop",
+      "ingredients": "Griskött° 92%, vatten, druvsocker, salt, lök- och vitlökspulver, kryddor (svartpeppar, Ingefära, paprika), paprika, kryddextrakt (svartpeppar, paprika, kryddpeppar, chili, koriander), stabiliseringsmedel (E 450), antioxidationsmedel (E 300), konserveringsmedel (E 250). Stoppad i naturskinn. Kokt och rökt. °Ursprung: Sverige.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311312008268",
+      "name": "Taco Tubs 8-pack 145g",
+      "company": "Santa Maria",
+      "ingredients": "Majsmjöl (72%), solrosolja, salt, Kan innehålla spår av soja.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7312560057404",
+      "name": "Svenska Havreringar 350g",
+      "company": "Frebaco Kvarn",
+      "ingredients": "FULLKORNSHAVREMJÖL* 32 %, FULLKORNSVETEMJÖL*, VETEMJÖL*, KORNMALTEXTRAKT, salt. *Svensk råvara 93%. Fullkorn 63%. Kan innehålla spår av RÅG. Produkten innehåller naturligt förekommande sockerarter från ingredienserna.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311441343308",
+      "name": "Baconost 330g",
+      "company": "Kavli",
+      "ingredients": "HÅRDOST (56 %), vatten, svensk baconrulle 7 % (bacon 2,9 %*, fläskkött 2,9 %*, vatten, potatismjöl, salt, köttbuljong, glukossirap, druvsocker, antioxidationsmedel E300, konserveringsmedel E250, rökarom), smältsalter (E339, E452), arom, konserveringsmedel (E202, E234), surhetsreglerande medel (E330), socker. * % anger mängd i Baconosten.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7313160020324",
+      "name": "Baconost 220g",
+      "company": "Fjällbrynt",
+      "ingredients": "Svensk HÅRDOST (52%), vatten, svenskt rökt bacon 6% (griskött, salt, druvsocker, stabiliseringsmedel (E450), antioxidationsmedel (E301), konserveringsmedel (E250)), SMÖROLJA, smältsalter (E339, E452), rostad lök, konserveringsmedel (E234).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156485243",
+      "name": "Kalkon Rökt 120g",
+      "company": "Coop",
+      "ingredients": "Kalkonbröst 88%(helmuskel), vatten, salt, antioxidationsmedel (E 301, E 331), stabiliseringsmedel (E 450), socker, konserveringsmedel (E 250). Kokt och rökt. Ursprung köttråvara: Tyskland.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300150000138",
+      "name": "Rökt Kalkon 300g",
+      "company": "Xtra",
+      "ingredients": "Kalkonbröst* 79%, vatten, salt, antioxidations- medel (E 301, E 331), stabiliseringsmedel (E 451), socker, konserveringsmedel (E 250). Rökt och kokt. *Ursprung Tyskland.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7300156584748",
+      "name": "Kalkon Rökt 250g",
+      "company": "Coop",
+      "ingredients": "Kalkonbröst 88% (helmuskel), vatten, salt, antioxidationsmedel (E 301, E 331), stabiliseringmedel (E 450),socker, konserveringsmedel (E 250). Kokt och rökt. Ursprung köttråvara: Tyskland.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690659983",
       "name": "Hamburger ost",
@@ -10073,7 +10136,7 @@
       "id": "7300156576996",
       "name": "Kalkon Rökt Tunna Skivor 180g",
       "company": "Coop",
-      "ingredients": "Kalkonbröst˚ 94% (sammanfogade bitar av kött), vatten, salt, socker, stabiliseringsmedel (E 450), antioxidationsmedel (E 301, E 331), konserveringsmedel (E 250). Kokt och rökt. ˚Ursprung: Tyskland.",
+      "ingredients": "Kalkonbröst* 88%, vatten, salt, antioxidationsmedel (E 331, E 301), socker, stabiliseringsmedel (E 450), konserveringsmedel (E 250). Kokt och rökt. *Fött, uppfött och slaktat i Tyskland.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -23182,9 +23245,9 @@
     },
     {
       "id": "7330797088954",
-      "name": "Pärsons Kalkon Rökt 200g",
+      "name": "Kalkon Rökt 200g",
       "company": "Pärsons",
-      "ingredients": "Kalkonkött 82%, vatten, koksalt, antioxidationsmedel (E326, E301), stabiliseringsmedel (E451), potatisstärkelse, druvsocker, potatisfiber, socker, konserveringsmedel (E250), rökarom. Tysk köttråvara. Varmrökt.",
+      "ingredients": "Kalkonkött* 82%, vatten, koksalt, antioxidationsmedel (E326: E301), stabiliseringsmedel (E451), potatisstärkelse, druvsocker, potatisfiber, socker, konserveringsmedel (E250), rökarom. Varmrökt. *Ursprung: EU.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -27774,9 +27837,9 @@
     },
     {
       "id": "7311441160608",
-      "name": "Kavli Baconost",
+      "name": "Baconost 275g",
       "company": "Kavli",
-      "ingredients": "",
+      "ingredients": "HÅRDOST (56 %), vatten, svensk baconrulle 7 % (bacon 2,9 %*, fläskkött 2,9 %*, vatten, potatismjöl, salt, köttbuljong, glukossirap, druvsocker, antioxidationsmedel (E300), konserveringsmedel (E250), rökarom), smältsalter (E339, E452), arom, konserveringsmedel (E202, E234), surhetsreglerande medel (E330), socker. *% anger mängd i Baconosten.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
@@ -28838,9 +28901,9 @@
     },
     {
       "id": "7311440020897",
-      "name": "Kavli Räkost",
+      "name": "Räkost 275g",
       "company": "Kavli",
-      "ingredients": "",
+      "ingredients": "HÅRDOST (59 %), vatten, ISHAVSRÄKOR (10 %), smältsalter (E339, E452), konserveringsmedel (E202, E234). Kan innehålla spår av FISK.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
