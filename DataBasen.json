@@ -134,8 +134,43 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-10-23",
+  "date": "2026-10-25",
   "list": [
+    {
+      "id": "8855702001761",
+      "name": "Thai Cube Kyckling Röd curry 350g",
+      "company": "Kitchen Joy",
+      "ingredients": "50% kokt jasminris (vatten, varav 46% jasminris, solrosolja), 18% kokt kycklingkött, 14% kokosmjölk, vatten, socker, bambuskott, babymajs, ananas, röd chili, salt, söt basilika, vitlök, majsstärkelse, citrongräs, schalottenlök, galangarot, dextros, karriflimeblad, kaffir limeskal, korianderfrö, korianderrot.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8855702009217",
+      "name": "Thai Cube Kyckling Satay 350g",
+      "company": "Kitchen Joy",
+      "ingredients": "50 % kokta jasminris (vatten, varav 46% jasminris, solrosolja), 18% kokt kycklingkött, 14% kokosmjölk, vatten, potatis, morot, kokosnötblommasocker, schalottenlök, solrosfrön, socker, röd chili, tamarind, GRÄDDE, salt, ansjovisextrakt (FISK), modifierad stärkelse, vitlök, citrongräs, druvsocker, galangarot, gurkmeja, jästextrakt, kaffir limeskal, korianderfrön, korianderrot, stabiliseringsmedel (E407), surhetsreglerande medel (E260).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "8855702001815",
+      "name": "Thai Cube Kyckling Teriyaki Sweet Chili 350g",
+      "company": "Kitchen Joy",
+      "ingredients": "50% Kokt jasminris (vatten, 46% varav jasminris, solrosolja), 18% kokt kycklingkött, vatten, socker, fruktossirap, 3% morot, 3% daggkål, majsstärkelse, salt, SOJABÖNOR, VETEMJÖL, ingefära, vitlök, torkad röd chili, brunt socker, vitpeppar, glukossirap, sojaolja, dextros, solrosolja, surhetsreglerande medel (E260,E331, E500), färgämne (E160c).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8855702006834",
+      "name": "Thai Cube Kyckling Sweet & Sour 350g",
+      "company": "Kitchen Joy",
+      "ingredients": "50% Kokt jasminris (vatten, 46% varav jasminris, solrosolja), 18% kokt kycklingkött, vatten, socker, lök, tomatpuré, sojaolja, bambuskott, ananas, majsstärkelse, babymajs, SOJABÖNOR, salt, grön paprika, röd paprika, ingefära, VETEMJÖL, tapiokastärkelse, dextros, jästextrakt, OSTRONEXTRAKT, solrosolja, maltodextrin, surhetsreglerande medel (E260), färg (E160c).",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "8858984830326",
+      "name": "Thai Cube Kyckling Panang Curry 350g",
+      "company": "Kitchen Joy",
+      "ingredients": "50% kokt jasminris (vatten, varav 46% jasminris, solrosolja), 19% kokosmjölk, 18% kokt kycklingkött, vatten, socker, röd chili, salt, ansjovisextrakt (FISK), kokossocker, vitlök, citrongräs, schalottenlök, majsstärkelse, galangarot, kaffirlimeblad, dextros, spiskummin, kaffir limeskal, korianderfrö, korianderrot, surhetsreglerande medel (E260).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7300156599117",
       "name": "Kryddkorv Chili 225g",
