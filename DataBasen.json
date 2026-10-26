@@ -134,8 +134,15 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "list": [
+    {
+      "id": "8410066145362",
+      "name": "Curry Mango Sås 220ml",
+      "company": "Heinz",
+      "ingredients": "Vatten/vand, solrosolja/solsikkeolie, ättika/eddike, socker/sukker, mangopuré 3,6%, modifierad stärkelse/modificeret stivelse, curry-/karry-/karripulver 2%, salt, ÄGGULA/ ÆGGEBLOMME/EGGEPLOMME, kryddor/krydderier (innehåller/indeholder/inneholder SENAPSFRÖ/SENNEPSFRØ, SELLERI), färgämne/farvestof/ fargestof (betakaroten), syra/syre (citronsyra/citronsyre), förtjockningsmedel/fortykningsmiddel (xantangummi), örter/urter, krydderiextrakt",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "8855702001761",
       "name": "Thai Cube Kyckling Röd curry 350g",
