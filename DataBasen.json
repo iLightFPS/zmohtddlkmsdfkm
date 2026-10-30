@@ -134,8 +134,36 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-10-26",
+  "date": "2026-10-30",
   "list": [
+    {
+      "id": "4002971253009",
+      "name": "Chokladpudding 190g",
+      "company": "Grand Dessert",
+      "ingredients": "pastöriserad SKUMMJÖLK/pasteurisert SKUMMETMELK, GRÄDDE/FLØTE 20%, vassle (MJÖLK)/myse (MELK), glukos-fruktossirap, socker/sukker, modifierad stärkelse/modifisert stivelse, choklad/ sjokolade 1,0%(socker/sukker, kakaopulver, kakaosmör/kakaosmør), fettreducerad kakaopulver 1,0%, gelatin (nötkött/biff), förtjockningsmedel/fortykningsmiddel (E 407, E 412), emulgeringsmedel/emulgator (E 472b), arom/aroma.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971270907",
+      "name": "Pannacotta Jordgubb 190g",
+      "company": "Grand Dessert",
+      "ingredients": "pastöriserad SKUMMJÖLK/pasteurisert SKUMMETMELK, GRÄDDE/FLØTE 20%, vassle (MJÖLK)/myse (MELK), socker/sukker, modifierad stärkelse/modifisert stivelse, glukos-fruktossirap, jordgubbe/jordbær 1,1%, förtjockningsmedel/fortykningsmiddel (E 407, E 412), gelatin (nöt/biff), emulgeringsmedel/emulgator (E 472b), arom/aroma, vaniljstångextrakt/vaniljestangekstrakt, salt, färgämne/fargestoff (E 120). Vispgrädde vispad med kväve./Fløte pålegg med nitrogen.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "73515913",
+      "name": "Chokladpudding 120g",
+      "company": "Ekströms",
+      "ingredients": "Vatten, socker, skumMJÖLKspulver, GRÄDDE, fettreducerat kakaopulver 2,2%, modifierad stärkelse, gelatin, geleringsmedel (E407), arom.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "4002971254006",
+      "name": "Chokladpudding Stracciatella 190g",
+      "company": "Grand Dessert",
+      "ingredients": "pastöriserad skumMJÖLK/skummetMELK, GRÄDDE/FLØTE 20%, vassle (MJÖLK)/myse (MELK), glukos-fruktossirap, socker/sukker, modifierad stärkelse/modifisert stivelse, fettreducerad kakao 1%, choklad/sjokolade 1% (socker/sukker, kakaopulver, kakaosmör/kakaosmør), chokladspån/sjokoladeflak 0,5% (kakaomassa, kakaosmör/kakaosmør, socker/sukker), förtjockningsmedel/fortykningsmiddel (E 407, E 412) gelatin (nötkött/biff), emulgeringsmedel/emulgator (E 472b), arom/aroma.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "8410066145362",
       "name": "Curry Mango Sås 220ml",
