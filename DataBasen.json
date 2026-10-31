@@ -134,8 +134,15 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "list": [
+    {
+      "id": "7318690495727",
+      "name": "Kakao 200g",
+      "company": "ICA",
+      "ingredients": "Kakaopulver, surhetsreglerande medel (E501)",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "4002971253009",
       "name": "Chokladpudding 190g",
