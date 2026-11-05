@@ -134,8 +134,15 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-10-31",
+  "date": "2026-11-05",
   "list": [
+    {
+      "id": "20069490",
+      "name": "Baresa Pesto alla Genovese 190 g",
+      "company": "Baresa",
+      "ingredients": "Basilika 38%, solrosolja, olivolja, _cashewnötter_, _ost_ (innehåller konserveringsmedel (lysozym (av _ägg_))), _yoghurt_, aromer, salt, socker, Pecorino Romano-_ost_ 1,3%, pinjenötter, vitlök 1%, syra (mjölksyra).",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7318690495727",
       "name": "Kakao 200g",
