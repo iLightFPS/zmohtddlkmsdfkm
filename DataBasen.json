@@ -134,8 +134,29 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-11-05",
+  "date": "2026-11-10",
   "list": [
+    {
+      "id": "6416453047303",
+      "name": "Snacks Kina Gul",
+      "company": "Fazer",
+      "ingredients": "socker, kakaosmör, puffat VETE/HVEDE, helMJÖLKSpulver/sødMÆLKSpulver/helMELKpulver, vegetabilisk olja (shea), kakaomassa, skumMJÖLKSpulver/skummetMÆLKSpulver, vasslepulver (av MJÖLK)/vallepulver (fra MÆLK)/mysepulver (fra MELK), emulgeringsmedel (SOJAlecitin), salt, ytbehandlingsmedel (E904), arom.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5053990127726",
+      "name": "Chips Original",
+      "company": "Pringles",
+      "ingredients": "Vakuumtorkad potatis / Tørrede kartofler / Tørkede poteter, vegetabiliska oljor / vegetabilske olier / vegetabilske oljer (solros / solsikke, palm / palme, mais / majs) i varierande proportion / i variabelt mængdeforhold / i varierende proporsjoner, VETEMJÖL / HVEDEMEL / HVETEMEL, majsmjöl / majsmel, rismjöl / rismel, maltodextrin, emulgeri portion / i variabelt mængdeforhold / i varierende proporsjoner, vetemjöl / hvedemel / hvetemel, majsmjöl / majsmel, rismjöl / rismel, maltodextrin, emulgeringsmedel / emulgator (E471), salt, färgämne / farve / farge (annattoextrakt / annattoekstrakter / - norbixin). Kan innehålla / Kan indeholde / Kan inneholde soja / soya.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "5900951313592",
+      "name": "Chips Original",
+      "company": "Pringles",
+      "ingredients": "Vakuumtorkad potatis / Tørrede kartofler / Tørkede poteter, vegetabiliska oljor / vegetabilske olier / vegetabilske oljer (solros / solsikke, palm / palme, mais / majs) i varierande proportion / i variabelt mængdeforhold / i varierende proporsjoner, VETEMJÖL / HVEDEMEL / HVETEMEL, majsmjöl / majsmel, rismjöl / rismel, maltodextrin, emulgeri portion / i variabelt mængdeforhold / i varierende proporsjoner, vetemjöl / hvedemel / hvetemel, majsmjöl / majsmel, rismjöl / rismel, maltodextrin, emulgeringsmedel / emulgator (E471), salt, färgämne / farve / farge (annattoextrakt / annattoekstrakter / - norbixin). Kan innehålla / Kan indeholde / Kan inneholde soja / soya.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "20069490",
       "name": "Baresa Pesto alla Genovese 190 g",
