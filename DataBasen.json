@@ -134,8 +134,29 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-11-10",
+  "date": "2026-11-14",
   "list": [
+    {
+      "id": "7350104401108",
+      "name": "Nicks Crunchy Caramel 28 g",
+      "company": "Nick's",
+      "ingredients": "Sötningsmedel: erytritol, polydextros (fiber), sötningsmedel: isomalt, MJÖLKPULVER, kakaosmör, SMÖR (MJÖLK/MÆLK), vegetabilisk olja (kokos, shea), kakaomassa, cikoriarotfiber, MANDEL, löslig majsfiber, emulgeringsmedel: solros/solSIKkelecitin, naturlig arom, salt, sötningsmedel: steviolglykosider. Kan innehålla spår av SOJA, SESAM, JORDNÖTTER/PEANØTTER/JORDNØDDER, NÖTTER/NØTTER/NØDDER och ÄGG/EGG/ÆG.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "3046920021043",
+      "name": "Lindt Dessert 70% Kakao Bakchoklad 200g",
+      "company": "Lindt",
+      "ingredients": "Kakaomassa, socker, fettreducerad kakao, kakaosmör, emulgeringsmedel (SOJAlecitin), naturlig arom (vanilj). Kan innehålla MJÖLK, NÖTTER. Den mörka chokladen innehåller minst 70% kakao.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7322550052685",
+      "name": "Fiskfond",
+      "company": "Bong Touch of Taste",
+      "ingredients": "Vatten, salt, vitt vin, TORSKPULVER 5,7%, modifierad potatisstärkelse, grönsakspulver (morot, palsternacka, lök), syra: citronsyra, aromer, konserveringsmedel: kaliumsorbat. Salthalt i utspädd fond är 0,6%.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "6416453047303",
       "name": "Snacks Kina Gul",
