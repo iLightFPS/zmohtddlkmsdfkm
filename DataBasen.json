@@ -134,8 +134,50 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-11-16",
+  "date": "2026-11-18",
   "list": [
+    {
+      "id": "7311071336718",
+      "name": "Korvbröd 8-pack",
+      "company": "Pågen",
+      "ingredients": "VETEmjöl, vatten, socker, rapsolja, HAVREskållning, surdeg på VETE, jäst, salt, vegetabiliskt emulgeringsmedel mono- och diglyceriders mono- och diacetylvinsyraestrar (raps). Kan innehålla spår av SESAMfrö.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311372231644",
+      "name": "Korvbröd Fiber & Fullkorn 10-pack",
+      "company": "Korvbrödsbagarn",
+      "ingredients": "Vatten, VETEMJÖL, FULLKORNSVETEMJÖL, invertsocker, groddat HAVREMJÖL (3,5%), rapsolja, VETEKLI, jäst, VETEGLUTEN, vegetabilisk fiber (potatis, psyllium, HAVRE), salt, fermenterat VETEMJÖL, maltmjöl av KORN, vegetabiliskt emulgeringsmedel (E471), mjölbehandlingsmedel (E300).Brödet innehåller 24% fullkorn. Kan innehålla spår av sesamfrö.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311372193249",
+      "name": "Korvbröd Större 8-pack",
+      "company": "Korvbrödsbagarn",
+      "ingredients": "VETEMJÖL*, vatten*, invertsocker*, rapsolja*, jäst*, VETEGLUTEN, salt, fermenterat VETEMJÖL, maltmjöl av KORN, vegetabiliskt emulgeringsmedel (E471), mjölbehandlingsmedel (E300). Kan innehålla spår av sesamfrö. *råvaran har svenskt ursprung.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7311379532072",
+      "name": "Korvbröd 10-pack",
+      "company": "Korvbrödsbagarn",
+      "ingredients": "VETEMJÖL*, vatten*, invertsocker*, rapsolja*, jäst*, VETEGLUTEN, salt, fermenterat VETEMJÖL, maltmjöl av KORN, vegetabiliskt emulgeringsmedel (E471), mjölbehandlingsmedel (E300). Kan innehålla spår av sesamfrö. *råvaran har svenskt ursprung.",
+      "gluten": "Glutenfri [ Nej ]"
+    },
+    {
+      "id": "7312338006573",
+      "name": "Skinka Extrarökt",
+      "company": "Lönneberga",
+      "ingredients": "Skinka* (95%) (helmuskel), salt, antioxidationsmedel (E325, E301), maltodextrin (majs), druvsocker (majs), stabiliseringsmedel (E451), kryddextrakt (muskotnöt, svartpeppar), konserveringsmedel (E250). *Fött, uppfött och slaktat i Sverige",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7311310034467",
+      "name": "Kryddmix Korean Bbq Bulgogi",
+      "company": "Santa Maria",
+      "ingredients": "Kryddor (rostat vitlöksjuicepulver, vitlök, svartpeppar), salt, råsocker, sojasåspulver (SOJABÖNOR, VETE), vita SESAMFRÖ, klumpförebyggande medel (E551)",
+      "gluten": "Glutenfri [ Nej ]"
+    },
     {
       "id": "8858984832146",
       "name": "Thai Cube Tom yum chicken 320g",
@@ -12857,9 +12899,9 @@
     },
     {
       "id": "7311379532058",
-      "name": "Korvbröd 16-p 432g Korvbrödsbagarn",
+      "name": "Korvbröd 16-pack",
       "company": "Korvbrödsbagarn",
-      "ingredients": "VETEMJÖL*, vatten*, invertsocker*, rapsolja*, jäst*, VETEGLUTEN, salt, fermenterat VETEMJÖL, maltmjöl av KORN, vegetabiliskt emulgeringsmedel (E471), mjölbehandlingsmedel (E300). Kan innehålla spår av SESAMFRÖ.* råvaran har svenskt ursprung.",
+      "ingredients": "VETEMJÖL*, vatten*, invertsocker*, rapsolja*, jäst*, VETEGLUTEN, salt, fermenterat vetemjöl, maltmjöl av KORN, vegetabiliskt emulgeringsmedel (E471), mjölbehandlingsmedel (E300). Kan innehålla spår av sesamfrö. *Råvaran har svenskt ursprung.",
       "gluten": "Glutenfri [ Nej ]"
     },
     {
@@ -13032,9 +13074,9 @@
     },
     {
       "id": "7311870652194",
-      "name": "Smör- & rapsolja Flytande 5dl Arla Köket",
-      "company": "Arla Köket",
-      "ingredients": "Rapsolja (67%), SKUMMJÖLK, SMÖROLJA (8%), sheaolja, kokosolja, mjölksyrakultur, salt, emulgeringsmedel (solroslecitin), vitamin A och D, naturlig arom. Innehåller Mjölk",
+      "name": "Smör & Rapsolja Flytande",
+      "company": "Arla Köket®",
+      "ingredients": "Rapsolja (67%), SKUMMJÖLK, SMÖROLJA (8%), sheaolja, kokosolja, mjölksyrakultur, salt, emulgeringsmedel (lecitin), vitamin A och D, naturlig arom.",
       "gluten": "Glutenfri [ Ja ]"
     },
     {
