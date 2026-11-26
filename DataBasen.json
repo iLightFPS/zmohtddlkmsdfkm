@@ -134,8 +134,15 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-11-18",
+  "date": "2026-11-26",
   "list": [
+    {
+      "id": "7340083430220",
+      "name": "Kyckling Fond 180ml",
+      "company": "Garant",
+      "ingredients": "Vatten, salt, socker, modifierad majsstärkelse, arom (innehåller SELLERI), kycklingfett 1,5%, kycklingkött 1,4%, syra (citronsyra), konserveringsmedel (E202), karamelliserat socker. Kan innehålla spår av GLUTEN, ÄGG, MJÖLK och SENAP. Salthalt i utspädd fond är 0,7%.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7311071336718",
       "name": "Korvbröd 8-pack",
