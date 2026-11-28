@@ -134,8 +134,29 @@
     "Oat flakes",
     "Oat bran"
   ],
-  "date": "2026-11-26",
+  "date": "2026-11-28",
   "list": [
+    {
+      "id": "7350113940018",
+      "name": "Hummus Chili",
+      "company": "ZEINAS",
+      "ingredients": "Kokta kikärtor 47%, rapsolja, SESAMpasta 14,2% (SESAMfrön, salt), vatten, chilipasta 7,2% (röd chili, salt, citronjuice), habanero chili, socker, salt, surhetsreglerande medel: citronsyra, vitlök 0,3%, konserveringsmedel: kaliumsorbat. Kan innehålla spår av JORDNÖTTER och NÖTTER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350113940414",
+      "name": "Hummus Tabbouleh",
+      "company": "ZEINAS",
+      "ingredients": "Kokta kikärtor 44%, vegetabiliska oljor (rapsolja, olivolja), vatten, SESAMpasta 13,4% (SESAMfrön, salt), soltorkade tomater 5,4%, citronjuice 4%, rödlök 3,6%, persilja 1,9%, salt, surhetsreglerande medel: citronsyra, mynta 0,5%, vitlök 0,4%, peppar, konserveringsmedel: kaliumsorbat. Kan innehålla spår av JORDNÖTTER och NÖTTER",
+      "gluten": "Glutenfri [ Ja ]"
+    },
+    {
+      "id": "7350113940001",
+      "name": "Hummus",
+      "company": "ZEINAS",
+      "ingredients": "Kokta kikärtor 51%, rapsolja, SESAMpasta 15,3% (SESAMfrön, salt), vatten, salt, surhetsreglerande medel: citronsyra, vitlök 0,37%, vitpeppar, konserveringsmedel: kaliumsorbat. Kan innehålla spår av JORDNÖTTER och NÖTTER.",
+      "gluten": "Glutenfri [ Ja ]"
+    },
     {
       "id": "7340083430220",
       "name": "Kyckling Fond 180ml",
@@ -15307,8 +15328,8 @@
     },
     {
       "id": "7313161310677",
-      "name": "Rödbetssallad 400g Rydbergs",
-      "company": "Rydbergs",
+      "name": "Rödbetssallad",
+      "company": "RYDBERGS",
       "ingredients": "Rödbetor 65%, rapsolja, vatten, ÄGGULA, socker, salt, ättika, SENAPSFRÖ, kryddor, stabiliseringsmedel (guarkärnmjöl, xantangummi), surhetsreglerande medel (citronsyra), konserveringsmedel (natriumbensoat, kaliumsorbat).",
       "gluten": "Glutenfri [ Ja ]"
     },
@@ -15342,8 +15363,8 @@
     },
     {
       "id": "7313161311360",
-      "name": "Rödbetssallad 200g Rydbergs",
-      "company": "Rydbergs",
+      "name": "Rödbetssallad",
+      "company": "RYDBERGS",
       "ingredients": "Rödbetor 65%, rapsolja, vatten, ÄGGULA, socker, salt, ättika, SENAPSFRÖ, kryddor, stabiliseringsmedel (guarkärnmjöl, xantangummi), surhetsreglerande medel (citronsyra), konserveringsmedel (natriumbensoat, kaliumsorbat).",
       "gluten": "Glutenfri [ Ja ]"
     },
